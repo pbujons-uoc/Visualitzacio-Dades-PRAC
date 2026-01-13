@@ -1,0 +1,2226 @@
+disaster,disaster_type,event_name,deaths,affected,start,end,Country
+Hydrological,Flood,,3.0,,2022-11-17,2022-11-18,Rwanda
+Hydrological,Flood,,,500.0,2000-09-20,2000-09-21,Nigeria
+Hydrological,Mass Movement,,19.0,,2023-04-02,2023-04-02,Dem. Rep. Congo
+Meteorological,Storm,Cyclone 'Dineo',7.0,750102.0,2017-02-15,2017-02-15,Mozambique
+Climatological,Wildfire,,,1250.0,2000-01-15,2000-01-19,South Africa
+Hydrological,Flood,,6.0,17201.0,2022-07-30,2022-10-31,Gambia
+Biological,Epidemic,Dengue,,1187.0,2022-03-01,2023-02-01,São Tomé and Principe
+Biological,Epidemic,Acute respiratory syndrome,24.0,,2000-01-01,2000-01-01,Congo
+Biological,Epidemic,,27.0,100.0,2000-01-01,2000-01-01,Ethiopia
+Biological,Epidemic,Cholera,16.0,254.0,2000-01-08,2000-01-08,Tanzania
+Biological,Epidemic,Cholera,230.0,2232.0,2000-01-01,2000-04-21,Somalia
+Biological,Epidemic,,28.0,1834.0,2000-01-07,2000-01-07,Lesotho
+Biological,Epidemic,,10.0,40.0,2000-01-01,2000-01-01,Kenya
+Biological,Epidemic,Cholera,3.0,189.0,2000-01-06,2000-01-06,Kenya
+Biological,Epidemic,,4.0,114.0,2000-01-01,2000-01-01,Tanzania
+Biological,Epidemic,,8.0,200.0,2000-02-11,2000-02-11,Tanzania
+Climatological,Drought,,,100000.0,2001-06-01,2001-01-01,Djibouti
+Biological,Epidemic,Acute watery diarrhoeal syndrome,54.0,,2000-02-01,2000-02-01,Somalia
+Meteorological,Storm,,,6800.0,2002-09-05,2002-09-05,Seychelles
+Biological,Epidemic,,186.0,2363.0,2000-01-01,2000-03-31,Sudan
+Meteorological,Storm,"Eline, Gloria",130.0,736937.0,2000-02-17,2000-03-11,Madagascar
+Biological,Epidemic,Acute watery diarrhoeal syndrome,12.0,,2000-01-01,2000-01-01,Nigeria
+Biological,Epidemic,,11.0,1810.0,2000-01-01,2000-01-01,Mozambique
+Hydrological,Flood,,16.0,29012.0,2005-12-22,2006-02-07,Mozambique
+Biological,Epidemic,,16.0,62.0,2000-01-15,2000-01-15,Dem. Rep. Congo
+Biological,Epidemic,,602.0,4500.0,2000-01-01,2000-01-01,Chad
+Biological,Epidemic,Marburd virus,10.0,1.0,2000-01-01,2000-01-01,Dem. Rep. Congo
+Biological,Epidemic,,14.0,149.0,2000-01-01,2000-03-31,Ethiopia
+Biological,Epidemic,,9.0,330.0,2000-01-01,2000-01-01,Tanzania
+Biological,Epidemic,,128.0,1067.0,2000-03-06,2000-03-06,Niger
+Biological,Epidemic,Meningococcal disease,22.0,65.0,2000-01-01,2000-01-01,Cameroon
+Meteorological,Storm,Hudah,23.0,369272.0,2000-04-02,2000-04-02,Madagascar
+Biological,Epidemic,,108.0,712.0,2000-03-01,2000-03-01,Central African Rep.
+Biological,Epidemic,Acute neurological syndrome,15.0,95.0,2000-03-01,2000-03-01,Benin
+Biological,Epidemic,Acute diarrhoeal syndrome,,123.0,2000-03-01,2000-03-01,Zambia
+Hydrological,Flood,,13.0,11592.0,2022-06-16,2022-06-21,Côte d'Ivoire
+Hydrological,Flood,,,204.0,2022-06-13,2022-06-15,South Africa
+Biological,Epidemic,Cholera,16.0,229.0,2000-02-20,2000-02-20,Kenya
+Biological,Epidemic,,36.0,435.0,2000-02-01,2000-02-01,Benin
+Biological,Epidemic,Acute watery diarrhoeal syndrome,390.0,,2000-04-01,2000-04-01,Somalia
+Biological,Epidemic,Ebola,55.0,142.0,2022-09-20,2023-01-11,Uganda
+Biological,Epidemic,Cholera,295.0,13730.0,2022-08-01,2022-12-01,Cameroon
+Biological,Epidemic,,,8000.0,2000-09-01,2000-09-01,Burundi
+Biological,Epidemic,,,16773.0,2000-03-01,2000-03-01,Mozambique
+Climatological,Drought,,,9800000.0,2024-02-01,2025-02-01,Zambia
+Biological,Epidemic,,51.0,,2000-05-01,2000-05-01,Ethiopia
+Meteorological,Storm,"Cyclone ""Jokwe""",9.0,220013.0,2008-03-08,2008-03-09,Mozambique
+Biological,Epidemic,Acute watery diarrhoeal syndrome,60.0,40.0,2000-05-01,2000-05-01,Nigeria
+Hydrological,Mass Movement,,5.0,250.0,2022-08-11,2022-08-11,Cameroon
+Biological,Epidemic,Cholera,93.0,1675.0,2000-01-01,2000-01-01,Zimbabwe
+Biological,Epidemic,Cholera,83.0,3323.0,2000-01-01,2000-01-01,Malawi
+Hydrological,Flood,,12.0,12982.0,2022-08-28,2022-09-01,Sierra Leone
+Biological,Epidemic,Cholera,15.0,63.0,2000-05-01,2000-05-01,Niger
+Biological,Epidemic,Cholera,3.0,112.0,2000-05-01,2000-05-01,Liberia
+Biological,Epidemic,Cholera,178.0,5000.0,2022-01-01,2022-10-05,Nigeria
+Hydrological,Flood,,,164679.0,2022-09-01,2022-11-01,Congo
+Biological,Epidemic,,300.0,1700.0,2000-05-01,2000-05-01,Central African Rep.
+Hydrological,Flood,,800.0,4500000.0,2000-01-26,2000-03-27,Mozambique
+Hydrological,Flood,,4.0,100003.0,2003-01-01,2003-02-17,Mozambique
+Hydrological,Flood,,29.0,285000.0,2007-01-17,2007-02-01,Mozambique
+Meteorological,Storm,Cyclone Funso,10.0,65000.0,2012-01-20,2012-01-22,Mozambique
+Biological,Epidemic,,10.0,,2000-06-01,2000-06-01,Liberia
+Biological,Epidemic,Cholera,22.0,281.0,2000-02-27,2000-02-27,Uganda
+Biological,Epidemic,Acute diarrhoeal syndrome,38.0,,2000-06-01,2000-06-01,Sierra Leone
+Biological,Epidemic,Cholera,4.0,57083.0,2022-04-23,2022-05-01,Tanzania
+Biological,Epidemic,Typhoid fever,,100.0,2000-05-01,2000-06-01,Burundi
+Biological,Epidemic,Measles,750.0,6551.0,2022-04-01,2022-11-01,Zimbabwe
+Biological,Epidemic,Cholera,271.0,20000.0,2022-09-16,2023-08-31,Ethiopia
+Biological,Epidemic,Cholera,163.0,1101.0,2000-01-01,2000-01-01,Zambia
+Biological,Epidemic,Cholera,27.0,1215.0,2000-05-01,2000-05-01,Nigeria
+Biological,Epidemic,Cholera,4.0,419.0,2000-06-01,2000-06-01,Djibouti
+Hydrological,Flood,,32.0,,2022-11-17,2022-11-18,Dem. Rep. Congo
+Hydrological,Mass Movement,,14.0,,2022-11-27,2022-11-27,Cameroon
+Hydrological,Flood,,,34052.0,2024-06-26,2024-06-26,Benin
+Climatological,Drought,,,1655000.0,2024-05-01,2024-09-01,Namibia
+Biological,Epidemic,Meningococcal disease,40.0,160.0,2000-07-01,2000-07-01,Central African Rep.
+Hydrological,Flood,,52.0,2838.0,2025-12-14,2025-12-14,Morocco
+Biological,Epidemic,Meningococcal disease,19.0,855.0,2000-03-01,2000-08-17,Ethiopia
+Climatological,Drought,,27.0,4400482.0,2025-01-01,2026-01-01,Somalia
+Hydrological,Flood,,22.0,123019.0,2025-08-01,2025-10-01,Chad
+Biological,Epidemic,Visceral leishmaniasis (Kala-Azar),7.0,221.0,2000-06-01,2000-06-01,Kenya
+Hydrological,Flood,,9.0,190343.0,2025-02-19,2025-02-21,Botswana
+Biological,Epidemic,Meningococcal disease,10.0,164.0,2000-07-01,2000-08-22,Rwanda
+Biological,Epidemic,Acute watery diarrhoeal syndrome,47.0,21.0,2000-08-26,2000-08-26,Niger
+Biological,Epidemic,,14.0,42.0,2000-08-01,2000-08-01,Kenya
+Biological,Epidemic,Meningococcal disease,18.0,117.0,2000-08-01,2000-08-01,Angola
+Meteorological,Storm,,,10000.0,2000-09-21,2000-09-21,Uganda
+Biological,Epidemic,Acute diarroheal syndrome,13.0,19.0,2000-09-01,2000-09-01,Uganda
+Hydrological,Flood,,,10000.0,2006-08-03,2006-10-11,Nigeria
+Biological,Epidemic,Cholera,181.0,86107.0,2000-08-19,2001-04-16,South Africa
+Hydrological,Flood,,19.0,1075.0,2019-03-16,2019-03-22,Angola
+Biological,Epidemic,Ebola haemorrhagic fever,224.0,423.0,2000-08-08,2001-02-28,Uganda
+Biological,Epidemic,Yellow fever,190.0,322.0,2000-10-12,2000-12-27,Guinea
+Biological,Epidemic,Cholera,14.0,258.0,2000-10-14,2000-11-15,Somalia
+Biological,Epidemic,Meningococcal disease,14.0,58.0,2000-09-01,2000-09-01,Namibia
+Biological,Epidemic,,11.0,769.0,2000-11-01,2000-11-01,Zimbabwe
+Biological,Epidemic,,308.0,722591.0,2000-10-01,2000-10-01,Burundi
+Biological,Epidemic,Cholera,32.0,1449.0,2000-12-12,2000-12-12,Swaziland
+Biological,Epidemic,Cholera,8.0,368.0,2000-12-30,2000-12-30,Zimbabwe
+Biological,Epidemic,Meningococcal disease,607.0,5173.0,2000-12-25,2001-03-25,Chad
+Biological,Epidemic,Meningococcal disease,300.0,7232.0,2000-10-16,2000-10-16,Benin
+Biological,Epidemic,Meningococcal disease,311.0,5929.0,2000-11-01,2000-11-01,Ethiopia
+Biological,Epidemic,Meningococcal disease,21.0,116.0,2000-11-01,2001-03-26,Gambia
+Biological,Epidemic,Meningococcal Disease,28.0,387.0,2001-01-01,2001-02-25,Cameroon
+Hydrological,Flood,,,200.0,2018-02-22,2018-03-07,Malawi
+Biological,Epidemic,Typhoid fever,9.0,102.0,2001-02-01,2001-03-01,Kenya
+Biological,Epidemic,Meningococcal disease,1525.0,9372.0,2001-01-01,2001-04-15,Burkina Faso
+Hydrological,Flood,,,66000.0,2020-11-02,2020-11-02,Congo
+Biological,Epidemic,Unknown,16.0,1.0,2001-02-01,2001-02-01,Nigeria
+Meteorological,Storm,,3.0,3000.0,2001-03-01,2001-03-01,Central African Rep.
+Biological,Epidemic,Cholera,20.0,1500.0,2001-03-01,2001-03-01,Malawi
+Biological,Epidemic,Meningococcal disease,343.0,1473.0,2001-02-18,2001-03-30,Central African Rep.
+Biological,Epidemic,Meningococcal disease,321.0,3693.0,2001-01-02,2001-04-08,Niger
+Biological,Epidemic,Cholera,8.0,677.0,2001-02-01,2001-02-01,Dem. Rep. Congo
+Biological,Epidemic,Acute Neurological Syndrome,340.0,,2001-03-01,2001-03-01,Nigeria
+Biological,Epidemic,Meningococcal disease,187.0,976.0,2001-01-01,2001-01-01,Togo
+Biological,Epidemic,,134.0,12098.0,2001-01-01,2001-01-01,Namibia
+Biological,Epidemic,,84.0,340.0,2001-01-01,2001-01-01,Nigeria
+Biological,Epidemic,Acute watery diarrhoeal syndrome,66.0,1488.0,2001-05-01,2001-05-01,Dem. Rep. Congo
+Biological,Epidemic,,,733.0,2001-01-01,2001-01-01,Ghana
+Hydrological,Flood,,1.0,300.0,2018-02-01,2018-02-14,Malawi
+Biological,Epidemic,,237.0,44276.0,2001-06-01,2001-06-01,Niger
+Biological,Epidemic,Cholera,113.0,3444.0,2001-06-26,2001-09-04,Chad
+Biological,Epidemic,Cholera,14.0,222.0,2001-06-01,2001-06-01,Kenya
+Biological,Epidemic,Cholera,12.0,408.0,2001-04-01,2001-04-01,Ghana
+Biological,Epidemic,Cholera,48.0,591.0,2001-04-01,2001-04-01,Togo
+Biological,Epidemic,Cholera,3.0,103.0,2001-05-18,2001-07-20,Tanzania
+Biological,Epidemic,Yellow fever,21.0,203.0,2001-03-23,2001-10-08,Côte d'Ivoire
+Biological,Epidemic,Meningococcal disease,30.0,332.0,2001-05-01,2001-10-02,Angola
+Biological,Epidemic,Cholera,3.0,155.0,2001-06-25,2001-06-25,Cameroon
+Biological,Epidemic,Cholera,175.0,2977.0,2001-05-01,2001-09-21,Côte d'Ivoire
+Hydrological,Flood,,,42356.0,2001-07-03,2001-07-03,South Africa
+Hydrological,Flood,,1.0,250.0,2001-07-05,2001-07-05,Gambia
+Biological,Epidemic,Cholera,57.0,2119.0,2001-01-01,2001-01-01,Benin
+Biological,Epidemic,Cholera,12.0,143.0,2001-08-06,2001-09-23,Guinea
+Biological,Epidemic,Cholera,6.0,308.0,2001-07-14,2001-09-16,Burkina Faso
+Biological,Epidemic,Cholera,15.0,98.0,2001-08-27,2001-08-27,Niger
+Biological,Epidemic,Cholera,7.0,611.0,2001-08-01,2001-08-01,Mozambique
+Biological,Epidemic,Aflatoxicosis,12.0,24.0,2001-08-01,2001-08-01,Kenya
+Biological,Epidemic,Meningococcal disease,104.0,893.0,2001-08-02,2002-01-02,Dem. Rep. Congo
+Biological,Epidemic,,41.0,384.0,2001-07-01,2001-07-01,Dem. Rep. Congo
+Biological,Epidemic,,14.0,9.0,2001-10-01,2001-10-01,Uganda
+Biological,Epidemic,Acute watery diarrhoeal syndrome,24.0,125.0,2001-10-10,2001-10-10,Nigeria
+Biological,Epidemic,Cholera,72.0,851.0,2001-10-01,2001-10-01,Dem. Rep. Congo
+Meteorological,Storm,,,403.0,2008-12-01,2008-12-01,Tanzania
+Biological,Epidemic,Cholera,80.0,2170.0,2001-11-14,2001-11-26,Nigeria
+Biological,Epidemic,,21.0,109.0,2001-08-27,2001-08-27,Benin
+Biological,Epidemic,Meningococcal disease,311.0,5955.0,2001-01-01,2001-05-31,Ethiopia
+Biological,Epidemic,Acute respiratory syndrome,20.0,243.0,2001-11-17,2001-11-17,Dem. Rep. Congo
+Biological,Epidemic,Ebola,50.0,10.0,2001-11-01,2002-05-06,Gabon
+Biological,Epidemic,Meningococcal disease,300.0,7532.0,2001-01-01,2001-03-25,Benin
+Biological,Epidemic,Meningococcal disease,12.0,3.0,2001-12-13,2001-12-13,Sierra Leone
+Biological,Epidemic,,5.0,395.0,2001-12-01,2001-12-01,Kenya
+Biological,Epidemic,Meningococcal disease,33.0,111.0,2001-10-13,2002-01-28,Somalia
+Biological,Epidemic,Ebola,19.0,13.0,2001-11-01,2002-03-21,Congo
+Biological,Epidemic,Acute Watery Diarrhoeal Syndrome,22.0,412.0,2001-12-22,2001-12-22,Tanzania
+Biological,Epidemic,Cholera,502.0,6099.0,2001-11-01,2002-03-14,Dem. Rep. Congo
+Biological,Epidemic,Monkeypox,25.0,459.0,2001-10-01,2001-10-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,502.0,17352.0,2001-10-28,2001-10-28,Malawi
+Biological,Epidemic,Cholera,609.0,21414.0,2001-10-28,2002-03-09,Malawi
+Biological,Epidemic,Plague,11.0,425.0,2001-03-01,2001-03-15,Zambia
+Biological,Epidemic,Meningococcal,118.0,2211.0,2001-09-10,2002-02-03,Ethiopia
+Biological,Epidemic,Meningococcal disease,1447.0,11140.0,2001-12-01,2002-05-15,Burkina Faso
+Meteorological,Storm,Cyprien,2.0,1900.0,2002-01-02,2002-01-02,Madagascar
+Meteorological,Storm,,,100.0,2002-01-05,2002-01-05,Uganda
+Biological,Epidemic,Yellow fever suspected,12.0,,2002-01-15,2002-01-15,Ethiopia
+Meteorological,Storm,Dina,3.0,1050.0,2002-01-22,2002-01-22,Mauritius
+Biological,Epidemic,Acute watery diarroeal syndrome,11.0,256.0,2002-02-14,2002-02-14,South Africa
+Biological,Epidemic,Acute watery diarrhoeal syndrome,4.0,102.0,2002-03-06,2002-03-06,Zimbabwe
+Biological,Epidemic,Acute watery diarrhoeal syndrome,120.0,2880.0,2002-03-06,2002-03-06,Nigeria
+Biological,Epidemic,Acute watery diarrhoeal syndrome,175.0,,2002-02-01,2002-02-01,Malawi
+Biological,Epidemic,Meningococcal disease,14.0,100.0,2002-02-15,2002-02-15,Nigeria
+Biological,Epidemic,Acute watery diarrhoeal syndrome,1.0,169.0,2002-03-07,2002-03-07,South Africa
+Hydrological,Flood,,,500.0,2002-03-18,2002-03-22,Mozambique
+Biological,Epidemic,,30.0,,2002-02-20,2002-02-20,Somalia
+Biological,Epidemic,,49.0,281.0,2002-02-05,2002-02-05,Sudan
+Biological,Epidemic,Cholera,72.0,12927.0,2002-01-01,2002-01-01,South Africa
+Biological,Epidemic,Meningococcal disease,308.0,3210.0,2002-01-01,2002-04-21,Niger
+Biological,Epidemic,Cholera,63.0,1191.0,2002-04-12,2002-04-12,Somalia
+Biological,Epidemic,,43.0,244.0,2002-01-01,2002-01-01,Côte d'Ivoire
+Biological,Epidemic,,23.0,123.0,2002-01-01,2002-01-01,Guinea
+Biological,Epidemic,,33.0,282.0,2002-01-01,2002-01-01,Mali
+Biological,Epidemic,,7.0,121.0,2002-01-01,2002-01-01,Senegal
+Biological,Epidemic,,95.0,494.0,2002-01-01,2002-01-01,Togo
+Biological,Epidemic,,50.0,452.0,2002-01-01,2002-01-01,Benin
+Hydrological,Flood,,53.0,150008.0,2002-04-26,2002-05-28,Kenya
+Biological,Epidemic,Meningococcal disease,39.0,66.0,2002-02-01,2002-02-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,17.0,2028.0,2002-01-01,2002-06-17,Mozambique
+Biological,Epidemic,Cholera,19.0,562.0,2002-01-01,2002-07-14,Côte d'Ivoire
+Biological,Epidemic,Cholera,13.0,781.0,2002-06-17,2002-08-22,Burundi
+Biological,Epidemic,Acute watery diarrhoeal syndrome,6.0,448.0,2002-07-01,2002-07-01,Burundi
+Biological,Epidemic,Acute watery diarrhoeal syndrome,72.0,750.0,2002-08-01,2002-08-01,Nigeria
+Biological,Epidemic,Influenza,671.0,21975.0,2002-07-04,2002-08-29,Madagascar
+Biological,Epidemic,,68.0,934.0,2002-07-06,2002-09-22,Burundi
+Biological,Epidemic,Meningococcal disease,83.0,636.0,2002-06-24,2002-09-18,Rwanda
+Biological,Epidemic,,24.0,4000.0,2002-01-01,2002-01-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,41.0,773.0,2002-05-01,2002-08-26,Malawi
+Biological,Epidemic,Meningococcal disease,9.0,149.0,2002-07-01,2002-10-02,Tanzania
+Biological,Epidemic,Acute diarrhoeal syndrome,,661.0,2002-07-01,2002-09-01,Liberia
+Biological,Epidemic,Cholera,,350.0,2002-08-01,2002-08-01,Zimbabwe
+Biological,Epidemic,Cholera,67.0,2636.0,2002-07-01,2003-05-01,Dem. Rep. Congo
+Biological,Epidemic,Acute Hepatitis E,6.0,727.0,2002-07-22,2002-07-22,Central African Rep.
+Meteorological,Storm,,3.0,4017.0,2002-10-25,2002-10-25,Mozambique
+Biological,Epidemic,Cholera,41.0,353.0,2002-10-16,2002-10-20,Dem. Rep. Congo
+Biological,Epidemic,Leishmaniasis,,1000.0,2002-10-01,2002-10-01,Sudan
+Biological,Epidemic,Yellow fever,11.0,60.0,2002-08-27,2002-11-28,Senegal
+Biological,Epidemic,Acute respiratory syndrome,18.0,1245.0,2002-10-01,2002-11-22,Dem. Rep. Congo
+Meteorological,Storm,,22.0,100000.0,2002-07-15,2002-07-21,South Africa
+Biological,Epidemic,Acute respiratory syndrome,14.0,,2002-12-02,2002-12-02,Nigeria
+Biological,Epidemic,Acute Jaundice syndrome,11.0,9.0,2002-12-02,2002-12-02,Nigeria
+Biological,Epidemic,Cholera,12.0,164.0,2002-11-21,2002-11-21,Nigeria
+Biological,Epidemic,Meningococcal disease,17.0,57.0,2002-10-01,2002-10-01,Dem. Rep. Congo
+Biological,Epidemic,Acute watery diarrhoeal syndrome,12.0,,2002-10-31,2002-10-31,Nigeria
+Hydrological,Mass Movement,,18.0,12.0,2018-05-06,2018-05-06,Rwanda
+Biological,Epidemic,Cholera,15.0,55.0,2002-12-22,2003-01-05,Côte d'Ivoire
+Biological,Epidemic,,,140.0,2002-12-20,2002-12-20,Dem. Rep. Congo
+Biological,Epidemic,Influenza,2000.0,500000.0,2002-12-01,2002-12-01,Dem. Rep. Congo
+Biological,Epidemic,Ebola,128.0,15.0,2002-12-31,2003-05-06,Congo
+Biological,Epidemic,Influenza,296.0,30878.0,2002-12-01,2003-01-15,Dem. Rep. Congo
+Biological,Epidemic,Cholera,8.0,96.0,2002-06-09,2002-07-22,Niger
+Hydrological,Flood,,15.0,,2018-03-14,2018-03-20,Kenya
+Biological,Epidemic,Meningococcal disease,1058.0,7146.0,2003-01-01,2003-04-20,Burkina Faso
+Biological,Epidemic,Cholera,14.0,2798.0,2003-01-01,2003-06-15,Mozambique
+Biological,Epidemic,Yellow fever,24.0,43.0,2003-01-01,2003-01-23,Guinea
+Biological,Epidemic,,195.0,1861.0,2003-02-01,2003-03-09,Niger
+Hydrological,Flood,,40.0,60000.0,2003-04-01,2003-05-01,Kenya
+Hydrological,Flood,,2.0,15000.0,2003-03-26,2003-03-28,Mozambique
+Biological,Epidemic,Cholera,380.0,13072.0,2003-06-01,2003-06-08,Dem. Rep. Congo
+Biological,Epidemic,Cholera,35.0,242.0,2003-03-01,2003-04-01,Uganda
+Biological,Epidemic,Yellow fever,27.0,178.0,2003-05-11,2003-05-15,Sudan
+Biological,Epidemic,Cholera,,17561.0,2003-06-25,2003-09-28,Liberia
+Hydrological,Flood,,,,2003-07-28,2003-08-21,Eritrea
+Meteorological,Storm,,,600.0,2003-08-18,2003-08-21,South Africa
+Meteorological,Storm,,,630.0,2001-09-14,2001-09-14,South Africa
+Biological,Epidemic,Shigellosis,23.0,379.0,2003-06-16,2003-10-29,Central African Rep.
+Biological,Epidemic,Bloody diarrhoea,,1857.0,2003-08-01,2003-08-01,Liberia
+Biological,Epidemic,Ebola virus,29.0,2.0,2003-10-12,2003-12-24,Congo
+Biological,Epidemic,Cholera,3.0,265.0,2003-01-01,2003-11-15,Benin
+Biological,Epidemic,Cholera,40.0,750.0,2003-10-09,2003-12-14,Zimbabwe
+Biological,Epidemic,Cholera,106.0,1216.0,2003-08-14,2004-02-18,Mali
+Biological,Epidemic,Yellow fever,10.0,90.0,2003-10-01,2003-10-01,Sierra Leone
+Biological,Epidemic,Cholera,369.0,7145.0,2003-09-17,2003-12-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,31.0,4124.0,2003-02-24,2003-06-15,Mozambique
+Meteorological,Storm,Cela,,164.0,2003-12-09,2003-12-09,Madagascar
+Biological,Epidemic,Cholera,179.0,3835.0,2003-12-04,2004-02-25,Zambia
+Biological,Epidemic,Acute diarrhoeal syndrome,37.0,184.0,2003-12-24,2003-12-24,Dem. Rep. Congo
+Biological,Epidemic,Cholera,85.0,15237.0,2003-12-20,2004-03-18,Mozambique
+Biological,Epidemic,Cholera,11.0,131.0,2003-11-24,2004-01-05,Chad
+Biological,Epidemic,Cholera,29.0,1975.0,2003-04-07,2003-06-15,Mozambique
+Hydrological,Flood,,73.0,1000.0,2019-04-21,2019-04-25,South Africa
+Biological,Epidemic,Cholera,40.0,790.0,2003-12-29,2004-03-28,Togo
+Biological,Epidemic,Cholera,6.0,230.0,2003-12-01,2004-02-10,Burundi
+Hydrological,Flood,,,300.0,2003-01-04,2003-01-06,Kenya
+Meteorological,Extreme Temperature,,40.0,,2003-06-21,2003-07-21,Algeria
+Meteorological,Storm,Elita,32.0,44290.0,2004-01-26,2004-02-04,Madagascar
+Biological,Epidemic,Cholera,46.0,2924.0,2004-01-01,2004-06-09,Cameroon
+Biological,Epidemic,,300.0,,2004-02-01,2004-02-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,5.0,174.0,2004-01-01,2004-03-17,South Africa
+Climatological,Wildfire,,50.0,12.0,2019-05-08,2019-05-08,S. Sudan
+Meteorological,Storm,Galifo,363.0,988139.0,2004-03-07,2004-03-12,Madagascar
+Biological,Epidemic,Meningococcal disease,527.0,2783.0,2004-01-01,2004-03-21,Burkina Faso
+Hydrological,Flood,,51.0,100000.0,2004-04-12,2004-04-16,Djibouti
+Biological,Epidemic,,149.0,20000.0,2004-01-01,2004-05-02,Niger
+Biological,Epidemic,Meningococcal disease,46.0,281.0,2004-04-02,2004-04-02,Nigeria
+Biological,Epidemic,Cholera,5.0,132.0,2004-05-03,2004-05-17,Niger
+Biological,Epidemic,,8.0,141.0,2004-05-15,2004-07-14,Kenya
+Biological,Epidemic,Shigellosis,11.0,1340.0,2004-05-15,2004-06-30,Sudan
+Biological,Epidemic,Typhoid Fever,4.0,540.0,2004-06-15,2004-07-15,Rwanda
+Biological,Epidemic,Gastroenteritis,77.0,2599.0,2004-05-31,2004-07-12,Dem. Rep. Congo
+Biological,Infestation,,,,2004-08-01,2004-08-01,Burkina Faso
+Biological,Infestation,,,,2004-08-01,2004-08-01,Cape Verde
+Biological,Infestation,,,,2004-08-01,2004-08-01,Gambia
+Biological,Infestation,,,,2004-07-01,2004-07-01,Morocco
+Biological,Infestation,,,,2004-04-01,2004-07-01,Mali
+Biological,Infestation,,,400000.0,2004-07-01,2004-07-01,Mauritania
+Biological,Infestation,,,,2004-07-01,2004-07-01,Niger
+Biological,Infestation,,,,2004-08-01,2004-08-01,Nigeria
+Biological,Infestation,,,,2004-07-01,2004-07-01,Sudan
+Biological,Infestation,,,,2004-07-01,2004-07-01,Senegal
+Biological,Infestation,,,,2004-07-01,2004-07-01,Chad
+Hydrological,Flood,,,7013.0,2004-07-27,2004-07-27,Eritrea
+Biological,Epidemic,Cholera,123.0,2895.0,2004-06-14,2004-09-09,Chad
+Biological,Epidemic,,58.0,984.0,2004-01-01,2004-05-01,Dem. Rep. Congo
+Hydrological,Flood,,,15000.0,2004-08-07,2004-08-09,South Africa
+Biological,Epidemic,Acute Hepatitis E,87.0,6774.0,2004-05-22,2004-09-17,Sudan
+Biological,Epidemic,Acute Hepatitis E,21.0,672.0,2004-07-17,2004-09-17,Chad
+Biological,Epidemic,Cholera,100.0,1092.0,2004-06-01,2004-10-01,Guinea
+Biological,Epidemic,Cholera,56.0,633.0,2004-08-02,2004-08-30,Sierra Leone
+Hydrological,Flood,,3.0,1000.0,2004-09-27,2004-09-28,Guinea-Bissau
+Biological,Epidemic,Cholera,6.0,861.0,2004-10-05,2005-03-01,Senegal
+Biological,Epidemic,Cholera,3.0,53.0,2004-11-01,2004-11-01,Uganda
+Meteorological,Storm,Manou,89.0,162086.0,2003-05-08,2003-05-08,Madagascar
+Biological,Epidemic,Cholera,76.0,1316.0,2004-10-15,2004-11-23,Nigeria
+Biological,Epidemic,Typhoid fever,214.0,42564.0,2004-09-27,2005-01-11,Dem. Rep. Congo
+Biological,Epidemic,Cholera,50.0,300.0,2004-09-16,2004-11-18,Nigeria
+Biological,Epidemic,Typhoid fever,1.0,100.0,2004-12-01,2004-12-01,Gabon
+Biological,Epidemic,,15.0,946.0,2004-12-13,2005-03-14,Eq. Guinea
+Biological,Epidemic,,57.0,73.0,2004-12-15,2005-03-15,Dem. Rep. Congo
+Biological,Epidemic,Hepatitis A,,120.0,2004-06-10,2004-07-31,Egypt
+Biological,Epidemic,Cholera,3.0,199.0,2004-10-01,2004-11-19,Guinea-Bissau
+Biological,Epidemic,Marburg virus disease,329.0,45.0,2004-10-13,2005-09-06,Angola
+Hydrological,Mass Movement,,20.0,100.0,2003-07-20,2003-07-20,Cameroon
+Meteorological,Storm,Cyclone 'Sagar',53.0,228000.0,2018-05-21,2018-05-21,Somalia
+Meteorological,Storm,Ernest,78.0,7985.0,2005-01-22,2005-01-23,Madagascar
+Biological,Epidemic,Cholera,42.0,1400.0,2005-01-03,2005-05-01,Cameroon
+Biological,Epidemic,Cholera,34.0,2152.0,2005-01-17,2005-01-30,Dem. Rep. Congo
+Hydrological,Flood,,4.0,20000.0,2001-11-30,2001-11-30,Niger
+Biological,Epidemic,Meningococcal disease,124.0,3579.0,2005-01-22,2005-02-02,Sudan
+Biological,Epidemic,Acute watery diarrhoeal syndrome,46.0,200.0,2005-02-03,2005-03-16,Nigeria
+Biological,Epidemic,,561.0,23575.0,2005-02-28,2005-03-23,Nigeria
+Biological,Epidemic,,40.0,210.0,2005-01-01,2005-03-01,Côte d'Ivoire
+Biological,Epidemic,Chikungunya virus disease,,1358.0,2005-03-12,2005-03-12,Comoros
+Hydrological,Flood,,4.0,900.0,2005-03-24,2005-03-26,Madagascar
+Biological,Epidemic,Cholera,303.0,23022.0,2005-01-01,2005-09-23,Senegal
+Biological,Epidemic,Cholera,29.0,1420.0,2005-01-01,2005-05-08,Dem. Rep. Congo
+Biological,Epidemic,,40.0,433.0,2005-04-01,2005-04-01,Ethiopia
+Biological,Epidemic,,115.0,6000.0,2005-01-03,2005-05-15,Chad
+Biological,Epidemic,Acute Watery Diarrhoeal syndrome,100.0,,2005-04-11,2005-04-20,Nigeria
+Biological,Epidemic,Ebola,10.0,2.0,2005-04-25,2005-06-15,Congo
+Hydrological,Flood,,,125.0,2005-06-06,2005-06-06,Mali
+Biological,Epidemic,Cholera,12.0,98.0,2005-05-16,2005-05-24,Nigeria
+Biological,Epidemic,Cholera,10.0,426.0,2005-04-01,2005-05-31,Uganda
+Biological,Epidemic,Cholera,20.0,138.0,2005-06-20,2005-12-11,Mali
+Biological,Epidemic,Cholera,399.0,25111.0,2005-06-06,2005-11-22,Guinea-Bissau
+Hydrological,Flood,,10.0,6425.0,2010-08-01,2010-08-01,Côte d'Ivoire
+Biological,Epidemic,Cholera,14.0,203.0,2005-05-01,2005-06-01,Zimbabwe
+Biological,Epidemic,Cholera,9.0,606.0,2005-08-08,2005-09-04,Burkina Faso
+Biological,Epidemic,Cholera,44.0,387.0,2005-07-13,2005-10-02,Niger
+Biological,Epidemic,Cholera,72.0,1884.0,2005-04-11,2005-10-30,Guinea
+Biological,Epidemic,Cholera,55.0,2585.0,2005-07-20,2005-10-23,Mauritania
+Biological,Epidemic,Cholera,29.0,674.0,2005-08-02,2005-08-13,Liberia
+Biological,Epidemic,Penumonic plague,38.0,1300.0,2005-07-29,2005-09-05,Dem. Rep. Congo
+Hydrological,Flood,,20.0,1200.0,2005-06-17,2005-06-20,Kenya
+Biological,Epidemic,Cholera,4.0,206.0,2005-06-06,2005-09-04,Benin
+Biological,Epidemic,Yellow Fever,144.0,439.0,2005-09-01,2005-12-17,Sudan
+Biological,Epidemic,Yellow fever,23.0,30.0,2005-10-07,2005-12-13,Mali
+Biological,Epidemic,Cholera,25.0,1349.0,2005-10-06,2005-12-16,São Tomé and Principe
+Biological,Epidemic,,13.0,,2005-10-23,2005-11-14,Somalia
+Biological,Epidemic,Cholera,40.0,2248.0,2005-11-01,2005-12-01,Ghana
+Hydrological,Flood,,,2500.0,2001-08-01,2001-08-01,Ethiopia
+Biological,Epidemic,Poliomyelitis,,199.0,2005-07-12,2006-03-24,Somalia
+Hydrological,Flood,,1.0,2000.0,2005-12-24,2005-12-28,Congo
+Biological,Epidemic,Cholera,21.0,7615.0,2005-08-13,2006-04-05,Zambia
+Biological,Epidemic,Cholera,73.0,980.0,2005-12-10,2006-05-18,Zimbabwe
+Biological,Epidemic,,34.0,531.0,2005-07-01,2005-12-01,Ethiopia
+Biological,Epidemic,Chikungunya virus disease,,924.0,2006-01-01,2006-01-01,Comoros
+Biological,Epidemic,Chikungunya virus disease,,2553.0,2006-01-01,2006-03-01,Mauritius
+Biological,Epidemic,Chikungunya virus disease,,157000.0,2005-03-28,2006-02-05,Réunion
+Biological,Epidemic,Chikungunya virus disease,,5461.0,2006-01-01,2006-03-01,Seychelles
+Biological,Epidemic,Meningococcal disease,12.0,45.0,2005-12-01,2006-02-15,Kenya
+Biological,Epidemic,Meningococcal disease,11.0,300.0,2005-12-28,2006-02-12,Uganda
+Biological,Epidemic,Meningococcal disease,382.0,3436.0,2005-12-03,2006-05-03,Sudan
+Biological,Epidemic,,41.0,1600.0,2005-11-01,2006-04-01,Kenya
+Biological,Epidemic,Cholera,6.0,576.0,2005-12-02,2006-03-01,Tanzania
+Climatological,Drought,,,150000.0,2005-04-01,2006-04-01,Djibouti
+Climatological,Drought,,,14000.0,2005-11-01,2006-12-01,Madagascar
+Biological,Epidemic,Cholera,35.0,300.0,2006-01-01,2006-01-10,Rwanda
+Biological,Epidemic,Cholera,20.0,852.0,2006-01-16,2006-05-18,Malawi
+Biological,Epidemic,Cholera,34.0,770.0,2006-01-01,2006-01-01,Dem. Rep. Congo
+Biological,Epidemic,Meningococcal disease,24.0,554.0,2006-01-01,2006-02-03,Sudan
+Biological,Epidemic,Cholera,476.0,15711.0,2006-01-28,2006-09-24,Sudan
+Biological,Epidemic,Cholera,27.0,5692.0,2006-01-01,2006-05-18,Mozambique
+Meteorological,Storm,Boloetse,3.0,6212.0,2006-02-04,2006-02-04,Madagascar
+Biological,Epidemic,,9.0,151.0,2006-01-01,2006-04-01,Mali
+Biological,Epidemic,Meningococcal disease,44.0,570.0,2006-01-01,2006-03-26,Niger
+Biological,Epidemic,Meningococcal disease,784.0,7402.0,2006-01-01,2006-04-23,Burkina Faso
+Biological,Epidemic,Acute diarrhoeal syndrome,470.0,22264.0,2006-01-01,2006-04-01,Botswana
+Biological,Epidemic,Meningococcal disease,40.0,90.0,2006-02-25,2006-02-25,Côte d'Ivoire
+Biological,Epidemic,Meningococcal disease,15.0,59.0,2006-01-01,2006-01-28,Kenya
+Biological,Epidemic,Cholera,13.0,948.0,2006-01-06,2006-01-31,Dem. Rep. Congo
+Biological,Epidemic,Meningococcal Disease,18.0,125.0,2006-01-01,2006-03-31,Guinea
+Biological,Epidemic,,20.0,16.0,2006-04-01,2006-04-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,2354.0,57570.0,2006-02-13,2007-02-08,Angola
+Biological,Epidemic,Cholera,15.0,300.0,2006-01-02,2006-04-30,Tanzania
+Biological,Epidemic,,12.0,80.0,2006-05-01,2006-05-01,Somalia
+Biological,Epidemic,Acute Watery Diarrhoeal Syndrome/Cholera,196.0,5757.0,2006-04-21,2006-10-06,Sudan
+Biological,Epidemic,,19.0,81.0,2006-05-13,2006-06-18,Dem. Rep. Congo
+Biological,Epidemic,,20.0,,2006-06-01,2006-06-01,Somalia
+Biological,Epidemic,Polio,10.0,47.0,2006-05-07,2006-08-08,Namibia
+Biological,Epidemic,Disentery,13.0,,2006-05-01,2006-05-01,Kenya
+Biological,Epidemic,Cholera,111.0,173.0,2006-01-01,2006-10-22,Guinea
+Hydrological,Flood,,,2000.0,2006-06-20,2006-06-28,Togo
+Biological,Epidemic,Acute watery diarrhoea,132.0,10966.0,2006-04-15,2006-04-22,Ethiopia
+Biological,Epidemic,Cholera,50.0,106.0,2006-08-01,2006-08-01,Tanzania
+Biological,Epidemic,Cholera,2.0,361.0,2006-01-01,2006-08-01,Côte d'Ivoire
+Biological,Epidemic,Cholera,18.0,214.0,2006-01-01,2006-09-18,Niger
+Biological,Epidemic,,42.0,584.0,2006-07-31,2006-10-08,Dem. Rep. Congo
+Biological,Epidemic,Acute Watery Diarrheal syndrome,219.0,21882.0,2006-04-15,2007-02-19,Ethiopia
+Biological,Epidemic,Hepatitis E,13.0,341.0,2006-07-01,2006-10-01,Dem. Rep. Congo
+Meteorological,Storm,,33.0,,2002-09-27,2002-09-27,Sudan
+Hydrological,Flood,,6.0,5000.0,2006-11-04,2006-11-18,Congo
+Biological,Epidemic,Meningococcal disease,16.0,231.0,2006-09-01,2006-11-18,Sudan
+Hydrological,Flood,,,4000.0,2006-10-23,2006-12-19,Uganda
+Biological,Epidemic,Cholera,5.0,105.0,2006-10-15,2006-11-01,Zambia
+Biological,Epidemic,Cholera,5.0,820.0,2006-11-01,2006-11-01,Tanzania
+Biological,Epidemic,Cholera,68.0,,2006-10-24,2006-11-01,Angola
+Biological,Epidemic,Cholera,20.0,216.0,2006-06-13,2006-06-30,Chad
+Biological,Epidemic,,21.0,,2006-12-01,2006-12-01,Somalia
+Biological,Epidemic,,40.0,5733.0,2006-09-01,2006-11-01,Somalia
+Biological,Epidemic,Cholera,43.0,403.0,2006-04-16,2006-12-31,Uganda
+Meteorological,Storm,Bondo,1.0,304.0,2006-12-25,2006-12-25,Madagascar
+Hydrological,Flood,,52.0,,2006-09-05,2006-10-17,Chad
+Biological,Epidemic,,,184.0,2006-12-01,2006-12-01,Tanzania
+Biological,Epidemic,Cholera,50.0,3030.0,2006-12-04,2007-04-04,Congo
+Biological,Epidemic,Meningoccal disease,100.0,3649.0,2006-12-28,2007-04-08,Uganda
+Biological,Infestation,,,,2006-01-01,2006-02-01,Tanzania
+Biological,Epidemic,Meningococcal disease,49.0,551.0,2006-01-09,2006-03-05,Uganda
+Biological,Epidemic,Meningococcal disease,430.0,6516.0,2006-12-01,2007-03-25,Sudan
+Biological,Epidemic,Cholera,10.0,246.0,2006-10-01,2006-11-01,Dem. Rep. Congo
+Biological,Epidemic,Rift Valley Fever,155.0,529.0,2006-11-30,2007-03-12,Kenya
+Biological,Epidemic,Rift Valley Fever,51.0,63.0,2006-12-19,2007-02-20,Somalia
+Biological,Epidemic,Cholera,11.0,1099.0,2006-12-01,2007-03-01,Uganda
+Hydrological,Flood,,34.0,100000.0,2018-08-31,2018-10-02,Ghana
+Hydrological,Flood,,,118755.0,2007-01-20,2007-03-10,Zambia
+Biological,Epidemic,Cholera,515.0,17875.0,2007-01-01,2007-12-31,Angola
+Biological,Epidemic,Cholera,5.0,115.0,2007-02-01,2007-02-01,Zambia
+Biological,Epidemic,Meningococcal disease,1490.0,20765.0,2007-01-01,2007-04-08,Burkina Faso
+Biological,Epidemic,Meningococcal disease,30.0,150.0,2007-01-01,2007-02-17,Côte d'Ivoire
+Hydrological,Flood,,7.0,33000.0,2007-02-08,2007-02-08,Madagascar
+Biological,Epidemic,Cholera,7.0,250.0,2007-02-01,2007-02-01,Namibia
+Biological,Epidemic,Rift Valley Fever,109.0,264.0,2007-01-13,2007-05-03,Tanzania
+Biological,Epidemic,Meningococcal disease,6.0,47.0,2007-01-01,2007-02-24,Dem. Rep. Congo
+Climatological,Drought,,,6800000.0,2020-01-01,2020-12-01,Mali
+Hydrological,Flood,,22.0,4000.0,2002-04-16,2002-04-21,Ethiopia
+Hydrological,Flood,,,38000.0,2007-07-27,2007-08-02,South Africa
+Biological,Epidemic,,58.0,890.0,2007-08-01,2007-08-01,Sudan
+Meteorological,Storm,,,3500.0,2007-03-21,2007-03-21,Liberia
+Meteorological,Storm,,14.0,145.0,2007-05-07,2007-05-07,Chad
+Hydrological,Flood,,1.0,17000.0,2007-08-26,2007-08-30,Liberia
+Hydrological,Flood,,13.0,40000.0,2007-08-15,2007-10-31,Kenya
+Biological,Epidemic,Cholera,90.0,2410.0,2007-01-01,2007-08-01,Guinea
+Biological,Epidemic,Cholera,10.0,20.0,2007-07-28,2007-08-01,Tanzania
+Biological,Epidemic,,67.0,10000.0,2007-05-25,2008-02-01,Zimbabwe
+Biological,Epidemic,Cholera,29.0,1490.0,2007-03-01,2007-09-01,Comoros
+Biological,Epidemic,Chikungunya,,17900.0,2007-05-10,2007-07-01,Gabon
+Biological,Epidemic,Ebola Haemmorrhgaic fever,166.0,372.0,2007-06-01,2007-10-02,Dem. Rep. Congo
+Hydrological,Flood,,,4500.0,2007-08-01,2007-08-01,Sierra Leone
+Hydrological,Flood,,16.0,5000.0,2007-10-13,2007-10-16,Tunisia
+Biological,Epidemic,Cholera,1133.0,35687.0,2007-07-01,2007-01-01,Somalia
+Hydrological,Flood,,52.0,200000.0,2019-09-01,2019-09-15,Niger
+Hydrological,Flood,,,423.0,2019-09-01,2019-09-01,Chad
+Hydrological,Flood,,4.0,3000.0,2007-11-15,2007-11-18,Uganda
+Biological,Epidemic,Ebola Haemorrhagic Fever,36.0,176.0,2007-08-20,2008-02-01,Uganda
+Hydrological,Flood,,,25000.0,2007-10-26,2007-10-26,Congo
+Biological,Epidemic,,200.0,,2007-12-01,2007-12-09,Nigeria
+Biological,Epidemic,Meningococcal disease,430.0,6516.0,2007-01-01,2007-03-11,Sudan
+Biological,Epidemic,Rift Valley Fever,96.0,233.0,2007-10-18,2007-11-14,Sudan
+Biological,Epidemic,Unknown,,468.0,2007-10-02,2007-11-29,Angola
+Biological,Epidemic,Cholera,16.0,2825.0,2007-08-03,2007-10-30,Senegal
+Hydrological,Flood,,,1500.0,2007-04-01,2007-04-01,Tunisia
+Biological,Epidemic,Hepatitis E Virus,96.0,5761.0,2007-11-01,2009-01-19,Uganda
+Biological,Epidemic,Cholera,78.0,7547.0,2007-10-01,2008-10-01,Mozambique
+Biological,Epidemic,Cholera,6.0,562.0,2007-01-01,2007-11-01,Djibouti
+Meteorological,Storm,,,4500.0,2008-01-01,2008-01-01,Lesotho
+Geophysical,Earthquake,,11.0,17355.0,2008-02-03,2008-02-03,Dem. Rep. Congo
+Biological,Epidemic,Meningitis,250.0,2000.0,2008-01-01,2008-07-01,Burkina Faso
+Biological,Epidemic,Meningitis,44.0,,2008-01-01,2008-02-01,Côte d'Ivoire
+Biological,Epidemic,Cholera,43.0,,2008-02-01,2008-02-01,Kenya
+Biological,Epidemic,Cholera,13.0,663.0,2008-02-01,2008-02-01,Somalia
+Meteorological,Storm,"Cyclone ""Jokwe""",,400.0,2008-03-05,2008-03-06,Madagascar
+Hydrological,Flood,,,11410.0,2021-02-12,2021-02-17,Mozambique
+Hydrological,Flood,,1.0,500.0,2003-03-23,2003-03-26,South Africa
+Biological,Epidemic,Meningitis,29.0,269.0,2008-01-01,2008-02-01,Benin
+Biological,Epidemic,Meningitis,111.0,1991.0,2008-01-01,2008-12-08,Niger
+Biological,Epidemic,Cholera,170.0,1746.0,2008-06-01,2008-06-01,Sierra Leone
+Biological,Epidemic,Cholera,28.0,388.0,2008-05-02,2008-06-27,Uganda
+Biological,Epidemic,Cholera,1.0,103.0,2008-06-05,2008-06-25,Congo
+Biological,Epidemic,Cholera,25.0,527.0,2008-02-01,2008-08-17,Congo
+Biological,Epidemic,Rift Valley Fever,20.0,520.0,2008-01-01,2008-06-29,Madagascar
+Hydrological,Flood,,,340.0,2008-07-01,2008-07-01,Liberia
+Hydrological,Flood,,9.0,25000.0,2008-07-01,2008-09-01,Cameroon
+Hydrological,Flood,,,750.0,2008-07-21,2008-07-21,Guinea-Bissau
+Biological,Epidemic,Cholera,97.0,,2008-09-01,2008-09-01,Nigeria
+Biological,Epidemic,Cholera,35.0,,2008-03-01,2008-03-01,Nigeria
+Hydrological,Flood,,,8000.0,2008-09-15,2008-09-15,Chad
+Biological,Epidemic,Cholera,221.0,14004.0,2008-05-01,2008-11-19,Guinea-Bissau
+Biological,Epidemic,Cholera,62.0,814.0,2008-01-01,2008-10-01,Niger
+Biological,Epidemic,Hepatite E,22.0,1755.0,2008-01-01,2008-10-01,Chad
+Biological,Epidemic,Cholera,2.0,527.0,2008-09-22,2008-10-02,Benin
+Biological,Epidemic,Acute Watery Diarrhoea (AWD),3.0,163.0,2008-07-01,2008-10-01,Sudan
+Biological,Epidemic,Cholera,12.0,49.0,2008-09-29,2008-10-05,Sudan
+Biological,Epidemic,Acute Watery Diarrhoea (AWD),20.0,3134.0,2008-09-01,2008-10-01,Ethiopia
+Biological,Epidemic,Cholera,134.0,7495.0,2008-01-01,2009-05-17,Angola
+Biological,Epidemic,Cholera,2.0,15.0,2008-11-01,2009-05-24,Botswana
+Biological,Epidemic,Cholera,113.0,5269.0,2008-11-15,2009-05-24,Malawi
+Biological,Epidemic,Cholera,65.0,12752.0,2008-11-15,2009-05-31,South Africa
+Biological,Epidemic,Cholera,173.0,8312.0,2008-09-10,2009-06-01,Zambia
+Biological,Epidemic,Cholera,4276.0,98349.0,2008-08-15,2009-07-23,Zimbabwe
+Hydrological,Flood,,10.0,2500.0,2021-03-06,2021-03-07,Algeria
+Biological,Epidemic,Cholera,155.0,19310.0,2008-11-01,2009-11-01,Mozambique
+Biological,Epidemic,Cholera,9.0,203.0,2008-10-22,2009-04-17,Namibia
+Biological,Epidemic,Un-identified diseases,46.0,66.0,2008-11-01,2008-12-01,Nigeria
+Biological,Epidemic,Cholera,2.0,192.0,2008-07-21,2008-08-15,Benin
+Biological,Epidemic,Cholera,6.0,686.0,2008-12-12,2009-01-12,Togo
+Biological,Epidemic,Measles,300.0,51000.0,2008-12-01,2009-06-01,Burkina Faso
+Biological,Infestation,,,500000.0,2009-01-15,2009-01-01,Liberia
+Meteorological,Storm,,3.0,2472.0,2009-01-17,2009-01-18,Central African Rep.
+Biological,Epidemic,Meningitis,389.0,2892.0,2009-02-01,2009-04-26,Burkina Faso
+Biological,Epidemic,Meningococcal disease,10.0,86.0,2009-01-01,2009-04-05,Mali
+Biological,Epidemic,Meningococcal disease,169.0,4513.0,2009-01-01,2009-04-05,Niger
+Biological,Epidemic,Meningococcal disease,1701.0,35255.0,2009-01-01,2009-04-05,Nigeria
+Biological,Epidemic,Cholera,9.0,143.0,2009-03-01,2009-03-01,Angola
+Biological,Epidemic,Meningitis,102.0,871.0,2009-01-01,2009-04-01,Chad
+Meteorological,Storm,,,800.0,2009-04-05,2009-04-06,Gabon
+Biological,Epidemic,Cholera,201.0,10048.0,2009-01-01,2009-05-21,Kenya
+Hydrological,Flood,,1.0,11000.0,2009-07-03,2009-07-10,Central African Rep.
+Biological,Epidemic,Cholera,8.0,368.0,2009-03-08,2009-10-29,Uganda
+Hydrological,Flood,,11.0,20000.0,2009-07-12,2009-07-16,South Africa
+Hydrological,Flood,,103.0,1470.0,2009-08-13,2009-08-20,Sierra Leone
+Biological,Epidemic,Cholera,20.0,,2009-06-01,2009-06-01,Nigeria
+Hydrological,Flood,,1.0,10000.0,2009-08-28,2009-08-29,Mauritania
+Biological,Epidemic,Cholera/Acute Watery Diarrhoea,135.0,13652.0,2009-08-01,2009-09-01,Ethiopia
+Hydrological,Flood,,54.0,,2016-02-29,2016-03-01,Angola
+Biological,Epidemic,Cholera,12.0,600.0,2009-10-01,2009-10-01,Tanzania
+Biological,Epidemic,Cholera,109.0,1456.0,2009-09-15,2010-08-01,Cameroon
+Biological,Epidemic,Dengue,6.0,20147.0,2009-09-30,2009-11-29,Cape Verde
+Hydrological,Flood,,3.0,8020.0,2009-08-10,2009-08-11,Chad
+Biological,Epidemic,Cholera,5.0,146.0,2009-08-01,2009-11-22,Zimbabwe
+Biological,Epidemic,Meningitis,18.0,314.0,2009-12-01,2009-12-06,Dem. Rep. Congo
+Biological,Epidemic,Cholera,102.0,10070.0,2009-01-01,2009-11-16,Dem. Rep. Congo
+Biological,Epidemic,Cholera,61.0,5639.0,2009-01-01,2009-11-16,Dem. Rep. Congo
+Biological,Epidemic,Typhoid fever,43.0,466.0,2009-05-05,2010-03-08,Mozambique
+Biological,Epidemic,Cholera,9.0,176.0,2009-10-01,2009-10-26,Uganda
+Biological,Epidemic,Unknown,29.0,100.0,2009-10-01,2009-11-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,24.0,193.0,2009-11-23,2009-12-09,Kenya
+Biological,Epidemic,Cholera,26.0,205.0,2009-11-13,2009-12-14,Kenya
+Biological,Epidemic,Chikungunya,,702.0,2009-10-01,2010-02-15,Madagascar
+Biological,Epidemic,Meales,50.0,1200.0,2009-10-01,2010-02-01,Zimbabwe
+Biological,Epidemic,Cholera,87.0,5198.0,2009-10-19,2010-04-08,Zambia
+Biological,Epidemic,Measles,62.0,11461.0,2009-12-01,2010-08-01,Malawi
+Biological,Epidemic,Diarroheic diseases,107.0,25795.0,2009-01-01,2009-12-01,Angola
+Biological,Epidemic,Cholera,155.0,19310.0,2009-01-01,2009-11-01,Mozambique
+Hydrological,Flood,,14.0,8167.0,2021-04-19,2021-04-19,Angola
+Biological,Epidemic,Meningitis,16.0,104.0,2010-01-01,2010-03-01,Benin
+Biological,Epidemic,Meningitis,841.0,5960.0,2010-01-01,2010-05-31,Burkina Faso
+Biological,Epidemic,Meningitis,27.0,100.0,2010-01-01,2010-03-02,Ghana
+Biological,Epidemic,Meningitis,87.0,977.0,2010-01-01,2010-03-22,Niger
+Biological,Epidemic,Meningitis,156.0,1500.0,2010-01-01,2010-03-24,Nigeria
+Biological,Epidemic,Meningitis,115.0,1090.0,2010-01-01,2010-03-15,Chad
+Biological,Epidemic,Meningitis,60.0,236.0,2010-01-01,2010-03-22,Togo
+Biological,Epidemic,Measles,32.0,2499.0,2010-01-01,2010-03-22,Chad
+Biological,Epidemic,Cholera,31.0,3984.0,2010-01-01,2010-03-22,Dem. Rep. Congo
+Biological,Epidemic,Meningitis,25.0,358.0,2010-01-01,2010-03-22,Dem. Rep. Congo
+Biological,Epidemic,Acute Watery Diarrhoea,16.0,967.0,2010-01-01,2010-03-22,Ethiopia
+Biological,Epidemic,Cholera,46.0,2834.0,2010-01-01,2010-05-26,Kenya
+Biological,Epidemic,Cholera,44.0,3188.0,2010-01-01,2010-03-13,Mozambique
+Biological,Epidemic,Cholera,3.0,120.0,2010-02-04,2010-03-14,Zimbabwe
+Biological,Epidemic,Typhoid fever,5.0,138.0,2010-01-01,2010-03-14,Zimbabwe
+Biological,Epidemic,Cholera,2.0,133.0,2010-01-15,2010-02-08,Benin
+Meteorological,Storm,,,1765.0,2010-04-17,2010-04-18,Gabon
+Hydrological,Mass Movement,,10.0,,2010-04-30,2010-04-30,Kenya
+Hydrological,Flood,,,4960.0,2004-02-01,2004-06-02,Botswana
+Biological,Epidemic,Chikungunya,,443.0,2010-04-10,2010-06-22,Gabon
+Meteorological,Extreme Temperature,,60.0,,2002-06-01,2002-06-01,Nigeria
+Hydrological,Flood,,1.0,15486.0,2010-06-25,2010-06-27,Liberia
+Hydrological,Flood,,,1000.0,2004-06-17,2004-06-18,Nigeria
+Hydrological,Mass Movement,,16.0,5.0,2010-08-09,2010-08-09,Sierra Leone
+Biological,Epidemic,Cholera,16.0,240.0,2010-08-01,2010-08-01,Niger
+Biological,Epidemic,Cholera,1716.0,41787.0,2010-07-23,2010-09-01,Nigeria
+Biological,Epidemic,Cholera,92.0,1730.0,2010-06-01,2010-09-21,Chad
+Biological,Epidemic,Cholera,515.0,7869.0,2010-05-01,2010-08-01,Cameroon
+Biological,Epidemic,Dengue,,108.0,2010-04-01,2010-10-01,Gabon
+Biological,Epidemic,Cholera,7.0,800.0,2010-10-01,2010-10-01,Benin
+Biological,Epidemic,Wild Poliovirus Type 1,219.0,524.0,2010-10-17,2010-11-22,Congo
+Biological,Epidemic,Yellow Fever,48.0,190.0,2010-11-16,2010-12-29,Uganda
+Biological,Epidemic,Measles,11.0,1046.0,2010-12-27,2011-04-14,Kenya
+Biological,Infestation,,,2300000.0,2010-10-01,2011-05-01,Madagascar
+Climatological,Drought,,,200258.0,2010-11-01,2011-07-01,Djibouti
+Meteorological,Storm,,12.0,,2011-01-12,2011-01-12,Mozambique
+Meteorological,Extreme Temperature,,13.0,113.0,2004-07-26,2004-07-30,
+Biological,Epidemic,Measles,33.0,6524.0,2011-01-01,2011-03-01,Dem. Rep. Congo
+Biological,Epidemic,Meningitis,124.0,2085.0,2011-03-18,2011-03-20,Chad
+Biological,Epidemic,Cholera,13.0,325.0,2011-01-01,2011-01-01,Mozambique
+Biological,Epidemic,Cholera,45.0,1140.0,2011-01-01,2011-07-17,Zimbabwe
+Biological,Epidemic,Cholera,16.0,172.0,2011-09-01,2011-10-14,Central African Rep.
+Biological,Epidemic,Cholera,603.0,22233.0,2011-01-03,2012-01-22,Dem. Rep. Congo
+Biological,Epidemic,Cholera,32.0,708.0,2011-06-14,2011-12-27,Congo
+Biological,Epidemic,Chukungunya,,9424.0,2011-05-01,2011-07-01,Congo
+Meteorological,Storm,,1.0,1831.0,2011-06-11,2011-06-19,Central African Rep.
+Biological,Epidemic,Measles,33.0,687.0,2011-06-01,2011-06-01,Congo
+Biological,Epidemic,Cholera,639.0,16706.0,2011-01-01,2011-10-14,Cameroon
+Biological,Epidemic,Cholera,694.0,21382.0,2011-06-27,2011-10-14,Nigeria
+Biological,Epidemic,Cholera,101.0,10002.0,2011-09-01,2011-10-14,Ghana
+Biological,Epidemic,Cholera,49.0,1190.0,2011-09-01,2011-10-14,Mali
+Biological,Epidemic,Cholera,48.0,2130.0,2011-09-01,2011-10-14,Niger
+Biological,Epidemic,Cholera,433.0,16038.0,2011-08-09,2011-10-14,Chad
+Biological,Epidemic,Cholera,12.0,600.0,2011-08-05,2011-09-14,Burundi
+Geophysical,Earthquake,,1.0,791.0,2000-10-02,2000-10-02,Tanzania
+Hydrological,Flood,,7.0,13000.0,2011-08-10,2011-09-08,Niger
+Hydrological,Mass Movement,,13.0,,2000-10-09,2000-10-09,Angola
+Hydrological,Flood,,3.0,5242.0,2020-03-02,2020-03-10,Rwanda
+Biological,Epidemic,Lassa Fever,10.0,29.0,2012-01-11,2012-01-20,Nigeria
+Meteorological,Storm,Cyclone Giovanna,35.0,250284.0,2012-02-14,2012-02-15,Madagascar
+Meteorological,Storm,,,1943.0,2012-02-15,2012-02-19,Central African Rep.
+Biological,Epidemic,Cholera,40.0,600.0,2012-03-01,2012-04-01,Dem. Rep. Congo
+Biological,Epidemic,Meningitis,88.0,1708.0,2012-01-01,2012-03-25,Chad
+Biological,Epidemic,Cholera,118.0,5279.0,2012-01-01,2012-09-01,Uganda
+Meteorological,Storm,,,1950.0,2012-05-01,2012-05-01,Central African Rep.
+Hydrological,Flood,,8.0,505.0,2020-05-01,2020-05-04,Rwanda
+Biological,Epidemic,Measles,20.0,201.0,2012-07-01,2012-07-01,Dem. Rep. Congo
+Hydrological,Flood,,1.0,77845.0,2012-06-01,2012-06-01,Gabon
+Biological,Epidemic,Ebola,35.0,116.0,2012-08-03,2012-08-24,Uganda
+Biological,Epidemic,Cholera,105.0,5523.0,2012-02-02,2012-09-01,Guinea
+Biological,Epidemic,Cholera,300.0,23009.0,2012-01-01,2013-01-08,Sierra Leone
+Biological,Epidemic,Ebola,36.0,33.0,2012-08-17,2012-10-19,Dem. Rep. Congo
+Hydrological,Flood,,6.0,8968.0,2019-09-10,2019-09-20,Senegal
+Biological,Epidemic,Cholera,512.0,22792.0,2012-01-01,2012-08-26,Dem. Rep. Congo
+Biological,Epidemic,Cholera,38.0,4975.0,2012-01-01,2012-09-01,Ghana
+Biological,Epidemic,Cholera,81.0,4433.0,2012-01-01,2012-10-17,Niger
+Biological,Epidemic,Cholera,2.0,153.0,2012-08-03,2012-08-27,Zambia
+Biological,Epidemic,Cholera,16.0,441.0,2012-10-05,2012-10-17,Niger
+Biological,Epidemic,Menigitis,38.0,466.0,2012-01-01,2012-07-16,Ghana
+Geophysical,Earthquake,,4.0,319.0,2006-03-20,2006-03-20,Algeria
+Hydrological,Flood,,5.0,2025.0,2012-11-17,2012-11-18,Congo
+Biological,Epidemic,Yellow fever,171.0,678.0,2012-09-02,2013-01-09,Sudan
+Biological,Epidemic,Ebola,3.0,585.0,2012-10-25,2012-12-02,Uganda
+Hydrological,Flood,,14.0,7589.0,2012-12-08,2012-12-09,Congo
+Meteorological,Storm,,,300.0,2001-05-23,2001-05-23,St. Helena
+Biological,Epidemic,Cholera,18.0,560.0,2013-01-08,2013-01-21,Ghana
+Biological,Epidemic,Cholera,2.0,317.0,2013-01-28,2013-02-13,Mozambique
+Meteorological,Storm,,,8744.0,2013-03-04,2013-03-04,Central African Rep.
+Hydrological,Flood,,11.0,82.0,2013-03-30,2013-04-03,Mauritius
+Hydrological,Flood,,9.0,1000.0,2013-04-06,2013-04-07,Angola
+Biological,Epidemic,Cholera,7.0,217712.0,2013-01-16,2013-04-18,Uganda
+Meteorological,Storm,,3.0,2870.0,2013-06-01,2013-06-01,South Africa
+Biological,Epidemic,Yellow Fever,55.0,141.0,2013-07-01,2013-07-22,Ethiopia
+Biological,Epidemic,Yellow fever,55.0,141.0,2013-07-01,2013-07-22,Ethiopia
+Biological,Epidemic,Poliovirus (WPV1),,6.0,2013-10-14,2013-12-01,Ethiopia
+Biological,Epidemic,Poliovirus (WPV1),,3.0,2013-10-14,2013-10-01,S. Sudan
+Biological,Epidemic,Cholera,7.0,168.0,2013-08-30,2013-10-28,Togo
+Biological,Epidemic,Measles,2.0,129.0,2013-01-01,2013-10-01,Uganda
+Biological,Epidemic,Cholera,6.0,486.0,2013-08-01,2013-12-31,Benin
+Hydrological,Flood,,,32993.0,2013-09-03,2013-09-04,Central African Rep.
+Biological,Epidemic,Cholera,16.0,1071.0,2013-04-01,2013-06-01,Congo
+Hydrological,Flood,,16.0,2000.0,2013-11-30,2013-12-07,Libya
+Biological,Epidemic,Pneumonic plague,113.0,660.0,2013-10-05,2014-01-13,Madagascar
+Biological,Epidemic,Measles,,143.0,2013-12-01,2013-12-01,Guinea
+Biological,Epidemic,Hepatitis E Virus,19.0,656.0,2013-10-01,2013-12-01,Uganda
+Biological,Epidemic,Cholera,17.0,518.0,2013-11-01,2013-01-01,Namibia
+Hydrological,Mass Movement,,11.0,,2014-01-18,2014-01-19,Dem. Rep. Congo
+Biological,Epidemic,Ebola,2544.0,3814.0,2014-02-01,2015-12-29,Guinea
+Biological,Epidemic,Ebola,,,2014-02-01,2014-12-22,Gambia
+Biological,Epidemic,Ebola,4810.0,10682.0,2014-03-21,2016-01-14,Liberia
+Biological,Epidemic,Ebola,6.0,7.0,2014-10-24,2015-01-18,Mali
+Biological,Epidemic,Ebola,8.0,21.0,2014-03-01,2015-04-20,Nigeria
+Biological,Epidemic,Ebola,,1.0,2014-03-08,2014-10-13,Senegal
+Biological,Epidemic,Ebola,3956.0,14124.0,2014-03-10,2015-08-01,Sierra Leone
+Biological,Epidemic,,22.0,586.0,2014-04-29,2014-06-03,S. Sudan
+Biological,Epidemic,Cholera,127.0,5900.0,2014-04-23,2014-08-17,S. Sudan
+Biological,Epidemic,Cholera,249.0,56469.0,2014-06-01,2015-06-01,Ghana
+Biological,Epidemic,Cholera,77.0,1680.0,2014-04-24,2014-08-12,Cameroon
+Biological,Epidemic,Cholera,34.0,376.0,2014-08-18,2014-08-28,Cameroon
+Biological,Epidemic,Cholera,755.0,35996.0,2014-04-01,2014-12-01,Nigeria
+Biological,Animal Incident,,12.0,5.0,2014-11-17,2014-11-17,Niger
+Geophysical,Volcanic Activity,Pico do Fogo,,2500.0,2014-11-23,2015-01-31,Cape Verde
+Biological,Epidemic,Cholera,8.0,183.0,2014-12-12,2014-12-20,Niger
+Hydrological,Flood,,5.0,300.0,2014-12-16,2014-12-18,Mozambique
+Biological,Epidemic,Ebola,49.0,17.0,2014-08-11,2014-11-05,Dem. Rep. Congo
+Biological,Epidemic,Cholera,43.0,5118.0,2014-12-25,2015-03-02,Mozambique
+Biological,Epidemic,Cholera,11.0,693.0,2015-02-01,2015-06-01,Malawi
+Biological,Epidemic,Cholera,,11.0,2015-02-01,2015-02-01,Zimbabwe
+Climatological,Wildfire,,,30000.0,2022-02-24,2022-02-25,Central African Rep.
+Biological,Epidemic,Meningitis,145.0,1456.0,2014-12-31,2015-05-02,Niger
+Biological,Epidemic,Cholera,72.0,3459.0,2014-12-26,2016-05-01,Kenya
+Hydrological,Flood,,,500.0,2001-12-01,2001-12-01,Uganda
+Hydrological,Flood,,26.0,24000.0,2015-02-27,2015-02-27,Madagascar
+Biological,Epidemic,Measles,6.0,3370.0,2015-04-01,2015-04-01,Niger
+Biological,Epidemic,Cholera,97.0,2108.0,2015-01-01,2015-04-01,Nigeria
+Biological,Epidemic,Cholera,47.0,1818.0,2015-05-28,2015-09-05,S. Sudan
+Geophysical,Earthquake,,3.0,390.0,2015-08-06,2015-08-07,Dem. Rep. Congo
+Meteorological,Storm,,1.0,1116.0,2015-04-24,2015-04-24,Central African Rep.
+Hydrological,Flood,,,900000.0,2015-10-27,2015-10-27,Somalia
+Hydrological,Flood,,,35000.0,2015-10-16,2015-10-28,Algeria
+Hydrological,Flood,,18.0,,2015-12-11,2015-12-12,Dem. Rep. Congo
+Biological,Epidemic,Cholera,542.0,32879.0,2015-08-15,2018-01-07,Tanzania
+Biological,Epidemic,Cholera,40.0,4833.0,2015-05-01,2015-11-01,Tanzania
+Biological,Epidemic,Meningitis,85.0,465.0,2015-12-01,2016-02-10,Ghana
+Meteorological,Storm,Cyclone Megh,,,2015-11-08,2015-11-08,Somalia
+Hydrological,Flood,,23.0,5600.0,2016-04-16,2016-04-22,Angola
+Hydrological,Flood,,13.0,27933.0,2016-04-22,2016-04-24,Tanzania
+Biological,Epidemic,Dengue,,253.0,2016-01-01,2016-07-12,Seychelles
+Geophysical,Earthquake,,4.0,590.0,2016-09-10,2016-09-10,Uganda
+Biological,Epidemic,,19.0,632.0,2016-09-19,2016-09-19,Sudan
+Biological,Epidemic,Cholera,,172.0,2016-10-21,2016-11-01,Ghana
+Biological,Epidemic,Yellow fever,,551.0,2016-01-01,2016-05-11,Dem. Rep. Congo
+Biological,Epidemic,Measles,55.0,2087.0,2016-01-01,2016-10-31,Dem. Rep. Congo
+Biological,Epidemic,Rift Valley,23.0,78.0,2016-08-01,2016-11-21,Niger
+Biological,Epidemic,Cholera,13.0,678.0,2016-08-16,2016-09-03,Benin
+Biological,Epidemic,Cholera,1.0,193.0,2016-08-03,2016-09-08,Burundi
+Meteorological,Storm,,12.0,1700.0,2016-10-24,2016-10-24,Mozambique
+Biological,Epidemic,Meningitis,1166.0,14518.0,2016-11-01,2017-07-17,Nigeria
+Biological,Epidemic,Diarrhoea/Cholera,497.0,14165.0,2016-01-01,2016-11-01,Somalia
+Biological,Epidemic,Lassa fever,121.0,914.0,2016-12-04,2017-11-10,Nigeria
+Climatological,Drought,,,3400000.0,2016-06-01,2018-01-01,Kenya
+Hydrological,Flood,,30.0,10600.0,2020-04-18,2020-04-24,Angola
+Biological,Epidemic,Measles,,122.0,2017-01-01,2017-03-01,Guinea
+Biological,Epidemic,Cholera,302.0,13126.0,2017-01-01,2017-04-01,Somalia
+Biological,Epidemic,Meningitis,84.0,1294.0,2017-01-01,2017-03-31,Niger
+Hydrological,Flood,,3.0,100000.0,2020-05-08,2020-05-08,Uganda
+Meteorological,Storm,Clovis,1.0,7313.0,2007-01-03,2007-01-03,Madagascar
+Biological,Epidemic,Hepatitis E Virus,34.0,1096.0,2017-06-29,2017-06-29,Niger
+Biological,Epidemic,Hepatitis E,,146.0,2017-05-03,2017-07-02,Nigeria
+Biological,Epidemic,Cholera,11.0,1558.0,2017-06-07,2017-08-03,Nigeria
+Biological,Epidemic,Acute Watery Diarrhoea,657.0,30762.0,2017-09-18,2017-09-18,Sudan
+Hydrological,Flood,,,13150.0,2018-08-07,2018-08-19,Mali
+Biological,Epidemic,Plague,207.0,2384.0,2017-08-19,2017-11-26,Madagascar
+Biological,Epidemic,Cholera,58.0,652.0,2017-08-14,2017-10-11,Chad
+Biological,Epidemic,Dengue,18.0,9029.0,2017-01-01,2017-11-11,Burkina Faso
+Biological,Epidemic,Cholera,43.0,1022.0,2017-11-25,2018-02-13,Dem. Rep. Congo
+Biological,Epidemic,Cholera,6.0,450.0,2017-11-24,2018-02-11,Malawi
+Biological,Epidemic,Chikungunya,,453.0,2017-12-15,2018-02-03,Kenya
+Biological,Epidemic,Cholera,1.0,1799.0,2017-08-14,2018-02-11,Mozambique
+Biological,Epidemic,Cholera,76.0,3967.0,2017-01-01,2017-11-29,Kenya
+Biological,Epidemic,Cholera,89.0,4371.0,2017-09-28,2018-02-27,Zambia
+Biological,Epidemic,Dengue,2.0,621.0,2017-04-22,2017-07-11,Côte d'Ivoire
+Climatological,Drought,,,6900000.0,2017-02-01,2020-03-01,Zimbabwe
+Climatological,Drought,,,1260000.0,2017-01-01,2018-12-01,Madagascar
+Climatological,Drought,,,70000.0,2017-11-01,2017-12-01,Cape Verde
+Meteorological,Storm,Cyclone 'Ava',73.0,161318.0,2018-01-05,2018-01-08,Madagascar
+Hydrological,Mass Movement,,17.0,300.0,2018-02-18,2018-02-19,Mozambique
+Biological,Epidemic,Cholera,31.0,1000.0,2018-02-15,2018-02-28,Uganda
+Biological,Epidemic,Lassa fever,90.0,1081.0,2018-01-01,2018-07-08,Nigeria
+Meteorological,Storm,Cyclone 'Sagar',2.0,25000.0,2018-05-20,2018-05-21,Djibouti
+Hydrological,Flood,,,2750.0,2018-06-18,2018-06-27,Sudan
+Biological,Epidemic,Ebola,33.0,10.0,2018-05-08,2018-08-03,Dem. Rep. Congo
+Biological,Epidemic,Cholera,78.0,3824.0,2018-07-05,2018-10-01,Niger
+Biological,Epidemic,Ebola,2287.0,3470.0,2018-08-01,2019-12-13,Dem. Rep. Congo
+Biological,Epidemic,Measles,,98415.0,2018-10-04,2019-01-07,Madagascar
+Biological,Epidemic,Typhoid fever,12.0,5164.0,2018-08-07,2018-11-16,Zimbabwe
+Biological,Epidemic,Cholera,57.0,942.0,2018-05-18,2018-11-23,Cameroon
+Biological,Epidemic,Cholera,2.0,139.0,2018-10-09,2018-11-12,Angola
+Biological,Epidemic,Hepatitis E,1.0,119.0,2018-09-10,2018-11-18,Central African Rep.
+Biological,Epidemic,Measles,90.0,4227.0,2018-05-30,2019-04-12,Chad
+Hydrological,Flood,,10.0,,2018-04-01,2018-04-16,Rwanda
+Biological,Epidemic,Measles,,4000.0,2018-10-01,2019-04-01,Ethiopia
+Biological,Epidemic,Cholera,69.0,10730.0,2018-09-05,2019-03-12,Zimbabwe
+Climatological,Drought,,,320000.0,2018-04-01,2021-12-01,Senegal
+Hydrological,Flood,,9.0,,2019-01-19,2019-01-20,Madagascar
+Biological,Epidemic,Measles,,16246.0,2019-01-01,2019-02-01,Congo
+Meteorological,Storm,Cyclone 'Idai',3.0,1100.0,2019-03-15,2019-03-15,Madagascar
+Biological,Epidemic,Measles,72.0,22000.0,2019-01-01,2019-05-01,Nigeria
+Biological,Epidemic,Cholera and AWD,,3577.0,2019-03-01,2019-04-18,Mozambique
+Biological,Epidemic,Measles,7.0,937.0,2019-01-01,2019-05-01,S. Sudan
+Biological,Epidemic,Cholera,26.0,3847.0,2019-01-01,2019-05-02,Kenya
+Biological,Epidemic,Cholera,3.0,216.0,2019-04-01,2019-05-02,Tanzania
+Biological,Epidemic,Cholera,260.0,12000.0,2019-01-01,2019-06-01,Congo
+Biological,Epidemic,Measles,3559.0,180000.0,2019-01-01,2019-09-01,Congo
+Hydrological,Flood,,8.0,2500.0,2019-05-26,2019-05-29,Uganda
+Biological,Epidemic,Cholera,15.0,871.0,2019-04-25,2019-06-23,Ethiopia
+Hydrological,Flood,,,5381.0,2019-08-01,2019-08-01,Sierra Leone
+Biological,Epidemic,Cholera,4.0,665.0,2019-08-01,2019-08-21,Nigeria
+Biological,Epidemic,Yellow fever,22.0,169.0,2019-01-01,2019-09-30,Nigeria
+Hydrological,Flood,,,44918.0,2019-09-01,2019-11-13,Central African Rep.
+Biological,Epidemic,Cholera,24.0,510.0,2019-08-29,2019-12-05,Sudan
+Hydrological,Flood,,3.0,4750.0,2019-10-15,2019-11-06,Uganda
+Biological,Epidemic,Measles,3667.0,183837.0,2019-01-01,2019-12-01,Dem. Rep. Congo
+Biological,Epidemic,Cholera,472.0,27000.0,2019-01-01,2019-12-01,Dem. Rep. Congo
+Biological,Infestation,,,,2020-02-01,2020-02-01,Djibouti
+Biological,Infestation,,,,2020-02-01,2020-02-01,Eritrea
+Biological,Infestation,,,,2019-11-01,2020-02-01,Ethiopia
+Biological,Infestation,,,,2020-02-01,2020-02-01,Kenya
+Biological,Infestation,,,,2020-02-01,2020-02-01,Sudan
+Biological,Infestation,,,,2019-11-01,2020-02-01,Somalia
+Biological,Infestation,,,,2020-02-03,2020-02-01,Tanzania
+Biological,Infestation,,,,2020-02-01,2020-02-01,Uganda
+Hydrological,Flood,,14.0,3773.0,2019-12-21,2019-12-28,Burundi
+Biological,Epidemic,Cholera,55.0,930.0,2019-12-01,2020-01-22,Ethiopia
+Biological,Epidemic,Measles,53.0,3600.0,2019-01-01,2020-02-02,Central African Rep.
+Biological,Epidemic,Meningitis,13.0,24.0,2019-01-06,2020-01-22,Benin
+Hydrological,Flood,,,213000.0,2019-12-01,2020-03-01,Congo
+Biological,Epidemic,Visceral Leishmaniasis (Kala-Azar),29.0,2098.0,2019-01-01,2019-12-01,Sudan
+Climatological,Wildfire,,,405.0,2007-07-01,2007-08-01,
+Climatological,Drought,,,750000.0,2019-01-01,2019-12-31,South Africa
+Climatological,Drought,,,433000.0,2019-01-01,2019-12-01,Lesotho
+Climatological,Wildfire,,2.0,1500.0,2007-07-27,2007-07-30,Swaziland
+Biological,Epidemic,Lassa fever,47.0,365.0,2020-01-01,2020-02-17,Nigeria
+Hydrological,Flood,,1.0,60000.0,2006-02-10,2006-02-15,Algeria
+Hydrological,Flood,,20.0,,2020-03-30,2020-04-02,Congo
+Hydrological,Flood,,8.0,110000.0,2020-04-20,2020-04-26,Djibouti
+Hydrological,Flood,,10.0,50012.0,2020-08-01,2020-09-10,Niger
+Hydrological,Flood,,,1800.0,2013-01-01,2013-01-01,Zambia
+Biological,Epidemic,Ebola,55.0,,2020-06-01,2020-11-11,Dem. Rep. Congo
+Biological,Epidemic,Yellow fever,76.0,222.0,2020-11-01,2020-12-04,Nigeria
+Hydrological,Flood,,11.0,25000.0,2020-05-21,2020-05-25,Uganda
+Hydrological,Flood,,1.0,25000.0,2020-09-11,2020-09-13,Cape Verde
+Biological,Epidemic,Visceral Leishmaniasis (Kala-Azar),38.0,2137.0,2020-01-01,2020-12-01,Sudan
+Climatological,Drought,,,766000.0,2020-09-01,2022-12-01,Lesotho
+Climatological,Drought,,,1680000.0,2020-01-01,2024-02-01,Madagascar
+Climatological,Drought,,,2700000.0,2020-10-01,2020-12-01,Mozambique
+Meteorological,Storm,Tropical cyclone 'Eloise',2.0,1000.0,2021-01-23,2021-01-23,Madagascar
+Meteorological,Storm,Tropical cyclone 'Eloise',,,2021-01-23,2021-01-23,Swaziland
+Biological,Epidemic,Acute watery Diarrhoea/cholera,14.0,3428.0,2023-01-01,2023-04-04,Somalia
+Hydrological,Flood,,16.0,,2021-05-01,2021-05-31,Ethiopia
+Biological,Epidemic,Marburg fever,1.0,173.0,2021-08-06,2021-08-17,Guinea
+Biological,Epidemic,Cholera,3604.0,179089.0,2021-08-01,2021-12-19,Nigeria
+Biological,Epidemic,Visceral Leishmaniasis (Kala-Azar),69.0,2973.0,2021-01-01,2021-12-01,Sudan
+Climatological,Drought,,,12000000.0,2021-03-01,2021-03-01,South Africa
+Hydrological,Flood,,34.0,62114.0,2022-01-17,2022-01-18,Madagascar
+Meteorological,Storm,Cyclone 'Batsirai',1.0,139.0,2022-02-02,2022-02-02,Mauritius
+Meteorological,Storm,Cyclone 'Batsirai',,13.0,2022-02-05,2022-02-06,Réunion
+Meteorological,Storm,Tropical cyclone 'Gombe',2.0,900.0,2022-03-11,2022-03-12,Madagascar
+Hydrological,Flood,,9.0,,2022-04-23,2022-04-23,Dem. Rep. Congo
+Biological,Epidemic,Ebola Virus Disease,5.0,141.0,2022-04-23,2022-07-04,Dem. Rep. Congo
+Hydrological,Flood,,,4416.0,2022-05-12,2022-05-30,Somalia
+Hydrological,Flood,,2.0,153095.0,2022-06-26,2022-10-31,Cameroon
+Biological,Epidemic,Cholera,1769.0,59088.0,2022-03-03,2023-03-17,Malawi
+Hydrological,Flood,,7.0,176000.0,2022-11-13,2022-11-16,Dem. Rep. Congo
+Meteorological,Storm,,,1058.0,2022-11-05,2022-11-05,Swaziland
+Hydrological,Flood,,17.0,56177.0,2022-12-10,2022-12-12,South Africa
+Hydrological,Flood,,62.0,94185.0,2022-11-01,2023-01-01,Malawi
+Hydrological,Flood,,16.0,130.0,2022-12-20,2022-12-26,Uganda
+Hydrological,Flood,,88.0,78271.0,2022-10-01,2023-02-01,Mozambique
+Climatological,Drought,,,2135362.0,2022-06-01,2022-08-01,Chad
+Climatological,Drought,,,3500928.0,2022-01-01,2022-11-01,Burkina Faso
+Climatological,Drought,,,2389127.0,2022-01-01,2022-11-01,Cameroon
+Climatological,Drought,,,2221692.0,2022-01-01,2022-11-01,Central African Rep.
+Climatological,Drought,,,25972806.0,2022-01-01,2022-11-01,Dem. Rep. Congo
+Climatological,Drought,,,2678193.0,2022-01-01,2022-11-01,Malawi
+Climatological,Drought,,,1735753.0,2022-01-01,2022-11-01,Mali
+Climatological,Drought,,,19110398.0,2022-01-01,2022-11-01,Nigeria
+Climatological,Drought,,,11839300.0,2022-01-01,2022-11-01,Sudan
+Biological,Epidemic,Cholera,141.0,33544.0,2023-01-08,2023-01-13,Mozambique
+Biological,Epidemic,Cholera,2.0,118.0,2023-01-21,2023-01-30,Zambia
+Biological,Epidemic,Marburg disease,23.0,1.0,2023-02-13,2023-04-26,Eq. Guinea
+Meteorological,Storm,Tropical cyclone 'Freddy',183.0,1231389.0,2023-02-24,2023-03-11,Mozambique
+Meteorological,Storm,Tropical cyclone 'Freddy',1.0,2500.0,2023-02-21,2023-02-22,Mauritius
+Meteorological,Storm,Tropical cyclone 'Freddy',,25000.0,2023-02-21,2023-02-21,Réunion
+Meteorological,Storm,Tropical cyclone 'Freddy',2.0,,2023-02-24,2023-03-08,Zimbabwe
+Biological,Epidemic,Cholera,1.0,178.0,2023-02-22,2023-03-10,S. Sudan
+Hydrological,Flood,,21.0,100003.0,2023-03-12,2023-03-24,Somalia
+Hydrological,Flood,,3.0,500.0,2023-03-23,2023-03-27,South Africa
+Hydrological,Flood,,36.0,139164.0,2023-03-25,2023-03-30,Kenya
+Hydrological,Flood,,,1976.0,2023-04-01,2023-04-02,Tanzania
+Hydrological,Flood,,131.0,51982.0,2023-05-01,2023-05-03,Rwanda
+Meteorological,Storm,,15.0,17.0,2023-05-06,2023-05-10,Sierra Leone
+Hydrological,Flood,,22.0,468000.0,2023-04-01,2023-05-01,Somalia
+Meteorological,Storm,,5.0,150.0,2023-06-27,2023-06-29,South Africa
+Hydrological,Flood,,2.0,93260.0,2023-07-18,2023-07-19,Cameroon
+Biological,Epidemic,Monkeypox,,13881.0,2023-01-01,2025-02-25,Dem. Rep. Congo
+Biological,Epidemic,"Cholera, shigellosis and salmonellosis",52.0,85992.0,2023-07-17,2023-08-30,Congo
+Hydrological,Flood,,8.0,25072.0,2023-08-06,2023-08-11,Guinea
+Hydrological,Flood,,1.0,7200.0,2023-07-30,2023-07-31,Mauritania
+Hydrological,Flood,,8.0,1668.0,2023-09-02,2023-09-03,Algeria
+Geophysical,Earthquake,,2946.0,845674.0,2023-09-08,2023-09-08,Morocco
+Meteorological,Storm,Storm 'Daniel',13200.0,1600000.0,2023-09-10,2023-09-11,Libya
+Hydrological,Flood,,11.0,5000.0,2023-09-23,2023-09-24,South Africa
+Hydrological,Mass Movement,,27.0,2000.0,2023-10-08,2023-10-09,Cameroon
+Hydrological,Mass Movement,,17.0,,2023-09-17,2023-09-19,Dem. Rep. Congo
+Hydrological,Flood,,,1336.0,2023-09-17,2023-09-19,Nigeria
+Hydrological,Flood,,4.0,278000.0,2023-10-01,2023-10-01,Somalia
+Hydrological,Flood,,,40864.0,2023-10-13,2023-10-19,Ghana
+Hydrological,Flood,,275.0,30000.0,2023-10-05,2023-10-19,Nigeria
+Biological,Epidemic,Cholera,719.0,4217.0,2023-02-12,2024-06-30,Zimbabwe
+Hydrological,Flood,,178.0,695497.0,2023-10-15,2024-01-01,Kenya
+Hydrological,Flood,,60.0,1500000.0,2023-10-01,2023-11-30,Ethiopia
+Hydrological,Flood,,118.0,2480000.0,2023-09-01,2023-11-20,Somalia
+Hydrological,Flood,,4.0,3620.0,2023-11-13,2023-11-23,Dem. Rep. Congo
+Hydrological,Mass Movement,,89.0,6341.0,2023-12-02,2023-12-06,Tanzania
+Hydrological,Flood,,38.0,2896500.0,2023-10-15,2023-11-23,Tanzania
+Hydrological,Flood,,7.0,9346.0,2023-10-26,2023-12-27,Burundi
+Meteorological,Storm,,,6066.0,2023-10-31,2023-11-01,Central African Rep.
+Hydrological,Mass Movement,,14.0,,2023-12-10,2023-12-11,Dem. Rep. Congo
+Hydrological,Flood,,30.0,116275.0,2023-11-30,2023-12-05,Angola
+Meteorological,Storm,,1.0,1217.0,2023-12-19,2023-12-21,South Africa
+Hydrological,Flood,,34.0,1800.0,2023-12-24,2023-12-26,South Africa
+Hydrological,Flood,,40.0,5.0,2023-12-26,2023-12-27,Dem. Rep. Congo
+Hydrological,Mass Movement,,22.0,,2023-12-25,2023-12-25,Dem. Rep. Congo
+Biological,Epidemic,Cholera,740.0,20102.0,2023-10-01,2024-06-01,Zambia
+Hydrological,Flood,,23.0,1800000.0,2023-12-07,2024-01-15,Congo
+Meteorological,Storm,,2.0,968.0,2023-12-22,2023-12-28,Lesotho
+Biological,Epidemic,Cholera,60.0,4956.0,2023-12-06,2024-02-05,Somalia
+Biological,Epidemic,Dengue,2.0,4002.0,2023-11-06,2024-09-18,Cape Verde
+Biological,Epidemic,Measles,10.0,3050.0,2023-12-01,2024-03-01,Burkina Faso
+Biological,Epidemic,Dengue,35.0,1163.0,2023-01-01,2024-01-01,Mali
+Climatological,Drought,,,699049.0,2023-12-01,2025-01-01,Lesotho
+Climatological,Drought,,,3300000.0,2023-10-01,2024-05-01,Mozambique
+Climatological,Drought,,,37000.0,2023-07-01,2024-06-01,Botswana
+Meteorological,Storm,Tropical cyclone 'Alvaro',10.0,25837.0,2024-01-01,2024-01-02,Madagascar
+Meteorological,Storm,Cyclone 'Belal',2.0,100000.0,2024-01-15,2024-01-16,Mauritius
+Meteorological,Storm,Cyclone 'Belal',4.0,700.0,2024-01-15,2024-01-15,Réunion
+Hydrological,Mass Movement,,22.0,,2024-01-13,2024-01-13,Tanzania
+Climatological,Wildfire,,,250.0,2024-01-01,2024-01-31,South Africa
+Meteorological,Storm,,46.0,7813.0,2024-01-07,2024-01-01,South Africa
+Hydrological,Flood,,6.0,14004.0,2024-02-27,2024-03-07,Malawi
+Meteorological,Storm,,,655.0,2024-03-02,2024-03-07,Burundi
+Meteorological,Storm,Storm 'Monica' (Elfi),2.0,,2024-03-08,2024-03-09,
+Meteorological,Storm,,2.0,527.0,2024-03-16,2024-03-21,Dem. Rep. Congo
+Hydrological,Flood,,,1000.0,2024-02-29,2024-02-29,Algeria
+Hydrological,Flood,,353.0,306708.0,2024-03-24,2024-05-03,Kenya
+Meteorological,Storm,Tropîcal storm 'Filipo',2.0,93325.0,2024-03-12,2024-03-12,Mozambique
+Meteorological,Storm,Cyclone 'Gamane',22.0,89469.0,2024-03-26,2024-03-29,Madagascar
+Meteorological,Storm,,1.0,507.0,2024-04-03,2024-04-03,Nigeria
+Hydrological,Flood,,155.0,200236.0,2024-04-02,2024-05-02,Tanzania
+Meteorological,Storm,,1.0,13895.0,2024-04-08,2024-04-08,South Africa
+Hydrological,Flood,,13.0,15002.0,2024-04-11,2024-04-12,Kenya
+Biological,Epidemic,Cholera,149.0,10342.0,2024-01-31,2024-05-20,Comoros
+Hydrological,Mass Movement,,75.0,,2024-04-13,2024-04-13,Dem. Rep. Congo
+Hydrological,Flood,,77.0,57804.0,2024-04-01,2024-05-01,Uganda
+Hydrological,Flood,,29.0,237175.0,2024-04-01,2024-05-02,Burundi
+Hydrological,Flood,,9.0,226000.0,2024-04-19,2024-05-02,Somalia
+Hydrological,Flood,,10.0,,2024-04-23,2024-04-24,Kenya
+Hydrological,Flood,,1.0,3805.0,2024-03-01,2024-04-29,Chad
+Hydrological,Flood,,300.0,2190000.0,2024-01-11,2024-01-20,Dem. Rep. Congo
+Hydrological,Flood,,14.0,27.0,2024-04-20,2024-05-02,Rwanda
+Hydrological,Flood,,21.0,46620.0,2024-06-01,2024-06-03,South Africa
+Hydrological,Flood,,5.0,181548.0,2024-04-01,2024-05-24,Ethiopia
+Hydrological,Flood,,26.0,227.0,2024-06-13,2024-06-25,Côte d'Ivoire
+Hydrological,Flood,,11.0,289430.0,2024-03-01,2024-05-01,Dem. Rep. Congo
+Hydrological,Flood,,396.0,1527058.0,2024-06-11,2024-10-01,Niger
+Hydrological,Flood,,2.0,51000.0,2024-06-28,2024-07-09,Liberia
+Hydrological,Mass Movement,,257.0,15527.0,2024-07-01,2024-07-01,Ethiopia
+Hydrological,Flood,,,7684.0,2024-05-29,2024-06-07,Burkina Faso
+Meteorological,Extreme Temperature,,21.0,,2024-07-22,2024-07-24,Morocco
+Hydrological,Flood,,132.0,317107.0,2024-06-01,2024-08-27,Sudan
+Hydrological,Flood,,576.0,1941869.0,2024-08-01,2024-09-30,Chad
+Hydrological,Mass Movement,,13.0,,2024-08-05,2024-08-05,Ethiopia
+Hydrological,Mass Movement,,34.0,1014.0,2024-08-09,2024-08-10,Uganda
+Hydrological,Flood,,5.0,176000.0,2024-07-29,2024-07-31,Guinea
+Biological,Epidemic,Cholera,1508.0,57447.0,2024-08-01,2025-03-10,Sudan
+Hydrological,Flood,,321.0,1377411.0,2024-08-20,2024-09-01,Nigeria
+Hydrological,Flood,,38.0,500008.0,2024-08-01,2024-09-30,Cameroon
+Hydrological,Flood,,22.0,168.0,2024-09-06,2024-09-09,Morocco
+Hydrological,Flood,,37.0,414058.0,2024-09-07,2024-09-09,Nigeria
+Hydrological,Flood,,5.0,11000.0,2024-09-05,2024-09-09,Algeria
+Hydrological,Flood,,,1400000.0,2024-08-01,2024-10-01,S. Sudan
+Biological,Epidemic,Maburg,13.0,45.0,2024-09-27,2024-10-10,Rwanda
+Hydrological,Flood,,92.0,380154.0,2024-06-01,2024-09-01,Mali
+Hydrological,Flood,,,23596.0,2024-09-23,2024-10-08,Sierra Leone
+Hydrological,Flood,,10.0,3090.0,2024-10-22,2024-10-25,South Africa
+Hydrological,Flood,,,55600.0,2024-10-01,2024-10-22,Senegal
+Biological,Epidemic,Cholera,1567.0,95549.0,2024-09-28,2025-10-16,S. Sudan
+Meteorological,Storm,,14.0,34.0,2024-11-03,2024-11-03,Uganda
+Biological,Epidemic,Malaria and Diphteria,68.0,651.0,2024-07-01,2024-11-03,Algeria
+Hydrological,Flood,,,12700.0,2024-09-01,2024-10-01,Togo
+Hydrological,Mass Movement,,12.0,,2024-11-05,2024-11-05,Cameroon
+Hydrological,Flood,,,2700.0,2024-08-18,2024-08-01,Central African Rep.
+Biological,Epidemic,Mpox,,3543.0,2024-07-22,2025-02-23,Burundi
+Biological,Epidemic,Mpox,,3391.0,2024-02-01,2025-02-23,Uganda
+Geophysical,Mass Movement,,16.0,10.0,2024-11-12,2024-11-12,Madagascar
+Hydrological,Mass Movement,,11.0,193.0,2024-11-22,2024-11-23,Dem. Rep. Congo
+Hydrological,Flood,,9.0,140.0,2024-11-25,2024-11-27,Tanzania
+Hydrological,Mass Movement,,141.0,30022.0,2024-11-27,2024-11-28,Uganda
+Hydrological,Flood,,13.0,3970.0,2024-12-01,2024-12-05,Kenya
+Hydrological,Flood,,11.0,48828.0,2024-11-27,2024-12-06,Malawi
+Hydrological,Flood,,5.0,3335.0,2024-12-05,2024-12-09,Libya
+Meteorological,Storm,Tropical cyclone 'Chido',,64155.0,2024-12-13,2024-12-17,Comoros
+Meteorological,Storm,Tropical cyclone 'Chido',,135838.0,2024-12-13,2024-12-17,Madagascar
+Meteorological,Storm,Tropical cyclone 'Chido',120.0,454839.0,2024-12-13,2024-12-16,Mozambique
+Meteorological,Storm,Tropical cyclone 'Chido',13.0,45191.0,2024-12-13,2024-12-17,Malawi
+Meteorological,Storm,Tropical cyclone 'Chido',35.0,231373.0,2024-12-13,2024-12-16,Mayotte
+Meteorological,Storm,,,105000.0,2024-11-25,2024-11-25,Botswana
+Hydrological,Flood,,,13400.0,2024-11-25,2024-11-27,Gabon
+Biological,Epidemic,Cholera,759.0,,2024-12-31,2025-06-28,Angola
+Biological,Epidemic,Cholera,42.0,1773.0,2024-10-01,2025-04-07,Mozambique
+Biological,Epidemic,Cholera,8.0,158.0,2025-01-01,2025-02-03,Zambia
+Biological,Epidemic,Cholera,13.0,579.0,2024-11-26,2025-03-12,Zimbabwe
+Meteorological,Storm,Cyclone 'Hidaya',5.0,7775.0,2024-05-03,2024-05-05,Tanzania
+Climatological,Drought,,,6100000.0,2024-04-01,2025-01-01,Malawi
+Climatological,Drought,,,7600000.0,2024-04-01,2024-01-01,Zimbabwe
+Climatological,Drought,,,2800000.0,2024-06-01,2024-08-01,Angola
+Meteorological,Storm,Cyclone 'Dikeledi',3.0,7028.0,2025-01-11,2025-01-12,Madagascar
+Meteorological,Storm,Cyclone 'Dikeledi',6.0,283338.0,2025-01-13,2025-01-14,Mozambique
+Geophysical,Earthquake,,2.0,99000.0,2025-01-04,2025-01-11,Ethiopia
+Meteorological,Storm,Tropical storm 'Faida',,365.0,2025-02-04,2025-02-05,Madagascar
+Biological,Epidemic,Marburg Virus Disease,10.0,2.0,2025-01-13,2025-01-01,Tanzania
+Hydrological,Flood,,,3688.0,2025-02-15,2025-02-16,Madagascar
+Hydrological,Flood,,11.0,,2025-02-15,2025-02-28,Madagascar
+Meteorological,Storm,Cyclone 'Garance',5.0,606.0,2025-02-28,2025-02-28,Réunion
+Meteorological,Storm,Tropical storm 'Honde',4.0,50254.0,2025-02-27,2025-03-02,Madagascar
+Meteorological,Storm,Tropical cyclone 'Jude',1.0,15001.0,2025-03-08,2025-03-15,Madagascar
+Meteorological,Storm,Tropical cyclone 'Jude',16.0,135.0,2025-03-10,2025-03-12,Mozambique
+Meteorological,Storm,Tropical cyclone 'Jude',3.0,20652.0,2025-03-10,2025-03-13,Malawi
+Meteorological,Storm,,,1368.0,2025-03-10,2025-03-13,Benin
+Meteorological,Storm,,,7851.0,2025-03-21,2025-03-25,Tanzania
+Hydrological,Flood,,39.0,181270.0,2025-01-01,2025-03-01,Malawi
+Biological,Epidemic,Leishmaniasis,12.0,39.0,2025-01-03,2025-02-26,Somalia
+Climatological,Wildfire,,,4180.0,2025-01-01,2025-04-01,Sierra Leone
+Hydrological,Flood,,165.0,82724.0,2025-04-04,2025-04-11,Dem. Rep. Congo
+Hydrological,Flood,,16.0,,2025-03-01,2025-04-08,Namibia
+Hydrological,Flood,,2.0,8830.0,2025-04-11,2025-04-11,Dem. Rep. Congo
+Meteorological,Storm,Storm 'Oliver',,,2025-04-12,2025-04-13,
+Hydrological,Flood,,4.0,45000.0,2025-04-15,2025-04-30,Somalia
+Hydrological,Flood,,14.0,84010.0,2025-05-09,2025-05-10,Somalia
+Hydrological,Flood,,154.0,10028.0,2025-05-08,2025-05-09,Dem. Rep. Congo
+Hydrological,Flood,,5.0,1350.0,2025-05-14,2025-05-16,Algeria
+Hydrological,Flood,,26.0,3150.0,2025-05-14,2025-05-15,Tanzania
+Hydrological,Mass Movement,,12.0,7.0,2025-05-20,2025-05-21,Côte d'Ivoire
+Hydrological,Flood,,207.0,8121.0,2025-05-29,2025-06-02,Nigeria
+Hydrological,Flood,,30.0,80579.0,2025-06-14,2025-06-16,Dem. Rep. Congo
+Hydrological,Flood,,88.0,1000.0,2025-06-09,2025-06-20,South Africa
+Meteorological,Storm,,,3017.0,2025-06-10,2025-06-11,Guinea-Bissau
+Meteorological,Storm,,1.0,38624.0,2025-06-01,2025-07-15,Ethiopia
+Hydrological,Flood,,36.0,5580.0,2025-07-27,2025-07-27,Nigeria
+Hydrological,Flood,,,23155.0,2025-08-02,2025-08-05,Eq. Guinea
+Hydrological,Flood,,17.0,119000.0,2025-08-10,2025-08-11,Cape Verde
+Hydrological,Flood,,16.0,800.0,2025-08-01,2025-08-11,Nigeria
+Biological,Epidemic,Diphteria,87.0,1672.0,2025-01-01,2025-09-01,Somalia
+Hydrological,Flood,,,2500.0,2025-08-12,2025-08-19,Central African Rep.
+Meteorological,Storm,,15.0,10.0,2025-08-27,2025-08-27,Guinea
+Hydrological,Flood,,32.0,10000.0,2025-08-27,2025-08-28,Sudan
+Hydrological,Flood,,20.0,960000.0,2025-06-01,2025-09-05,S. Sudan
+Biological,Epidemic,Ebola,45.0,19.0,2025-09-04,2025-12-01,Dem. Rep. Congo
+Hydrological,Flood,,8.0,10767.0,2025-09-10,2025-09-11,Gambia
+Hydrological,Flood,,,11080.0,2025-08-31,2025-09-05,Sierra Leone
+Geophysical,Earthquake,,1.0,43009.0,2025-10-11,2025-10-11,Ethiopia
+Hydrological,Mass Movement,,40.0,235.0,2025-10-30,2025-10-31,Uganda
+Hydrological,Mass Movement,,51.0,6327.0,2025-11-01,2025-11-01,Kenya
+Hydrological,Flood,,,4000.0,2025-10-01,2025-10-01,Egypt
+Biological,Epidemic,Marburg,12.0,78.0,2025-10-23,2025-11-26,Ethiopia
+Hydrological,Flood,,10.0,99291.0,2025-11-11,2025-11-12,Dem. Rep. Congo
+Meteorological,Storm,,,61555.0,2025-11-18,2025-11-19,Congo
+Climatological,Drought,,,2150000.0,2025-01-01,2025-01-01,Kenya
+Hydrological,Flood,,8.0,3000.0,2018-02-22,2018-03-03,Angola
+Hydrological,Flood,,47.0,,2018-05-09,2018-05-10,Kenya
+Hydrological,Mass Movement,,32.0,17.0,2018-05-20,2018-05-26,Ethiopia
+Hydrological,Flood,,101.0,15872.0,2018-07-13,2018-07-16,Nigeria
+Meteorological,Storm,Cyclone 'Kenneth',,2000000.0,2019-04-26,2019-04-26,Tanzania
+Hydrological,Flood,,,15974.0,2019-01-01,2019-01-31,Malawi
+Hydrological,Flood,,10.0,,2019-01-17,2019-01-21,Burundi
+Hydrological,Flood,,60.0,975672.0,2019-03-04,2019-03-10,Malawi
+Hydrological,Flood,,15.0,507.0,2019-05-16,2019-05-16,Mali
+Hydrological,Flood,,5.0,5000.0,2019-05-13,2019-05-17,Tanzania
+Hydrological,Flood,,7.0,5000.0,2019-08-02,2019-08-03,Sierra Leone
+Hydrological,Flood,,18.0,,2019-10-02,2019-10-16,Tanzania
+Hydrological,Mass Movement,,54.0,,2019-10-28,2019-10-28,Cameroon
+Hydrological,Mass Movement,,97.0,120.0,2019-11-23,2019-11-23,Kenya
+Meteorological,Storm,Cyclone 'Belna',,,2019-12-05,2019-12-08,Comoros
+Hydrological,Flood,,2.0,3500.0,2019-12-02,2019-12-11,South Africa
+Hydrological,Mass Movement,,7.0,1000.0,2019-12-13,2019-12-14,Uganda
+Hydrological,Flood,,28.0,58066.0,2019-12-27,2020-01-23,Mozambique
+Hydrological,Flood,,16.0,5393.0,2019-11-01,2019-12-01,Rwanda
+Hydrological,Flood,,12.0,565.0,2019-12-25,2019-12-25,Rwanda
+Hydrological,Flood,,41.0,11190.0,2019-03-01,2020-01-10,Angola
+Hydrological,Flood,,1.0,2250.0,2020-02-04,2020-02-06,Malawi
+Hydrological,Flood,,50.0,26.0,2001-05-18,2001-05-18,Dem. Rep. Congo
+Hydrological,Flood,,40.0,20400.0,2020-03-11,2020-03-15,Egypt
+Hydrological,Flood,,3.0,10000.0,2020-03-16,2020-03-17,Angola
+Hydrological,Flood,,,73000.0,2020-03-14,2020-03-18,Dem. Rep. Congo
+Hydrological,Flood,,,500.0,2020-05-05,2020-05-05,Dem. Rep. Congo
+Hydrological,Flood,,12.0,219000.0,2020-04-20,2020-05-08,Ethiopia
+Hydrological,Flood,,,27000.0,2020-04-13,2020-04-19,Burundi
+Hydrological,Flood,,,18024.0,2020-06-05,2020-06-11,Burkina Faso
+Hydrological,Flood,,6.0,191000.0,2020-06-15,2020-07-20,Somalia
+Hydrological,Flood,,,1042000.0,2020-07-01,2020-12-01,S. Sudan
+Hydrological,Flood,,6.0,7000.0,2020-10-01,2020-10-02,Benin
+Hydrological,Flood,,,49541.0,2020-09-06,2020-09-07,Guinea
+Meteorological,Storm,Tropical cyclone 'Gati',9.0,120000.0,2020-11-22,2020-11-23,Somalia
+Climatological,Drought,,,3700000.0,2020-01-01,2020-12-23,Niger
+Climatological,Drought,,,7100000.0,2021-03-01,2022-12-01,Somalia
+Hydrological,Flood,,1.0,1400.0,2021-02-18,2021-02-22,Madagascar
+Meteorological,Storm,Tropical cyclone 'Eloise',4.0,3200.0,2021-01-24,2021-01-24,South Africa
+Hydrological,Flood,,24.0,10.0,2021-02-01,2021-02-28,Morocco
+Climatological,Drought,,,6800000.0,2021-05-01,2022-02-01,Ethiopia
+Meteorological,Storm,Tropical storm 'Jobo',,30001.0,2021-04-24,2021-04-26,Tanzania
+Geophysical,Volcanic Activity,Mount Nyiragongo,,13365.0,2021-05-22,2021-05-23,Rwanda
+Climatological,Wildfire,,90.0,42503.0,2021-08-09,2021-08-16,Algeria
+Meteorological,Storm,,19.0,,2005-11-27,2005-11-29,
+Geophysical,Volcanic Activity,Cumbre Vieja volcano,1.0,6888.0,2021-09-19,2021-12-25,
+Hydrological,Flood,,5.0,71664.0,2021-08-30,2021-08-31,Guinea
+Hydrological,Flood,,3.0,,2021-10-23,2021-10-26,Tunisia
+Hydrological,Flood,,3.0,6235.0,2021-11-12,2021-11-14,Egypt
+Meteorological,Storm,,23.0,8837.0,2021-12-12,2021-12-30,South Africa
+Hydrological,Flood,,,,2022-01-13,2022-01-21,Zimbabwe
+Hydrological,Flood,,15.0,787.0,2022-01-01,2022-01-27,Rwanda
+Meteorological,Storm,Cyclone 'Emnati',15.0,169000.0,2022-02-23,2022-02-24,Madagascar
+Meteorological,Storm,Tropical cyclone 'Gombe',63.0,736123.0,2022-03-11,2022-03-14,Mozambique
+Hydrological,Flood,,,13000.0,2001-12-14,2001-12-14,Dem. Rep. Congo
+Hydrological,Flood,,32.0,78338.0,2022-07-30,2022-08-05,Uganda
+Hydrological,Flood,,,49536.0,2022-08-25,2022-08-26,Guinea
+Climatological,Drought,,,192168.0,2022-06-01,2022-07-01,Djibouti
+Hydrological,Flood,,,22000.0,2023-01-11,2023-01-30,Zambia
+Hydrological,Flood,,,154608.0,2023-02-07,2023-03-09,Zambia
+Hydrological,Flood,,14.0,239.0,2023-03-31,2023-04-12,Burundi
+Hydrological,Flood,,2830.0,50220.0,2023-05-02,2023-05-05,Dem. Rep. Congo
+Climatological,Wildfire,,34.0,30026.0,2023-07-23,2023-07-24,Algeria
+Hydrological,Flood,,8.0,250.0,2023-06-21,2023-06-26,Ghana
+Hydrological,Flood,,31.0,70000.0,2000-01-08,2000-01-15,Angola
+Hydrological,Flood,,83.0,200.0,2000-01-26,2000-03-27,South Africa
+Hydrological,Flood,,,5000.0,2000-02-01,2000-02-01,Namibia
+Hydrological,Flood,,,272000.0,2000-01-01,2000-01-01,Swaziland
+Hydrological,Flood,,,20000.0,2000-03-01,2000-03-01,Malawi
+Meteorological,Storm,Hudah,1.0,304.0,2000-04-02,2000-04-02,Mozambique
+Hydrological,Flood,,,3500.0,2000-05-01,2000-05-01,Somalia
+Hydrological,Flood,,2.0,4159.0,2000-07-01,2000-07-01,Niger
+Meteorological,Extreme Temperature,,,,2000-08-01,2000-08-01,Morocco
+Hydrological,Flood,,,300.0,2000-10-22,2000-10-25,Morocco
+Hydrological,Mass Movement,,13.0,150.0,2001-01-22,2001-01-22,Tanzania
+Hydrological,Mass Movement,,15.0,,2000-12-20,2000-12-20,Nigeria
+Climatological,Drought,,,231290.0,2000-06-01,2000-01-01,Madagascar
+Meteorological,Storm,,14.0,10.0,2001-01-30,2001-01-30,South Africa
+Climatological,Wildfire,,20.0,,2001-09-04,2001-09-04,South Africa
+Hydrological,Flood,,100.0,175763.0,2001-08-19,2001-10-11,Chad
+Hydrological,Flood,,921.0,45423.0,2001-11-10,2001-11-14,Algeria
+Hydrological,Flood,,,6500.0,2001-11-01,2001-11-14,Somalia
+Hydrological,Flood,,,8750.0,2001-12-30,2001-12-30,Malawi
+Climatological,Drought,,,,2001-04-01,2001-01-01,Burkina Faso
+Climatological,Drought,,,3584558.0,2001-04-01,2002-01-01,Niger
+Climatological,Drought,,,100000.0,2001-01-01,2001-01-01,Mozambique
+Climatological,Drought,,,1000000.0,2001-04-01,2003-01-01,Mauritania
+Climatological,Drought,,,,2001-01-01,2001-01-01,Namibia
+Hydrological,Flood,,,200.0,2002-04-01,2002-04-01,Nigeria
+Hydrological,Flood,,17.0,760.0,2002-04-26,2002-05-28,Uganda
+Hydrological,Flood,,,5220.0,2011-08-01,2011-08-01,Senegal
+Hydrological,Flood,,,100000.0,2002-08-03,2002-08-03,Sudan
+Geophysical,Earthquake,,,250.0,2002-08-24,2002-08-24,Egypt
+Hydrological,Flood,,13.0,4.0,2002-10-09,2002-10-12,Algeria
+Hydrological,Flood,,14.0,70.0,2002-12-20,2002-12-20,Egypt
+Hydrological,Flood,,8.0,246340.0,2002-12-28,2002-12-28,Malawi
+Climatological,Drought,,,500000.0,2002-04-01,2003-01-01,Lesotho
+Climatological,Drought,,,600000.0,2002-11-01,2004-01-01,Madagascar
+Hydrological,Flood,,15.0,50.0,2003-04-02,2003-04-05,Algeria
+Hydrological,Flood,,,,2003-05-04,2003-05-20,Somalia
+Hydrological,Flood,,5.0,1500.0,2003-04-21,2003-06-04,Uganda
+Hydrological,Flood,,7.0,30000.0,2003-08-01,2003-08-01,Niger
+Hydrological,Flood,,35.0,10000.0,2003-11-17,2003-11-18,Morocco
+Hydrological,Flood,,,240.0,2003-09-05,2003-09-05,Central African Rep.
+Hydrological,Flood,,24.0,950.0,2011-06-21,2011-06-22,Nigeria
+Climatological,Drought,,,1000000.0,2003-03-01,2007-01-01,Rwanda
+Hydrological,Flood,,27.0,331700.0,2004-01-27,2004-03-01,Angola
+Hydrological,Flood,,65.0,10600.0,2004-08-08,2004-08-12,Nigeria
+Hydrological,Flood,,25.0,3000.0,2004-08-21,2004-08-23,Nigeria
+Hydrological,Flood,,,20000.0,2004-10-01,2004-10-01,Uganda
+Hydrological,Flood,,25.0,58717.0,2005-03-02,2005-03-15,Madagascar
+Hydrological,Flood,,156.0,235418.0,2005-04-23,2005-04-26,Ethiopia
+Hydrological,Flood,,,18825.0,2005-01-25,2005-02-09,Mozambique
+Hydrological,Flood,,,10000.0,2005-01-27,2005-03-28,Angola
+Hydrological,Flood,,5.0,10000.0,2005-05-18,2005-05-24,Kenya
+Hydrological,Flood,,,2500.0,2008-02-04,2008-02-04,Swaziland
+Hydrological,Flood,,13.0,,2005-09-01,2005-09-01,Ethiopia
+Hydrological,Flood,,2.0,,2005-08-19,2005-08-19,Cameroon
+Hydrological,Flood,,,50000.0,2005-08-20,2005-09-10,Senegal
+Hydrological,Flood,,5.0,156000.0,2005-08-29,2005-09-06,Sudan
+Hydrological,Flood,,,7500.0,2005-09-27,2005-09-30,Mauritania
+Meteorological,Storm,,1.0,,2005-11-28,2005-11-28,Morocco
+Climatological,Drought,,120.0,2150000.0,2005-01-01,2006-01-01,Burundi
+Climatological,Drought,,,600000.0,2005-03-01,2006-03-01,Uganda
+Climatological,Drought,,,5100000.0,2005-10-01,2006-03-01,Malawi
+Hydrological,Flood,,,225.0,2006-01-01,2006-01-01,Angola
+Meteorological,Storm,,,1505.0,2006-01-31,2006-01-31,Burundi
+Meteorological,Storm,,3.0,75066.0,2006-03-08,2006-03-08,Dem. Rep. Congo
+Geophysical,Volcanic Activity,Karthala,,,2006-05-28,2006-05-28,Comoros
+Hydrological,Flood,,,150000.0,2006-08-01,2006-09-01,Sudan
+Hydrological,Flood,,5.0,2000.0,2006-08-04,2006-08-09,Somalia
+Hydrological,Flood,,6.0,3000.0,2006-08-02,2006-08-04,South Africa
+Hydrological,Flood,,3.0,1680.0,2006-08-12,2006-08-21,Uganda
+Hydrological,Flood,,2.0,6000.0,2006-08-23,2006-08-23,Ethiopia
+Hydrological,Flood,,52.0,299000.0,2006-10-26,2006-12-01,Somalia
+Hydrological,Flood,,114.0,723000.0,2006-10-23,2006-12-19,Kenya
+Hydrological,Flood,,2.0,17719.0,2007-01-08,2007-01-08,Malawi
+Hydrological,Flood,,105.0,40000.0,2007-01-17,2007-01-25,Angola
+Meteorological,Storm,Gamède,2.0,,2007-02-25,2007-02-25,Mauritius
+Hydrological,Flood,,15.0,,2007-03-21,2007-03-23,Algeria
+Hydrological,Flood,,,5800.0,2007-06-06,2007-07-11,Ethiopia
+Geophysical,Earthquake,,,300.0,2004-01-10,2004-01-10,Algeria
+Hydrological,Mass Movement,,20.0,6.0,2007-08-10,2007-08-13,Kenya
+Hydrological,Flood,,4.0,8000.0,2007-09-01,2007-10-04,Somalia
+Hydrological,Flood,,7.0,57274.0,2007-07-26,2007-10-10,Niger
+Hydrological,Flood,,,300.0,2007-07-18,2007-07-19,Gambia
+Hydrological,Flood,,68.0,50000.0,2007-08-04,2007-10-21,Nigeria
+Hydrological,Flood,,,20685.0,2007-09-01,2007-09-01,Guinea
+Hydrological,Flood,,20.0,113535.0,2007-12-11,2008-01-03,Mozambique
+Climatological,Wildfire,,8.0,,2007-09-01,2007-09-01,Algeria
+Climatological,Drought,,,410000.0,2007-07-01,2007-01-01,Swaziland
+Climatological,Drought,,,2100000.0,2007-01-01,2009-06-01,Zimbabwe
+Climatological,Drought,,,42750.0,2007-01-01,2007-01-01,Djibouti
+Meteorological,Storm,"Cyclone ""Fame""",12.0,8613.0,2008-01-27,2008-01-27,Madagascar
+Hydrological,Flood,,7.0,81400.0,2008-01-31,2008-03-03,Angola
+Hydrological,Flood,,42.0,65000.0,2008-01-30,2008-03-03,Namibia
+Hydrological,Flood,,5.0,91764.0,2008-08-20,2008-08-28,Ethiopia
+Hydrological,Flood,,,400.0,2008-09-01,2008-10-01,Gambia
+Hydrological,Flood,,3.0,2775.0,2008-09-20,2008-10-01,Burundi
+Hydrological,Flood,,17.0,6310.0,2008-10-04,2008-10-07,Kenya
+Hydrological,Flood,,,200000.0,2019-10-01,2019-10-13,Ethiopia
+Hydrological,Flood,,11.0,23831.0,2008-11-16,2008-11-17,Ethiopia
+Hydrological,Flood,,17.0,3000.0,2008-10-03,2008-10-06,S. Sudan
+Meteorological,Storm,,5.0,3576.0,2008-11-14,2008-11-14,South Africa
+Hydrological,Flood,,4.0,15000.0,2008-02-09,2008-05-01,Zambia
+Hydrological,Flood,,,58000.0,2008-07-01,2008-08-01,Ghana
+Climatological,Drought,,,340000.0,2008-07-01,2009-01-01,Djibouti
+Climatological,Drought,,,3300000.0,2008-01-01,2009-04-01,Somalia
+Climatological,Drought,,,500000.0,2008-12-01,2009-01-01,Mozambique
+Meteorological,Storm,,18.0,,2009-01-03,2009-01-04,South Africa
+Meteorological,Storm,,,2350.0,2009-07-02,2009-07-02,Gambia
+Hydrological,Flood,,92.0,350000.0,2009-03-01,2009-03-19,Namibia
+Meteorological,Storm,"Tropical storm ""Izilda""",,3376.0,2009-03-17,2009-03-27,Madagascar
+Hydrological,Flood,,,8000.0,2009-04-12,2009-04-15,Burundi
+Hydrological,Mass Movement,,27.0,10006.0,2009-06-11,2009-06-12,Côte d'Ivoire
+Hydrological,Flood,,,3789.0,2009-05-10,2009-07-01,Botswana
+Hydrological,Flood,,,,2009-07-01,2009-07-01,Togo
+Climatological,Wildfire,,,125.0,2009-07-12,2009-07-12,Dem. Rep. Congo
+Hydrological,Flood,,,150000.0,2009-09-10,2009-09-18,Nigeria
+Hydrological,Flood,,15.0,,2009-09-10,2009-09-13,Algeria
+Hydrological,Flood,,3.0,4895.0,2009-09-12,2009-09-14,Chad
+Hydrological,Flood,,9.0,151000.0,2009-09-01,2009-09-01,Burkina Faso
+Hydrological,Flood,,16.0,44850.0,2009-10-29,2009-11-04,Kenya
+Climatological,Drought,,,6200000.0,2009-01-01,2010-08-01,Ethiopia
+Hydrological,Mass Movement,,9.0,150.0,2010-02-22,2010-02-22,Zambia
+Hydrological,Mass Movement,,388.0,12795.0,2010-02-25,2010-03-01,Uganda
+Hydrological,Flood,,33.0,10000.0,2010-07-10,2010-07-15,Sudan
+Meteorological,Storm,"Tropical storm ""Hubert""",120.0,192132.0,2010-03-10,2010-03-12,Madagascar
+Hydrological,Mass Movement,,14.0,5937.0,2010-03-26,2010-03-31,Rwanda
+Hydrological,Flood,,45.0,7500.0,2010-06-20,2010-07-05,Ghana
+Hydrological,Flood,,8.0,,2010-06-24,2010-06-27,Côte d'Ivoire
+Hydrological,Flood,,,3000.0,2010-07-26,2010-07-26,Dem. Rep. Congo
+Hydrological,Flood,,3.0,16362.0,2010-07-01,2010-10-07,Sudan
+Hydrological,Flood,,113.0,65084.0,2011-03-01,2011-03-01,Angola
+Meteorological,Storm,,40.0,6000.0,2010-12-15,2011-01-12,South Africa
+Hydrological,Flood,,14.0,3608.0,2011-04-25,2011-05-05,Rwanda
+Climatological,Drought,,,4805679.0,2011-01-01,2012-01-01,Ethiopia
+Hydrological,Flood,,,685.0,2011-03-20,2011-04-03,Burundi
+Hydrological,Flood,,6.0,12571.0,2011-07-22,2011-07-29,Ghana
+Meteorological,Storm,,1.0,2773.0,2011-10-02,2011-10-03,South Africa
+Hydrological,Flood,,,6000.0,2011-12-01,2011-12-01,Dem. Rep. Congo
+Hydrological,Flood,,,5500.0,2011-12-15,2012-01-09,Angola
+Climatological,Drought,,,1000000.0,2011-08-01,2012-01-01,Tanzania
+Climatological,Drought,,,723000.0,2011-01-01,2012-01-01,Mauritania
+Meteorological,Storm,Cyclone Funso,,300.0,2012-01-24,2012-01-24,Madagascar
+Hydrological,Mass Movement,,15.0,,2019-07-24,2019-07-24,Morocco
+Meteorological,Storm,"Tropical depression ""Irina""",77.0,85015.0,2012-02-26,2012-02-26,Madagascar
+Hydrological,Flood,,10.0,,2012-03-01,2012-03-07,Tanzania
+Hydrological,Flood,,,26350.0,2012-03-23,2012-03-24,Malawi
+Hydrological,Flood,,73.0,280670.0,2012-04-20,2012-05-16,Kenya
+Hydrological,Flood,,,5000.0,2013-08-05,2013-08-07,Kenya
+Hydrological,Flood,,19.0,57000.0,2012-08-15,2012-08-31,Senegal
+Hydrological,Flood,,18.0,21000.0,2012-06-15,2012-09-05,Burkina Faso
+Hydrological,Flood,,363.0,7000867.0,2012-07-01,2012-10-31,Nigeria
+Hydrological,Flood,,4.0,64385.0,2012-12-15,2013-02-01,Malawi
+Climatological,Wildfire,,,2257.0,2013-01-02,2013-01-28,Sierra Leone
+Hydrological,Flood,,3.0,33000.0,2013-01-01,2013-01-01,Malawi
+Hydrological,Flood,,125.0,9700.0,2013-01-01,2013-01-01,Zimbabwe
+Hydrological,Flood,,12.0,4210.0,2013-01-16,2013-01-23,Botswana
+Hydrological,Flood,,96.0,100020.0,2013-03-10,2013-04-30,Kenya
+Hydrological,Flood,,,51500.0,2013-04-10,2013-04-30,Ethiopia
+Hydrological,Flood,,13.0,25445.0,2013-05-01,2013-05-05,Uganda
+Hydrological,Flood,,7.0,50000.0,2013-05-01,2013-05-16,Somalia
+Hydrological,Flood,,2.0,11396.0,2013-08-15,2013-08-17,Burkina Faso
+Hydrological,Flood,,8.0,163306.0,2013-09-13,2013-09-13,Senegal
+Hydrological,Flood,,278.0,638645.0,2015-01-01,2015-01-21,Malawi
+Hydrological,Flood,,32.0,7185.0,2014-03-01,2014-03-18,South Africa
+Hydrological,Flood,,39.0,266204.0,2014-07-25,2014-09-01,Sudan
+Hydrological,Flood,,11.0,1500.0,2014-12-01,2015-01-01,Zimbabwe
+Hydrological,Flood,,23.0,,2014-06-02,2014-06-07,Côte d'Ivoire
+Meteorological,Storm,Tropical storm 'Chedza',89.0,174007.0,2015-01-16,2015-01-17,Madagascar
+Meteorological,Storm,,10.0,475.0,2015-01-02,2015-01-04,Zimbabwe
+Hydrological,Flood,,12.0,,2015-09-16,2015-09-17,Algeria
+Hydrological,Flood,,1.0,2000.0,2015-03-09,2015-03-23,Angola
+Hydrological,Flood,,2.0,3431.0,2015-04-03,2015-04-03,Rwanda
+Hydrological,Flood,,,210600.0,2015-11-01,2015-11-01,Ethiopia
+Hydrological,Flood,,112.0,240799.0,2015-12-01,2016-01-06,Kenya
+Hydrological,Flood,,52.0,4179.0,2015-11-01,2016-02-01,Burundi
+Hydrological,Flood,,6.0,600.0,2016-11-09,2016-11-09,South Africa
+Hydrological,Flood,,,53446.0,2016-02-10,2016-02-15,Tanzania
+Meteorological,Extreme Temperature,,,750000.0,2016-02-27,2016-02-27,Morocco
+Hydrological,Flood,,28.0,3080.0,2016-04-02,2016-04-07,Ethiopia
+Hydrological,Flood,,67.0,,2016-01-01,2016-04-01,Rwanda
+Hydrological,Mass Movement,,50.0,30030.0,2016-05-07,2016-05-08,Rwanda
+Hydrological,Flood,,,15000.0,2004-08-08,2004-08-10,Nigeria
+Hydrological,Flood,,171.0,200004.0,2016-06-01,2016-09-08,Sudan
+Biological,Epidemic,Cholera,68.0,3826.0,2016-01-01,2017-01-20,S. Sudan
+Biological,Epidemic,Cholera,21.0,266.0,2016-07-05,2016-09-20,Central African Rep.
+Hydrological,Flood,,20.0,,2016-09-28,2016-09-28,Côte d'Ivoire
+Hydrological,Flood,,5.0,10646.0,2016-07-01,2016-09-11,Senegal
+Hydrological,Flood,,50.0,10000.0,2016-12-27,2016-12-28,Dem. Rep. Congo
+Meteorological,Extreme Temperature,,,900000.0,2017-01-15,2017-02-26,Morocco
+Climatological,Drought,,,709000.0,2016-02-01,2017-01-01,Lesotho
+Meteorological,Storm,,20.0,12.0,2017-03-19,2017-03-19,Ghana
+Hydrological,Flood,,15.0,225.0,2017-06-10,2017-06-21,Côte d'Ivoire
+Hydrological,Flood,,16.0,3000.0,2017-06-13,2017-06-19,Niger
+Hydrological,Flood,,26.0,25000.0,2017-05-08,2017-05-16,Kenya
+Hydrological,Flood,,,1375.0,2021-03-01,2021-03-02,Morocco
+Hydrological,Flood,,105.0,500.0,2017-09-19,2017-09-20,Dem. Rep. Congo
+Hydrological,Flood,,,16060.0,2017-08-01,2017-09-01,Togo
+Climatological,Drought,,,1131300.0,2017-05-01,2017-06-01,Niger
+Meteorological,Storm,Tropical storm 'Berguitta',,30000.0,2018-01-15,2018-01-21,Mauritius
+Hydrological,Mass Movement,,20.0,,2019-08-31,2019-09-03,Uganda
+Hydrological,Flood,,,23000.0,2019-10-24,2019-10-24,Niger
+Hydrological,Flood,,14.0,,2019-10-15,2019-10-28,Tanzania
+Meteorological,Storm,,4.0,20.0,2019-11-11,2019-11-12,South Africa
+Hydrological,Flood,,11.0,250000.0,2019-11-21,2019-11-28,Djibouti
+Hydrological,Flood,,36.0,6000.0,2019-11-29,2019-12-07,Uganda
+Meteorological,Storm,Tropical Storm 'Pawan',6.0,30000.0,2019-12-07,2019-12-10,Somalia
+Hydrological,Flood,,65.0,65250.0,2019-12-18,2019-12-18,Uganda
+Climatological,Drought,,,232000.0,2019-01-01,2019-12-01,Swaziland
+Hydrological,Flood,,3.0,9762.0,2020-01-28,2020-02-13,Burundi
+Hydrological,Flood,,,1000.0,2020-03-06,2020-03-06,Namibia
+Hydrological,Mass Movement,,10.0,,2020-05-28,2020-05-28,Ethiopia
+Meteorological,Storm,,2.0,5000.0,2020-03-16,2020-03-22,Burundi
+Hydrological,Flood,,,30000.0,2020-03-17,2020-04-01,Dem. Rep. Congo
+Hydrological,Flood,,26.0,1000020.0,2020-04-20,2020-04-28,Somalia
+Hydrological,Flood,,2.0,19323.0,2020-04-22,2020-04-26,Tanzania
+Hydrological,Flood,,52.0,92580.0,2020-04-16,2020-05-18,Dem. Rep. Congo
+Hydrological,Flood,,,2062.0,2020-04-20,2020-04-21,Chad
+Hydrological,Flood,,1.0,4000.0,2020-08-19,2020-08-19,Uganda
+Meteorological,Storm,,8.0,8700.0,2020-08-25,2020-08-31,Uganda
+Hydrological,Flood,,4.0,,2020-09-05,2020-09-06,Ghana
+Hydrological,Flood,,155.0,193425.0,2020-06-24,2020-10-31,Nigeria
+Meteorological,Storm,,10.0,210.0,2020-11-17,2020-11-21,South Africa
+Geophysical,Earthquake,,,15000.0,2020-08-07,2020-08-07,Algeria
+Hydrological,Flood,,,26402.0,2020-09-11,2020-09-12,Cameroon
+Hydrological,Flood,,3.0,4272.0,2020-12-22,2020-12-26,Zambia
+Climatological,Drought,,,2900000.0,2020-01-01,2020-06-01,Burkina Faso
+Climatological,Drought,,,1400000.0,2020-06-01,2022-11-01,Mauritania
+Hydrological,Flood,,1.0,2000.0,2021-01-12,2021-01-15,Tanzania
+Hydrological,Flood,,1.0,75000.0,2021-05-06,2021-05-10,Uganda
+Geophysical,Volcanic Activity,Mount Nyiragongo,32.0,288404.0,2021-05-22,2021-05-23,Dem. Rep. Congo
+Hydrological,Flood,,3.0,134.0,2021-05-23,2021-05-23,Uganda
+Hydrological,Flood,,,12000.0,2000-03-03,2000-03-04,Zambia
+Geophysical,Earthquake,,6.0,420.0,2014-08-01,2014-08-01,Algeria
+Hydrological,Flood,,3.0,6000.0,2000-03-27,2000-03-27,Angola
+Hydrological,Flood,,11.0,11.0,2000-05-03,2000-05-03,Angola
+Meteorological,Storm,,5.0,350.0,2000-11-26,2000-11-26,Mozambique
+Hydrological,Flood,,60.0,,2000-06-29,2000-06-29,Ethiopia
+Meteorological,Storm,,,1000.0,2000-10-09,2000-10-09,Nigeria
+Hydrological,Flood,,9.0,30000.0,2000-08-10,2000-08-21,Ethiopia
+Hydrological,Flood,,,750.0,2000-08-15,2000-08-15,Nigeria
+Hydrological,Flood,,28.0,100.0,2000-10-22,2000-10-25,Algeria
+Hydrological,Flood,,3.0,3000.0,2000-11-19,2000-11-23,South Africa
+Hydrological,Flood,,36.0,1817.0,2000-12-01,2000-12-31,Tanzania
+Hydrological,Flood,,,500.0,2000-12-27,2000-12-27,Burundi
+Hydrological,Flood,,6.0,650.0,2000-12-22,2000-12-22,Morocco
+Meteorological,Storm,,1.0,300.0,2000-02-02,2000-02-02,South Africa
+Geophysical,Earthquake,,,700.0,2001-01-05,2001-01-05,Tanzania
+Hydrological,Flood,,59.0,500000.0,2001-01-01,2001-01-01,Malawi
+Hydrological,Flood,,,2000.0,2001-05-01,2001-05-01,Nigeria
+Hydrological,Flood,,1.0,300.0,2001-05-01,2001-05-01,Uganda
+Hydrological,Flood,,9.0,220000.0,2001-08-18,2001-10-09,Guinea
+Hydrological,Flood,,3.0,97000.0,2001-08-06,2001-09-13,Sudan
+Climatological,Wildfire,,11.0,,2001-09-06,2001-09-06,South Africa
+Meteorological,Storm,,1.0,1001.0,2001-12-01,2001-12-01,Lesotho
+Hydrological,Mass Movement,,12.0,,2001-12-25,2001-12-25,Dem. Rep. Congo
+Geophysical,Volcanic Activity,Mt. Nyiragongo,200.0,110400.0,2002-01-17,2002-01-21,Dem. Rep. Congo
+Geophysical,Earthquake,,45.0,1643.0,2002-01-17,2002-01-17,Rwanda
+Hydrological,Flood,,4.0,800.0,2002-03-03,2002-03-11,Egypt
+Hydrological,Flood,,69.0,20000.0,2002-04-26,2002-05-28,Rwanda
+Meteorological,Storm,Kesiny,20.0,526200.0,2002-05-09,2002-05-09,Madagascar
+Hydrological,Flood,,4.0,2000.0,2002-06-10,2002-06-12,Ghana
+Hydrological,Flood,,2.0,22519.0,2002-07-26,2002-07-27,Mali
+Meteorological,Storm,,4.0,1253.0,2002-08-12,2002-08-12,Niger
+Hydrological,Flood,,16.0,2500.0,2002-08-16,2002-08-18,South Africa
+Hydrological,Flood,,6.0,1100.0,2006-05-26,2006-05-28,Morocco
+Geophysical,Earthquake,,2.0,2000.0,2002-05-18,2002-05-18,Tanzania
+Hydrological,Flood,,14.0,20000.0,2002-10-29,2002-11-04,Kenya
+Hydrological,Flood,,,53000.0,2002-11-10,2003-01-05,Congo
+Hydrological,Flood,,6.0,3000.0,2002-12-21,2002-12-23,Kenya
+Hydrological,Flood,,6.0,50.0,2002-03-31,2002-04-01,
+Meteorological,Storm,,1.0,66.0,2002-09-09,2002-09-10,South Africa
+Climatological,Drought,,,345000.0,2002-07-01,2003-01-01,Namibia
+Climatological,Drought,,500.0,2829435.0,2002-02-01,2002-01-01,Malawi
+Hydrological,Flood,,8.0,18500.0,2003-01-01,2003-02-17,Malawi
+Climatological,Drought,,,,2002-05-01,2002-01-01,Gambia
+Hydrological,Flood,,8.0,27000.0,2003-01-14,2003-01-16,Tunisia
+Hydrological,Flood,,9.0,600.0,2003-02-06,2003-02-20,Angola
+Hydrological,Flood,,32.0,400000.0,2003-02-04,2003-02-17,Mozambique
+Hydrological,Flood,,119.0,110000.0,2003-04-28,2003-05-20,Ethiopia
+Meteorological,Storm,Japhet,8.0,,2003-03-07,2003-03-07,Zimbabwe
+Hydrological,Flood,,20.0,325056.0,2003-07-28,2003-08-21,Sudan
+Hydrological,Flood,,1.0,300.0,2003-08-18,2003-08-20,Somalia
+Hydrological,Flood,,13.0,,2003-10-15,2003-10-18,Algeria
+Hydrological,Flood,,,600.0,2003-10-01,2003-10-01,Dem. Rep. Congo
+Geophysical,Earthquake,,1.0,2002.0,2014-08-05,2014-08-05,South Africa
+Hydrological,Flood,,1.0,2000.0,2004-12-18,2004-12-19,Angola
+Climatological,Drought,,9.0,119500.0,2003-01-01,2003-01-01,Mozambique
+Climatological,Drought,,,,2003-09-01,2004-01-01,Burundi
+Climatological,Drought,,,12600000.0,2003-01-01,2004-01-01,Ethiopia
+Meteorological,Storm,,,500.0,2004-01-04,2004-01-04,Burundi
+Geophysical,Earthquake,,3.0,120.0,2004-02-24,2004-02-24,Burundi
+Meteorological,Storm,,,15000.0,2004-02-20,2004-02-20,Burundi
+Hydrological,Flood,,4.0,2000.0,2004-04-09,2004-04-12,Kenya
+Meteorological,Storm,,2.0,1000.0,2004-05-25,2004-05-25,Senegal
+Hydrological,Flood,,10.0,,2011-10-20,2011-10-28,Nigeria
+Meteorological,Storm,,2.0,6137.0,2004-05-24,2004-05-24,Gambia
+Hydrological,Flood,,4.0,300.0,2004-06-22,2004-06-25,Nigeria
+Meteorological,Storm,,,800.0,2009-05-01,2009-05-01,Benin
+Hydrological,Flood,,10.0,,2004-07-01,2004-07-01,Sierra Leone
+Hydrological,Flood,,3.0,12702.0,2004-10-24,2004-11-02,Central African Rep.
+Hydrological,Flood,,19.0,20.0,2004-11-13,2004-11-14,Algeria
+Geophysical,Earthquake,,,15.0,2004-12-01,2004-12-01,Algeria
+Hydrological,Flood,,,5000.0,2005-02-02,2005-02-02,Burundi
+Meteorological,Storm,,10.0,5.0,2005-02-01,2005-02-01,Algeria
+Hydrological,Flood,,11.0,70.0,2005-03-06,2005-03-09,Algeria
+Hydrological,Flood,,3.0,300.0,2009-02-28,2009-03-03,South Africa
+Hydrological,Flood,,7.0,2500.0,2005-06-04,2005-06-05,Somalia
+Hydrological,Flood,,1.0,23805.0,2005-08-08,2005-08-25,Central African Rep.
+Hydrological,Flood,,1.0,5500.0,2006-04-08,2006-04-27,Dem. Rep. Congo
+Geophysical,Volcanic Activity,Karthala,1.0,245000.0,2005-11-24,2005-12-10,Comoros
+Meteorological,Storm,,11.0,8.0,2005-12-17,2005-12-17,Malawi
+Hydrological,Flood,,,3870.0,2006-02-18,2006-02-20,Dem. Rep. Congo
+Geophysical,Volcanic Activity,Mount Arteala,,9000.0,2005-09-01,2005-10-01,Ethiopia
+Hydrological,Flood,,,19000.0,2006-05-09,2006-05-17,Tanzania
+Climatological,Drought,,,1000000.0,2005-01-01,2006-01-01,Mali
+Climatological,Drought,,,1400000.0,2005-05-01,2006-01-01,Mozambique
+Climatological,Drought,,,1200000.0,2005-06-01,2005-11-01,Zambia
+Climatological,Drought,,27.0,3500000.0,2005-12-01,2006-01-01,Kenya
+Climatological,Drought,,2.0,,2005-01-01,2005-01-01,Somalia
+Hydrological,Flood,,5.0,2100.0,2006-02-24,2006-02-28,Namibia
+Hydrological,Flood,,6.0,4160.0,2006-03-26,2006-03-30,South Africa
+Hydrological,Flood,,1.0,1200.0,2006-04-24,2006-04-24,Burundi
+Hydrological,Flood,,8.0,10296.0,2007-08-02,2007-08-17,Cameroon
+Hydrological,Flood,,498.0,10096.0,2006-08-05,2006-08-08,Ethiopia
+Meteorological,Storm,,1.0,6535.0,2006-08-01,2006-08-03,Swaziland
+Hydrological,Flood,,16.0,6600.0,2016-01-05,2016-01-29,Mozambique
+Hydrological,Flood,,,9000.0,2006-08-03,2006-10-11,Mauritania
+Hydrological,Flood,,4.0,46472.0,2006-08-03,2006-10-11,Niger
+Hydrological,Flood,,,11000.0,2006-08-07,2006-08-07,Sudan
+Hydrological,Flood,,80.0,361600.0,2006-10-27,2006-12-18,Ethiopia
+Hydrological,Flood,,5.0,30000.0,2006-08-24,2006-10-10,Somalia
+Hydrological,Flood,,40.0,1000.0,2006-10-01,2006-10-01,Nigeria
+Hydrological,Flood,,11.0,,2006-10-25,2006-10-27,Morocco
+Hydrological,Flood,,,2528.0,2006-10-23,2006-12-19,Tanzania
+Hydrological,Flood,,,4105.0,2006-12-01,2007-01-01,Burundi
+Hydrological,Flood,,,6000.0,2007-01-10,2007-05-10,Angola
+Meteorological,Storm,"Tropical storm ""Izilda""",,7103.0,2009-03-26,2009-03-27,Mozambique
+Meteorological,Storm,Gamède,2.0,90.0,2007-02-25,2007-02-25,Réunion
+Hydrological,Flood,,2.0,651.0,2007-05-15,2007-06-11,Kenya
+Meteorological,Extreme Temperature,,22.0,,2007-05-21,2007-05-27,South Africa
+Climatological,Wildfire,,26.0,1600.0,2007-07-27,2007-07-30,South Africa
+Hydrological,Flood,,29.0,718045.0,2007-08-15,2007-10-31,Uganda
+Hydrological,Flood,,1.0,7812.0,2007-07-01,2007-08-11,Central African Rep.
+Hydrological,Flood,,17.0,,2007-10-01,2007-10-01,Nigeria
+Hydrological,Flood,,6.0,5000.0,2007-08-01,2007-08-15,Nigeria
+Hydrological,Flood,,4.0,2000.0,2007-12-12,2007-12-15,Kenya
+Hydrological,Flood,,,,2007-12-19,2008-01-02,Mozambique
+Climatological,Drought,,,520000.0,2007-10-01,2007-01-01,Malawi
+Hydrological,Flood,,6.0,450.0,2008-07-03,2008-07-03,Côte d'Ivoire
+Meteorological,Storm,,,300.0,2008-06-02,2008-06-02,Gambia
+Hydrological,Flood,,15.0,502.0,2008-04-02,2008-04-02,Dem. Rep. Congo
+Hydrological,Flood,,7.0,32000.0,2008-07-01,2008-07-01,Niger
+Hydrological,Mass Movement,,10.0,20.0,2008-11-08,2008-11-08,Kenya
+Hydrological,Flood,,15.0,158235.0,2008-07-01,2008-07-01,Benin
+Geophysical,Mass Movement,,98.0,697.0,2008-09-06,2008-09-06,Egypt
+Hydrological,Flood,,17.0,30770.0,2008-11-10,2008-11-25,Kenya
+Hydrological,Flood,,49.0,30040.0,2008-11-17,2008-11-17,Uganda
+Hydrological,Flood,,,50900.0,2008-11-24,2008-11-24,S. Sudan
+Climatological,Drought,,,720000.0,2008-01-01,2011-01-01,Madagascar
+Hydrological,Flood,,24.0,139790.0,2009-09-17,2009-09-21,Ghana
+Hydrological,Flood,,33.0,2548.0,2009-01-20,2009-01-27,Algeria
+Hydrological,Flood,,2.0,415.0,2009-02-14,2009-02-16,Angola
+Hydrological,Flood,,20.0,111455.0,2009-08-16,2009-08-26,Sudan
+Hydrological,Flood,,,6925.0,2009-02-01,2009-03-01,Mozambique
+Hydrological,Flood,,,2935.0,2011-10-11,2011-10-11,Central African Rep.
+Meteorological,Storm,,,10500.0,2009-03-23,2009-04-01,Central African Rep.
+Hydrological,Flood,,6.0,264000.0,2009-08-24,2009-08-25,Senegal
+Hydrological,Flood,,,20100.0,2011-12-01,2011-12-01,Angola
+Hydrological,Flood,,,500.0,2009-06-01,2009-07-01,Burkina Faso
+Hydrological,Flood,,3.0,59419.0,2009-08-01,2009-08-01,Benin
+Meteorological,Storm,,,400.0,2009-12-05,2009-12-05,Botswana
+Hydrological,Flood,,,1000.0,2010-01-01,2010-01-01,Burundi
+Hydrological,Flood,,5.0,17000.0,2010-02-22,2010-03-11,Mozambique
+Hydrological,Flood,,,16000.0,2010-03-01,2010-03-11,Somalia
+Hydrological,Flood,,,820.0,2010-03-04,2010-03-04,Zimbabwe
+Hydrological,Flood,,11.0,200.0,2010-04-24,2010-04-24,Somalia
+Hydrological,Mass Movement,,7.0,,2010-05-16,2010-05-16,Rwanda
+Hydrological,Flood,,2.0,22125.0,2010-08-12,2010-08-23,Senegal
+Hydrological,Flood,,16.0,133362.0,2010-07-21,2010-09-01,Burkina Faso
+Hydrological,Flood,,7.0,7615.0,2010-07-06,2010-07-06,Guinea
+Hydrological,Flood,,13.0,3095.0,2010-07-22,2010-07-22,Cameroon
+Hydrological,Flood,,,16000.0,2010-08-11,2010-08-12,Mali
+Hydrological,Flood,,18.0,9674.0,2010-09-01,2010-10-01,Ghana
+Hydrological,Flood,,1.0,17767.0,2010-09-05,2010-09-06,Gambia
+Hydrological,Flood,,,8750.0,2010-09-19,2010-09-21,Mauritania
+Hydrological,Flood,,,16000.0,2010-10-04,2010-10-04,Mali
+Hydrological,Flood,,1.0,29550.0,2010-09-01,2010-10-01,Togo
+Meteorological,Storm,,9.0,1500.0,2010-10-08,2010-10-08,Burundi
+Hydrological,Flood,,,,2010-07-01,2010-10-07,S. Sudan
+Hydrological,Flood,,,80391.0,2010-10-17,2010-10-18,Senegal
+Hydrological,Flood,,15.0,,2010-12-30,2010-12-30,Egypt
+Climatological,Drought,,,4300000.0,2011-01-01,2011-01-01,Kenya
+Climatological,Drought,,,669000.0,2011-03-01,2011-01-01,Uganda
+Climatological,Drought,,,600000.0,2010-06-01,2010-01-01,Mali
+Meteorological,Storm,Tropical Cyclone'Bingiza',35.0,115215.0,2011-02-14,2011-02-16,Madagascar
+Hydrological,Flood,,,26350.0,2011-12-01,2012-01-15,Malawi
+Hydrological,Flood,,,,2011-03-14,2011-03-20,Lesotho
+Hydrological,Flood,,40.0,200321.0,2011-01-01,2011-02-04,South Africa
+Hydrological,Flood,,4.0,23291.0,2011-04-11,2011-04-11,Malawi
+Meteorological,Storm,,23.0,47.0,2011-06-28,2011-06-28,Uganda
+Hydrological,Flood,,120.0,3000.0,2011-08-26,2011-09-08,Nigeria
+Hydrological,Flood,,10.0,793.0,2011-10-01,2011-10-02,Algeria
+Hydrological,Flood,,21.0,,2011-08-10,2011-08-11,Sierra Leone
+Meteorological,Storm,Tropical Storm Dando,,1350.0,2012-01-01,2012-01-01,South Africa
+Hydrological,Flood,,5.0,11160.0,2012-04-09,2012-04-18,Rwanda
+Hydrological,Flood,,91.0,530952.0,2012-07-15,2012-10-15,Niger
+Hydrological,Flood,,20.0,594831.0,2012-07-15,2012-09-24,Chad
+Hydrological,Flood,,,18800.0,2012-09-15,2012-10-15,Chad
+Hydrological,Flood,,20.0,56.0,2012-08-31,2012-09-02,Algeria
+Hydrological,Flood,,13.0,125000.0,2012-10-24,2012-10-29,South Africa
+Hydrological,Flood,,15.0,3000.0,2012-09-07,2012-10-03,S. Sudan
+Hydrological,Flood,,,15431.0,2016-06-29,2016-07-12,Liberia
+Hydrological,Flood,,25.0,20000.0,2012-09-27,2012-09-28,Somalia
+Meteorological,Storm,,15.0,15000.0,2012-02-13,2012-02-13,Nigeria
+Climatological,Drought,,,1600000.0,2012-06-01,2013-02-01,Chad
+Climatological,Drought,,,428000.0,2012-03-01,2012-01-01,Gambia
+Hydrological,Flood,,119.0,240000.0,2013-01-01,2013-01-01,Mozambique
+Hydrological,Flood,,,14500.0,2013-01-10,2013-03-31,Namibia
+Meteorological,Storm,Topical Depression Feleng,,3000.0,2013-02-07,2013-02-07,Seychelles
+Hydrological,Flood,,,32735.0,2013-09-05,2013-09-20,Benin
+Hydrological,Flood,,32.0,165943.0,2013-07-15,2013-08-15,Niger
+Hydrological,Flood,,19.0,81506.0,2013-04-14,2013-08-17,Nigeria
+Hydrological,Flood,,,55000.0,2013-08-01,2013-11-01,Somalia
+Hydrological,Flood,,,15086.0,2013-11-03,2013-12-08,Niger
+Biological,Epidemic,Cholera,15.0,,2016-08-15,2016-08-15,S. Sudan
+Climatological,Drought,,,780000.0,2013-01-01,2014-01-01,Namibia
+Meteorological,Storm,,,,2014-01-07,2014-01-07,Morocco
+Hydrological,Flood,,96.0,12682.0,2014-02-19,2014-03-10,Burundi
+Hydrological,Flood,,3.0,1002.0,2014-01-20,2014-02-10,Zimbabwe
+Meteorological,Storm,Cyclone Helen,17.0,1736.0,2014-03-29,2014-04-01,Madagascar
+Hydrological,Flood,,17.0,75986.0,2014-01-01,2014-05-01,Mozambique
+Meteorological,Storm,,,2600.0,2014-10-11,2014-10-11,Lesotho
+Climatological,Drought,,,1600000.0,2014-01-01,2015-05-01,Kenya
+Meteorological,Storm,,47.0,5112.0,2015-03-03,2015-03-04,Tanzania
+Hydrological,Flood,,69.0,1000.0,2015-03-09,2015-03-23,Angola
+Hydrological,Flood,,13.0,3000.0,2015-04-27,2015-05-02,Kenya
+Hydrological,Flood,,8.0,28925.0,2015-08-04,2015-08-07,Burkina Faso
+Hydrological,Flood,,,16296.0,2015-03-01,2015-04-01,Somalia
+Hydrological,Flood,,,180000.0,2015-11-07,2015-11-23,Dem. Rep. Congo
+Biological,Epidemic,Yellow fever,384.0,4599.0,2015-12-05,2016-10-20,Angola
+Meteorological,Storm,,25.0,135.0,2015-11-03,2015-11-04,Egypt
+Climatological,Drought,,,2588128.0,2015-04-01,2017-03-01,Niger
+Climatological,Drought,,,6700000.0,2015-10-01,2017-12-01,Malawi
+Hydrological,Flood,,50.0,123266.0,2016-06-20,2016-10-01,Niger
+Hydrological,Flood,,,22000.0,2016-07-01,2016-08-31,S. Sudan
+Geophysical,Earthquake,,17.0,139601.0,2016-09-10,2016-09-10,Tanzania
+Hydrological,Flood,,,2635.0,2016-11-09,2016-11-09,Dem. Rep. Congo
+Climatological,Wildfire,,,2000.0,2017-07-29,2017-08-07,Tunisia
+Climatological,Drought,,,2300000.0,2016-01-01,2017-01-01,Mozambique
+Climatological,Drought,,,492000.0,2016-02-01,2017-02-01,Swaziland
+Meteorological,Storm,Cyclone 'Enawo',81.0,434253.0,2017-03-07,2017-03-10,Madagascar
+Meteorological,Storm,,9.0,6918.0,2017-06-07,2017-06-08,South Africa
+Hydrological,Flood,,7.0,,2017-05-08,2017-05-16,Tanzania
+Hydrological,Flood,,20.0,500.0,2017-07-08,2017-07-09,Nigeria
+Hydrological,Mass Movement,,174.0,10.0,2017-08-16,2017-08-16,Dem. Rep. Congo
+Meteorological,Storm,,18.0,2040.0,2017-09-04,2017-09-04,Mauritania
+Climatological,Wildfire,,3.0,1500.0,2002-07-01,2002-07-01,South Africa
+Hydrological,Flood,,,3500.0,2017-08-23,2017-08-31,Central African Rep.
+Hydrological,Flood,,,4225.0,2018-02-23,2018-03-22,Botswana
+Hydrological,Flood,,24.0,26051.0,2018-03-03,2018-03-05,Rwanda
+Climatological,Drought,,,1886800.0,2017-03-01,2017-05-01,Chad
+Hydrological,Flood,,5.0,700000.0,2018-04-01,2018-05-31,Somalia
+Hydrological,Flood,,36.0,130468.0,2018-06-01,2018-08-31,Niger
+Hydrological,Flood,,23.0,54666.0,2018-07-23,2018-07-30,Sudan
+Hydrological,Mass Movement,,12.0,4.0,2018-09-04,2018-09-04,Ethiopia
+Hydrological,Flood,,6.0,30000.0,2018-09-21,2018-09-23,Tunisia
+Climatological,Drought,,,350600.0,2018-03-01,2019-12-01,Mauritania
+Hydrological,Flood,,18.0,,2019-01-01,2019-01-31,Mozambique
+Hydrological,Flood,,4.0,,2019-01-01,2019-01-31,Zambia
+Hydrological,Flood,,26.0,300.0,2019-02-11,2019-02-18,Zimbabwe
+Meteorological,Storm,Cyclone 'Kenneth',45.0,400094.0,2019-04-25,2019-04-25,Mozambique
+Hydrological,Flood,,13.0,,2019-05-02,2019-05-02,South Africa
+Hydrological,Flood,,4.0,20030.0,2019-05-28,2019-06-05,Libya
+Hydrological,Flood,,4.0,187.0,2022-02-21,2022-02-22,South Africa
+Hydrological,Flood,,,6198.0,2019-06-08,2019-06-18,Sudan
+Biological,Epidemic,Polio,,,2022-02-17,2022-03-31,Malawi
+Hydrological,Flood,,,5000.0,2022-10-04,2022-10-06,Ghana
+Hydrological,Flood,,14.0,28926.0,2022-07-25,2022-08-03,Mauritania
+Climatological,Wildfire,,44.0,6768.0,2022-08-14,2022-08-21,Algeria
+Hydrological,Flood,,22.0,1100229.0,2022-06-06,2022-10-31,Chad
+Hydrological,Flood,,16.0,118003.0,2022-07-01,2022-10-31,Central African Rep.
+Hydrological,Flood,,,200.0,2022-05-22,2022-05-22,South Africa
+Meteorological,Storm,,,3000.0,2023-05-15,2023-05-15,Gabon
+Biological,Epidemic,Measles,71.0,5528.0,2022-04-21,2022-07-20,Liberia
+Hydrological,Flood,,10.0,3500.0,2022-04-26,2022-05-05,Tanzania
+Biological,Epidemic,Bubonic Plague,8.0,607.0,2022-04-04,2023-01-01,Dem. Rep. Congo
+Meteorological,Storm,Tropical cyclone 'Gombe',7.0,,2022-03-11,2022-03-14,Malawi
+Meteorological,Storm,Tropical storm 'Dumako',14.0,9900.0,2022-02-15,2022-02-16,Madagascar
+Hydrological,Flood,,9.0,1500.0,2022-01-24,2022-01-27,Uganda
+Meteorological,Storm,Tropical storm 'Ana',,3000.0,2022-01-25,2022-01-25,Zimbabwe
+Hydrological,Flood,,3.0,21582.0,2022-01-11,2022-02-02,Zambia
+Hydrological,Flood,,1.0,100.0,2022-01-15,2022-01-16,South Africa
+Hydrological,Flood,,10.0,,2022-01-08,2022-01-09,South Africa
+Climatological,Drought,,,1580000.0,2021-07-01,2022-09-01,Zambia
+Hydrological,Flood,,24.0,46652.0,2021-11-29,2021-12-08,Congo
+Biological,Epidemic,Cholera,166.0,5591.0,2021-08-09,2021-08-24,Niger
+Hydrological,Flood,,,3957.0,2021-08-07,2021-08-07,Central African Rep.
+Meteorological,Storm,,10.0,16949.0,2021-07-02,2021-07-08,Gambia
+Hydrological,Flood,,,22500.0,2023-04-25,2023-04-27,Kenya
+Hydrological,Flood,,,2190.0,2023-01-13,2023-01-17,Namibia
+Hydrological,Mass Movement,,1102.0,11916.0,2017-08-14,2017-08-14,Sierra Leone
+Climatological,Drought,,,4400000.0,2022-01-01,2022-05-01,Niger
+Climatological,Drought,,,24100000.0,2022-01-01,2023-02-01,Ethiopia
+Hydrological,Flood,,44.0,73000.0,2022-09-01,2022-10-31,Benin
+Hydrological,Flood,,603.0,2802500.0,2022-07-01,2022-10-31,Nigeria
+Hydrological,Flood,,7.0,6900.0,2016-07-25,2016-08-03,South Africa
+Meteorological,Storm,,28.0,1000.0,2016-08-14,2016-09-07,Nigeria
+Hydrological,Flood,,,2000.0,2003-12-20,2003-12-21,Tanzania
+Hydrological,Flood,,,3250.0,2017-02-18,2017-02-23,Botswana
+Hydrological,Flood,,,55921.0,2017-04-19,2017-05-03,Malawi
+Hydrological,Flood,,56.0,206513.0,2017-08-26,2017-09-15,Niger
+Hydrological,Flood,,17.0,14.0,2017-09-20,2017-09-27,Uganda
+Meteorological,Storm,,11.0,518.0,2017-10-09,2017-10-10,South Africa
+Climatological,Wildfire,Knysna fire,9.0,5500.0,2017-06-07,2017-06-13,South Africa
+Climatological,Drought,,,1420000.0,2017-05-01,2017-06-01,Angola
+Climatological,Drought,,,,2017-05-01,2018-06-01,South Africa
+Hydrological,Flood,,51.0,15760.0,2018-01-03,2018-01-07,Dem. Rep. Congo
+Meteorological,Extreme Temperature,,,70000.0,2018-01-05,2018-01-09,Morocco
+Hydrological,Flood,,11.0,77150.0,2018-01-16,2018-01-22,Mozambique
+Hydrological,Flood,,,12000.0,2018-01-14,2018-01-24,Burundi
+Meteorological,Storm,Tropical storm 'Eliakim',21.0,50872.0,2018-03-14,2018-03-20,Madagascar
+Hydrological,Flood,,199.0,1922332.0,2018-09-20,2018-10-02,Nigeria
+Hydrological,Flood,,,12956.0,2018-05-04,2018-05-09,Burundi
+Meteorological,Extreme Temperature,,8.0,125025.0,2019-01-11,2019-03-22,Algeria
+Hydrological,Flood,,10.0,,2019-03-08,2019-03-12,South Africa
+Meteorological,Storm,Cyclone 'Idai',603.0,1501500.0,2019-03-14,2019-03-15,Mozambique
+Hydrological,Mass Movement,,8.0,109.0,2019-04-20,2019-04-20,Malawi
+Hydrological,Flood,,13.0,,2019-06-04,2019-06-04,Ghana
+Hydrological,Flood,,12.0,18640.0,2019-09-21,2019-09-27,Nigeria
+Hydrological,Flood,,,6474.0,2019-08-24,2019-09-12,Mali
+Hydrological,Flood,,17.0,29.0,2019-09-08,2019-09-09,Morocco
+Hydrological,Flood,,7.0,200.0,2019-08-28,2019-08-28,Morocco
+Hydrological,Flood,,12.0,52500.0,2019-08-20,2019-08-25,Nigeria
+Hydrological,Flood,,,700000.0,2019-10-01,2019-10-18,S. Sudan
+Hydrological,Flood,,19.0,26102.0,2019-10-06,2019-10-09,Ghana
+Hydrological,Flood,FL-2019-000131,12.0,14646.0,2019-10-11,2019-10-13,Côte d'Ivoire
+Hydrological,Flood,,43.0,399894.0,2019-11-19,2019-11-26,Dem. Rep. Congo
+Hydrological,Flood,,,40000.0,2019-11-20,2019-11-25,Congo
+Meteorological,Storm,,4.0,15101.0,2019-06-19,2019-06-19,Gambia
+Meteorological,Storm,Cyclone 'Herold',4.0,3200.0,2020-03-13,2020-03-17,Madagascar
+Hydrological,Flood,,40.0,106846.0,2020-01-01,2020-01-24,Madagascar
+Hydrological,Flood,,,1500.0,2020-01-01,2020-01-01,Zambia
+Hydrological,Flood,,29.0,28258.0,2020-01-27,2020-02-03,Tanzania
+Hydrological,Flood,,3.0,200.0,2020-02-07,2020-02-10,South Africa
+Hydrological,Flood,,5.0,200.0,2020-04-17,2020-05-05,Uganda
+Hydrological,Flood,,,21000.0,2020-04-19,2020-04-26,Burkina Faso
+Hydrological,Flood,,9.0,,2020-04-17,2020-04-25,Rwanda
+Hydrological,Flood,,155.0,875013.0,2020-06-01,2020-09-09,Sudan
+Hydrological,Flood,,3.0,34872.0,2020-08-01,2020-10-12,Chad
+Hydrological,Flood,,13.0,91428.0,2020-08-25,2020-09-10,Burkina Faso
+Hydrological,Flood,,13.0,35422.0,2020-10-01,2020-10-03,Dem. Rep. Congo
+Hydrological,Flood,,11.0,57000.0,2020-09-01,2020-10-31,Togo
+Hydrological,Flood,,9.0,10700.0,2020-09-01,2020-09-15,Mauritania
+Hydrological,Flood,,6.0,40000.0,2020-09-05,2020-09-12,Tunisia
+Hydrological,Flood,,8.0,1770.0,2021-03-15,2021-03-16,Angola
+Hydrological,Flood,,,52182.0,2021-04-12,2021-05-20,Burundi
+Hydrological,Flood,,25.0,400000.0,2021-05-01,2021-05-31,Somalia
+Hydrological,Flood,,7.0,835000.0,2021-05-01,2021-10-07,S. Sudan
+Hydrological,Flood,,4.0,830.0,2021-09-12,2021-09-13,Nigeria
+Meteorological,Storm,,,2550.0,2021-08-27,2021-08-31,Lesotho
+Hydrological,Flood,,3.0,420.0,2021-10-23,2021-10-26,Algeria
+Hydrological,Flood,,13.0,35850.0,2021-09-15,2021-10-26,Benin
+Climatological,Drought,,,7723670.0,2021-01-01,2022-11-01,S. Sudan
+Climatological,Drought,,,2100000.0,2021-11-01,2022-12-01,Tanzania
+Meteorological,Storm,Tropical storm 'Ana',55.0,131555.0,2022-01-22,2022-01-25,Madagascar
+Meteorological,Storm,Tropical storm 'Ana',38.0,185636.0,2022-01-24,2022-01-25,Mozambique
+Hydrological,Flood,,3.0,138.0,2022-02-04,2022-02-05,South Africa
+Hydrological,Flood,,1.0,4000.0,2022-03-19,2022-03-19,Tunisia
+Hydrological,Flood,,544.0,142290.0,2022-04-08,2022-04-18,South Africa
+Hydrological,Flood,,11.0,513.0,2022-04-23,2022-04-24,Rwanda
+Hydrological,Flood,,146.0,349122.0,2022-05-10,2022-09-30,Sudan
+Hydrological,Flood,,195.0,322185.0,2022-06-01,2022-09-30,Niger
+Hydrological,Flood,,,20010.0,2022-08-05,2022-08-07,Senegal
+Hydrological,Flood,,10.0,79012.0,2022-07-01,2022-10-31,Mali
+Hydrological,Flood,,,264831.0,2022-08-01,2022-10-01,Ethiopia
+Hydrological,Flood,,,18596.0,2022-10-01,2022-11-15,Togo
+Meteorological,Storm,Tropical cyclone 'Cheneso',53.0,90870.0,2023-01-19,2023-01-23,Madagascar
+Meteorological,Storm,Tropical cyclone 'Freddy',1209.0,2269644.0,2023-03-11,2023-03-13,Malawi
+Hydrological,Flood,,13.0,756.0,2024-01-12,2024-01-19,South Africa
+Climatological,Drought,,,2000000.0,2000-01-01,2001-01-01,Sudan
+Hydrological,Flood,,70.0,266000.0,2000-01-26,2000-03-27,Zimbabwe
+Climatological,Wildfire,,,5.0,2000-02-01,2000-02-01,Ethiopia
+Hydrological,Flood,,1.0,3000.0,2000-04-10,2000-04-10,Angola
+Hydrological,Flood,,,250.0,2000-06-01,2000-06-01,Nigeria
+Meteorological,Storm,,9.0,750.0,2000-11-18,2000-11-18,Mozambique
+Hydrological,Flood,,3.0,500.0,2000-08-03,2000-08-05,Cameroon
+Hydrological,Flood,,4.0,1000.0,2000-08-14,2000-08-14,Nigeria
+Hydrological,Mass Movement,,4.0,165.0,2000-07-04,2000-07-04,Ethiopia
+Hydrological,Flood,,13.0,30000.0,2001-02-01,2001-02-01,Zimbabwe
+Hydrological,Mass Movement,,17.0,300.0,2000-09-23,2000-09-23,Nigeria
+Hydrological,Flood,,5.0,617900.0,2001-02-01,2001-02-01,Zambia
+Hydrological,Flood,,5.0,200.0,2001-02-27,2001-02-27,Tanzania
+Hydrological,Flood,,30.0,1500.0,2001-06-28,2001-06-29,Cameroon
+Hydrological,Flood,,12.0,144025.0,2001-06-27,2001-06-30,Ghana
+Hydrological,Flood,,,3852.0,2001-07-22,2001-07-22,Nigeria
+Hydrological,Flood,,,6000.0,2001-07-01,2001-07-01,Ethiopia
+Hydrological,Flood,,,3000.0,2001-08-24,2001-08-24,Mauritania
+Hydrological,Flood,,200.0,84065.0,2001-08-27,2001-09-04,Nigeria
+Hydrological,Flood,,15.0,300.0,2001-12-23,2001-12-26,Morocco
+Hydrological,Flood,,7.0,300.0,2001-11-20,2001-11-20,
+Hydrological,Flood,,5.0,312.0,2001-12-19,2001-12-22,South Africa
+Hydrological,Flood,,2.0,3000.0,2001-10-30,2001-11-02,Rwanda
+Climatological,Drought,,,,2001-04-01,2001-01-01,Mali
+Climatological,Drought,,,,2001-01-01,2001-01-01,Cameroon
+Climatological,Drought,,,970000.0,2001-01-01,2004-01-01,Swaziland
+Climatological,Drought,,,6000000.0,2001-03-01,2003-01-01,Zimbabwe
+Climatological,Drought,,58.0,,2001-01-01,2001-01-01,Angola
+Meteorological,Storm,,,150.0,2002-01-08,2002-01-08,South Africa
+Meteorological,Storm,Dina,,3100.0,2002-01-01,2002-01-01,Réunion
+Hydrological,Flood,,,100.0,2002-03-30,2002-03-30,Uganda
+Hydrological,Mass Movement,,16.0,,2002-04-30,2002-04-30,Kenya
+Hydrological,Flood,,9.0,1200.0,2002-04-26,2002-05-28,Tanzania
+Hydrological,Flood,,,6000.0,2002-05-06,2002-05-06,Burundi
+Hydrological,Flood,,29.0,2301.0,2002-08-17,2002-08-28,Algeria
+Climatological,Drought,,,100000.0,2002-05-01,2002-05-01,Guinea-Bissau
+Hydrological,Flood,,,2000.0,2002-03-01,2002-03-01,Burundi
+Climatological,Drought,,,284000.0,2002-08-01,2002-01-01,Senegal
+Hydrological,Flood,,16.0,23370.0,2003-01-18,2003-01-31,Madagascar
+Meteorological,Storm,Fari,,500.0,2003-01-29,2003-01-29,Madagascar
+Meteorological,Storm,,17.0,22500.0,2003-02-02,2003-02-02,Dem. Rep. Congo
+Hydrological,Flood,,2.0,12000.0,2003-05-12,2003-05-12,Namibia
+Geophysical,Earthquake,,2266.0,210261.0,2003-05-21,2003-05-21,Algeria
+Geophysical,Earthquake,,9.0,200.0,2003-05-27,2003-05-27,Algeria
+Hydrological,Flood,,,12120.0,2003-08-10,2003-10-19,Burkina Faso
+Hydrological,Flood,,16.0,210000.0,2003-09-05,2003-10-28,Nigeria
+Hydrological,Flood,,6.0,225.0,2003-11-22,2003-11-23,Angola
+Hydrological,Flood,,1.0,881.0,2003-12-14,2003-12-15,Dem. Rep. Congo
+Hydrological,Flood,,4.0,1000.0,2003-04-05,2003-04-08,Malawi
+Hydrological,Flood,,,10000.0,2004-03-07,2004-03-07,Burundi
+Hydrological,Flood,,,1500.0,2006-08-26,2006-08-01,Burundi
+Hydrological,Flood,,,5000.0,2004-03-01,2004-03-01,Namibia
+Hydrological,Flood,,,,2004-02-01,2004-06-02,Angola
+Hydrological,Flood,,,20000.0,2004-02-01,2004-06-02,Namibia
+Hydrological,Flood,,2.0,196398.0,2004-02-01,2004-06-02,Zambia
+Hydrological,Flood,,50.0,10000.0,2004-04-09,2004-05-11,Kenya
+Hydrological,Flood,,,1000.0,2005-02-06,2005-02-06,Nigeria
+Geophysical,Earthquake,,1.0,,2004-12-26,2004-12-26,Kenya
+Geophysical,Earthquake,,298.0,105083.0,2004-12-26,2004-12-26,Somalia
+Geophysical,Earthquake,,3.0,4830.0,2004-12-26,2004-12-26,Seychelles
+Climatological,Wildfire,,,777.0,2004-01-10,2004-01-10,Guinea
+Hydrological,Flood,,1.0,10548.0,2005-04-16,2005-04-18,Tanzania
+Climatological,Drought,,,15000000.0,2004-01-01,2004-01-01,South Africa
+Climatological,Drought,,,200000.0,2004-01-01,2004-01-01,Somalia
+Climatological,Drought,,80.0,2300000.0,2004-07-01,2004-01-01,Kenya
+Geophysical,Earthquake,,2.0,58.0,2005-03-09,2005-03-09,South Africa
+Meteorological,Storm,,,1150.0,2005-01-23,2005-01-23,Swaziland
+Hydrological,Flood,,1.0,25000.0,2005-04-23,2005-04-26,Kenya
+Geophysical,Earthquake,,6.0,1505.0,2005-12-05,2005-12-05,Dem. Rep. Congo
+Hydrological,Flood,,,200.0,2006-01-01,2006-01-01,Namibia
+Hydrological,Flood,,1.0,44500.0,2005-12-22,2006-02-07,Malawi
+Hydrological,Flood,,3.0,8000.0,2006-03-07,2006-03-14,Malawi
+Hydrological,Flood,,60.0,17300.0,2006-04-04,2006-05-22,Kenya
+Hydrological,Flood,,8.0,13000.0,2006-04-25,2006-05-04,Kenya
+Hydrological,Flood,,7.0,15000.0,2007-01-10,2007-05-10,Namibia
+Hydrological,Flood,,1.0,1000.0,2006-08-03,2006-10-11,Mali
+Hydrological,Flood,,5.0,450.0,2006-08-09,2006-08-09,Ethiopia
+Hydrological,Flood,,364.0,8000.0,2006-08-13,2006-09-11,Ethiopia
+Hydrological,Flood,,,1200.0,2006-08-31,2006-09-01,Guinea
+Hydrological,Flood,,,1000.0,2006-10-28,2006-10-29,Morocco
+Hydrological,Flood,,5.0,8000.0,2006-11-27,2006-11-29,Malawi
+Hydrological,Flood,,,3600.0,2006-12-01,2006-12-01,Dem. Rep. Congo
+Hydrological,Flood,,4.0,1400000.0,2007-01-10,2007-05-10,Zambia
+Climatological,Drought,,,25000.0,2006-08-01,2006-09-01,Mali
+Hydrological,Flood,,4.0,23000.0,2007-01-01,2007-01-17,Burundi
+Meteorological,Storm,Favio,,,2007-02-27,2007-02-27,Zimbabwe
+Hydrological,Flood,,10.0,500.0,2007-02-03,2007-02-16,Rwanda
+Hydrological,Flood,,9.0,47255.0,2007-07-04,2007-10-10,Mali
+Hydrological,Flood,,52.0,121043.0,2007-07-26,2007-10-10,Burkina Faso
+Hydrological,Flood,,3.0,15000.0,2007-12-13,2007-12-01,Zimbabwe
+Hydrological,Flood,,2.0,53620.0,2007-08-07,2007-09-05,Mauritania
+Hydrological,Flood,,1.0,500.0,2007-08-31,2007-09-03,Mauritania
+Hydrological,Flood,,3.0,3000.0,2007-08-09,2007-08-15,Chad
+Hydrological,Flood,,8.0,5300.0,2007-08-09,2007-09-20,Senegal
+Hydrological,Flood,,,2000.0,2007-07-27,2007-07-27,Côte d'Ivoire
+Hydrological,Flood,,41.0,141331.0,2007-08-01,2007-09-01,Togo
+Hydrological,Flood,,56.0,332600.0,2007-08-10,2007-10-10,Ghana
+Hydrological,Flood,,20.0,4000.0,2007-09-12,2007-09-20,Rwanda
+Hydrological,Flood,,32.0,1600.0,2007-10-25,2007-10-31,Dem. Rep. Congo
+Hydrological,Flood,,1.0,2701.0,2007-10-15,2007-10-31,Burundi
+Hydrological,Flood,,14.0,1203.0,2007-11-24,2007-12-02,Algeria
+Hydrological,Flood,,,2000.0,2007-11-11,2008-01-02,Malawi
+Hydrological,Flood,,24.0,2000.0,2007-12-19,2008-01-02,Zimbabwe
+Hydrological,Flood,,6.0,500.0,2008-04-10,2008-04-11,Burundi
+Hydrological,Flood,,10.0,34766.0,2007-12-30,2008-02-27,Zambia
+Climatological,Drought,,,475000.0,2007-07-01,2008-01-01,Lesotho
+Geophysical,Earthquake,,36.0,643.0,2008-02-03,2008-02-03,Rwanda
+Hydrological,Flood,,72.0,7957.0,2008-01-10,2008-03-31,Tanzania
+Meteorological,Storm,"Cyclone ""Ivan""",93.0,524153.0,2008-02-17,2008-03-03,Madagascar
+Hydrological,Flood,,,700.0,2008-03-17,2008-04-05,Kenya
+Hydrological,Flood,,2.0,10000.0,2008-03-20,2008-04-02,Kenya
+Hydrological,Flood,,,795.0,2008-07-01,2008-09-01,Central African Rep.
+Hydrological,Flood,,11.0,4000.0,2008-06-19,2008-06-19,South Africa
+Hydrological,Flood,,,38891.0,2008-08-01,2008-08-01,S. Sudan
+Hydrological,Flood,,,4200.0,2008-08-08,2008-08-08,Guinea
+Hydrological,Flood,,6.0,4310.0,2008-08-01,2008-09-01,Burkina Faso
+Climatological,Wildfire,,49.0,3023.0,2008-09-01,2008-09-02,Mozambique
+Hydrological,Flood,,1.0,23600.0,2008-08-15,2008-09-01,Senegal
+Hydrological,Flood,,30.0,20000.0,2008-10-23,2008-11-03,Morocco
+Hydrological,Flood,,25.0,3500.0,2008-12-28,2009-01-19,Mozambique
+Hydrological,Flood,,,2500.0,2008-08-18,2008-08-19,Mali
+Climatological,Drought,,,1700000.0,2008-10-01,2008-10-01,Eritrea
+Climatological,Drought,,4.0,3800000.0,2008-07-01,2009-01-01,Kenya
+Hydrological,Flood,,24.0,2000.0,2009-02-01,2009-02-12,Morocco
+Meteorological,Storm,Cyclones Eric and Fanele,12.0,62505.0,2009-01-19,2009-01-22,Madagascar
+Hydrological,Flood,,,867.0,2009-03-01,2009-03-01,Botswana
+Meteorological,Storm,"Tropical storm ""Jade""",15.0,64918.0,2009-04-06,2009-04-07,Madagascar
+Hydrological,Flood,,,4650.0,2009-12-10,2009-12-10,Angola
+Hydrological,Flood,,16.0,19755.0,2009-06-06,2009-07-08,Ghana
+Hydrological,Flood,,7.0,60238.0,2009-06-22,2009-07-03,Benin
+Hydrological,Flood,,2.0,584.0,2009-07-01,2009-07-01,Liberia
+Hydrological,Flood,,17.0,5008.0,2009-09-22,2009-09-23,Tunisia
+Hydrological,Flood,,,1750.0,2009-10-23,2009-10-30,Somalia
+Geophysical,Earthquake,,1.0,15015.0,2009-12-08,2009-12-08,Malawi
+Hydrological,Flood,,5.0,7520.0,2009-12-25,2009-12-26,Morocco
+Climatological,Drought,,,180000.0,2009-12-01,2010-02-01,Burundi
+Climatological,Drought,,,7900000.0,2009-09-01,2010-03-01,Niger
+Climatological,Drought,,,2400000.0,2009-12-01,2010-07-01,Chad
+Hydrological,Flood,,12.0,3500.0,2010-01-18,2010-01-19,Egypt
+Hydrological,Flood,,7.0,110886.0,2010-03-01,2010-03-17,Angola
+Hydrological,Flood,,10.0,2006.0,2010-03-09,2010-03-09,Morocco
+Hydrological,Flood,,,55700.0,2010-03-01,2010-03-11,Ethiopia
+Hydrological,Flood,,,1200.0,2010-03-01,2010-03-17,Zambia
+Hydrological,Flood,,,990.0,2010-02-01,2010-02-01,Burundi
+Hydrological,Flood,,,75000.0,2010-03-21,2010-03-22,Angola
+Hydrological,Flood,,,805.0,2013-09-17,2013-09-18,Cameroon
+Climatological,Drought,,,460000.0,2010-03-01,2010-01-01,Mozambique
+Hydrological,Flood,,100.0,70000.0,2010-05-08,2010-05-24,Kenya
+Hydrological,Flood,,2.0,56792.0,2010-08-01,2010-08-01,Guinea-Bissau
+Hydrological,Flood,,40.0,1500200.0,2010-09-13,2010-09-30,Nigeria
+Hydrological,Flood,,46.0,831000.0,2010-07-01,2010-11-01,Benin
+Hydrological,Flood,,18.0,3895.0,2010-10-15,2010-10-18,Angola
+Hydrological,Flood,,4.0,55000.0,2012-09-01,2012-10-31,Benin
+Meteorological,Storm,,31.0,40.0,2010-12-12,2010-12-12,Egypt
+Hydrological,Flood,,,290000.0,2010-08-01,2010-08-01,S. Sudan
+Climatological,Drought,,,,2011-01-01,2011-01-01,Burundi
+Meteorological,Storm,,12.0,50.0,2011-02-16,2011-02-16,Burundi
+Hydrological,Flood,,,,2011-03-01,2011-03-01,Botswana
+Hydrological,Flood,,,1375.0,2011-03-01,2011-03-01,Zambia
+Hydrological,Flood,,20.0,26965.0,2011-07-15,2011-07-19,Nigeria
+Hydrological,Flood,,27.0,63075.0,2011-08-20,2011-09-08,Uganda
+Hydrological,Flood,,14.0,81473.0,2011-10-26,2011-10-29,Ghana
+Hydrological,Flood,,,2800.0,2011-11-04,2011-11-04,Somalia
+Meteorological,Storm,"Tropical depression ""Irina""",3.0,4958.0,2012-03-03,2012-03-07,Mozambique
+Hydrological,Flood,,1.0,15415.0,2011-08-01,2011-09-08,Mali
+Hydrological,Flood,,,20143.0,2011-09-01,2011-09-01,Guinea
+Hydrological,Flood,,25.0,91692.0,2011-11-29,2011-12-22,Kenya
+Hydrological,Flood,,9.0,28175.0,2011-08-17,2011-09-02,Niger
+Hydrological,Flood,,8.0,9000.0,2011-04-09,2011-05-19,Tanzania
+Hydrological,Flood,,,40200.0,2011-11-07,2011-11-15,Ethiopia
+Meteorological,Storm,,20.0,30.0,2011-08-03,2011-08-03,Sudan
+Meteorological,Storm,,5.0,3550.0,2011-12-31,2011-12-31,South Africa
+Climatological,Drought,,,2850000.0,2011-12-01,2012-01-01,Burkina Faso
+Climatological,Drought,,,3500000.0,2011-01-01,2012-01-01,Mali
+Climatological,Drought,,,3750000.0,2011-01-01,2012-01-01,Kenya
+Climatological,Drought,,,3200000.0,2012-01-01,2012-01-01,Sudan
+Climatological,Drought,,,3000000.0,2012-01-01,2012-01-01,Somalia
+Meteorological,Storm,Tropical Storm Dando,20.0,40042.0,2012-01-18,2012-01-18,Mozambique
+Hydrological,Flood,,4.0,65137.0,2012-04-20,2012-04-28,Comoros
+Hydrological,Mass Movement,,18.0,3432.0,2012-06-24,2012-06-24,Uganda
+Hydrological,Flood,,35.0,135135.0,2012-08-01,2012-08-12,Sudan
+Hydrological,Flood,,15.0,31980.0,2012-08-25,2012-08-31,Cameroon
+Hydrological,Flood,,,15000.0,2012-08-20,2012-09-07,Uganda
+Meteorological,Storm,Cyclone Chapala,,4000.0,2015-11-02,2015-11-02,Somalia
+Hydrological,Flood,,32.0,154000.0,2012-08-01,2012-08-29,S. Sudan
+Climatological,Drought,,,1833900.0,2012-03-01,2013-05-01,Angola
+Climatological,Drought,,,1900000.0,2012-08-01,2013-01-01,Malawi
+Meteorological,Storm,Tropical cyclone Haruna,42.0,40281.0,2013-02-22,2013-02-22,Madagascar
+Hydrological,Flood,,5.0,25000.0,2013-03-03,2013-04-30,Ghana
+Climatological,Wildfire,,1.0,2759.0,2013-01-06,2013-01-06,Benin
+Hydrological,Flood,,2.0,3300.0,2013-08-12,2013-08-13,Gambia
+Hydrological,Flood,,,11106.0,2013-08-01,2013-08-17,Guinea
+Hydrological,Flood,,13.0,1500.0,2015-04-04,2015-04-10,Kenya
+Hydrological,Flood,,1.0,156000.0,2013-10-23,2013-10-23,S. Sudan
+Meteorological,Storm,Cyclone 3A,162.0,142380.0,2013-11-08,2013-11-19,Somalia
+Hydrological,Flood,,14.0,,2013-12-01,2013-12-01,Kenya
+Hydrological,Flood,,3.0,20000.0,2014-01-22,2014-01-23,Tanzania
+Meteorological,Storm,Cyclone Helen,,9511.0,2014-03-27,2014-03-29,Comoros
+Hydrological,Flood,,11.0,400.0,2014-12-16,2014-12-18,Swaziland
+Hydrological,Flood,,36.0,165578.0,2014-06-01,2014-10-03,Niger
+Hydrological,Flood,,23.0,,2014-06-19,2014-07-11,Côte d'Ivoire
+Hydrological,Flood,,154.0,4750.0,2014-10-25,2014-10-28,Dem. Rep. Congo
+Hydrological,Flood,,11.0,,2014-11-28,2014-11-30,Morocco
+Hydrological,Flood,,160.0,177645.0,2015-01-01,2015-02-09,Mozambique
+Hydrological,Flood,,5.0,2000.0,2015-02-13,2015-02-14,Angola
+Hydrological,Mass Movement,,20.0,3000.0,2015-03-29,2015-03-29,Burundi
+Hydrological,Flood,,12.0,5000.0,2015-05-07,2015-05-21,Tanzania
+Hydrological,Flood,,16.0,,2015-06-07,2015-06-21,Côte d'Ivoire
+Hydrological,Flood,,4.0,30000.0,2015-06-22,2015-06-29,Cameroon
+Hydrological,Flood,,,20000.0,2014-01-01,2014-05-01,Zambia
+Meteorological,Extreme Temperature,,110.0,66.0,2015-08-09,2015-08-09,Egypt
+Climatological,Wildfire,,3.0,57003.0,2015-08-24,2015-08-28,Dem. Rep. Congo
+Hydrological,Flood,,20.0,,2015-08-08,2015-08-09,Sudan
+Meteorological,Extreme Temperature,,16.0,,2015-08-13,2015-08-15,Sudan
+Hydrological,Mass Movement,,7.0,492.0,2015-09-06,2015-09-07,Guinea
+Hydrological,Flood,,53.0,100420.0,2015-09-05,2015-09-24,Nigeria
+Hydrological,Flood,,9.0,29628.0,2015-07-24,2015-08-03,Guinea
+Biological,Epidemic,Measles,,858.0,2015-01-01,2015-11-01,Cameroon
+Climatological,Drought,,,580000.0,2015-01-01,2016-03-01,Namibia
+Climatological,Drought,,,6700000.0,2015-08-01,2017-05-01,Somalia
+Hydrological,Flood,,3.0,58896.0,2016-01-17,2016-01-18,Tanzania
+Meteorological,Extreme Temperature,,11.0,20.0,2016-01-01,2016-01-10,South Africa
+Hydrological,Flood,,12.0,2800.0,2016-04-06,2016-04-11,Malawi
+Hydrological,Flood,,,10000.0,2016-04-13,2016-04-18,Uganda
+Hydrological,Mass Movement,,15.0,1000.0,2016-05-10,2016-05-10,Uganda
+Hydrological,Flood,,10.0,,2016-06-10,2016-06-14,Ghana
+Hydrological,Flood,,100.0,490000.0,2016-05-09,2016-05-20,Ethiopia
+Hydrological,Flood,,21.0,82000.0,2010-06-05,2010-10-01,Togo
+Hydrological,Flood,,15.0,34893.0,2016-06-21,2016-07-16,Burkina Faso
+Hydrological,Flood,,31.0,,2009-06-26,2009-07-02,Nigeria
+Hydrological,Flood,,3.0,150.0,2009-09-01,2009-10-01,Cape Verde
+Climatological,Drought,,,4300000.0,2009-01-01,2010-01-01,S. Sudan
+Hydrological,Flood,,94.0,141164.0,2010-03-01,2010-05-14,Kenya
+Hydrological,Flood,,,7000.0,2005-08-19,2005-09-01,Ethiopia
+Hydrological,Flood,,,21290.0,2010-03-22,2010-03-22,Malawi
+Hydrological,Flood,,8.0,110000.0,2010-03-24,2010-03-24,Namibia
+Hydrological,Flood,,,67500.0,2010-03-17,2010-03-17,Dem. Rep. Congo
+Hydrological,Mass Movement,,46.0,1167.0,2010-05-16,2010-05-16,Dem. Rep. Congo
+Hydrological,Flood,,2.0,6615.0,2010-07-19,2010-07-23,Niger
+Hydrological,Flood,,24.0,144579.0,2010-08-15,2010-09-17,Chad
+Hydrological,Flood,,3.0,226611.0,2010-08-01,2010-08-11,Niger
+Hydrological,Flood,,3.0,1585.0,2010-07-11,2010-08-07,Central African Rep.
+Climatological,Wildfire,,8.0,2770.0,2010-08-06,2010-08-20,Dem. Rep. Congo
+Hydrological,Flood,,19.0,25000.0,2010-08-22,2010-08-24,Ethiopia
+Hydrological,Flood,,8.0,21194.0,2010-07-15,2010-08-01,Gambia
+Hydrological,Flood,,,234.0,2010-08-01,2010-08-01,Sierra Leone
+Hydrological,Flood,,1.0,40411.0,2010-09-15,2010-09-18,Guinea
+Hydrological,Flood,,32.0,75003.0,2010-11-25,2010-12-06,Morocco
+Hydrological,Flood,,17.0,,2011-01-03,2011-01-04,Angola
+Meteorological,Storm,,,1765.0,2010-12-01,2011-01-01,Gabon
+Climatological,Drought,,20000.0,4000000.0,2010-02-01,2011-11-01,Somalia
+Climatological,Drought,,,1667618.0,2010-05-01,2013-01-01,Zimbabwe
+Climatological,Drought,,,838000.0,2010-01-01,2011-01-01,Mauritania
+Hydrological,Flood,,26.0,5000.0,2011-02-01,2011-02-16,Lesotho
+Hydrological,Flood,,11.0,30000.0,2011-01-01,2011-02-01,Mozambique
+Hydrological,Flood,,108.0,500000.0,2011-03-01,2011-04-12,Namibia
+Hydrological,Flood,,,33946.0,2011-03-01,2011-03-01,Mozambique
+Hydrological,Flood,,,33946.0,2011-03-01,2011-03-01,Malawi
+Hydrological,Flood,,,,2011-03-01,2011-03-01,Zimbabwe
+Meteorological,Storm,,11.0,12.0,2011-07-29,2011-07-29,Nigeria
+Hydrological,Flood,,,5840.0,2011-06-20,2011-07-01,Benin
+Hydrological,Flood,,8.0,4000.0,2011-08-15,2011-09-08,Kenya
+Hydrological,Flood,,,5000.0,2011-11-04,2011-11-04,Kenya
+Hydrological,Flood,,,2000.0,2011-12-01,2011-12-01,Dem. Rep. Congo
+Hydrological,Flood,,20.0,50200.0,2011-12-20,2011-12-22,Tanzania
+Hydrological,Flood,,9.0,6776.0,2011-12-04,2011-12-04,Tanzania
+Hydrological,Flood,,,650.0,2012-01-24,2012-01-24,Namibia
+Climatological,Drought,,,3000000.0,2011-01-01,2012-01-01,Niger
+Climatological,Drought,,,850000.0,2011-12-01,2013-01-01,Senegal
+Climatological,Drought,,,725515.0,2011-12-01,2012-10-01,Lesotho
+Climatological,Drought,,,1000000.0,2012-01-01,2012-01-01,Ethiopia
+Meteorological,Storm,Cyclone Funso,,6000.0,2012-01-01,2012-01-01,Malawi
+Hydrological,Flood,,49.0,45.0,2012-02-03,2012-02-14,Algeria
+Meteorological,Extreme Temperature,,,7500.0,2012-02-01,2012-02-01,Morocco
+Hydrological,Flood,,1.0,4535.0,2012-01-15,2012-01-22,Dem. Rep. Congo
+Hydrological,Flood,,10.0,20000.0,2012-08-27,2012-08-27,Cameroon
+Hydrological,Mass Movement,,52.0,37.0,2019-09-27,2019-09-27,Chad
+Hydrological,Flood,,6.0,12200.0,2012-11-21,2012-11-21,Somalia
+Climatological,Drought,,,12000.0,2012-06-01,2012-12-01,Cameroon
+Meteorological,Storm,Topical Depression Feleng,9.0,4598.0,2013-01-30,2013-02-02,Madagascar
+Hydrological,Flood,,76.0,500133.0,2013-08-01,2013-08-21,Sudan
+Hydrological,Flood,,18.0,10780.0,2013-01-13,2013-01-17,Kenya
+Hydrological,Flood,,37.0,34700.0,2013-08-29,2013-08-29,Mali
+Hydrological,Flood,,,11300.0,2013-08-09,2013-08-12,Mali
+Hydrological,Flood,,8.0,6530.0,2013-08-05,2013-09-25,Mauritania
+Hydrological,Flood,,98.0,425000.0,2013-08-01,2013-09-01,S. Sudan
+Climatological,Drought,,,4300000.0,2013-01-01,2017-01-01,Zimbabwe
+Meteorological,Storm,Cyclone Beisja,1.0,265.0,2014-01-02,2014-01-02,Réunion
+Hydrological,Flood,,,4435.0,2014-01-24,2014-01-24,Seychelles
+Hydrological,Flood,,28.0,20000.0,2014-04-18,2014-05-01,Tanzania
+Hydrological,Flood,,15.0,10000.0,2014-06-28,2014-06-28,Nigeria
+Geophysical,Earthquake,,,10000.0,2014-03-12,2014-03-12,Comoros
+Hydrological,Flood,,,250000.0,2014-08-21,2014-08-21,Cameroon
+Hydrological,Flood,,,90000.0,2014-10-24,2014-11-16,Somalia
+Meteorological,Storm,,49.0,117000.0,2014-11-21,2014-11-24,Morocco
+Meteorological,Storm,,5.0,350.0,2015-01-02,2015-01-04,Malawi
+Climatological,Drought,,,4000000.0,2014-05-01,2014-01-01,Burkina Faso
+Climatological,Drought,,,535624.0,2014-07-01,2017-01-01,Somalia
+Climatological,Drought,,,20000.0,2014-11-01,2015-02-01,Madagascar
+Climatological,Drought,,,639702.0,2014-09-01,2015-04-01,Senegal
+Meteorological,Storm,Tropical storm 'Fundi',6.0,36880.0,2015-02-07,2015-02-08,Madagascar
+Hydrological,Flood,,25.0,5000.0,2015-06-02,2015-06-15,Ghana
+Hydrological,Flood,,5.0,2000.0,2015-08-08,2015-08-09,Mali
+Climatological,Drought,,,3893774.0,2017-04-01,2017-08-01,Mauritania
+Hydrological,Flood,,27.0,87037.0,2015-07-25,2015-10-01,Niger
+Hydrological,Flood,,10.0,24303.0,2015-09-05,2015-09-06,Sierra Leone
+Meteorological,Storm,Hurricane 'Fred',9.0,,2015-08-31,2015-08-31,Cape Verde
+Hydrological,Flood,,31.0,10560.0,2015-11-19,2015-12-17,Dem. Rep. Congo
+Biological,Epidemic,Meningitis,24.0,324.0,2015-12-01,2016-02-01,Togo
+Climatological,Drought,,,,2015-07-01,2015-12-01,Botswana
+Climatological,Drought,,,800000.0,2015-08-01,2015-08-01,Sudan
+Climatological,Drought,,,2700000.0,2015-01-01,2017-05-01,South Africa
+Climatological,Drought,,,10200000.0,2015-09-01,2017-04-01,Ethiopia
+Climatological,Drought,,,63100.0,2015-01-01,2015-12-01,Gambia
+Hydrological,Flood,,6.0,2755.0,2016-03-03,2016-03-06,Angola
+Hydrological,Flood,,3.0,1000.0,2016-03-10,2016-03-10,Kenya
+Hydrological,Flood,,18.0,12000.0,2016-09-01,2016-09-20,Nigeria
+Hydrological,Flood,,9.0,,2016-04-06,2016-04-11,Somalia
+Hydrological,Flood,,39.0,10000.0,2016-04-29,2016-05-02,Kenya
+Hydrological,Mass Movement,,23.0,,2019-10-15,2019-10-15,Ethiopia
+Hydrological,Flood,,30.0,1544.0,2016-03-01,2016-03-10,Angola
+Hydrological,Flood,,11.0,3000.0,2016-06-01,2016-09-07,Niger
+Hydrological,Flood,,13.0,9500.0,2016-07-11,2016-07-23,Mali
+Meteorological,Storm,,26.0,32572.0,2016-10-27,2016-10-29,Egypt
+Meteorological,Storm,,31.0,2000.0,2016-12-09,2016-12-14,Zimbabwe
+Hydrological,Flood,,47.0,165000.0,2016-10-01,2017-01-01,Mozambique
+Climatological,Drought,,,1140000.0,2016-01-01,2017-01-01,Madagascar
+Climatological,Drought,,,3600000.0,2016-02-01,2016-11-01,S. Sudan
+Meteorological,Extreme Temperature,,,125000.0,2017-01-16,2017-01-20,Algeria
+Meteorological,Storm,,,679.0,2017-04-01,2017-04-01,Rwanda
+Meteorological,Storm,Tropical depression 'Ex-Dineo',251.0,113023.0,2017-01-01,2017-03-01,Zimbabwe
+Meteorological,Extreme Temperature,,,750000.0,2017-02-27,2017-02-27,Morocco
+Meteorological,Storm,,,3690.0,2017-01-01,2017-04-03,Central African Rep.
+Hydrological,Mass Movement,,6.0,810.0,2017-03-16,2017-03-22,Burundi
+Hydrological,Flood,,,2502.0,2017-01-01,2017-03-01,Namibia
+Hydrological,Flood,,11.0,30250.0,2017-03-21,2017-04-08,Angola
+Hydrological,Flood,,3.0,33600.0,2019-08-26,2019-08-27,Mauritania
+Hydrological,Flood,,19.0,498.0,2020-02-02,2020-02-04,Rwanda
+Hydrological,Flood,,3.0,200.0,2017-05-14,2017-05-19,South Africa
+Hydrological,Flood,,4.0,9113.0,2018-04-11,2018-04-17,Malawi
+Hydrological,Flood,,,3287.0,2017-07-04,2017-07-04,Guinea
+Hydrological,Flood,,,1000000.0,2017-04-01,2017-07-21,Ghana
+Hydrological,Flood,,3.0,12890.0,2017-08-04,2017-08-29,Cameroon
+Hydrological,Flood,,2.0,882.0,2017-07-01,2017-07-01,Burkina Faso
+Hydrological,Flood,,,10000.0,2017-08-15,2017-09-19,Nigeria
+Meteorological,Storm,,3.0,5874.0,2017-09-17,2017-09-17,Rwanda
+Hydrological,Flood,,25.0,55647.0,2017-06-30,2017-08-14,Sudan
+Hydrological,Flood,,,17500.0,2020-03-10,2020-03-17,Tanzania
+Hydrological,Flood,,6.0,20000.0,2017-08-01,2017-08-01,Gambia
+Meteorological,Storm,Tropical storm 'Berguitta',,200.0,2018-01-18,2018-01-18,Réunion
+Hydrological,Flood,,15.0,15873.0,2018-04-14,2018-04-18,Tanzania
+Hydrological,Flood,,72.0,211188.0,2018-03-14,2018-05-31,Kenya
+Hydrological,Flood,,24.0,360.0,2018-04-23,2018-04-24,Rwanda
+Hydrological,Flood,,6.0,200.0,2018-04-24,2018-04-28,Algeria
+Hydrological,Flood,,,23000.0,2018-04-28,2018-05-01,Burundi
+Hydrological,Flood,,20.0,25000.0,2018-06-18,2018-06-19,Côte d'Ivoire
+Meteorological,Storm,,3.0,11541.0,2018-06-27,2018-06-27,Guinea-Bissau
+Hydrological,Mass Movement,,51.0,,2018-10-11,2018-10-11,Uganda
+Hydrological,Flood,,23.0,70060.0,2018-08-01,2018-09-04,Sudan
+Climatological,Drought,,,556000.0,2018-10-01,2020-12-01,Namibia
+Hydrological,Flood,,11.0,4255.0,2019-02-20,2019-02-28,Angola
+Hydrological,Flood,,10.0,63000.0,2019-03-09,2019-03-11,Mozambique
+Meteorological,Storm,Cyclone 'Idai',628.0,270186.0,2019-03-14,2019-03-14,Zimbabwe
+Meteorological,Storm,Cyclone 'Kenneth',8.0,345311.0,2019-04-24,2019-04-25,Comoros
+Hydrological,Mass Movement,,13.0,450.0,2019-04-26,2019-04-29,Dem. Rep. Congo
+Hydrological,Flood,,15.0,100.0,2019-04-22,2019-04-23,Uganda
+Hydrological,Mass Movement,,61.0,129953.0,2019-06-04,2019-06-08,Uganda
+Hydrological,Flood,,3.0,200.0,2020-06-08,2020-06-10,Ghana
+Hydrological,Flood,,3.0,234800.0,2019-06-05,2019-06-07,S. Sudan
+Hydrological,Flood,,78.0,346300.0,2019-07-01,2019-09-06,Sudan
+Hydrological,Flood,,90.0,233339.0,2019-10-10,2019-12-13,Kenya
+Hydrological,Flood,,17.0,500000.0,2019-10-01,2019-10-01,Somalia
+Hydrological,Flood,,10.0,,2019-11-20,2019-11-25,Tanzania
+Hydrological,Mass Movement,,37.0,9942.0,2019-12-05,2019-12-05,Burundi
+Meteorological,Storm,Cyclone 'Belna',5.0,20293.0,2019-12-09,2019-12-10,Madagascar
+Hydrological,Mass Movement,,24.0,,2019-12-13,2019-12-14,Dem. Rep. Congo
+Climatological,Drought,,,1500000.0,2019-02-01,2019-10-01,Somalia
+Climatological,Drought,,,2600000.0,2019-01-01,2019-09-01,Kenya
+Climatological,Drought,,,38000.0,2019-01-01,2019-12-01,Botswana
+Climatological,Drought,,,1430000.0,2019-01-01,2020-12-01,Zambia
+Hydrological,Flood,,2.0,8700.0,2020-02-11,2020-02-17,Mozambique
+Hydrological,Flood,,,700000.0,2020-03-20,2020-03-26,Zambia
+Hydrological,Flood,,285.0,810655.0,2020-04-18,2020-06-01,Kenya
+Hydrological,Flood,,72.0,16210.0,2020-04-17,2020-05-10,Rwanda
+Hydrological,Mass Movement,,12.0,,2020-05-09,2020-05-09,Ethiopia
+Hydrological,Flood,,4.0,300.0,2020-06-14,2020-06-16,Nigeria
+Hydrological,Flood,FL-2020-000154,24.0,18657.0,2020-06-15,2020-06-17,Côte d'Ivoire
+Hydrological,Flood,,30.0,,2020-06-24,2020-07-31,Nigeria
+Hydrological,Flood,,73.0,632608.0,2020-07-01,2020-09-10,Niger
+Hydrological,Flood,,11.0,17000.0,2020-09-05,2020-09-06,Senegal
+Hydrological,Flood,,12.0,,2020-10-13,2020-10-15,Tanzania
+Hydrological,Flood,,22.0,145000.0,2020-10-01,2020-10-31,Mozambique
+Hydrological,Flood,,,9282.0,2020-09-01,2020-09-08,Mauritania
+Hydrological,Flood,,7.0,2300.0,2020-11-21,2020-11-24,Uganda
+Hydrological,Flood,,18.0,4.0,2020-12-02,2020-12-03,Dem. Rep. Congo
+Hydrological,Flood,,,1010854.0,2020-06-01,2020-09-01,Ethiopia
+Climatological,Drought,,,1643316.0,2020-12-01,2022-02-01,Angola
+Climatological,Drought,,,4500000.0,2020-12-01,2022-12-01,Kenya
+Hydrological,Flood,,,401.0,2021-01-01,2021-01-14,Namibia
+Meteorological,Storm,Tropical cyclone 'Eloise',11.0,481901.0,2021-01-23,2021-01-23,Mozambique
+Meteorological,Storm,Tropical cyclone 'Eloise',3.0,2400.0,2021-01-23,2021-01-23,Zimbabwe
+Hydrological,Flood,,31.0,400.0,2021-02-01,2021-02-15,South Africa
+Hydrological,Flood,,9.0,300000.0,2021-04-07,2021-05-30,Kenya
+Hydrological,Flood,,8.0,219668.0,2021-12-27,2021-12-28,São Tomé and Principe
+Biological,Epidemic,Dengue,,1352253.0,2021-03-01,2021-04-01,Kenya
+Hydrological,Flood,,,6500.0,2021-04-28,2021-05-02,Rwanda
+Hydrological,Flood,,4.0,206.0,2021-06-26,2021-06-28,Ghana
+Meteorological,Storm,,,16000.0,2021-06-01,2021-06-01,Sudan
+Hydrological,Flood,,32.0,269180.0,2021-06-26,2021-08-31,Chad
+Hydrological,Flood,,62.0,105750.0,2021-06-15,2021-08-31,Niger
+Hydrological,Flood,,52.0,303045.0,2021-07-20,2021-09-24,Sudan
+Climatological,Wildfire,,,1000.0,2021-07-24,2021-08-10,Tunisia
+Hydrological,Flood,,,7500.0,2021-07-01,2021-08-31,Nigeria
+Biological,Epidemic,Meningitis,205.0,2662.0,2021-09-07,2021-12-20,Dem. Rep. Congo
+Hydrological,Flood,,5.0,120.0,2021-08-26,2021-09-28,Ghana
+Hydrological,Flood,,1.0,42330.0,2021-09-17,2021-09-22,Uganda
+Meteorological,Storm,,13.0,55551.0,2021-07-01,2021-11-28,Malawi
+Climatological,Drought,,,1562771.0,2021-06-01,2022-11-01,Mozambique
+Climatological,Drought,,,167500.0,2021-08-01,2022-02-01,Zimbabwe
+Meteorological,Storm,Tropical storm 'Ana',64.0,945934.0,2022-01-22,2022-01-25,Malawi
+Meteorological,Storm,Cyclone 'Batsirai',92.0,112115.0,2022-02-05,2022-02-07,Madagascar
+Meteorological,Storm,Tropical storm 'Dumako',14.0,23733.0,2022-02-18,2022-02-18,Mozambique
+Meteorological,Storm,Tropical storm 'Jasmine',12.0,4800.0,2022-04-26,2022-04-27,Madagascar
+Meteorological,Storm,,7.0,1500.0,2022-04-30,2022-04-30,Nigeria
+Hydrological,Mass Movement,,19.0,1196.0,2022-09-06,2022-09-07,Uganda
+Biological,Epidemic,Cholera,202.0,12123.0,2022-10-19,2023-10-30,Kenya
+Hydrological,Flood,,,1000000.0,2022-08-01,2022-10-29,S. Sudan
+Hydrological,Flood,,175.0,84711.0,2022-12-12,2022-12-13,Dem. Rep. Congo
+Climatological,Drought,,,46093.0,2022-01-01,2022-07-01,Cape Verde
+Climatological,Drought,,2465.0,518000.0,2022-07-01,2022-12-01,Uganda
+Hydrological,Flood,,14.0,89093.0,2023-02-07,2023-02-12,Mozambique
+Hydrological,Flood,,17.0,1000.0,2023-02-08,2023-02-21,South Africa
+Meteorological,Storm,Tropical cyclone 'Freddy',17.0,299000.0,2023-02-21,2023-03-04,Madagascar
+Biological,Epidemic,Diphteria,1055.0,21511.0,2023-01-20,2024-08-26,Nigeria
+Hydrological,Flood,,91.0,240000.0,2023-03-25,2023-05-12,Ethiopia
+Hydrological,Flood,,40.0,91350.0,2009-12-24,2010-01-12,Kenya
+Hydrological,Flood,,13.0,24.0,2023-04-12,2023-04-17,Tanzania
+Hydrological,Flood,,54.0,44450.0,2023-04-01,2023-04-30,Angola
+Hydrological,Flood,,23.0,1016.0,2023-04-24,2023-05-18,Uganda
+Hydrological,Flood,,41.0,169651.0,2023-07-01,2023-10-01,Niger
+Hydrological,Flood,,18.0,50000.0,2009-12-25,2010-01-10,Tanzania
+Geophysical,Earthquake,,3.0,5721.0,2009-12-20,2009-12-20,Malawi
+Hydrological,Flood,,3.0,79129.0,2009-09-01,2009-09-03,Niger
+Hydrological,Flood,,,5000.0,2009-11-16,2009-11-16,Dem. Rep. Congo
+Hydrological,Flood,,25.0,20406.0,2009-05-01,2009-09-01,Mali
+Hydrological,Flood,,20.0,,2009-11-10,2009-11-13,Tanzania
+Hydrological,Flood,,5.0,14258.0,2009-09-01,2009-09-01,Gambia
+Hydrological,Flood,,2.0,40000.0,2009-08-03,2009-08-03,Guinea
+Hydrological,Flood,,,16380.0,2008-12-01,2009-04-01,Malawi
+Climatological,Wildfire,,34.0,25.0,2008-08-30,2008-09-03,South Africa
+Hydrological,Flood,,31.0,614814.0,2009-02-27,2009-03-27,Zambia
+Hydrological,Flood,,2.0,2500.0,2009-04-20,2009-04-24,Comoros
+Hydrological,Flood,,60.0,220000.0,2009-03-01,2009-04-16,Angola
+Meteorological,Storm,,,605.0,2009-01-16,2009-01-16,Tanzania
+Meteorological,Storm,,,274.0,2008-12-01,2008-12-01,Tanzania
+Climatological,Drought,,,82500.0,2008-09-01,2009-01-01,Burundi
+Climatological,Drought,,,1100000.0,2008-07-01,2009-10-01,Uganda
+Climatological,Drought,,,6400000.0,2008-05-01,2009-10-01,Ethiopia
+Hydrological,Flood,,,52000.0,2008-11-03,2008-11-04,Somalia
+Hydrological,Flood,,15.0,,2000-08-25,2000-08-25,Mali
+Hydrological,Flood,,,11346.0,2008-10-01,2008-10-06,Rwanda
+Hydrological,Flood,,3.0,6000.0,2008-10-14,2008-10-16,Kenya
+Hydrological,Flood,,93.0,59050.0,2008-10-01,2008-10-17,Algeria
+Hydrological,Flood,,,6450.0,2008-07-20,2008-08-25,Chad
+Hydrological,Flood,,,560.0,2008-07-01,2008-07-01,Burkina Faso
+Hydrological,Flood,,6.0,44814.0,2008-07-01,2008-08-08,Togo
+Hydrological,Flood,,16.0,8658.0,2008-06-13,2008-06-20,Kenya
+Hydrological,Flood,,29.0,845.0,2008-05-30,2008-05-31,Ethiopia
+Hydrological,Flood,,1.0,1500.0,2008-03-17,2008-04-04,Tanzania
+Meteorological,Storm,,10.0,8.0,2008-01-01,2008-01-01,Dem. Rep. Congo
+Climatological,Drought,,,520000.0,2007-08-01,2007-08-01,Mozambique
+Hydrological,Flood,,,180246.0,2007-11-18,2008-02-01,Malawi
+Hydrological,Flood,,21.0,2012.0,2007-11-03,2007-11-04,Somalia
+Hydrological,Flood,,10.0,10884.0,2007-07-01,2007-09-01,Benin
+Hydrological,Flood,,18.0,,2007-09-21,2007-09-24,Algeria
+Hydrological,Flood,,12.0,170000.0,2007-08-25,2007-09-09,Chad
+Geophysical,Volcanic Activity,Mount Arteale,5.0,2000.0,2007-08-12,2007-08-12,Ethiopia
+Hydrological,Flood,,1.0,102.0,2007-08-12,2007-08-12,Algeria
+Hydrological,Flood,,12.0,,2007-08-03,2007-08-03,Algeria
+Meteorological,Storm,Indlala,80.0,215198.0,2007-03-15,2007-03-17,Madagascar
+Hydrological,Flood,,17.0,239586.0,2007-07-29,2007-10-05,Ethiopia
+Hydrological,Flood,,9.0,41603.0,2007-07-22,2007-07-22,Mali
+Hydrological,Flood,,150.0,565335.0,2007-07-03,2007-10-08,Sudan
+Meteorological,Storm,Favio,10.0,162770.0,2007-02-22,2007-02-22,Mozambique
+Hydrological,Flood,,22.0,,2007-04-13,2007-04-15,Algeria
+Hydrological,Flood,,,2000.0,2007-01-20,2007-03-10,Malawi
+Hydrological,Flood,,5.0,3500.0,2007-01-20,2007-01-23,Mozambique
+Climatological,Drought,,,3700000.0,2006-01-01,2006-01-01,Tanzania
+Climatological,Drought,,,32000.0,2006-05-01,2006-05-01,Guinea-Bissau
+Hydrological,Flood,,1.0,1750.0,2005-06-18,2005-06-20,Algeria
+Hydrological,Mass Movement,,24.0,2000.0,2006-11-28,2006-11-30,Rwanda
+Hydrological,Flood,,35.0,155500.0,2006-10-23,2006-12-19,Somalia
+Hydrological,Flood,,30.0,30000.0,2006-10-15,2006-10-26,Kenya
+Hydrological,Flood,,,10000.0,2006-09-12,2006-09-12,Burkina Faso
+Hydrological,Flood,,,15610.0,2006-08-03,2006-10-11,Burkina Faso
+Hydrological,Flood,,27.0,6000.0,2006-08-13,2006-09-26,Sudan
+Hydrological,Flood,,2.0,38000.0,2006-08-13,2006-09-26,Ethiopia
+Hydrological,Flood,,,2000.0,2006-07-15,2006-07-17,Nigeria
+Hydrological,Flood,,7.0,1619.0,2006-07-22,2006-07-24,Mauritania
+Hydrological,Flood,,11.0,1000.0,2006-06-01,2006-06-01,Burundi
+Hydrological,Flood,,1.0,5000.0,2006-05-17,2006-05-28,Burundi
+Hydrological,Flood,,9.0,2000.0,2006-05-18,2006-05-18,Burundi
+Hydrological,Flood,,,1735.0,2005-09-21,2005-09-27,Mali
+Climatological,Drought,,,2600000.0,2005-11-01,2006-01-01,Ethiopia
+Hydrological,Flood,,,10000.0,2006-04-09,2006-04-25,Ethiopia
+Geophysical,Earthquake,,4.0,1476.0,2006-02-22,2006-02-22,Mozambique
+Hydrological,Flood,,,4780.0,2005-07-14,2005-07-15,Sudan
+Climatological,Drought,,,3000000.0,2005-07-01,2006-07-01,Niger
+Hydrological,Flood,,,4000.0,2005-11-01,2005-11-01,Zambia
+Hydrological,Flood,,42.0,,2005-05-20,2005-05-22,Ethiopia
+Geophysical,Earthquake,,2.0,5000.0,2005-12-05,2005-12-05,Tanzania
+Hydrological,Flood,,20.0,15000.0,2005-08-14,2005-08-16,Sierra Leone
+Hydrological,Flood,,60.0,3004.0,2005-08-07,2005-09-16,Nigeria
+Hydrological,Flood,,5.0,5020.0,2005-04-23,2005-06-14,Somalia
+Geophysical,Volcanic Activity,Karthala,,39000.0,2005-04-16,2005-04-16,Comoros
+Meteorological,Storm,,8.0,5389.0,2005-02-08,2005-02-08,Dem. Rep. Congo
+Climatological,Drought,,,254000.0,2004-10-01,2004-01-01,Tanzania
+Climatological,Drought,,,25000.0,2004-09-01,2005-01-01,Angola
+Geophysical,Earthquake,,10.0,,2004-12-26,2004-12-26,Tanzania
+Hydrological,Flood,,,10000.0,2004-11-08,2004-11-10,Uganda
+Hydrological,Flood,,,1500.0,2004-09-28,2004-09-30,Somalia
+Meteorological,Storm,,,300.0,2003-04-25,2003-04-27,Comoros
+Hydrological,Flood,,3.0,27545.0,2004-04-14,2004-04-16,Algeria
+Geophysical,Earthquake,,628.0,13465.0,2004-02-24,2004-02-24,Morocco
+Meteorological,Storm,,13.0,42.0,2004-01-22,2004-01-26,Egypt
+Climatological,Drought,,,1900000.0,2003-08-01,2004-01-01,Tanzania
+Hydrological,Flood,,2.0,18000.0,2003-02-25,2003-02-28,Zimbabwe
+Hydrological,Flood,,20.0,700.0,2003-07-01,2003-07-03,Uganda
+Hydrological,Flood,,4.0,1000.0,2003-12-25,2003-12-25,Zambia
+Hydrological,Flood,,13.0,,2003-08-09,2003-08-11,Algeria
+Hydrological,Flood,,,7016.0,2003-10-30,2003-10-30,Rwanda
+Hydrological,Flood,,,,2003-10-01,2003-10-01,Guinea-Bissau
+Meteorological,Storm,,11.0,73.0,2003-10-09,2003-10-09,Dem. Rep. Congo
+Meteorological,Storm,,3.0,8019.0,2003-08-24,2003-08-24,Gambia
+Hydrological,Flood,,,220000.0,2000-07-10,2000-07-10,Somalia
+Hydrological,Flood,,8.0,7769.0,2003-08-08,2003-08-10,Senegal
+Hydrological,Flood,,9.0,21000.0,2003-08-07,2003-08-20,Mauritania
+Hydrological,Flood,,,10000.0,2003-08-10,2003-10-19,Mali
+Hydrological,Flood,,,10000.0,2003-03-11,2003-03-15,Zambia
+Meteorological,Storm,Japhet,11.0,23010.0,2003-03-03,2003-03-03,Mozambique
+Meteorological,Storm,,13.0,,2003-01-31,2003-01-31,Algeria
+Climatological,Drought,,79.0,655000.0,2002-06-01,2002-01-01,Uganda
+Climatological,Drought,,,30000.0,2002-06-01,2002-01-01,Cape Verde
+Hydrological,Flood,,80.0,15017.0,2002-11-24,2002-11-29,Morocco
+Hydrological,Flood,,12.0,2000.0,2002-11-17,2002-11-20,Kenya
+Meteorological,Storm,,,1000.0,2002-04-11,2002-04-11,South Africa
+Hydrological,Flood,,28.0,179000.0,2002-01-09,2002-01-12,Senegal
+Hydrological,Flood,,,200.0,2002-04-08,2002-04-08,Ghana
+Hydrological,Flood,,16.0,430.0,2002-03-31,2002-04-02,
+Hydrological,Flood,,1.0,150000.0,2002-01-01,2002-03-05,Malawi
+Hydrological,Flood,,40.0,2540.0,2002-02-06,2002-02-08,Dem. Rep. Congo
+Hydrological,Flood,,25.0,27500.0,2002-01-09,2002-01-09,Mauritania
+Climatological,Wildfire,,1.0,750.0,2002-01-30,2002-01-30,Central African Rep.
+Climatological,Drought,,9.0,600000.0,2002-03-01,2002-01-01,Mozambique
+Climatological,Drought,,,800000.0,2001-01-01,2001-01-01,Chad
+Hydrological,Flood,,,200000.0,2001-07-01,2001-07-01,Mozambique
+Meteorological,Storm,,,1000.0,2001-12-19,2001-12-19,Lesotho
+Hydrological,Mass Movement,,11.0,3366.0,2001-11-03,2001-11-03,Uganda
+Hydrological,Flood,,2.0,3500.0,2001-08-18,2001-10-09,Mali
+Hydrological,Flood,,10.0,,2001-09-22,2001-09-22,Rwanda
+Hydrological,Flood,,5.0,31000.0,2001-08-10,2001-08-10,Ethiopia
+Hydrological,Flood,,48.0,39928.0,2001-04-02,2001-04-09,Angola
+Hydrological,Flood,,79.0,549326.0,2001-01-01,2001-04-27,Mozambique
+Hydrological,Flood,,,150000.0,2000-11-20,2000-11-20,Somalia
+Hydrological,Flood,,,1000.0,2000-09-23,2000-09-23,Nigeria
+Hydrological,Flood,,,2000.0,2000-09-01,2000-09-01,Nigeria
+Meteorological,Storm,"Eline, Gloria",17.0,,2000-02-18,2000-02-23,Mozambique
+Meteorological,Extreme Temperature,,3.0,105.0,2000-01-01,2000-01-01,Egypt
+Hydrological,Flood,,3.0,138776.0,2000-02-01,2000-02-01,Botswana
+Meteorological,Storm,Connie,2.0,600.0,2000-01-30,2000-01-30,Réunion
+Climatological,Drought,,21.0,1200000.0,2000-01-01,2001-01-01,Somalia

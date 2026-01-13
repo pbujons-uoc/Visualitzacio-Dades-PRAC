@@ -1,0 +1,1739 @@
+disaster,disaster_type,event_name,deaths,affected,start,end,Country
+Hydrological,Flood,,4.0,250.0,2018-02-14,2018-02-16,Brazil
+Hydrological,Flood,,,4248.0,2009-11-23,2009-11-23,Panama
+Geophysical,Volcanic Activity,Pacaya,,800.0,2000-01-16,2000-01-16,Guatemala
+Meteorological,Storm,Hurricane 'Julia',,300000.0,2022-10-08,2022-10-20,Costa Rica
+Meteorological,Storm,Tropical storm 'Bonnie',4.0,3012.0,2022-07-02,2022-07-02,Nicaragua
+Hydrological,Flood,,,167250.0,2022-08-27,2022-10-18,Colombia
+Hydrological,Mass Movement,,34.0,6.0,2022-12-04,2022-12-04,Colombia
+Climatological,Drought,,,100000.0,2024-05-01,2024-07-01,Grenada
+Geophysical,Earthquake,,2.0,430.0,2000-11-08,2000-11-08,Colombia
+Geophysical,Earthquake,,,8036.0,2004-11-15,2004-11-15,Colombia
+Hydrological,Flood,,,147405.0,2015-04-09,2015-04-09,Peru
+Hydrological,Flood,,3.0,2300.0,2022-06-02,2022-06-06,Cuba
+Biological,Epidemic,,,100000.0,2000-03-01,2000-03-01,Ecuador
+Biological,Epidemic,Dengue fever,8.0,220.0,2000-03-01,2000-03-01,Ecuador
+Biological,Epidemic,Cholera,511.0,2898.0,2022-10-01,2022-11-30,Haiti
+Meteorological,Storm,Hurricane 'Julia',,5002.0,2022-10-09,2022-10-10,Colombia
+Meteorological,Storm,Hurricane 'Julia',5.0,144000.0,2022-10-09,2022-10-09,Honduras
+Hydrological,Flood,,5.0,2000.0,2000-05-30,2000-05-30,Mexico
+Meteorological,Storm,Hurricane 'Fiona',1.0,,2022-09-16,2022-09-17,Guadeloupe
+Hydrological,Flood,,120.0,,2000-06-10,2000-06-14,Mexico
+Hydrological,Flood,,,150.0,2022-11-18,2022-11-21,Panama
+Meteorological,Storm,Tropical storm 'Lidia',20.0,1000.0,2017-08-30,2017-09-02,Mexico
+Biological,Infestation,,,,2000-06-01,2000-06-01,Peru
+Meteorological,Storm,Hurricane 'Fiona',25.0,,2022-09-17,2022-09-18,Puerto Rico
+Meteorological,Storm,,,1800.0,2025-12-21,2025-12-22,Paraguay
+Meteorological,Storm,,,1800.0,2025-12-22,2025-12-23,Argentina
+Climatological,Wildfire,,1.0,36663.0,2025-02-01,2025-03-01,Chile
+Climatological,Wildfire,Fires 'Villaboro',,502.0,2025-01-27,2025-01-27,Chile
+Hydrological,Flood,,20.0,462.0,2000-09-15,2000-09-17,Guatemala
+Meteorological,Storm,Keith,1.0,2300.0,2000-09-29,2000-10-03,Nicaragua
+Hydrological,Flood,,1.0,2000.0,2019-03-15,2019-04-04,Paraguay
+Hydrological,Flood,,2.0,675.0,2000-12-25,2000-12-25,Cuba
+Biological,Epidemic,Dengue,24.0,211.0,2000-09-14,2000-09-14,El Salvador
+Hydrological,Flood,,,1500.0,2001-04-09,2001-04-09,Colombia
+Hydrological,Flood,,23.0,4000.0,2001-04-25,2001-04-26,Brazil
+Hydrological,Flood,,10.0,3000.0,2022-11-29,2022-12-04,Brazil
+Hydrological,Flood,,,5000.0,2018-01-13,2018-01-22,Paraguay
+Meteorological,Storm,,5.0,7700.0,2001-06-01,2001-06-01,Colombia
+Hydrological,Flood,,,1000.0,2001-09-18,2001-09-21,El Salvador
+Hydrological,Mass Movement,,80.0,32.0,2001-11-22,2001-11-22,Colombia
+Hydrological,Mass Movement,,33.0,162.0,2009-05-05,2009-05-05,Peru
+Geophysical,Volcanic Activity,Colima,,300.0,2002-02-06,2002-02-06,Mexico
+Biological,Epidemic,Dengue,57.0,317730.0,2002-01-01,2002-04-25,Brazil
+Hydrological,Flood,,,13546.0,2002-05-23,2002-06-05,Nicaragua
+Hydrological,Flood,,1.0,100.0,2002-05-23,2002-06-05,El Salvador
+Biological,Epidemic,Dengue,6.0,2399.0,2002-01-01,2002-07-06,El Salvador
+Biological,Epidemic,Viral meningitis,,173.0,2002-06-01,2002-06-01,Panama
+Climatological,Drought,,8.0,35032.0,2019-01-01,2021-12-01,Argentina
+Hydrological,Flood,,,2000.0,2002-06-12,2002-06-19,Brazil
+Hydrological,Flood,,,14000.0,2021-04-19,2021-06-05,Brazil
+Biological,Epidemic,Dengue fever,8.0,4530.0,2002-01-01,2002-06-29,Honduras
+Geophysical,Earthquake,,,727.0,2002-05-28,2002-05-28,Argentina
+Biological,Epidemic,Unknown,,100.0,2002-01-01,2002-08-02,Ecuador
+Biological,Epidemic,Dengue,1.0,2042.0,2002-07-01,2002-07-01,Guatemala
+Meteorological,Storm,Lili,,75.0,2002-09-24,2002-09-24,Grenada
+Meteorological,Storm,Julio,,500.0,2002-09-25,2002-09-25,Mexico
+Hydrological,Mass Movement,,70.0,2000.0,2002-10-27,2002-10-29,Colombia
+Geophysical,Earthquake,,6.0,152.0,2001-01-13,2001-01-13,Guatemala
+Hydrological,Mass Movement,,35.0,779.0,2003-03-19,2003-03-19,Colombia
+Hydrological,Mass Movement,,22.0,220.0,2003-04-23,2003-04-23,Guatemala
+Biological,Epidemic,Typhoid fever,40.0,200.0,2003-04-01,2003-05-01,Haiti
+Hydrological,Flood,,3.0,4000.0,2003-06-14,2003-06-16,Colombia
+Biological,Epidemic,Pneumonia,304.0,50000.0,2003-06-21,2003-07-19,El Salvador
+Hydrological,Mass Movement,,10.0,200.0,2003-07-17,2003-07-18,Mexico
+Hydrological,Flood,,4.0,3050.0,2003-06-05,2003-06-06,Mexico
+Hydrological,Flood,,37.0,3740.0,2004-04-04,2004-04-06,Mexico
+Hydrological,Flood,,5.0,658.0,2020-02-09,2020-02-11,Brazil
+Hydrological,Flood,,7.0,3000.0,2004-06-17,2004-06-18,Brazil
+Meteorological,Extreme Temperature,,,2000.0,2004-07-01,2004-07-01,Uruguay
+Meteorological,Storm,Juliette,3.0,3800.0,2001-09-24,2001-10-02,Mexico
+Geophysical,Earthquake,,1.0,502.0,2004-08-18,2004-08-18,Colombia
+Hydrological,Flood,,36.0,345386.0,2004-10-11,2004-10-26,Colombia
+Hydrological,Flood,,5.0,1610.0,2010-08-30,2010-08-30,Honduras
+Geophysical,Earthquake,,1.0,751.0,2005-05-05,2005-05-05,El Salvador
+Hydrological,Flood,,8.0,1000.0,2005-05-05,2005-05-05,Mexico
+Hydrological,Flood,,33.0,2332.0,2005-06-24,2005-06-27,El Salvador
+Meteorological,Storm,Emily,1.0,,2005-07-14,2005-07-14,Grenada
+Meteorological,Storm,Bret,2.0,15000.0,2005-06-29,2005-06-30,Mexico
+Meteorological,Storm,Stan,3.0,7880.0,2005-10-01,2005-10-13,Nicaragua
+Meteorological,Storm,Stan,69.0,72141.0,2005-10-01,2005-10-13,El Salvador
+Meteorological,Storm,Beta,,3074.0,2005-10-29,2005-10-29,Colombia
+Hydrological,Flood,,,400.0,2018-07-09,2018-07-11,Puerto Rico
+Geophysical,Volcanic Activity,Galeras,,,2005-11-24,2005-11-24,Colombia
+Geophysical,Volcanic Activity,Galeras,,8500.0,2006-03-28,2006-07-12,Colombia
+Geophysical,Volcanic Activity,Mount Galeras,,8500.0,2006-07-12,2006-07-12,Colombia
+Meteorological,Storm,Felix,,3905.0,2007-09-04,2007-09-12,Guatemala
+Hydrological,Mass Movement,,11.0,,2006-08-02,2006-08-02,Mexico
+Hydrological,Flood,,,,2006-07-27,2006-08-07,Mexico
+Meteorological,Storm,Paul,4.0,20000.0,2006-10-25,2006-10-28,Mexico
+Meteorological,Extreme Temperature,,1.0,,2006-11-01,2006-11-01,El Salvador
+Biological,Epidemic,,3.0,280.0,2006-11-06,2007-02-02,Jamaica
+Biological,Epidemic,Dengue,17.0,100000.0,2006-01-01,2007-04-01,Paraguay
+Geophysical,Volcanic Activity,Soufriere,,200.0,2006-12-26,2006-01-01,Montserrat
+Biological,Epidemic,Dengue,1.0,228.0,2007-02-01,2007-02-01,Bolivia
+Geophysical,Volcanic Activity,Nevado del Huila,,3000.0,2007-04-18,2007-04-18,Colombia
+Hydrological,Flood,,13.0,3000.0,2007-05-19,2007-06-12,Colombia
+Hydrological,Flood,,24.0,2035.0,2007-04-26,2007-05-01,Colombia
+Geophysical,Earthquake,,,175.0,2007-09-10,2007-09-10,Colombia
+Hydrological,Flood,,22.0,1600000.0,2007-10-28,2007-11-16,Mexico
+Hydrological,Mass Movement,,16.0,,2007-11-06,2007-11-06,Mexico
+Geophysical,Earthquake,,,1.0,2007-11-29,2007-11-29,Barbados
+Geophysical,Earthquake,,,,2007-11-29,2007-11-29,St. Lucia
+Geophysical,Volcanic Activity,Mount Galeras,,150.0,2008-01-17,2008-01-17,Colombia
+Biological,Epidemic,Dengue,,204.0,2008-01-01,2008-02-01,Bolivia
+Biological,Epidemic,Dengue and Hemorrhagic fever outbreaks,123.0,162701.0,2008-03-01,2008-11-01,Brazil
+Biological,Epidemic,Dengue and Hemorrhagic fever outbreaks,,1837.0,2008-01-28,2008-04-01,Paraguay
+Hydrological,Flood,,10.0,7.0,2021-01-04,2021-01-04,Bolivia
+Hydrological,Flood,,11.0,,2008-03-11,2008-03-14,Colombia
+Biological,Epidemic,Yellow fever,8.0,16.0,2008-02-01,2008-04-01,Paraguay
+Geophysical,Volcanic Activity,Nevado del Huila,,14201.0,2008-04-14,2008-04-14,Colombia
+Hydrological,Mass Movement,,27.0,16.0,2008-05-31,2008-05-31,Colombia
+Meteorological,Storm,Alma,13.0,25000.0,2008-05-29,2008-05-29,Nicaragua
+Hydrological,Flood,,30.0,,2008-07-03,2008-07-03,El Salvador
+Hydrological,Mass Movement,,22.0,,2008-09-17,2008-09-18,Mexico
+Hydrological,Flood,,13.0,3525.0,2008-09-24,2008-10-17,Nicaragua
+Hydrological,Flood,Tropical Depression Sixteen,4.0,10663.0,2008-10-18,2008-10-18,Nicaragua
+Geophysical,Mass Movement,,12.0,,2008-11-16,2008-11-16,Colombia
+Geophysical,Volcanic Activity,Nevado del Huila,16.0,8007.0,2008-11-20,2008-11-20,Colombia
+Geophysical,Volcanic Activity,Calbuco,,4000.0,2015-04-24,2015-04-30,Chile
+Biological,Epidemic,Dengue,27.0,6998.0,2008-10-01,2009-06-17,Bolivia
+Biological,Epidemic,Dengue,,4104.0,2008-12-01,2009-07-11,Paraguay
+Hydrological,Flood,,,129.0,2021-03-02,2021-03-03,Brazil
+Hydrological,Mass Movement,,,593.0,2009-02-07,2009-02-07,Colombia
+Biological,Epidemic,Dengue,6.0,13366.0,2009-03-01,2009-04-01,Argentina
+Biological,Epidemic,Dengue,23.0,126139.0,2009-01-01,2009-03-31,Brazil
+Hydrological,Flood,,,10800.0,2009-06-19,2009-06-22,Guatemala
+Hydrological,Flood,,4.0,1500.0,2009-09-01,2009-09-10,Mexico
+Hydrological,Flood,,3.0,18000.0,2009-09-10,2009-09-19,Mexico
+Biological,Epidemic,Dengue,7.0,11771.0,2009-01-01,2009-11-01,Honduras
+Hydrological,Flood,,10.0,13014.0,2009-10-02,2009-10-02,Mexico
+Biological,Epidemic,Dengue,7.0,4598.0,2009-01-01,2009-11-01,El Salvador
+Biological,Epidemic,Dengue,8.0,2050.0,2009-01-01,2009-10-30,Nicaragua
+Biological,Epidemic,Dengue,,14151.0,2009-01-01,2009-11-01,Peru
+Biological,Epidemic,Dengue,8.0,24.0,2009-01-01,2009-03-06,Paraguay
+Biological,Epidemic,Dengue,25.0,3270.0,2009-01-01,2009-10-01,Dominican Rep.
+Biological,Epidemic,Dengue,,41687.0,2009-10-01,2009-12-01,Mexico
+Hydrological,Flood,,11.0,,2009-07-14,2009-07-16,Mexico
+Hydrological,Mass Movement,,30.0,7.0,2009-07-23,2009-07-23,Colombia
+Hydrological,Flood,,1.0,25700.0,2010-02-14,2010-02-15,Dominican Rep.
+Biological,Epidemic,Dengue,67.0,27000.0,2010-01-01,2010-09-01,Honduras
+Hydrological,Flood,,,800.0,2010-08-09,2010-08-13,Colombia
+Hydrological,Flood,,,3761.0,2010-07-01,2010-07-12,Colombia
+Biological,Epidemic,Dengue,,33000.0,2010-08-01,2010-08-01,Guadeloupe
+Biological,Epidemic,Dengue,13.0,29200.0,2010-02-01,2010-08-01,Martinique
+Hydrological,Mass Movement,,27.0,,2010-09-21,2010-09-21,Mexico
+Hydrological,Mass Movement,,30.0,,2010-09-27,2010-09-27,Colombia
+Biological,Epidemic,Cholera,130.0,17321.0,2010-12-01,2011-10-01,Dominican Rep.
+Biological,Epidemic,Cholera,6908.0,513997.0,2010-10-22,2011-12-15,Haiti
+Biological,Epidemic,Cholera,,118.0,2011-01-01,2011-01-01,Venezuela
+Biological,Epidemic,Leptospirosis,16.0,395.0,2010-10-16,2010-10-16,Nicaragua
+Hydrological,Mass Movement,,145.0,,2010-12-05,2010-12-05,Colombia
+Biological,Epidemic,Dengue,29.0,25236.0,2010-11-01,2011-12-01,Bolivia
+Biological,Epidemic,Dengue,,942153.0,2011-01-01,2011-01-01,Brazil
+Biological,Epidemic,Dengue,13.0,31703.0,2010-12-01,2011-05-31,Peru
+Biological,Epidemic,Dengue,,13681.0,2011-01-01,2011-01-01,Paraguay
+Biological,Epidemic,Dengue,4.0,4000.0,2010-01-01,2010-01-01,Ecuador
+Climatological,Drought,,,,2010-01-01,2010-06-01,St. Vin. and Gren.
+Biological,Epidemic,Dengue,44.0,16264.0,2011-01-01,2011-06-01,Paraguay
+Meteorological,Storm,"Tropical Storm ""Arlene""",22.0,300000.0,2011-06-30,2011-07-01,Mexico
+Hydrological,Flood,,11.0,6075.0,2011-08-29,2011-08-29,Guatemala
+Hydrological,Flood,,7.0,13380.0,2021-04-03,2021-04-12,Haiti
+Geophysical,Earthquake,,3.0,400.0,2011-09-19,2011-09-19,Guatemala
+Hydrological,Mass Movement,,40.0,175.0,2011-11-04,2011-11-05,Colombia
+Meteorological,Storm,Tropical storm Orphelia,,240.0,2011-09-25,2011-09-29,Dominica
+Biological,Epidemic,Cholera,1.0,220.0,2011-12-07,2011-12-14,Dominican Rep.
+Hydrological,Flood,,5.0,,2011-07-18,2011-07-18,Guatemala
+Hydrological,Flood,,74.0,40000.0,2011-08-23,2011-09-07,Mexico
+Geophysical,Volcanic Activity,Cotopaxi,,800000.0,2015-08-14,2015-08-22,Ecuador
+Biological,Epidemic,Dengue,,23235.0,2012-04-01,2012-06-01,Colombia
+Biological,Epidemic,Dengue,11.0,6967.0,2012-04-01,2012-05-01,Ecuador
+Biological,Epidemic,Cholera,167.0,26090.0,2012-04-12,2012-04-16,Dominican Rep.
+Hydrological,Flood,,,139.0,2020-05-05,2020-05-05,French Guiana
+Hydrological,Flood,,17.0,56000.0,2012-04-20,2012-04-26,Colombia
+Biological,Epidemic,Cholera,21.0,2224.0,2012-10-26,2012-11-06,Haiti
+Hydrological,Flood,,,14000.0,2019-01-16,2019-01-16,Bolivia
+Hydrological,Flood,,12.0,17518.0,2012-10-05,2012-10-19,Colombia
+Biological,Epidemic,Cholera,29.0,3593.0,2012-10-31,2012-11-08,Haiti
+Geophysical,Volcanic Activity,La Souffrière,,13300.0,2021-04-09,2021-04-30,St. Vin. and Gren.
+Biological,Epidemic,Dengue,11.0,20106.0,2012-10-01,2012-11-26,Peru
+Hydrological,Mass Movement,,10.0,,2013-01-24,2013-01-24,Ecuador
+Hydrological,Mass Movement,,15.0,300.0,2018-11-10,2018-11-10,Brazil
+Hydrological,Flood,,1.0,243.0,2021-03-26,2021-03-26,Brazil
+Biological,Epidemic,Dengue,8.0,1977.0,2013-07-01,2013-11-23,Guatemala
+Hydrological,Mass Movement,,19.0,29.0,2013-09-23,2013-09-23,Bolivia
+Biological,Epidemic,Dengue,3.0,12000.0,2013-07-01,2013-07-01,Costa Rica
+Biological,Epidemic,Dengue,27.0,34128.0,2013-07-01,2013-07-01,Honduras
+Biological,Epidemic,Dengue,3.0,1310.0,2013-07-01,2013-07-01,Nicaragua
+Biological,Epidemic,Dengue,91.0,1171.0,2013-07-01,2013-10-01,Colombia
+Hydrological,Flood,,6.0,19984.0,2013-12-23,2013-12-25,St. Lucia
+Geophysical,Volcanic Activity,Chaparrastique Volcano,,63079.0,2013-12-29,2013-12-29,El Salvador
+Hydrological,Flood,,,8978.0,2014-01-06,2014-01-06,Colombia
+Geophysical,Earthquake,,6.0,513387.0,2014-04-01,2014-04-01,Chile
+Biological,Epidemic,Chikungunya virus disease,,39343.0,2014-05-31,2014-08-16,Haiti
+Hydrological,Flood,,3.0,105.0,2003-09-14,2003-09-15,Honduras
+Biological,Epidemic,Dengue,4.0,12783.0,2014-01-01,2014-10-01,El Salvador
+Hydrological,Flood,,,4085.0,2014-06-14,2014-06-14,Colombia
+Hydrological,Flood,,1.0,500.0,2022-01-21,2022-01-23,Peru
+Geophysical,Earthquake,,,41236.0,2015-03-10,2015-03-10,Colombia
+Biological,Epidemic,Chikungunya,,15211.0,2015-01-01,2015-07-01,Guatemala
+Biological,Epidemic,Cholera,170.0,20000.0,2015-01-01,2015-08-01,Haiti
+Hydrological,Mass Movement,,350.0,1112.0,2015-10-02,2015-10-03,Guatemala
+Hydrological,Flood,,,250.0,2015-09-22,2015-09-29,Dominican Rep.
+Hydrological,Flood,,,5427.0,2019-01-10,2019-01-23,Uruguay
+Hydrological,Flood,,,3400.0,2016-05-07,2016-05-08,Dominican Rep.
+Hydrological,Mass Movement,,10.0,46.0,2016-09-06,2016-09-07,Guatemala
+Hydrological,Flood,,5.0,3000.0,2016-09-29,2016-10-05,Mexico
+Meteorological,Storm,Hurricane 'Matthew',,,2016-09-28,2016-10-10,Bahamas
+Meteorological,Storm,Hurricane 'Matthew',1.0,,2016-09-28,2016-09-29,St. Vin. and Gren.
+Biological,Epidemic,Cholera,,6096.0,2016-10-01,2016-10-01,Haiti
+Hydrological,Flood,,2.0,35000.0,2016-11-03,2016-11-10,Mexico
+Biological,Epidemic,Yellow fever,261.0,777.0,2016-12-18,2017-04-01,Brazil
+Biological,Epidemic,Yellow fever,,12.0,2016-01-01,2017-01-10,Colombia
+Hydrological,Flood,,11.0,20010.0,2006-11-28,2006-12-01,Haiti
+Hydrological,Flood,,6.0,72.0,2016-11-26,2016-12-05,Colombia
+Hydrological,Mass Movement,,329.0,45360.0,2017-03-31,2017-04-01,Colombia
+Hydrological,Mass Movement,,20.0,512.0,2017-04-17,2017-04-21,Colombia
+Meteorological,Storm,Beatriz,6.0,600.0,2017-06-01,2017-06-03,Mexico
+Hydrological,Mass Movement,,11.0,,2017-06-20,2017-06-20,Guatemala
+Hydrological,Flood,,,3274.0,2017-05-20,2017-05-25,Guyana
+Hydrological,Flood,,1.0,2000.0,2017-02-23,2017-03-03,Colombia
+Hydrological,Flood,,3.0,16000.0,2020-05-09,2020-05-11,Guatemala
+Meteorological,Storm,Hurricane 'Irma',4.0,15000.0,2017-09-06,2017-09-06,Anguilla
+Meteorological,Storm,Hurricane 'Irma',,,2017-09-08,2017-09-09,Bahamas
+Meteorological,Storm,Hurricane 'Irma',4.0,,2017-09-08,2017-09-09,St-Barthélemy
+Meteorological,Storm,Hurricane 'Irma',1.0,,2017-09-08,2017-09-09,Barbados
+Meteorological,Storm,Hurricane 'Irma',1.0,40092.0,2017-09-07,2017-09-08,Haiti
+Meteorological,Storm,Hurricane 'Irma',12.0,110.0,2017-09-08,2017-09-09,St-Martin
+Meteorological,Storm,Hurricane 'Irma',4.0,5040.0,2017-09-08,2017-09-09,Sint Maarten
+Meteorological,Storm,Hurricane Katia,3.0,1110.0,2017-09-07,2017-09-08,Mexico
+Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',,,2017-10-04,2017-10-04,Colombia
+Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',8.0,3175.0,2017-10-05,2017-10-05,Guatemala
+Hydrological,Flood,,,41300.0,2018-11-01,2018-11-19,Paraguay
+Hydrological,Flood,,22.0,192.0,2017-11-09,2017-11-09,Colombia
+Meteorological,Storm,,12.0,1119.0,2020-06-30,2020-07-01,Brazil
+Meteorological,Storm,,12.0,,2021-02-12,2021-02-20,Mexico
+Biological,Epidemic,Yellow fever,154.0,310.0,2017-07-01,2018-02-16,Brazil
+Geophysical,Volcanic Activity,Volcan de Fuego,461.0,1714414.0,2018-06-03,2018-06-03,Guatemala
+Hydrological,Flood,,,4690.0,2006-07-30,2006-07-31,Haiti
+Biological,Epidemic,Influenza,23.0,1428.0,2018-04-15,2019-06-02,Bolivia
+Climatological,Drought,,,1500000.0,2018-06-01,2019-03-01,Guatemala
+Climatological,Drought,,,360000.0,2018-06-01,2019-03-01,Honduras
+Climatological,Drought,,,,2018-06-01,2019-03-01,Panama
+Meteorological,Storm,,6.0,10111.0,2019-01-27,2019-01-28,Cuba
+Hydrological,Flood,,,9000.0,2019-02-20,2019-02-26,Colombia
+Meteorological,Storm,,,360.0,2020-06-22,2020-06-26,Uruguay
+Hydrological,Mass Movement,,32.0,,2019-04-21,2019-04-21,Colombia
+Geophysical,Earthquake,,1.0,160.0,2019-05-30,2019-05-30,El Salvador
+Hydrological,Flood,,2.0,142.0,2019-06-28,2019-06-28,Mexico
+Biological,Epidemic,Dengue,,4852.0,2019-01-01,2019-08-09,Costa Rica
+Biological,Epidemic,Dengue,128.0,71216.0,2019-04-01,2019-08-09,Honduras
+Biological,Epidemic,Dengue,15.0,94513.0,2019-04-01,2019-08-02,Nicaragua
+Biological,Epidemic,Dengue,5.0,16573.0,2019-01-01,2019-09-18,El Salvador
+Biological,Epidemic,Dengue,17.0,6264.0,2019-06-29,2019-08-08,Guatemala
+Climatological,Wildfire,,,,2019-01-01,2019-08-01,Peru
+Biological,Epidemic,Dengue,169.0,79639.0,2019-01-01,2019-08-31,Colombia
+Biological,Epidemic,Dengue,34.0,16907.0,2019-09-30,2019-09-30,Dominican Rep.
+Meteorological,Storm,,2.0,15000.0,2019-10-16,2019-10-17,Guatemala
+Climatological,Wildfire,,,747.0,2019-12-24,2019-12-26,Chile
+Hydrological,Flood,,14.0,157.0,2020-02-26,2020-02-27,Colombia
+Biological,Epidemic,Dengue,20.0,106127.0,2020-02-15,2020-03-03,Paraguay
+Hydrological,Flood,,3.0,5100.0,2020-08-08,2020-08-10,Mexico
+Hydrological,Mass Movement,,42.0,525.0,2020-10-29,2020-10-29,El Salvador
+Geophysical,Volcanic Activity,Mount Sangay,,133306.0,2021-03-01,2021-03-15,Ecuador
+Meteorological,Storm,Hurricane 'Eta',,,2020-11-02,2020-11-04,El Salvador
+Biological,Epidemic,Dengue,8.0,1760.0,2020-10-01,2021-09-01,St. Vin. and Gren.
+Biological,Epidemic,Dengue,3.0,1318.0,2020-08-26,2021-01-07,St. Lucia
+Meteorological,Storm,Hurricane 'Iota',1.0,,2020-11-17,2020-11-18,El Salvador
+Hydrological,Flood,,6.0,100000.0,2021-02-10,2021-02-22,Brazil
+Hydrological,Flood,,2.0,9480.0,2001-05-06,2001-05-07,Puerto Rico
+Hydrological,Flood,,3.0,365.0,2021-04-01,2021-04-05,Colombia
+Hydrological,Flood,,,1000.0,2021-04-14,2021-04-14,Colombia
+Hydrological,Flood,,,3274.0,2021-04-11,2021-04-16,Colombia
+Hydrological,Flood,,,4800.0,2021-04-27,2021-04-29,Colombia
+Hydrological,Flood,,,2245.0,2021-04-18,2021-04-26,Guatemala
+Hydrological,Flood,,5.0,150.0,2021-06-04,2021-06-04,Colombia
+Meteorological,Storm,Tropical cyclone 'Fred',,4025.0,2021-08-12,2021-08-13,Dominican Rep.
+Meteorological,Storm,Tropical cyclone 'Fred',,,2021-08-12,2021-08-13,Haiti
+Hydrological,Flood,,5.0,300.0,2021-09-10,2021-09-14,El Salvador
+Hydrological,Flood,,5.0,1020.0,2021-09-03,2021-09-04,Mexico
+Hydrological,Flood,,6.0,10500.0,2021-10-01,2021-10-06,Mexico
+Hydrological,Mass Movement,,20.0,10.0,2021-11-02,2021-11-02,Colombia
+Geophysical,Earthquake,,,39.0,2021-11-28,2021-11-28,Ecuador
+Hydrological,Flood,,,301.0,2021-11-30,2021-12-06,Colombia
+Geophysical,Volcanic Activity,Hunga-Tonga-Hunga-Ha'apai,2.0,,2022-01-15,2022-01-15,Peru
+Hydrological,Mass Movement,,19.0,9151.0,2022-02-01,2022-02-08,Colombia
+Hydrological,Flood,,,257.0,2022-02-10,2022-02-11,Dominican Rep.
+Hydrological,Flood,,1.0,1650.0,2022-02-18,2022-02-22,Colombia
+Hydrological,Flood,,12.0,,2022-04-21,2022-04-22,Colombia
+Meteorological,Storm,Tropical storm 'Bonnie',1.0,100.0,2022-07-02,2022-07-02,El Salvador
+Meteorological,Storm,Hurricane 'Julia',1.0,47100.0,2022-10-09,2022-10-09,Nicaragua
+Meteorological,Storm,Hurricane 'Lisa',,172150.0,2022-11-02,2022-11-03,Belize
+Climatological,Wildfire,,1.0,184.0,2022-12-12,2022-12-12,Chile
+Hydrological,Flood,,,100000.0,2022-11-26,2022-12-05,Trinidad and Tobago
+Hydrological,Flood,,,5500.0,2022-11-06,2022-11-06,St. Lucia
+Climatological,Drought,,,,2022-01-01,2022-12-01,Brazil
+Hydrological,Mass Movement,,,700.0,2023-01-10,2023-01-10,Colombia
+Geophysical,Earthquake,,1.0,141.0,2023-03-18,2023-03-18,Peru
+Hydrological,Flood,,1.0,4500.0,2023-03-28,2023-03-31,Colombia
+Meteorological,Storm,,,1050.0,2023-04-16,2023-04-17,Brazil
+Meteorological,Storm,Storm 'Yaku',8.0,45000.0,2023-03-08,2023-03-11,Peru
+Geophysical,Volcanic Activity,Mount Fuego,,1054.0,2023-05-05,2023-05-05,Guatemala
+Meteorological,Storm,Tropical storm 'Bret',,179.0,2023-06-22,2023-06-23,Barbados
+Meteorological,Storm,Tropical storm 'Bret',,150.0,2023-06-22,2023-06-23,St. Vin. and Gren.
+Hydrological,Mass Movement,,29.0,106.0,2023-07-18,2023-07-18,Colombia
+Meteorological,Storm,Tropical storm 'Franklin',3.0,289083.0,2023-08-20,2023-08-23,Dominican Rep.
+Meteorological,Storm,Hurricane 'Idalia',,,2023-08-28,2023-08-29,Cuba
+Meteorological,Storm,,,6000.0,2023-09-01,2023-09-14,Argentina
+Meteorological,Storm,,46.0,341924.0,2023-09-01,2023-09-04,Brazil
+Hydrological,Flood,,11.0,,2023-09-25,2023-09-25,Mexico
+Climatological,Wildfire,,,800.0,2023-10-10,2023-10-13,Argentina
+Meteorological,Storm,Tropical storm 'Otis',84.0,988000.0,2023-10-22,2023-10-25,Mexico
+Meteorological,Storm,Tropical storm 'Pilar',1.0,,2023-10-29,2023-11-01,Honduras
+Meteorological,Storm,Tropical storm 'Pilar',3.0,500.0,2023-10-30,2023-11-02,El Salvador
+Biological,Epidemic,Dengue,,14403.0,2023-08-01,2023-10-01,Costa Rica
+Meteorological,Storm,,4.0,46658.0,2023-11-03,2023-11-10,Honduras
+Meteorological,Storm,,1.0,300.0,2023-11-11,2023-11-14,Brazil
+Climatological,Wildfire,,12.0,,2023-11-17,2023-11-22,Bolivia
+Hydrological,Flood,,34.0,22236.0,2023-11-17,2023-11-18,Dominican Rep.
+Hydrological,Flood,,2.0,,2023-11-17,2023-11-18,Haiti
+Hydrological,Mass Movement,,86.0,123325.0,2023-11-22,2023-11-27,Guatemala
+Climatological,Wildfire,,,382.0,2023-12-06,2023-12-11,Chile
+Meteorological,Storm,,13.0,8020.0,2023-12-13,2023-12-18,Argentina
+Meteorological,Storm,,2.0,,2023-12-13,2023-12-18,Uruguay
+Climatological,Drought,,,409115.0,2023-01-01,2023-11-01,Uruguay
+Climatological,Drought,,,608000.0,2023-03-01,2023-12-31,Brazil
+Climatological,Drought,,10.0,2050000.0,2023-09-01,2024-03-01,Bolivia
+Hydrological,Mass Movement,,34.0,19.0,2024-01-12,2024-01-12,Colombia
+Hydrological,Flood,,13.0,62000.0,2024-01-08,2024-01-16,Brazil
+Hydrological,Flood,,2.0,2506.0,2024-01-19,2024-01-19,Bolivia
+Meteorological,Storm,,4.0,600.0,2024-01-19,2024-01-22,Brazil
+Hydrological,Flood,,6.0,117000.0,2024-01-26,2024-01-30,Brazil
+Meteorological,Storm,,,149.0,2024-01-25,2024-01-28,Peru
+Climatological,Wildfire,Tablax Complex fire,135.0,40778.0,2024-02-01,2024-02-07,Chile
+Hydrological,Flood,,6.0,117498.0,2024-01-29,2024-02-27,Ecuador
+Hydrological,Flood,,9.0,550.0,2024-02-21,2024-02-23,Brazil
+Hydrological,Flood,,,346.0,2024-02-19,2024-02-21,Peru
+Meteorological,Storm,,,28855.0,2024-02-25,2024-03-05,Brazil
+Hydrological,Flood,,,150.0,2024-02-25,2024-02-27,Bolivia
+Hydrological,Flood,,,291.0,2024-02-13,2024-02-16,Brazil
+Hydrological,Flood,,,400000.0,2024-03-03,2024-03-03,Argentina
+Hydrological,Flood,,,100000.0,2024-03-16,2024-03-28,Uruguay
+Meteorological,Storm,,1.0,400006.0,2024-03-18,2024-03-19,Argentina
+Hydrological,Flood,,,3990.0,2024-02-27,2024-03-28,Bolivia
+Hydrological,Flood,,34.0,7708.0,2024-03-22,2024-03-26,Brazil
+Meteorological,Storm,,,270000.0,2024-03-22,2024-03-25,Cuba
+Climatological,Wildfire,,,126.0,2024-03-13,2024-03-15,Chile
+Hydrological,Flood,,,203.0,2024-03-10,2024-03-12,Peru
+Hydrological,Flood,,,2323.0,2024-04-01,2024-04-04,Brazil
+Climatological,Wildfire,,,200.0,2024-01-01,2024-04-11,Guatemala
+Hydrological,Flood,,,2400.0,2024-05-01,2024-05-13,Argentina
+Hydrological,Flood,,209.0,2399061.0,2024-05-02,2024-06-05,Brazil
+Hydrological,Mass Movement,,13.0,11200.0,2024-05-03,2024-05-05,Haiti
+Hydrological,Flood,,,3588.0,2024-05-12,2024-05-14,Uruguay
+Meteorological,Storm,,,7806.0,2024-05-16,2024-05-18,Colombia
+Meteorological,Extreme Temperature,,155.0,2567.0,2024-03-01,2024-05-31,Mexico
+Climatological,Wildfire,,,800.0,2024-05-01,2024-05-01,Belize
+Climatological,Wildfire,,,,2024-05-01,2024-05-01,Guatemala
+Hydrological,Flood,,1.0,6393.0,2024-06-04,2024-06-14,Chile
+Hydrological,Flood,,18.0,606115.0,2024-06-07,2024-07-01,Guatemala
+Hydrological,Mass Movement,,19.0,3629.0,2024-06-14,2024-07-01,Ecuador
+Meteorological,Storm,,,,2024-06-19,2024-06-21,Nicaragua
+Meteorological,Storm,,19.0,8570.0,2024-06-15,2024-06-24,El Salvador
+Meteorological,Storm,,1.0,26820.0,2024-06-10,2024-06-16,Chile
+Meteorological,Storm,Tropical storm 'Alberto',10.0,14400.0,2024-06-21,2024-06-22,Guatemala
+Meteorological,Storm,Tropical storm 'Alberto',1.0,1500.0,2024-06-17,2024-06-22,Honduras
+Meteorological,Storm,Tropical storm 'Alberto',4.0,,2024-06-20,2024-06-22,Mexico
+Meteorological,Storm,Hurricane 'Beryl',,2500.0,2024-07-01,2024-07-02,Barbados
+Meteorological,Storm,Hurricane 'Beryl',8.0,12027.0,2024-07-01,2024-07-04,Grenada
+Meteorological,Storm,Hurricane 'Beryl',3.0,160060.0,2024-07-03,2024-07-04,Jamaica
+Meteorological,Storm,Hurricane 'Beryl',8.0,40028.0,2024-07-01,2024-07-04,St. Vin. and Gren.
+Meteorological,Storm,Hurricane 'Beryl',9.0,29000.0,2024-07-01,2024-07-04,Venezuela
+Meteorological,Storm,Tropica storm 'Chris',6.0,20000.0,2024-06-30,2024-06-30,Mexico
+Geophysical,Earthquake,,,9063.0,2024-06-28,2024-06-28,Peru
+Climatological,Wildfire,,2.0,25335.0,2024-07-01,2024-11-01,Bolivia
+Biological,Epidemic,Dengue,22.0,29229.0,2024-01-01,2024-10-01,Panama
+Hydrological,Mass Movement,,15.0,132.0,2024-09-14,2024-09-16,Mexico
+Meteorological,Storm,Hurricane 'John',24.0,3150.0,2024-09-24,2024-09-27,Mexico
+Meteorological,Storm,Tropical cyclone 'Helene',,,2024-09-27,2024-09-28,Cuba
+Meteorological,Storm,Tropical cyclone 'Helene',,,2024-09-27,2024-09-28,Mexico
+Climatological,Wildfire,,14.0,1885.0,2024-07-01,2024-09-30,Peru
+Meteorological,Storm,Hurricane 'Milton',9.0,,2024-10-09,2024-10-10,Mexico
+Meteorological,Storm,Tropical cyclone 'Oscar',10.0,320000.0,2024-10-20,2024-10-21,Cuba
+Meteorological,Storm,Tropical storm 'Nadine',3.0,3900.0,2024-10-15,2024-10-19,Mexico
+Meteorological,Storm,,7.0,3895.0,2024-11-01,2024-11-03,Panama
+Meteorological,Storm,Tropical cyclone 'Rafael',1.0,,2024-11-06,2024-11-10,Colombia
+Meteorological,Storm,Tropical cyclone 'Rafael',,,2024-11-06,2024-11-10,Costa Rica
+Meteorological,Storm,Tropical cyclone 'Rafael',,4000000.0,2024-11-06,2024-11-07,Cuba
+Meteorological,Storm,Tropical cyclone 'Rafael',2.0,,2024-11-06,2024-11-10,Jamaica
+Geophysical,Volcanic Activity,Volcano 'Los Aburridos',,335.0,2024-11-11,2024-11-12,Colombia
+Meteorological,Storm,,,254253.0,2024-10-15,2024-11-11,Colombia
+Geophysical,Earthquake,,,6007.0,2024-11-10,2024-11-10,Cuba
+Hydrological,Flood,,,15000.0,2024-11-10,2024-11-12,Dominican Rep.
+Hydrological,Flood,,,17790.0,2024-11-10,2024-11-12,Haiti
+Meteorological,Storm,Cyclone 'Sara',,162.0,2024-11-15,2024-11-18,Belize
+Meteorological,Storm,Cyclone 'Sara',,3418.0,2024-11-15,2024-11-16,Costa Rica
+Meteorological,Storm,Cyclone 'Sara',2.0,15000.0,2024-11-17,2024-11-18,Dominican Rep.
+Meteorological,Storm,Cyclone 'Sara',,50240.0,2024-11-15,2024-11-17,Guatemala
+Meteorological,Storm,Cyclone 'Sara',2.0,127716.0,2024-11-15,2024-11-17,Honduras
+Meteorological,Storm,Cyclone 'Sara',1.0,,2024-11-17,2024-11-18,Haiti
+Meteorological,Storm,Cyclone 'Sara',2.0,,2024-11-17,2024-11-18,Nicaragua
+Meteorological,Storm,Cyclone 'Sara',,480.0,2024-11-15,2024-11-16,El Salvador
+Hydrological,Flood,,2.0,376.0,2024-11-23,2024-11-24,Bolivia
+Hydrological,Flood,,8.0,1098668.0,2024-11-12,2024-11-26,Costa Rica
+Meteorological,Storm,,,200.0,2024-12-01,2024-12-02,Brazil
+Hydrological,Flood,,16.0,155025.0,2024-11-30,2024-12-04,Haiti
+Hydrological,Flood,,14.0,1015.0,2024-12-20,2024-12-28,Haiti
+Climatological,Drought,,,,2024-01-01,2024-12-31,Brazil
+Hydrological,Mass Movement,,27.0,3700.0,2025-01-11,2025-01-12,Brazil
+Meteorological,Storm,,23.0,80000.0,2025-01-06,2025-02-05,Bolivia
+Climatological,Wildfire,'Confluencia' and 'Epuyén' Fires,1.0,1500.0,2025-01-15,2025-02-01,Argentina
+Hydrological,Flood,,,400.0,2025-01-24,2025-01-25,Brazil
+Meteorological,Storm,,9.0,130.0,2025-02-05,2025-02-07,Brazil
+Hydrological,Flood,,68.0,3005000.0,2025-02-05,2025-02-13,Bolivia
+Hydrological,Flood,,,150.0,2025-02-17,2025-02-21,Peru
+Meteorological,Storm,,55.0,189298.0,2025-01-01,2025-05-07,Ecuador
+Meteorological,Storm,,2.0,20000.0,2025-02-11,2025-02-24,Colombia
+Hydrological,Flood,,7.0,57000.0,2025-01-01,2025-02-26,Peru
+Meteorological,Storm,,42.0,157663.0,2025-03-13,2025-04-14,Ecuador
+Hydrological,Flood,,125.0,236700.0,2025-03-06,2025-03-10,Argentina
+Hydrological,Mass Movement,,4.0,200.0,2025-03-08,2025-03-08,Colombia
+Hydrological,Flood,,,7966.0,2025-03-01,2025-03-06,Peru
+Hydrological,Flood,,,380.0,2025-04-03,2025-04-05,Brazil
+Geophysical,Earthquake,,,3081.0,2025-04-25,2025-04-25,Ecuador
+Hydrological,Mass Movement,,26.0,1515.0,2025-06-24,2025-06-24,Colombia
+Geophysical,Earthquake,,2.0,639.0,2025-06-15,2025-06-15,Peru
+Meteorological,Storm,Hurricane 'Erik',16.0,4726.0,2025-06-17,2025-06-20,Guatemala
+Meteorological,Storm,Hurricane 'Erik',1.0,25000.0,2025-06-17,2025-06-20,Honduras
+Meteorological,Storm,Hurricane 'Erik',1.0,150.0,2025-06-17,2025-06-20,Mexico
+Geophysical,Earthquake,,,1651.0,2025-06-08,2025-06-08,Colombia
+Geophysical,Earthquake,,9.0,14550.0,2025-07-08,2025-07-08,Guatemala
+Meteorological,Storm,,9.0,,2025-06-30,2025-07-03,Argentina
+Meteorological,Storm,,,,2025-06-30,2025-07-03,Chile
+Meteorological,Storm,,7.0,3000.0,2025-06-23,2025-07-03,Uruguay
+Meteorological,Storm,,,24095.0,2025-05-01,2025-06-25,Venezuela
+Hydrological,Flood,,130.0,407957.0,2025-06-01,2025-07-04,Colombia
+Hydrological,Flood,,1.0,444.0,2025-07-15,2025-07-15,Mexico
+Geophysical,Earthquake,,9.0,14550.0,2025-07-29,2025-07-29,Guatemala
+Meteorological,Storm,,,6000.0,2025-08-22,2025-08-23,Brazil
+Climatological,Wildfire,,,14000.0,2025-08-17,2025-08-31,Bolivia
+Geophysical,Earthquake,,,210.0,2025-09-24,2025-09-25,Venezuela
+Hydrological,Flood,,1.0,4116.0,2025-09-16,2025-09-17,Haiti
+Meteorological,Storm,Hurricane 'Imelda',,600.0,2025-09-27,2025-10-02,Bahamas
+Meteorological,Storm,Hurricane 'Imelda',2.0,,2025-09-26,2025-09-27,Cuba
+Meteorological,Storm,Hurricane 'Imelda',1.0,3000.0,2025-09-27,2025-09-28,Dominican Rep.
+Meteorological,Storm,Hurricane 'Imelda',1.0,,2025-09-27,2025-09-28,Puerto Rico
+Hydrological,Flood,,107.0,211335.0,2025-10-06,2025-10-09,Mexico
+Hydrological,Mass Movement,,14.0,,2025-10-12,2025-10-12,Venezuela
+Hydrological,Flood,,16.0,34073.0,2025-10-17,2025-10-20,Honduras
+Meteorological,Storm,Hurricane 'Melissa',,2000.0,2025-10-27,2025-10-28,Bahamas
+Meteorological,Storm,Hurricane 'Melissa',1.0,2200017.0,2025-10-28,2025-10-29,Cuba
+Meteorological,Storm,Hurricane 'Melissa',5.0,1274237.0,2025-10-26,2025-10-26,Dominican Rep.
+Meteorological,Storm,Hurricane 'Melissa',56.0,2300021.0,2025-10-26,2025-10-26,Haiti
+Meteorological,Storm,Hurricane 'Melissa',62.0,1900340.0,2025-10-24,2025-10-27,Jamaica
+Meteorological,Storm,Hurricane 'Melissa',3.0,800.0,2025-10-27,2025-10-28,Panama
+Meteorological,Storm,,7.0,750.0,2025-11-07,2025-11-09,Brazil
+Meteorological,Storm,,,10240.0,2025-11-23,2025-11-23,Brazil
+Hydrological,Mass Movement,,41.0,25.0,2025-12-01,2025-12-01,Peru
+Meteorological,Storm,,,300.0,2025-12-08,2025-12-10,Brazil
+Meteorological,Storm,,,180.0,2025-12-12,2025-12-14,Brazil
+Hydrological,Flood,,30.0,10642.0,2025-12-12,2025-12-16,Bolivia
+Meteorological,Storm,Tropical storm 'Alberto',9.0,40000.0,2018-05-29,2018-06-02,Cuba
+Hydrological,Flood,,,270.0,2019-10-12,2019-10-18,Uruguay
+Geophysical,Earthquake,,17.0,39336.0,2018-10-06,2018-10-06,Haiti
+Hydrological,Flood,,1.0,125190.0,2018-10-02,2018-10-11,Costa Rica
+Hydrological,Flood,,6.0,6948.0,2018-10-11,2018-10-11,Honduras
+Hydrological,Flood,,,150000.0,2018-10-19,2018-10-23,Trinidad and Tobago
+Hydrological,Flood,,4.0,10000.0,2019-01-11,2019-01-11,Brazil
+Hydrological,Flood,,60.0,335540.0,2019-02-24,2019-04-10,Bolivia
+Hydrological,Flood,,14.0,3000.0,2019-02-21,2019-03-05,Ecuador
+Hydrological,Flood,,6.0,600.0,2019-02-01,2019-02-10,Chile
+Hydrological,Flood,,10.0,,2019-02-07,2019-02-07,Peru
+Hydrological,Flood,,12.0,1306.0,2019-03-10,2019-03-11,Brazil
+Hydrological,Flood,,7.0,3000.0,2019-06-02,2019-06-06,Mexico
+Geophysical,Earthquake,,,15.0,2019-05-26,2019-05-26,Ecuador
+Climatological,Wildfire,,,10002195.0,2019-01-01,2019-08-01,Brazil
+Hydrological,Flood,,6.0,1325.0,2019-09-18,2019-09-21,Haiti
+Meteorological,Storm,Tropical storm 'Narda',2.0,1000.0,2019-09-30,2019-09-30,Mexico
+Hydrological,Flood,,1.0,1875.0,2021-02-10,2021-02-11,Peru
+Hydrological,Flood,,18.0,,2019-12-26,2019-12-26,Colombia
+Geophysical,Earthquake,,4.0,5078.0,2020-01-07,2020-01-07,Puerto Rico
+Hydrological,Flood,,61.0,11012.0,2020-01-17,2020-01-27,Brazil
+Hydrological,Flood,,,240.0,2020-01-23,2020-01-24,Peru
+Hydrological,Mass Movement,,15.0,13.0,2020-02-23,2020-02-23,Peru
+Hydrological,Flood,,,290.0,2020-02-22,2020-02-24,Ecuador
+Hydrological,Flood,,4.0,152.0,2020-02-29,2020-03-02,Brazil
+Hydrological,Flood,,60.0,5000.0,2020-03-02,2020-03-03,Brazil
+Geophysical,Earthquake,,,150.0,2020-05-02,2020-05-02,Puerto Rico
+Meteorological,Storm,,,3833.0,2020-05-25,2020-05-26,Cuba
+Meteorological,Storm,Tropical storm 'Amanda',2.0,306886.0,2020-05-30,2020-05-31,Guatemala
+Meteorological,Storm,Tropical storm 'Cristobal',,606.0,2020-06-03,2020-06-03,Mexico
+Meteorological,Storm,Hurricane 'Isaias',2.0,5595.0,2020-07-31,2020-08-02,Dominican Rep.
+Meteorological,Storm,Hurricane 'Iota',4.0,,2020-11-17,2020-11-18,Panama
+Hydrological,Flood,,3.0,3690.0,2020-11-08,2020-11-17,Venezuela
+Meteorological,Storm,Hurricane 'Eta',160.0,2415888.0,2020-11-03,2020-11-04,Guatemala
+Meteorological,Storm,Hurricane 'Eta',79.0,5000.0,2020-11-03,2020-11-04,Panama
+Geophysical,Volcanic Activity,Sangay,,18685.0,2020-09-20,2020-09-20,Ecuador
+Hydrological,Flood,,27.0,90000.0,2020-11-09,2020-11-10,Mexico
+Meteorological,Storm,,,521.0,2021-01-29,2021-02-02,Chile
+Hydrological,Flood,,35.0,3012.0,2022-01-01,2022-02-04,Brazil
+Hydrological,Flood,,2.0,2400.0,2021-06-08,2021-06-09,Brazil
+Meteorological,Storm,Tropical cyclone 'Grace',13.0,,2021-08-21,2021-08-23,Mexico
+Hydrological,Mass Movement,,10.0,5.0,2000-04-19,2000-04-19,French Guiana
+Hydrological,Flood,,2.0,11799.0,2021-09-13,2021-09-14,Guatemala
+Hydrological,Flood,,19.0,1000.0,2021-09-02,2021-09-07,Mexico
+Hydrological,Flood,,3.0,44000.0,2022-05-03,2022-05-05,Brazil
+Hydrological,Flood,,,2000.0,2021-09-22,2021-09-29,Colombia
+Hydrological,Flood,,15.0,32.0,2022-01-01,2022-01-14,Brazil
+Hydrological,Flood,,,5000.0,2001-06-01,2001-06-01,Uruguay
+Hydrological,Flood,,5.0,12500.0,2022-01-30,2022-01-31,Haiti
+Hydrological,Mass Movement,,,2018.0,2022-11-06,2022-11-09,Colombia
+Hydrological,Mass Movement,,22.0,21521.0,2022-03-01,2022-03-15,Colombia
+Hydrological,Flood,,2.0,500.0,2022-03-05,2022-03-06,Haiti
+Hydrological,Flood,,,600.0,2022-03-07,2022-03-08,Ecuador
+Hydrological,Flood,,23.0,31500.0,2022-04-01,2022-04-04,Brazil
+Hydrological,Flood,,10.0,5514.0,2022-03-15,2022-04-03,Colombia
+Hydrological,Flood,,3.0,600.0,2022-07-03,2022-07-05,Ecuador
+Meteorological,Storm,Tropical cyclone 'Agatha',31.0,,2022-05-30,2022-05-31,Mexico
+Hydrological,Flood,,,2000.0,2022-08-10,2022-08-11,Venezuela
+Hydrological,Flood,,8.0,2100.0,2022-08-28,2022-09-01,Mexico
+Meteorological,Storm,Hurricane 'Julia',10.0,9273.0,2022-10-10,2022-10-11,El Salvador
+Meteorological,Storm,Tropical storm 'Karl',3.0,1000.0,2022-10-15,2022-10-16,Mexico
+Meteorological,Storm,Hurricane 'Roslyn',4.0,15000.0,2022-10-23,2022-10-23,Mexico
+Hydrological,Flood,,3.0,2000.0,2022-10-27,2022-11-02,Venezuela
+Hydrological,Flood,,7.0,270.0,2022-11-14,2022-11-15,Colombia
+Hydrological,Flood,,5.0,180.0,2023-01-17,2023-01-18,Brazil
+Hydrological,Flood,,30.0,66764.0,2023-01-01,2023-04-23,Ecuador
+Hydrological,Flood,,71.0,410000.0,2023-01-01,2023-03-29,Peru
+Hydrological,Flood,,25.0,124326.0,2023-04-10,2023-04-12,Peru
+Hydrological,Flood,,,14186.0,2023-06-01,2023-06-08,Ecuador
+Hydrological,Flood,,78.0,4400005.0,2023-05-01,2023-10-11,Guatemala
+Hydrological,Flood,,,26509.0,2023-10-10,2023-10-10,Brazil
+Hydrological,Flood,,6.0,7675.0,2023-10-30,2023-11-04,Paraguay
+Hydrological,Flood,,,41088.0,2023-10-30,2023-11-28,Colombia
+Hydrological,Flood,,,168.0,2023-11-27,2023-11-29,Peru
+Climatological,Drought,,,10300.0,2023-01-01,2023-07-01,Honduras
+Hydrological,Flood,,26.0,70000.0,2000-01-01,2000-01-06,Brazil
+Hydrological,Flood,,22.0,50.0,2000-03-16,2000-03-16,Peru
+Hydrological,Flood,,,5000.0,2000-05-16,2000-05-16,Uruguay
+Hydrological,Flood,,15.0,139667.0,2000-06-12,2000-06-26,Chile
+Meteorological,Extreme Temperature,,15.0,300.0,2000-06-17,2000-06-17,Argentina
+Meteorological,Extreme Temperature,,,,2000-07-03,2000-07-03,Chile
+Hydrological,Flood,,2.0,400.0,2000-09-05,2000-09-09,El Salvador
+Meteorological,Storm,Norman,8.0,300.0,2000-09-21,2000-09-21,Mexico
+Hydrological,Flood,,2.0,7000.0,2000-11-12,2000-11-17,Venezuela
+Hydrological,Flood,,2.0,1800.0,2000-11-22,2000-11-22,Argentina
+Hydrological,Flood,,12.0,1200.0,2000-12-01,2000-12-01,Haiti
+Hydrological,Flood,,21.0,,2001-09-18,2001-09-21,Mexico
+Climatological,Drought,,,1125.0,2000-07-01,2000-01-01,Honduras
+Hydrological,Flood,,,600.0,2001-03-21,2001-03-21,Argentina
+Hydrological,Flood,,26.0,5081.0,2001-05-16,2001-05-18,Haiti
+Hydrological,Flood,,47.0,8330.0,2001-06-11,2001-06-20,Ecuador
+Meteorological,Storm,,2.0,2400.0,2001-05-29,2001-05-29,Chile
+Meteorological,Storm,Iris,8.0,6446.0,2001-10-08,2001-10-11,Guatemala
+Hydrological,Flood,,1.0,250000.0,2001-10-01,2001-12-01,Argentina
+Meteorological,Storm,Michelle,16.0,24866.0,2001-11-01,2001-11-04,Nicaragua
+Meteorological,Storm,Michelle,1.0,200.0,2001-11-06,2001-11-06,Jamaica
+Hydrological,Flood,,,4500.0,2001-12-01,2001-12-01,Colombia
+Hydrological,Flood,,12.0,5100.0,2001-11-19,2001-11-23,Brazil
+Meteorological,Storm,Chantal,,2500.0,2001-08-21,2001-08-21,Mexico
+Meteorological,Extreme Temperature,,,1850.0,2001-11-01,2001-11-01,Guatemala
+Climatological,Drought,,41.0,113596.0,2001-09-01,2001-01-01,Guatemala
+Climatological,Drought,,,195000.0,2001-07-01,2004-01-01,Honduras
+Climatological,Drought,,,400000.0,2001-05-01,2001-01-01,El Salvador
+Hydrological,Flood,,6.0,8349.0,2002-02-04,2002-02-15,Peru
+Hydrological,Flood,,17.0,1500.0,2002-02-03,2002-02-05,Brazil
+Hydrological,Flood,,,520.0,2002-03-19,2002-03-19,Ecuador
+Hydrological,Flood,,13.0,2169.0,2002-03-17,2002-03-31,Peru
+Hydrological,Flood,,4.0,11500.0,2002-05-06,2002-05-11,Panama
+Hydrological,Flood,,28.0,73013.0,2002-06-04,2002-06-13,Colombia
+Meteorological,Extreme Temperature,,,25000.0,2002-07-01,2002-07-01,Chile
+Hydrological,Mass Movement,,68.0,474.0,2002-09-13,2002-09-13,Guatemala
+Hydrological,Flood,,2.0,8000.0,2002-08-24,2002-08-29,Chile
+Meteorological,Storm,Lili,4.0,1500.0,2002-09-30,2002-09-30,Jamaica
+Geophysical,Volcanic Activity,Reventador,,128150.0,2002-11-03,2002-11-04,Ecuador
+Hydrological,Mass Movement,,13.0,,2002-12-21,2002-12-21,Brazil
+Hydrological,Flood,,,1025.0,2002-11-01,2002-11-01,Colombia
+Hydrological,Flood,,4.0,6000.0,2002-10-12,2002-11-02,Argentina
+Climatological,Drought,,,,2002-09-01,2002-01-01,Brazil
+Climatological,Drought,,,220000.0,2002-01-01,2002-01-01,Honduras
+Hydrological,Flood,,54.0,10511.0,2003-01-14,2003-01-24,Brazil
+Hydrological,Flood,,,250000.0,2011-10-20,2011-10-20,Mexico
+Hydrological,Flood,,23.0,160000.0,2003-04-28,2003-05-10,Argentina
+Hydrological,Flood,,1.0,460.0,2003-04-16,2003-04-22,Dominican Rep.
+Hydrological,Flood,,38.0,150000.0,2003-12-20,2003-12-22,Haiti
+Meteorological,Storm,,12.0,900.0,2003-11-11,2003-11-13,Argentina
+Hydrological,Flood,,7.0,2000.0,2003-11-29,2003-11-29,Brazil
+Meteorological,Storm,Odette,,100.0,2003-12-09,2003-12-09,Puerto Rico
+Meteorological,Extreme Temperature,,21.0,,2003-12-01,2003-12-01,Mexico
+Hydrological,Flood,,7.0,3000.0,2003-11-28,2003-12-24,Honduras
+Hydrological,Flood,,,800.0,2003-06-12,2003-06-15,Mexico
+Hydrological,Flood,,35.0,,2003-05-14,2003-05-28,Colombia
+Climatological,Drought,,,35000.0,2003-02-01,2004-01-01,Haiti
+Geophysical,Earthquake,,2.0,25155.0,2007-11-14,2007-11-14,Chile
+Meteorological,Storm,Catarina,4.0,150060.0,2004-03-27,2004-03-29,Brazil
+Hydrological,Flood,,,7500.0,2004-05-07,2004-05-07,Peru
+Hydrological,Flood,,2665.0,31283.0,2004-05-23,2004-06-01,Haiti
+Hydrological,Flood,,,,2004-05-23,2004-06-01,Puerto Rico
+Hydrological,Flood,,5.0,1307.0,2004-07-01,2004-07-01,Argentina
+Meteorological,Extreme Temperature,,90.0,2137467.0,2004-06-01,2004-07-01,Peru
+Meteorological,Storm,Charley,4.0,244005.0,2004-08-14,2004-08-14,Cuba
+Meteorological,Storm,Charley,,,2004-08-13,2004-08-13,Cayman Is.
+Meteorological,Storm,Frances,,250.0,2004-09-02,2004-09-02,Dominican Rep.
+Meteorological,Storm,Frances,,200.0,2004-09-01,2004-09-01,Turks and Caicos Is.
+Meteorological,Storm,Ivan,4.0,,2004-09-09,2004-09-09,Dominican Rep.
+Meteorological,Storm,Ivan,,1004.0,2004-09-08,2004-09-08,St. Vin. and Gren.
+Meteorological,Storm,Jeanne,11.0,14009.0,2004-09-16,2004-09-17,Dominican Rep.
+Hydrological,Flood,,,1000.0,2004-11-01,2004-11-01,Costa Rica
+Geophysical,Earthquake,,8.0,280.0,2004-11-20,2004-11-20,Costa Rica
+Climatological,Drought,,,,2004-08-01,2004-01-01,Cuba
+Hydrological,Flood,,4.0,2143.0,2005-01-11,2005-01-18,Costa Rica
+Hydrological,Flood,,76.0,25042.0,2005-02-07,2005-02-14,Venezuela
+Meteorological,Storm,,45.0,112.0,2005-05-18,2005-05-19,Chile
+Hydrological,Flood,,28.0,31000.0,2005-06-01,2005-06-04,Brazil
+Meteorological,Storm,"Hurricane ""Dennis""",16.0,2500000.0,2005-07-08,2005-07-09,Cuba
+Hydrological,Flood,,5.0,800.0,2005-06-26,2005-06-28,Chile
+Hydrological,Flood,,13.0,19105.0,2005-06-01,2005-06-01,Venezuela
+Meteorological,Storm,Beta,4.0,5763.0,2005-10-30,2005-10-30,Nicaragua
+Hydrological,Flood,,1.0,855.0,2005-09-18,2005-09-27,Costa Rica
+Meteorological,Storm,Stan,1.0,10000.0,2005-10-01,2005-10-01,Haiti
+Meteorological,Storm,Stan,36.0,1954571.0,2005-10-01,2005-10-13,Mexico
+Meteorological,Storm,"Hurricane ""Wilma""",,,2005-10-21,2005-10-21,Belize
+Meteorological,Storm,"Hurricane ""Wilma""",12.0,,2005-10-19,2005-10-24,Haiti
+Meteorological,Storm,"Hurricane ""Wilma""",7.0,1000000.0,2005-10-19,2005-10-24,Mexico
+Hydrological,Flood,,12.0,,2006-01-27,2006-01-30,Brazil
+Hydrological,Flood,,,,2005-10-03,2005-10-03,Guatemala
+Hydrological,Flood,,,107670.0,2009-11-01,2009-11-12,Mexico
+Climatological,Drought,,,52990.0,2005-10-14,2005-01-01,Paraguay
+Hydrological,Flood,,,504.0,2006-01-01,2006-01-01,Bolivia
+Hydrological,Flood,,25.0,126096.0,2006-01-25,2006-04-17,Bolivia
+Hydrological,Flood,,16.0,57670.0,2006-02-16,2006-05-06,Ecuador
+Hydrological,Flood,,8.0,116000.0,2006-03-25,2006-04-23,Brazil
+Geophysical,Volcanic Activity,Tungurahua,,250.0,2006-05-10,2006-05-23,Ecuador
+Hydrological,Flood,,4.0,1500.0,2006-06-25,2006-07-01,Honduras
+Meteorological,Storm,John,7.0,10000.0,2006-09-02,2006-09-04,Mexico
+Hydrological,Flood,,,7905.0,2003-05-06,2003-05-06,Ecuador
+Hydrological,Flood,,,1900.0,2006-10-01,2006-10-01,Panama
+Hydrological,Flood,,11.0,4530.0,2006-11-21,2006-11-30,Panama
+Meteorological,Extreme Temperature,,6.0,,2006-11-01,2006-11-23,Guatemala
+Meteorological,Extreme Temperature,,5.0,,2006-11-01,2006-11-01,Mexico
+Hydrological,Flood,,59.0,200080.0,2007-01-01,2007-01-12,Brazil
+Hydrological,Flood,Tropical Depression Sixteen,,3000.0,2008-10-16,2008-10-16,El Salvador
+Hydrological,Flood,,9.0,16000.0,2007-05-30,2007-06-03,Dominican Rep.
+Hydrological,Flood,,2.0,119200.0,2007-05-04,2007-05-25,Uruguay
+Meteorological,Extreme Temperature,,9.0,,2007-05-01,2007-07-01,Argentina
+Hydrological,Flood,,4.0,1500.0,2007-07-23,2007-07-24,Haiti
+Meteorological,Storm,Dean,,20000.0,2007-08-21,2007-08-21,Belize
+Meteorological,Storm,Dean,2.0,7530.0,2007-08-21,2007-08-24,Dominica
+Meteorological,Storm,Dean,9.0,140000.0,2007-08-21,2007-08-24,Mexico
+Meteorological,Storm,"Tropical storm ""Alex""",6.0,500.0,2010-06-27,2010-06-27,El Salvador
+Hydrological,Flood,,19.0,12000.0,2007-10-12,2007-10-26,Costa Rica
+Meteorological,Storm,Noel,1.0,,2007-10-28,2007-11-02,Jamaica
+Hydrological,Flood,,35.0,1162135.0,2007-10-20,2007-10-26,Colombia
+Geophysical,Earthquake,,1.0,100.0,2007-11-29,2007-11-29,Martinique
+Hydrological,Flood,,40.0,450012.0,2008-02-04,2008-03-14,Peru
+Hydrological,Flood,,5.0,40000.0,2008-05-19,2008-05-27,Chile
+Hydrological,Flood,,12.0,20000.0,2008-07-06,2008-07-11,Mexico
+Meteorological,Storm,"Hurricane ""Gustav""",,,2008-08-26,2008-08-26,Bahamas
+Meteorological,Storm,"Hurricane ""Gustav""",,450019.0,2008-08-29,2008-09-01,Cuba
+Meteorological,Storm,Hurricane Ike,74.0,125050.0,2008-09-06,2008-09-08,Haiti
+Hydrological,Flood,Tropical Depression Sixteen,6.0,92000.0,2008-10-13,2008-10-18,Costa Rica
+Meteorological,Storm,Hurricane Paloma,,49445.0,2008-11-08,2008-11-08,Cuba
+Hydrological,Flood,,151.0,1500015.0,2008-11-22,2008-11-24,Brazil
+Hydrological,Flood,,76.0,1200091.0,2008-09-15,2009-01-12,Colombia
+Climatological,Drought,,4.0,18000.0,2008-09-01,2008-01-01,Paraguay
+Hydrological,Flood,,,64.0,2009-06-19,2009-06-22,Nicaragua
+Hydrological,Flood,,,18000.0,2009-06-20,2009-06-21,Brazil
+Meteorological,Storm,,10.0,24.0,2009-09-09,2009-09-09,Argentina
+Hydrological,Flood,,7.0,30618.0,2009-11-14,2009-11-22,Argentina
+Hydrological,Flood,,,680000.0,2009-11-02,2009-11-02,Brazil
+Hydrological,Flood,,2.0,3510.0,2009-12-28,2009-12-28,Argentina
+Climatological,Drought,,,,2009-11-01,2010-01-01,Venezuela
+Hydrological,Flood,,4.0,2.0,2010-02-15,2010-02-15,Haiti
+Geophysical,Earthquake,,562.0,2671556.0,2010-02-27,2010-02-27,Chile
+Hydrological,Flood,,27.0,22085.0,2010-02-18,2010-03-02,Haiti
+Geophysical,Volcanic Activity,Pacaya volcano,,1800.0,2010-05-27,2010-05-27,Guatemala
+Hydrological,Flood,,72.0,157000.0,2010-06-19,2010-06-23,Brazil
+Geophysical,Volcanic Activity,Tungurahua,,2500.0,2010-05-28,2010-05-28,Ecuador
+Hydrological,Flood,,6.0,9500.0,2010-07-15,2010-07-15,Dominican Rep.
+Meteorological,Storm,Hurricane Earl,,5000.0,2010-08-29,2010-08-31,Antigua and Barb.
+Meteorological,Storm,Tropical storm Matthew,4.0,,2010-09-25,2010-09-25,Honduras
+Meteorological,Storm,Tropical storm Matthew,1.0,,2010-09-25,2010-09-25,El Salvador
+Hydrological,Mass Movement,,44.0,,2010-09-28,2010-09-29,Mexico
+Hydrological,Flood,,13.0,,2010-10-18,2010-10-18,Haiti
+Meteorological,Storm,Hurricane Tomas,,12000.0,2010-10-29,2010-10-29,Dominican Rep.
+Meteorological,Storm,Hurricane Irene,,10000.0,2011-08-23,2011-08-26,Bahamas
+Climatological,Drought,,,,2010-01-01,2010-06-01,Barbados
+Climatological,Drought,,,,2010-01-01,2010-06-01,Grenada
+Hydrological,Mass Movement,,,4000.0,2011-02-26,2011-02-26,Bolivia
+Climatological,Drought,,,62000.0,2010-10-01,2010-01-01,Brazil
+Hydrological,Flood,,10.0,31000.0,2011-03-12,2011-03-18,Brazil
+Hydrological,Flood,,,275.0,2011-04-11,2011-04-12,St. Vin. and Gren.
+Hydrological,Flood,,2.0,13000.0,2011-05-08,2011-05-11,Brazil
+Hydrological,Flood,,15.0,78000.0,2011-07-15,2011-07-19,Brazil
+Meteorological,Storm,Hurricane Nate,10.0,,2011-09-09,2011-09-09,Mexico
+Hydrological,Mass Movement,,7.0,150.0,2011-07-01,2011-07-01,Ecuador
+Meteorological,Storm,"Tropical storm ""Emily""",3.0,7000.0,2011-08-04,2011-08-04,Dominican Rep.
+Hydrological,Mass Movement,,16.0,,2011-09-20,2011-09-22,Guatemala
+Hydrological,Flood,,33.0,69798.0,2011-10-17,2011-10-17,Honduras
+Hydrological,Flood,,,11500.0,2012-04-23,2012-04-25,Dominican Rep.
+Hydrological,Flood,,35.0,300000.0,2011-09-01,2011-10-17,El Salvador
+Hydrological,Flood,,3.0,3000.0,2011-07-23,2011-07-29,Brazil
+Climatological,Wildfire,,1.0,1082.0,2011-12-29,2012-01-06,Chile
+Hydrological,Flood,,3.0,190000.0,2011-07-18,2011-07-18,Mexico
+Hydrological,Flood,,,3070.0,2012-05-07,2012-05-07,Dominican Rep.
+Hydrological,Flood,,13.0,69085.0,2012-01-01,2012-02-01,Bolivia
+Hydrological,Flood,,29.0,71860.0,2012-01-01,2012-03-26,Ecuador
+Meteorological,Storm,,18.0,2020.0,2012-04-04,2012-04-04,Argentina
+Meteorological,Storm,Ernesto,12.0,,2012-08-10,2012-08-10,Mexico
+Geophysical,Earthquake,,2.0,762.0,2012-09-05,2012-09-05,Costa Rica
+Meteorological,Storm,Hurricane Carlotta,7.0,87000.0,2012-06-15,2012-06-15,Mexico
+Meteorological,Storm,Boris,,,2014-05-30,2014-06-06,Mexico
+Meteorological,Storm,Hurricane Sandy,1.0,215850.0,2012-10-24,2012-10-24,Jamaica
+Climatological,Drought,,,125000.0,2012-09-01,2012-09-01,Honduras
+Hydrological,Flood,,4.0,200000.0,2013-01-01,2013-01-20,Brazil
+Geophysical,Earthquake,,,10015.0,2013-02-09,2013-02-09,Colombia
+Meteorological,Storm,Tropical storm Dolly,1.0,1500.0,2014-09-04,2014-09-08,Mexico
+Hydrological,Flood,,,1000.0,2013-05-22,2013-05-22,Bahamas
+Hydrological,Flood,,,8105.0,2015-07-22,2015-08-06,Colombia
+Hydrological,Flood,,,61400.0,2013-06-20,2013-07-18,Paraguay
+Meteorological,Storm,Tropical storm Fernand,14.0,5000.0,2013-08-25,2013-08-26,Mexico
+Meteorological,Extreme Temperature,,1.0,92701.0,2013-08-23,2013-09-12,Peru
+Meteorological,Storm,Hurricane Manuel,169.0,105000.0,2013-09-13,2013-09-20,Mexico
+Meteorological,Extreme Temperature,,18.0,17490.0,2013-08-01,2013-08-01,Bolivia
+Meteorological,Storm,,2.0,13864.0,2013-09-21,2013-09-22,Brazil
+Meteorological,Storm,,,50000.0,2013-09-21,2013-09-22,Paraguay
+Hydrological,Flood,,19.0,600.0,2013-12-07,2013-12-10,Brazil
+Hydrological,Flood,,2.0,2000.0,2013-12-12,2013-12-12,Brazil
+Hydrological,Flood,,,,2013-12-23,2013-12-25,Dominican Rep.
+Hydrological,Flood,,12.0,17422.0,2013-12-23,2013-12-25,St. Vin. and Gren.
+Hydrological,Flood,,64.0,43300.0,2013-12-17,2014-01-04,Brazil
+Hydrological,Flood,,20.0,600.0,2014-01-12,2014-01-13,Brazil
+Hydrological,Mass Movement,,24.0,350.0,2014-01-25,2014-01-25,Argentina
+Climatological,Wildfire,,12.0,13000.0,2014-04-12,2014-04-21,Chile
+Geophysical,Earthquake,,,381.0,2014-04-18,2014-04-18,Mexico
+Hydrological,Flood,,10.0,50000.0,2014-07-03,2014-07-14,Brazil
+Climatological,Drought,,,51180.0,2014-10-01,2014-10-01,Bolivia
+Hydrological,Flood,,3.0,5203.0,2014-10-30,2014-11-04,Argentina
+Hydrological,Flood,,4.0,3000.0,2014-10-15,2014-10-17,Honduras
+Hydrological,Flood,,44.0,18000.0,2014-11-01,2014-12-20,Colombia
+Climatological,Drought,,,460000.0,2014-08-01,2015-02-01,Nicaragua
+Hydrological,Flood,,,12555.0,2014-06-11,2014-06-11,Chile
+Hydrological,Flood,,3.0,10089.0,2015-04-30,2015-04-30,Cuba
+Hydrological,Mass Movement,,93.0,348.0,2015-05-17,2015-05-18,Colombia
+Meteorological,Storm,,14.0,2320.0,2015-05-25,2015-05-26,Mexico
+Meteorological,Storm,Hurricane Erika,5.0,1969.0,2015-08-29,2015-08-30,Haiti
+Hydrological,Flood,,,3000.0,2015-03-13,2015-03-23,Mexico
+Meteorological,Storm,Hurricane Patricia,14.0,15000.0,2015-10-22,2015-10-28,Mexico
+Hydrological,Flood,,1.0,,2015-09-22,2015-09-29,El Salvador
+Hydrological,Flood,,,9000.0,2015-12-20,2015-12-26,Brazil
+Hydrological,Flood,,2.0,23000.0,2015-12-20,2015-12-26,Uruguay
+Hydrological,Flood,,3.0,50500.0,2016-01-09,2016-01-15,Brazil
+Hydrological,Flood,,,23955.0,2016-01-24,2016-01-26,Ecuador
+Hydrological,Flood,,5.0,48280.0,2016-02-28,2016-02-28,Haiti
+Geophysical,Earthquake,,672.0,389364.0,2016-04-16,2016-04-16,Ecuador
+Meteorological,Storm,Tropical storm 'Earl',1.0,151.0,2016-08-06,2016-08-06,Honduras
+Meteorological,Storm,Tropical storm 'Earl',54.0,11000.0,2016-08-06,2016-08-07,Mexico
+Geophysical,Earthquake,,4.0,11182.0,2016-08-14,2016-08-14,Peru
+Meteorological,Storm,Hurricane 'Matthew',546.0,2100439.0,2016-09-28,2016-10-07,Haiti
+Meteorological,Storm,Hurricane 'Matthew',,25000.0,2016-09-28,2016-09-28,St. Lucia
+Hydrological,Flood,,1.0,160.0,2017-06-10,2017-06-11,Guatemala
+Hydrological,Flood,,,25000.0,2016-11-29,2016-11-29,St. Vin. and Gren.
+Hydrological,Flood,,2.0,3000.0,2016-02-03,2016-02-06,Mexico
+Climatological,Drought,,,3600000.0,2016-01-01,2017-02-01,Haiti
+Climatological,Drought,,,,2016-07-01,2016-08-01,Paraguay
+Climatological,Drought,,,665000.0,2016-03-01,2016-12-01,Bolivia
+Meteorological,Storm,Hurricane 'Irma',9.0,,2017-09-08,2017-09-09,British Virgin Is.
+Hydrological,Flood,,184.0,1800505.0,2017-03-15,2017-03-19,Peru
+Hydrological,Flood,,,39777.0,2017-03-27,2017-04-07,Argentina
+Hydrological,Flood,,14.0,104140.0,2017-05-26,2017-06-10,Brazil
+Meteorological,Storm,Hurricane 'Irma',,,2017-09-08,2017-09-09,Turks and Caicos Is.
+Geophysical,Earthquake,,,3601.0,2017-09-08,2017-09-08,Guatemala
+Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',10.0,584.0,2017-10-05,2017-10-06,El Salvador
+Hydrological,Flood,,,10080.0,2017-09-18,2017-09-18,Guatemala
+Geophysical,Earthquake,,,249.0,2019-02-22,2019-02-22,Ecuador
+Hydrological,Flood,,12.0,,2019-07-23,2019-07-24,Brazil
+Meteorological,Storm,Tropical cyclone 'Dorian',356.0,14940.0,2019-09-01,2019-09-04,Bahamas
+Hydrological,Flood,,,900.0,2019-12-15,2020-01-10,Peru
+Meteorological,Storm,Hurricane 'Isaias',,500.0,2020-07-31,2020-08-02,Cuba
+Hydrological,Flood,,8.0,2511.0,2020-02-13,2020-02-13,Bolivia
+Meteorological,Storm,Hurricane 'Laura',4.0,10000.0,2020-08-26,2020-08-27,Dominican Rep.
+Meteorological,Storm,Tropical storm 'Gamma',6.0,3500.0,2020-10-02,2020-10-06,Mexico
+Meteorological,Storm,Hurricane 'Eta',2.0,30000.0,2020-11-03,2020-11-04,Nicaragua
+Meteorological,Storm,Hurricane 'Iota',23.0,228000.0,2020-11-14,2020-11-17,Colombia
+Meteorological,Storm,Hurricane 'Iota',14.0,578000.0,2020-11-17,2020-11-18,Honduras
+Climatological,Drought,,,,2020-01-01,2020-12-01,Brazil
+Hydrological,Mass Movement,,14.0,205.0,2000-04-12,2000-04-12,Ecuador
+Climatological,Wildfire,,,,2000-02-01,2000-02-01,Honduras
+Hydrological,Flood,,2.0,107.0,2021-01-21,2021-01-24,Brazil
+Hydrological,Flood,,10.0,12000.0,2021-02-12,2021-02-20,Peru
+Hydrological,Flood,,,561.0,2021-03-03,2021-03-04,Peru
+Hydrological,Flood,,,2595.0,2021-04-01,2021-04-15,Peru
+Hydrological,Flood,,,7500.0,2021-04-23,2021-04-26,Bolivia
+Hydrological,Flood,,,1200.0,2021-04-30,2021-05-04,Venezuela
+Hydrological,Flood,,,461.0,2021-05-15,2021-05-16,Ecuador
+Hydrological,Flood,,,10572.0,2021-05-21,2021-07-25,Guatemala
+Hydrological,Flood,,,455005.0,2021-04-20,2021-04-23,Brazil
+Meteorological,Storm,Tropical storm 'Dolores',3.0,600.0,2021-06-18,2021-06-20,Mexico
+Hydrological,Flood,,,34500.0,2021-05-11,2021-06-15,Guyana
+Hydrological,Flood,,8.0,39000.0,2000-02-01,2000-02-01,Colombia
+Hydrological,Flood,,7.0,6000.0,2000-03-09,2000-03-17,Argentina
+Hydrological,Flood,,,7000.0,2000-03-13,2000-03-15,Bolivia
+Hydrological,Flood,,96.0,12000.0,2000-05-18,2000-05-24,Colombia
+Hydrological,Flood,,14.0,,2000-05-13,2000-05-13,Mexico
+Hydrological,Flood,,16.0,2524.0,2000-06-06,2000-06-21,Guatemala
+Hydrological,Flood,,9.0,28000.0,2000-09-20,2000-09-20,Colombia
+Hydrological,Flood,,,5500.0,2000-06-01,2000-06-01,Nicaragua
+Hydrological,Mass Movement,,11.0,,2000-09-16,2000-09-16,Peru
+Hydrological,Mass Movement,,30.0,180.0,2000-10-14,2000-10-14,Ecuador
+Climatological,Wildfire,,8.0,,2000-12-01,2000-12-01,Argentina
+Meteorological,Extreme Temperature,,66.0,,2000-10-01,2000-10-01,Mexico
+Meteorological,Storm,,,100.0,2000-12-27,2000-12-27,Uruguay
+Hydrological,Flood,,30.0,10.0,2000-02-03,2000-02-03,Bolivia
+Climatological,Drought,,,20000.0,2000-04-01,2000-01-01,Bolivia
+Meteorological,Storm,,13.0,3400.0,2001-09-29,2001-10-04,Brazil
+Hydrological,Flood,,,700.0,2001-07-01,2001-07-01,Argentina
+Climatological,Wildfire,,,,2001-08-01,2001-08-01,Argentina
+Geophysical,Volcanic Activity,Tungurahua,,22770.0,2001-08-14,2001-08-14,Ecuador
+Meteorological,Storm,Iris,30.0,20000.0,2001-10-08,2001-10-11,Belize
+Meteorological,Storm,Iris,3.0,175.0,2001-10-04,2001-10-09,Dominican Rep.
+Meteorological,Storm,Michelle,,,2001-11-09,2001-11-09,Bahamas
+Hydrological,Flood,,6.0,20000.0,2001-12-26,2001-12-29,Peru
+Hydrological,Flood,,,1437.0,2001-10-19,2001-10-19,Costa Rica
+Geophysical,Earthquake,,4.0,3965.0,2001-08-09,2001-08-09,Peru
+Climatological,Wildfire,,,,2002-02-01,2002-02-01,Chile
+Meteorological,Storm,,2.0,1500.0,2002-03-15,2002-03-15,Uruguay
+Climatological,Wildfire,,,16000.0,2002-04-18,2002-04-18,Nicaragua
+Hydrological,Flood,,9.0,25000.0,2002-05-23,2002-06-05,Jamaica
+Meteorological,Storm,,20.0,12085.0,2002-06-01,2002-07-01,Bolivia
+Hydrological,Flood,,4.0,55376.0,2002-07-20,2002-07-31,Venezuela
+Hydrological,Flood,,16.0,11650.0,2004-09-17,2004-09-19,Panama
+Meteorological,Extreme Temperature,,,200.0,2002-07-01,2002-07-01,Argentina
+Meteorological,Storm,Isidore,,42500.0,2002-09-18,2002-09-18,Cuba
+Meteorological,Storm,Lili,3.0,281470.0,2002-10-01,2002-10-01,Cuba
+Hydrological,Flood,,10.0,,2002-09-17,2002-09-21,Mexico
+Meteorological,Storm,Isidore,,,2002-09-18,2002-09-19,Jamaica
+Meteorological,Storm,Isidore,2.0,1500.0,2002-09-20,2002-09-24,Guatemala
+Meteorological,Storm,Lili,4.0,250.0,2002-09-30,2002-09-30,Haiti
+Hydrological,Flood,,2.0,2405.0,2003-04-16,2003-04-22,Puerto Rico
+Hydrological,Flood,,4.0,350.0,2002-11-10,2002-11-10,Peru
+Hydrological,Flood,,10.0,75040.0,2002-11-23,2002-12-13,Costa Rica
+Meteorological,Extreme Temperature,,50.0,,2002-12-24,2002-12-24,Mexico
+Climatological,Drought,,,,2002-04-01,2002-01-01,Mexico
+Geophysical,Earthquake,,29.0,178603.0,2003-01-22,2003-01-22,Mexico
+Climatological,Wildfire,,,285.0,2003-01-23,2003-01-23,Chile
+Geophysical,Earthquake,,2.0,1075.0,2003-12-25,2003-12-25,Panama
+Meteorological,Extreme Temperature,,339.0,1839888.0,2003-07-07,2003-08-15,Peru
+Geophysical,Earthquake,,,340.0,2003-08-13,2003-08-13,Panama
+Hydrological,Flood,,2.0,50000.0,2003-09-06,2003-09-10,Mexico
+Hydrological,Flood,,9.0,65003.0,2003-11-14,2003-11-14,Dominican Rep.
+Geophysical,Earthquake,,2.0,135.0,2003-12-25,2003-12-25,Costa Rica
+Meteorological,Storm,Ignacio,2.0,3000.0,2003-08-24,2003-08-27,Mexico
+Hydrological,Flood,,,200.0,2003-05-01,2003-05-01,Uruguay
+Hydrological,Flood,,3.0,9000.0,2004-06-30,2004-07-01,Chile
+Meteorological,Storm,Ivan,15.0,350000.0,2004-09-11,2004-09-11,Jamaica
+Climatological,Drought,,,,2003-06-01,2003-09-01,Argentina
+Hydrological,Mass Movement,,29.0,5769.0,2004-06-24,2004-06-28,Nicaragua
+Hydrological,Flood,,,296.0,2009-09-18,2009-09-18,Haiti
+Meteorological,Extreme Temperature,,5.0,,2004-07-01,2004-07-01,Argentina
+Meteorological,Extreme Temperature,,,,2004-07-01,2004-07-01,Chile
+Meteorological,Storm,Frances,,,2004-08-31,2004-08-31,Puerto Rico
+Meteorological,Storm,Ivan,1.0,,2004-08-25,2004-09-08,Bahamas
+Meteorological,Storm,Jeanne,9.0,1000.0,2004-09-25,2004-09-25,Bahamas
+Meteorological,Storm,Ivan,,3245.0,2004-09-13,2004-09-14,Cuba
+Climatological,Drought,,,,2004-12-01,2005-03-01,Brazil
+Meteorological,Storm,Ivan,,,2004-09-08,2004-09-08,St. Lucia
+Meteorological,Storm,Ivan,1.0,560.0,2004-09-09,2004-09-09,Trinidad and Tobago
+Meteorological,Storm,Jeanne,2.0,3500.0,2004-09-14,2004-09-14,Puerto Rico
+Geophysical,Mass Movement,,36.0,3028.0,2009-01-04,2009-01-04,Guatemala
+Geophysical,Earthquake,,1.0,153.0,2004-11-21,2004-11-21,Guadeloupe
+Hydrological,Mass Movement,,2.0,1200.0,2004-11-12,2004-11-12,Trinidad and Tobago
+Hydrological,Flood,,,5000.0,2004-12-06,2004-12-10,Argentina
+Climatological,Drought,,,55000.0,2004-10-01,2005-01-01,Bolivia
+Hydrological,Flood,,3.0,,2005-01-08,2005-01-20,Venezuela
+Hydrological,Flood,,23.0,41530.0,2005-04-12,2005-05-07,Colombia
+Hydrological,Flood,,19.0,10000.0,2005-01-29,2005-02-11,Brazil
+Hydrological,Flood,,56.0,85729.0,2005-02-11,2005-02-26,Colombia
+Hydrological,Mass Movement,,63.0,1535.0,2005-06-15,2005-06-16,Guatemala
+Geophysical,Earthquake,,,,2005-06-13,2005-06-13,Peru
+Meteorological,Storm,Emily,,,2005-07-14,2005-07-14,Trinidad and Tobago
+Meteorological,Storm,,7.0,12.0,2005-08-23,2005-08-24,Uruguay
+Hydrological,Flood,,30.0,10000.0,2005-08-21,2005-08-30,Mexico
+Meteorological,Storm,Stan,1513.0,475314.0,2005-10-01,2005-10-13,Guatemala
+Meteorological,Storm,Stan,6.0,2869.0,2005-09-28,2005-10-10,Honduras
+Meteorological,Storm,Alpha,12.0,2192.0,2005-10-22,2005-10-24,Haiti
+Meteorological,Storm,Beta,,11000.0,2005-10-30,2005-11-15,Honduras
+Meteorological,Storm,Gamma,3.0,,2005-11-14,2005-11-21,Belize
+Meteorological,Storm,Gamma,47.0,90000.0,2005-11-18,2005-11-20,Honduras
+Hydrological,Flood,,,15325.0,2006-01-01,2006-03-01,Peru
+Hydrological,Flood,,,4500.0,2006-03-01,2006-04-01,Argentina
+Meteorological,Storm,Adrian,,,2005-05-19,2005-05-19,El Salvador
+Hydrological,Flood,,,83.0,2005-06-07,2005-06-15,Haiti
+Hydrological,Flood,,,35000.0,2006-01-08,2006-02-14,Guyana
+Geophysical,Volcanic Activity,Tungurahua,5.0,300013.0,2006-07-14,2006-08-17,Ecuador
+Hydrological,Flood,,,63000.0,2009-02-12,2009-02-23,Bolivia
+Meteorological,Storm,Ernesto,5.0,15000.0,2006-08-25,2006-08-26,Haiti
+Hydrological,Mass Movement,,10.0,,2006-09-06,2006-09-06,Mexico
+Meteorological,Storm,Lane,4.0,240700.0,2006-09-16,2006-09-18,Mexico
+Hydrological,Flood,,1.0,5000.0,2006-11-22,2006-11-26,Jamaica
+Geophysical,Earthquake,,,16470.0,2006-12-17,2006-12-17,El Salvador
+Climatological,Wildfire,,,1436.0,2006-12-20,2006-01-01,Panama
+Hydrological,Flood,,3.0,3830.0,2007-03-26,2007-03-30,Dominican Rep.
+Geophysical,Earthquake,,10.0,,2007-04-21,2007-04-21,Chile
+Meteorological,Extreme Temperature,,6.0,,2007-07-01,2007-07-01,Chile
+Meteorological,Extreme Temperature,,,,2007-07-01,2007-07-01,Bolivia
+Meteorological,Extreme Temperature,,67.0,884572.0,2007-04-01,2007-07-01,Peru
+Meteorological,Storm,Dean,9.0,3966.0,2007-08-18,2007-08-24,Haiti
+Meteorological,Storm,Felix,,30000.0,2007-09-04,2007-09-06,Mexico
+Hydrological,Flood,,,12500.0,2007-09-20,2007-09-26,Costa Rica
+Hydrological,Flood,,,1440.0,2007-10-12,2007-10-26,Guatemala
+Hydrological,Flood,,10.0,24000.0,2007-10-14,2007-10-24,Nicaragua
+Meteorological,Storm,Noel,1.0,7000.0,2007-10-28,2007-11-02,Bahamas
+Meteorological,Storm,Noel,90.0,108763.0,2007-10-28,2007-11-02,Haiti
+Hydrological,Flood,,6.0,2272.0,2007-10-24,2007-10-27,Brazil
+Meteorological,Storm,Olga,1.0,,2007-12-11,2007-12-17,Puerto Rico
+Climatological,Drought,,,1000000.0,2007-10-01,2007-01-01,Brazil
+Hydrological,Flood,,41.0,289122.0,2008-01-30,2008-03-03,Ecuador
+Meteorological,Storm,,3.0,1600.0,2008-05-06,2008-05-06,Brazil
+Meteorological,Storm,Alma,4.0,55000.0,2008-05-28,2008-05-28,Costa Rica
+Meteorological,Storm,Alma,,,2008-05-28,2008-05-28,Honduras
+Meteorological,Storm,"Tropical Storm ""Fay""",,,2008-08-20,2008-08-20,Cuba
+Meteorological,Storm,"Hurricane ""Gustav""",,,2008-08-26,2008-08-26,Cayman Is.
+Meteorological,Storm,Hurricane 'Hanna',1.0,10745.0,2008-09-03,2008-09-03,Dominican Rep.
+Meteorological,Storm,Hurricane 'Hanna',,750.0,2008-09-01,2008-09-01,Turks and Caicos Is.
+Meteorological,Storm,Hurricane Ike,,3000.0,2008-09-07,2008-09-07,Bahamas
+Hydrological,Flood,,,9498.0,2008-09-02,2008-09-05,Costa Rica
+Hydrological,Flood,Tropical Depression Sixteen,3.0,180000.0,2008-10-22,2008-11-01,Guatemala
+Meteorological,Storm,,,6655.0,2008-11-08,2008-11-09,Bolivia
+Hydrological,Flood,,8.0,1500.0,2008-11-20,2008-11-23,Venezuela
+Hydrological,Flood,,,100000.0,2008-12-08,2008-12-17,Guyana
+Meteorological,Storm,"Hurricane ""Omar""",,25800.0,2008-10-15,2008-10-16,Antigua and Barb.
+Meteorological,Storm,"Hurricane ""Omar""",,,2008-10-15,2008-10-16,St. Kitts and Nevis
+Climatological,Drought,,,27500.0,2008-12-01,2009-01-01,Bolivia
+Meteorological,Storm,,,700.0,2009-09-08,2009-09-08,Paraguay
+Hydrological,Flood,,2.0,4565.0,2009-01-08,2009-01-16,Dominican Rep.
+Hydrological,Mass Movement,,4.0,20000.0,2009-02-09,2009-02-10,Argentina
+Meteorological,Storm,"Hurricane ""Ida""",,40000.0,2009-11-08,2009-11-08,Mexico
+Meteorological,Storm,"Hurricane ""Ida""",,19897.0,2009-11-05,2009-11-05,Nicaragua
+Meteorological,Storm,"Hurricane ""Ida""",275.0,90000.0,2009-11-07,2009-11-09,El Salvador
+Hydrological,Flood,,1.0,4000.0,2009-11-21,2009-11-30,Uruguay
+Hydrological,Mass Movement,,74.0,1000.0,2009-12-31,2010-01-28,Brazil
+Climatological,Drought,,,,2009-01-01,2009-01-01,Argentina
+Climatological,Drought,,,107500.0,2009-11-01,2010-01-01,Ecuador
+Hydrological,Flood,,26.0,227860.0,2010-01-01,2010-01-13,Bolivia
+Meteorological,Extreme Temperature,,32.0,,2010-02-01,2010-02-01,Brazil
+Meteorological,Storm,Tropical storm Matthew,,,2010-09-24,2010-09-24,Nicaragua
+Meteorological,Storm,Hurricane 'Agatha',11.0,11253.0,2010-05-29,2010-06-01,El Salvador
+Meteorological,Storm,"Tropical storm ""Alex""",,2180.0,2010-06-27,2010-06-27,Guatemala
+Meteorological,Storm,"Tropical storm ""Alex""",5.0,,2010-06-27,2010-06-27,Nicaragua
+Climatological,Wildfire,,31.0,200.0,2010-01-01,2010-04-06,Colombia
+Meteorological,Extreme Temperature,,4.0,,2010-07-01,2010-07-01,Bolivia
+Meteorological,Storm,Hurricane Frank,6.0,154000.0,2010-08-23,2010-08-24,Mexico
+Meteorological,Extreme Temperature,,409.0,57600.0,2010-07-01,2011-01-01,Peru
+Hydrological,Flood,,117.0,3400.0,2010-08-01,2010-08-01,Honduras
+Hydrological,Flood,,3.0,106.0,2010-09-06,2010-09-14,Costa Rica
+Meteorological,Storm,Tropical storm Matthew,8.0,,2010-09-24,2010-09-24,Venezuela
+Climatological,Drought,,,4000000.0,2012-05-01,2013-05-01,Brazil
+Meteorological,Storm,"Tropical storm ""Dora""",3.0,200000.0,2011-07-20,2011-07-20,Mexico
+Hydrological,Flood,,,2000.0,2010-10-06,2010-10-06,St. Lucia
+Meteorological,Storm,Hurricane Tomas,,2500.0,2010-10-29,2010-10-29,Barbados
+Meteorological,Storm,Hurricane Tomas,21.0,5020.0,2010-11-04,2010-11-05,Haiti
+Hydrological,Flood,,3.0,1000000.0,2011-09-01,2011-09-01,Brazil
+Hydrological,Flood,,13.0,24610.0,2010-12-08,2010-12-17,Panama
+Climatological,Drought,,,,2010-01-01,2010-06-01,St. Lucia
+Climatological,Drought,,,62500.0,2010-06-01,2010-09-01,Bolivia
+Hydrological,Flood,,900.0,45000.0,2011-01-11,2011-01-12,Brazil
+Geophysical,Earthquake,,1.0,257.0,2016-12-01,2016-12-01,Peru
+Climatological,Wildfire,,,400.0,2011-02-01,2011-02-01,Chile
+Hydrological,Flood,,33.0,14000.0,2011-12-01,2012-01-01,Brazil
+Climatological,Wildfire,,,,2011-03-01,2011-05-01,Mexico
+Hydrological,Flood,,34.0,2358.0,2011-06-06,2011-06-07,Haiti
+Geophysical,Volcanic Activity,"Volcano ""Puyehue""",,3000.0,2011-06-04,2011-06-17,Argentina
+Geophysical,Volcanic Activity,"Volcano ""Puyehue""",,3500.0,2011-06-04,2011-06-17,Chile
+Meteorological,Storm,"Tropical storm ""Beatrix""",3.0,450.0,2011-06-20,2011-06-20,Mexico
+Meteorological,Storm,"Tropical storm ""Emily""",1.0,1500.0,2011-08-04,2011-08-04,Haiti
+Hydrological,Flood,,,14000.0,2021-11-19,2021-11-20,Colombia
+Hydrological,Flood,,43.0,528753.0,2011-10-12,2011-11-01,Guatemala
+Hydrological,Flood,,1.0,3000.0,2011-05-26,2011-05-26,Peru
+Hydrological,Flood,,,1668.0,2011-12-01,2011-12-01,Venezuela
+Meteorological,Storm,,16.0,,2011-01-11,2011-01-15,Peru
+Hydrological,Flood,,8.0,2000.0,2011-12-06,2011-12-12,Venezuela
+Meteorological,Storm,,,2000.0,2011-08-08,2011-08-08,Paraguay
+Hydrological,Flood,,,78945.0,2012-03-15,2012-04-01,Paraguay
+Geophysical,Earthquake,,1.0,24297.0,2012-03-25,2012-03-25,Chile
+Meteorological,Extreme Temperature,,252.0,30113.0,2012-06-01,2012-06-01,Peru
+Hydrological,Flood,,13.0,,2013-09-05,2013-09-08,Mexico
+Meteorological,Storm,Hurricane Isaac,1.0,45496.0,2012-08-25,2012-08-25,Cuba
+Hydrological,Flood,,14.0,50029.0,2012-02-08,2012-03-13,Peru
+Climatological,Drought,,,1391900.0,2012-01-01,2012-01-01,Paraguay
+Meteorological,Storm,Hurricane Barbara,4.0,12000.0,2013-05-29,2013-05-29,Mexico
+Hydrological,Flood,,6.0,33265.0,2013-06-14,2013-06-28,Haiti
+Hydrological,Flood,,,25567.0,2013-01-01,2013-04-01,Ecuador
+Meteorological,Extreme Temperature,,,,2013-09-10,2013-09-30,Chile
+Hydrological,Flood,,74.0,338995.0,2013-10-01,2014-02-01,Bolivia
+Meteorological,Storm,,4.0,12.0,2013-12-03,2013-12-03,Argentina
+Hydrological,Flood,,1.0,355.0,2013-10-19,2013-10-22,Peru
+Climatological,Drought,,,3165.0,2013-02-01,2013-06-01,Ecuador
+Hydrological,Flood,,,20000.0,2014-01-08,2014-01-08,Honduras
+Geophysical,Earthquake,,3.0,27000.0,2014-07-07,2014-07-07,Mexico
+Hydrological,Flood,,,2000.0,2014-04-01,2014-04-08,Argentina
+Hydrological,Flood,,,2000.0,2014-02-25,2014-03-10,Paraguay
+Meteorological,Storm,Hurricane Norbert,3.0,7500.0,2014-09-02,2014-09-11,Mexico
+Meteorological,Storm,Tropical storm Trudy,6.0,30000.0,2014-10-18,2014-10-20,Mexico
+Hydrological,Flood,,33.0,41151.0,2014-03-15,2014-05-15,Colombia
+Hydrological,Flood,,6.0,87500.0,2014-10-15,2014-10-17,Guatemala
+Hydrological,Flood,,1.0,300.0,2014-11-03,2014-11-05,Dominican Rep.
+Hydrological,Flood,,38.0,185120.0,2014-10-01,2015-02-01,Bolivia
+Hydrological,Flood,,21.0,,2014-01-01,2014-01-20,Peru
+Meteorological,Extreme Temperature,,505.0,109257.0,2014-04-13,2014-09-27,Peru
+Climatological,Drought,,,1000000.0,2014-01-01,2015-07-01,Haiti
+Climatological,Drought,,,700000.0,2015-04-01,2016-12-01,El Salvador
+Hydrological,Flood,,2.0,15000.0,2015-03-04,2015-03-04,Argentina
+Geophysical,Volcanic Activity,Turrialba,,18450.0,2015-03-12,2015-03-12,Costa Rica
+Hydrological,Flood,,34.0,32.0,2000-05-22,2000-05-22,Ecuador
+Hydrological,Flood,,178.0,193881.0,2015-03-25,2015-04-08,Chile
+Hydrological,Flood,,12.0,1185.0,2015-03-23,2015-03-23,Ecuador
+Hydrological,Mass Movement,,15.0,,2015-04-27,2015-04-27,Brazil
+Hydrological,Flood,,,116.0,2015-05-17,2015-05-21,Chile
+Hydrological,Flood,,,199000.0,2015-07-15,2015-07-21,Guyana
+Meteorological,Storm,Tropical storm 'Earl',,55.0,2016-08-06,2016-08-06,Guatemala
+Hydrological,Flood,,3.0,50000.0,2015-08-05,2015-08-12,Argentina
+Hydrological,Flood,,,2326.0,2015-08-17,2015-08-19,Uruguay
+Hydrological,Flood,,2.0,56845.0,2015-09-27,2015-09-28,Guatemala
+Meteorological,Storm,Hurricane Erika,30.0,28594.0,2015-08-27,2015-08-27,Dominica
+Geophysical,Earthquake,,19.0,681499.0,2015-09-16,2015-09-16,Chile
+Hydrological,Flood,,,3500.0,2015-09-22,2015-09-29,Panama
+Hydrological,Flood,,,10000.0,2015-10-14,2015-10-28,Uruguay
+Hydrological,Flood,,,20000.0,2015-10-15,2015-10-19,Belize
+Hydrological,Flood,,9.0,3235.0,2015-03-23,2015-03-23,Peru
+Climatological,Wildfire,,11.0,119000.0,2015-07-01,2015-10-01,Colombia
+Climatological,Drought,,,,2015-08-01,2015-08-01,Panama
+Climatological,Drought,,,100000.0,2015-05-01,2015-06-01,Cuba
+Hydrological,Flood,,9.0,10000.0,2016-01-01,2016-01-25,Ecuador
+Hydrological,Flood,,12.0,100.0,2016-04-15,2016-04-18,Chile
+Hydrological,Flood,,6.0,22070.0,2016-04-23,2016-04-24,Haiti
+Hydrological,Flood,,,72119.0,2016-04-04,2016-04-15,Argentina
+Hydrological,Flood,,23.0,,2016-05-02,2016-05-02,Haiti
+Meteorological,Storm,Hurricane Newton,11.0,10500.0,2016-09-06,2016-09-07,Mexico
+Hydrological,Flood,,13.0,6000.0,2016-09-14,2016-09-22,Mexico
+Meteorological,Storm,Hurricane 'Matthew',6.0,48.0,2016-10-03,2016-10-04,Dominican Rep.
+Hydrological,Flood,,6.0,450000.0,2016-10-18,2016-10-20,Honduras
+Hydrological,Flood,,4.0,5300.0,2016-11-26,2016-12-05,Bolivia
+Hydrological,Flood,,4.0,2200.0,2016-10-18,2016-10-22,Colombia
+Hydrological,Flood,,1.0,9000.0,2017-04-05,2017-04-21,Argentina
+Meteorological,Storm,Hurricane 'Irma',1.0,1800.0,2017-09-06,2017-09-06,Antigua and Barb.
+Meteorological,Storm,Hurricane 'Irma',,6300.0,2017-09-06,2017-09-06,Dominican Rep.
+Meteorological,Storm,Hurricane 'Irma',4.0,,2017-09-07,2017-09-07,U.S. Virgin Is.
+Meteorological,Storm,Hurricane 'Maria',4.0,80002.0,2017-09-20,2017-09-20,Guadeloupe
+Meteorological,Storm,Hurricane 'Maria',,,2017-09-20,2017-09-20,British Virgin Is.
+Hydrological,Flood,,,1000.0,2017-10-23,2017-10-26,Guatemala
+Hydrological,Flood,,8.0,46975.0,2017-10-23,2017-10-29,Honduras
+Hydrological,Mass Movement,,22.0,142.0,2017-12-17,2017-12-18,Chile
+Hydrological,Flood,,6.0,12186.0,2018-02-10,2018-02-21,Bolivia
+Hydrological,Flood,,3.0,1000.0,2018-03-20,2018-03-21,Brazil
+Hydrological,Flood,,,17000.0,2018-01-31,2018-02-21,Argentina
+Hydrological,Flood,,14.0,,2018-03-12,2018-04-17,Colombia
+Hydrological,Flood,,,7390.0,2018-07-09,2018-07-11,Dominican Rep.
+Geophysical,Earthquake,,,3004.0,2018-02-16,2018-02-16,Mexico
+Geophysical,Earthquake,,,2499.0,2018-05-06,2018-05-06,El Salvador
+Meteorological,Storm,Hurricane Michael,,540.0,2018-10-10,2018-10-11,Cuba
+Hydrological,Flood,,4.0,7099.0,2018-10-06,2018-10-11,El Salvador
+Hydrological,Flood,,12.0,60000.0,2018-10-01,2018-10-17,Colombia
+Hydrological,Flood,,,5000.0,2022-05-25,2022-05-27,Colombia
+Hydrological,Flood,,,1420.0,2018-11-12,2018-11-12,Argentina
+Hydrological,Flood,,51.0,8379.0,2019-02-21,2019-02-28,Peru
+Hydrological,Mass Movement,,23.0,,2019-02-02,2019-02-04,Bolivia
+Hydrological,Flood,,10.0,4500.0,2019-04-08,2019-04-09,Brazil
+Hydrological,Flood,,2.0,1800.0,2019-04-23,2019-04-23,Argentina
+Climatological,Wildfire,,,2503.0,2021-10-02,2021-10-03,Honduras
+Hydrological,Flood,,8.0,3108.0,2019-06-03,2019-06-06,Haiti
+Biological,Epidemic,Dengue,176.0,110000.0,2023-06-01,2023-06-01,Peru
+Hydrological,Flood,,23.0,208602.0,2019-05-01,2019-05-01,Paraguay
+Hydrological,Flood,,,7406.0,2019-06-11,2019-06-24,Uruguay
+Hydrological,Flood,,4.0,21673.0,2023-06-21,2023-06-25,Chile
+Meteorological,Storm,Hurricane 'Julia',4.0,457311.0,2022-10-09,2022-10-10,Guatemala
+Meteorological,Storm,Hurricane 'Ian',3.0,3200000.0,2022-09-26,2022-09-28,Cuba
+Hydrological,Flood,,12.0,67500.0,2022-07-05,2022-07-06,Brazil
+Hydrological,Flood,,,500.0,2022-05-15,2022-06-02,Guyana
+Meteorological,Storm,,3.0,6780.0,2022-06-02,2022-06-03,Cuba
+Climatological,Wildfire,,,124085.0,2022-01-01,2022-03-11,Argentina
+Geophysical,Earthquake,,3.0,31302.0,2022-02-16,2022-02-16,Guatemala
+Hydrological,Flood,,272.0,16083.0,2022-02-13,2022-02-16,Brazil
+Hydrological,Flood,,3.0,32000.0,2023-08-17,2023-08-21,Chile
+Hydrological,Flood,,,1800.0,2022-02-14,2022-02-15,Honduras
+Geophysical,Earthquake,,,300.0,2022-02-03,2022-02-03,Peru
+Geophysical,Earthquake,,2.0,1017.0,2022-01-24,2022-01-24,Haiti
+Hydrological,Flood,,,160.0,2022-01-17,2022-01-18,Uruguay
+Hydrological,Flood,,2.0,850.0,2021-10-26,2021-10-29,Colombia
+Geophysical,Earthquake,,,17912.0,2021-11-28,2021-11-28,Peru
+Hydrological,Flood,,14.0,8900.0,2023-12-10,2023-12-13,Bolivia
+Hydrological,Flood,,7.0,125.0,2021-11-11,2021-11-12,Bolivia
+Meteorological,Storm,Tropical storm 'Ida',,,2021-08-28,2021-09-02,Cuba
+Hydrological,Flood,,1.0,2984.0,2021-10-31,2021-11-01,Peru
+Meteorological,Storm,Tropical cylone 'Nora',2.0,1503.0,2021-08-28,2021-08-30,Mexico
+Hydrological,Flood,,12.0,23717.0,2021-09-15,2021-10-22,Colombia
+Geophysical,Earthquake,,,1421.0,2021-07-30,2021-07-30,Peru
+Hydrological,Flood,,3.0,200000.0,2021-07-22,2021-07-28,Costa Rica
+Hydrological,Flood,,1.0,27189.0,2021-07-22,2021-07-28,Panama
+Meteorological,Storm,Hurricane 'Elsa',,129.0,2021-07-02,2021-07-03,St. Vin. and Gren.
+Meteorological,Storm,Hurricane 'Elsa',,3.0,2021-07-03,2021-07-03,Haiti
+Hydrological,Flood,,3.0,9960.0,2023-03-21,2023-03-27,Bolivia
+Hydrological,Flood,,,39000.0,2023-02-17,2023-03-03,Paraguay
+Hydrological,Flood,,67.0,4025.0,2023-02-19,2023-02-21,Brazil
+Hydrological,Mass Movement,,38.0,6327.0,2023-02-05,2023-02-07,Peru
+Hydrological,Flood,,17.0,11100.0,2023-06-15,2023-06-16,Brazil
+Climatological,Wildfire,,26.0,10534.0,2023-02-01,2023-03-06,Chile
+Climatological,Wildfire,,2.0,12867.0,2022-12-22,2022-12-29,Chile
+Hydrological,Flood,,2.0,16350.0,2022-12-20,2022-12-22,Brazil
+Hydrological,Flood,,6.0,18500.0,2023-06-08,2023-06-10,Cuba
+Hydrological,Flood,,78.0,225143.0,2023-06-02,2023-06-06,Haiti
+Hydrological,Flood,,26.0,44000.0,2022-10-19,2022-10-31,Colombia
+Hydrological,Flood,,3.0,6000.0,2016-09-03,2016-09-06,Mexico
+Hydrological,Flood,,24.0,12070.0,2003-08-29,2003-08-30,Haiti
+Hydrological,Flood,,13.0,2782.0,2016-11-05,2016-11-10,Haiti
+Meteorological,Storm,Tropical storm Otto,9.0,50000.0,2016-11-23,2016-11-25,Costa Rica
+Meteorological,Storm,Tropical storm Otto,,10570.0,2016-11-17,2016-11-17,Nicaragua
+Hydrological,Flood,,,,2016-11-26,2016-12-05,Venezuela
+Climatological,Wildfire,,11.0,19608.0,2017-01-15,2017-03-16,Chile
+Hydrological,Mass Movement,,,2666.0,2017-01-10,2017-01-10,Argentina
+Meteorological,Storm,,,,2017-04-20,2017-04-23,Haiti
+Hydrological,Flood,,4.0,3024.0,2017-06-16,2017-06-17,Chile
+Hydrological,Flood,,26.0,342.0,2017-05-17,2017-05-19,Haiti
+Hydrological,Flood,,12.0,3000.0,2017-03-17,2017-03-27,Colombia
+Meteorological,Storm,Hurricane 'Irma',10.0,10000000.0,2017-09-08,2017-09-10,Cuba
+Meteorological,Storm,Hurricane 'Irma',2.0,,2017-09-06,2017-09-07,Puerto Rico
+Meteorological,Storm,Hurricane 'Maria',64.0,71393.0,2017-09-18,2017-09-19,Dominica
+Meteorological,Storm,Hurricane 'Maria',5.0,26000.0,2017-09-20,2017-09-20,Dominican Rep.
+Meteorological,Storm,Hurricane 'Maria',3.0,,2017-09-21,2017-09-21,Haiti
+Geophysical,Earthquake,,369.0,256000.0,2017-09-17,2017-09-17,Mexico
+Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',3.0,120.0,2017-10-05,2017-10-06,Honduras
+Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',7.0,12000.0,2017-10-06,2017-10-06,Panama
+Geophysical,Earthquake,,2.0,9319.0,2018-01-14,2018-01-14,Peru
+Meteorological,Storm,,2.0,1200.0,2018-04-28,2018-04-29,Argentina
+Meteorological,Storm,Hurricane 'Beryl',,8000.0,2018-07-09,2018-07-11,Dominican Rep.
+Meteorological,Storm,Hurricane 'Beryl',,,2018-07-09,2018-07-11,Puerto Rico
+Hydrological,Flood,,2.0,1000.0,2018-09-25,2018-09-28,Venezuela
+Hydrological,Flood,,4.0,13000.0,2018-10-01,2018-10-19,Nicaragua
+Hydrological,Flood,,1.0,2500.0,2003-12-12,2003-12-14,Costa Rica
+Meteorological,Storm,Tropical storm 'Vicente',14.0,,2018-10-19,2018-10-23,Mexico
+Climatological,Drought,,,300000.0,2018-06-01,2019-03-01,Nicaragua
+Hydrological,Flood,,4.0,31451.0,2019-01-11,2019-01-17,Argentina
+Hydrological,Flood,,14.0,1647.0,2019-04-07,2019-04-15,Colombia
+Hydrological,Flood,,16.0,310595.0,2019-04-01,2019-05-13,Paraguay
+Meteorological,Storm,,26.0,155.0,2003-10-06,2003-10-06,Haiti
+Geophysical,Volcanic Activity,Ubinas,,3000.0,2019-07-19,2019-07-23,Bolivia
+Climatological,Wildfire,,,36000.0,2019-08-01,2019-09-01,Bolivia
+Meteorological,Storm,Tropical storm 'Fernand',1.0,,2019-09-05,2019-09-06,Mexico
+Hydrological,Flood,,2.0,672.0,2019-11-16,2019-11-17,Brazil
+Hydrological,Flood,,3.0,3000.0,2020-02-11,2020-02-19,Argentina
+Hydrological,Flood,,,300.0,2019-11-25,2019-11-27,Brazil
+Hydrological,Flood,,20.0,23250.0,2019-10-27,2019-11-17,Colombia
+Hydrological,Flood,,15.0,6461.0,2020-02-17,2020-02-25,Peru
+Hydrological,Flood,,3.0,17700.0,2020-02-28,2020-03-02,Honduras
+Hydrological,Flood,,18.0,35100.0,2020-02-08,2020-02-29,Bolivia
+Meteorological,Storm,Tropical storm 'Amanda',32.0,149840.0,2020-05-31,2020-05-31,El Salvador
+Meteorological,Storm,Hurricane 'Hanna',5.0,,2020-07-25,2020-07-26,Mexico
+Meteorological,Storm,Hurricane 'Eta',,49800.0,2020-11-02,2020-11-04,Colombia
+Meteorological,Storm,Hurricane 'Eta',,25000.0,2020-11-03,2020-11-04,Costa Rica
+Meteorological,Storm,Hurricane 'Eta',110.0,4566584.0,2020-11-03,2020-11-04,Honduras
+Hydrological,Flood,,,26460.0,2020-10-31,2020-11-02,Colombia
+Meteorological,Storm,Hurricane 'Zeta',,,2020-10-07,2020-10-11,Mexico
+Hydrological,Mass Movement,,18.0,12.0,2020-11-23,2020-11-23,Colombia
+Meteorological,Storm,Hurricane 'Iota',18.0,900000.0,2020-11-17,2020-11-18,Nicaragua
+Hydrological,Flood,,21.0,339.0,2020-12-17,2020-12-21,Brazil
+Geophysical,Earthquake,,,1814.0,2021-01-18,2021-01-18,Argentina
+Hydrological,Flood,,10.0,2000.0,2021-01-31,2021-02-02,Paraguay
+Hydrological,Flood,,10.0,84.0,2021-02-16,2021-02-19,Peru
+Hydrological,Flood,,9.0,145000.0,2021-02-09,2021-02-10,Bolivia
+Climatological,Wildfire,,15.0,1207.0,2021-03-08,2021-03-12,Argentina
+Hydrological,Flood,,,3001.0,2021-06-12,2021-06-15,Panama
+Meteorological,Storm,Tropical storm 'Enrique',2.0,621.0,2021-06-25,2021-06-30,Mexico
+Meteorological,Storm,Hurricane 'Elsa',,,2021-07-02,2021-07-03,Cuba
+Meteorological,Storm,Hurricane 'Elsa',1.0,,2021-07-03,2021-07-03,St. Lucia
+Hydrological,Flood,,,10100.0,2021-04-01,2021-05-01,Suriname
+Geophysical,Earthquake,,2575.0,702763.0,2021-08-14,2021-08-14,Haiti
+Hydrological,Flood,,46.0,1400100.0,2021-08-23,2021-08-24,Venezuela
+Meteorological,Storm,Tropical cyclone 'Rick',,150.0,2021-10-25,2021-10-26,Mexico
+Hydrological,Flood,,15.0,60000.0,2021-12-18,2022-01-05,Bolivia
+Hydrological,Flood,,29.0,7322.0,2022-01-28,2022-02-07,Ecuador
+Hydrological,Flood,,,,2022-02-04,2022-02-06,Puerto Rico
+Hydrological,Flood,,,210.0,2022-03-05,2022-03-06,Dominican Rep.
+Hydrological,Mass Movement,,10.0,3113.0,2022-03-15,2022-03-15,Peru
+Hydrological,Flood,,5.0,8101.0,2022-04-01,2022-04-21,Colombia
+Hydrological,Flood,,1.0,86800.0,2022-04-25,2022-06-29,Venezuela
+Hydrological,Flood,,,9000.0,2022-03-01,2022-06-24,Suriname
+Hydrological,Flood,,48.0,2890023.0,2022-05-01,2022-09-11,Guatemala
+Hydrological,Flood,,5.0,1050.0,2022-09-03,2022-09-05,Mexico
+Hydrological,Mass Movement,,3.0,150.0,2022-10-17,2022-10-17,Venezuela
+Meteorological,Storm,,,30000.0,2022-10-24,2022-10-27,Venezuela
+Hydrological,Flood,,9.0,900.0,2022-11-04,2022-11-04,Venezuela
+Hydrological,Flood,,6.0,2400.0,2023-03-16,2023-03-23,Brazil
+Hydrological,Mass Movement,,75.0,8444.0,2023-03-26,2023-03-26,Ecuador
+Hydrological,Flood,,,1500.0,2023-03-27,2023-03-29,Bolivia
+Hydrological,Flood,,,9348.0,2023-04-25,2023-04-27,Brazil
+Hydrological,Flood,,12.0,112.0,2023-06-01,2023-06-05,Venezuela
+Hydrological,Flood,,,3472.0,2023-10-30,2023-11-18,Uruguay
+Hydrological,Flood,,4.0,194063.0,2023-11-13,2023-11-19,Brazil
+Hydrological,Flood,,,320.0,2003-03-27,2003-03-29,Haiti
+Hydrological,Flood,,1.0,42000.0,2000-06-05,2000-06-16,Chile
+Hydrological,Mass Movement,,7.0,200.0,2000-06-27,2000-06-27,Costa Rica
+Geophysical,Earthquake,,7.0,7477.0,2000-07-06,2000-07-06,Nicaragua
+Meteorological,Extreme Temperature,,6.0,25277.0,2000-07-01,2000-07-01,Bolivia
+Meteorological,Extreme Temperature,,7.0,400.0,2000-07-01,2000-07-01,Uruguay
+Hydrological,Flood,,3.0,10000.0,2000-09-16,2000-09-18,Brazil
+Meteorological,Storm,,,,2000-09-01,2000-09-01,Argentina
+Meteorological,Storm,Keith,14.0,62570.0,2000-09-30,2000-10-03,Belize
+Meteorological,Storm,Keith,23.0,30000.0,2000-09-29,2000-10-03,Mexico
+Geophysical,Volcanic Activity,Popocatépetl,,41000.0,2000-12-18,2000-12-19,Mexico
+Meteorological,Storm,,1.0,210.0,2000-10-09,2000-10-09,Nicaragua
+Climatological,Wildfire,,,,2003-03-01,2003-03-01,Guatemala
+Climatological,Drought,,,,2000-03-01,2000-01-01,Jamaica
+Climatological,Drought,,,,2000-08-01,2001-01-01,Cuba
+Meteorological,Storm,Dalila,,100.0,2001-07-25,2001-07-25,Mexico
+Geophysical,Earthquake,,844.0,1334529.0,2001-01-13,2001-01-13,El Salvador
+Hydrological,Flood,,41.0,357250.0,2001-01-01,2001-03-22,Bolivia
+Hydrological,Flood,,,2559.0,2001-02-16,2001-02-16,Chile
+Hydrological,Flood,,,46000.0,2001-03-01,2001-03-21,Peru
+Climatological,Drought,,,1000000.0,2001-06-01,2001-01-01,Brazil
+Meteorological,Extreme Temperature,,14.0,3000.0,2001-07-01,2001-07-01,Argentina
+Climatological,Wildfire,,,,2001-08-01,2001-08-01,Colombia
+Meteorological,Storm,Iris,2.0,,2001-10-04,2001-10-09,Mexico
+Meteorological,Storm,Michelle,21.0,86321.0,2001-10-30,2001-11-04,Honduras
+Hydrological,Mass Movement,,20.0,150.0,2001-10-28,2001-10-28,Peru
+Meteorological,Storm,Michelle,,,2001-10-30,2001-11-05,Cayman Is.
+Geophysical,Earthquake,,2.0,155.0,2001-12-04,2001-12-04,Peru
+Climatological,Drought,,,188000.0,2001-08-01,2001-01-01,Nicaragua
+Hydrological,Flood,,,2500.0,2002-04-01,2002-04-01,Uruguay
+Hydrological,Flood,,76.0,5146.0,2002-02-19,2002-02-21,Bolivia
+Hydrological,Flood,,,20000.0,2002-05-06,2002-05-11,Costa Rica
+Meteorological,Storm,,59.0,86682.0,2002-07-01,2002-07-01,Peru
+Meteorological,Storm,,,12500.0,2002-07-31,2002-07-31,Paraguay
+Hydrological,Flood,,,1720.0,2002-09-09,2002-09-09,Honduras
+Meteorological,Storm,Isidore,13.0,500030.0,2002-09-20,2002-09-20,Mexico
+Meteorological,Storm,Lili,,2000.0,2002-09-24,2002-09-24,Barbados
+Meteorological,Storm,Lili,,300.0,2002-09-30,2002-10-01,Cayman Is.
+Meteorological,Storm,Isidore,,,2002-09-14,2002-09-26,Cayman Is.
+Meteorological,Storm,Kenna,3.0,9000.0,2002-10-25,2002-10-26,Mexico
+Hydrological,Flood,,1.0,15000.0,2002-11-23,2002-12-13,Panama
+Hydrological,Flood,,3.0,1750.0,2002-05-24,2002-06-07,Dominican Rep.
+Meteorological,Storm,Isidore,,500.0,2002-09-21,2002-09-21,El Salvador
+Climatological,Drought,,,21500.0,2002-03-01,2002-01-01,Peru
+Hydrological,Flood,,18.0,60012.0,2003-01-23,2003-02-10,Peru
+Hydrological,Flood,,4.0,3000.0,2003-02-10,2003-02-10,Argentina
+Hydrological,Mass Movement,,69.0,1001.0,2003-03-31,2003-03-31,Bolivia
+Geophysical,Volcanic Activity,Tungurahua,,25000.0,2003-06-05,2003-07-05,Ecuador
+Geophysical,Earthquake,,3.0,2015.0,2003-09-22,2003-09-22,Dominican Rep.
+Meteorological,Storm,Odette,8.0,10000.0,2003-12-06,2003-12-06,Dominican Rep.
+Hydrological,Flood,,4.0,5450.0,2003-12-28,2004-01-14,Peru
+Hydrological,Flood,,1.0,450.0,2003-06-01,2003-06-03,Venezuela
+Hydrological,Mass Movement,,11.0,76.0,2004-04-10,2004-04-10,Peru
+Hydrological,Flood,,2.0,2056.0,2004-05-10,2004-05-11,Costa Rica
+Hydrological,Flood,,28.0,2254.0,2004-06-01,2004-06-02,Brazil
+Hydrological,Flood,,1.0,350.0,2004-06-12,2004-06-12,Mexico
+Meteorological,Storm,,,200.0,2004-06-12,2004-06-12,Nicaragua
+Meteorological,Extreme Temperature,,,,2004-07-01,2004-07-01,Paraguay
+Hydrological,Flood,,,135.0,2006-10-17,2006-10-17,Venezuela
+Hydrological,Flood,,35.0,4000.0,2004-11-17,2004-11-25,Venezuela
+Meteorological,Storm,Charley,1.0,126.0,2004-08-13,2004-08-13,Jamaica
+Meteorological,Storm,Ivan,2.0,,2004-09-12,2004-09-12,Cayman Is.
+Meteorological,Storm,Ivan,5.0,1730.0,2004-09-08,2004-09-08,Venezuela
+Meteorological,Storm,Jeanne,,,2004-09-15,2004-09-15,U.S. Virgin Is.
+Hydrological,Flood,,,7698.0,2004-11-23,2004-11-26,Panama
+Climatological,Drought,,,137500.0,2004-07-01,2004-01-01,Honduras
+Meteorological,Storm,,2.0,344.0,2005-01-03,2005-01-03,Brazil
+Meteorological,Storm,Alpha,9.0,1000.0,2005-10-22,2005-10-24,Dominican Rep.
+Hydrological,Flood,,34.0,274774.0,2005-01-15,2005-02-25,Guyana
+Meteorological,Storm,"Hurricane ""Dennis""",40.0,15036.0,2005-07-07,2005-07-07,Haiti
+Meteorological,Storm,"Hurricane ""Dennis""",1.0,8000.0,2005-07-07,2005-07-07,Jamaica
+Hydrological,Flood,,6.0,2500.0,2005-07-14,2005-07-15,Haiti
+Meteorological,Storm,Emily,6.0,750.0,2005-07-17,2005-07-17,Haiti
+Meteorological,Storm,Emily,4.0,2296.0,2005-07-18,2005-07-18,Jamaica
+Meteorological,Storm,Emily,2.0,,2005-07-18,2005-07-18,Mexico
+Meteorological,Storm,Emily,,530.0,2005-07-14,2005-07-14,St. Vin. and Gren.
+Geophysical,Earthquake,,5.0,2505.0,2005-09-26,2005-09-26,Peru
+Geophysical,Volcanic Activity,Santa Ana (Ilamatepec),2.0,2000.0,2005-10-01,2005-10-01,El Salvador
+Hydrological,Flood,,101.0,474607.0,2005-09-15,2005-11-17,Colombia
+Meteorological,Storm,"Hurricane ""Wilma""",,,2005-10-21,2005-10-21,Honduras
+Meteorological,Storm,"Hurricane ""Wilma""",1.0,100.0,2005-10-19,2005-10-24,Jamaica
+Hydrological,Flood,,150.0,221465.0,2006-01-01,2006-04-27,Colombia
+Hydrological,Mass Movement,,,5000.0,2007-01-10,2007-01-10,Brazil
+Hydrological,Flood,,40.0,339495.0,2007-01-10,2007-05-01,Bolivia
+Hydrological,Flood,,5.0,65000.0,2007-01-18,2007-03-20,Argentina
+Hydrological,Flood,,14.0,15014.0,2007-03-26,2007-03-30,Haiti
+Hydrological,Flood,,5.0,70000.0,2007-03-20,2007-04-26,Argentina
+Hydrological,Flood,,,800.0,2007-03-20,2007-04-27,Uruguay
+Geophysical,Earthquake,,,1883.0,2007-09-15,2007-09-15,Honduras
+Meteorological,Storm,Dean,1.0,,2007-08-17,2007-08-24,St. Lucia
+Meteorological,Storm,Dean,1.0,6.0,2007-08-16,2007-08-24,Martinique
+Hydrological,Flood,,4.0,4000.0,2007-09-24,2007-09-30,Brazil
+Meteorological,Storm,Felix,1.0,19500.0,2007-09-04,2007-09-12,Honduras
+Meteorological,Storm,Felix,177.0,188726.0,2007-09-04,2007-09-12,Nicaragua
+Climatological,Wildfire,,8.0,125000.0,2007-09-01,2007-09-01,Paraguay
+Hydrological,Mass Movement,,59.0,1153.0,2009-12-16,2009-12-16,Peru
+Meteorological,Storm,Lorenzo,5.0,33000.0,2007-09-28,2007-10-01,Mexico
+Hydrological,Flood,,41.0,75947.0,2007-10-07,2007-10-17,Haiti
+Hydrological,Flood,,,18000.0,2007-10-07,2007-10-17,Cuba
+Hydrological,Flood,,5.0,15000.0,2007-10-12,2007-10-26,Honduras
+Meteorological,Storm,Olga,33.0,61605.0,2007-12-11,2007-12-17,Dominican Rep.
+Hydrological,Flood,,75.0,485024.0,2007-12-15,2008-02-20,Bolivia
+Meteorological,Storm,Henriette,6.0,,2007-09-01,2007-09-01,Mexico
+Meteorological,Storm,"Hurricane ""Gustav""",8.0,6257.0,2008-08-26,2008-08-26,Dominican Rep.
+Hydrological,Flood,,36.0,190000.0,2008-03-30,2008-04-04,Brazil
+Meteorological,Storm,"Tropical storm ""Dora""",5.0,,2011-07-20,2011-07-20,Guatemala
+Hydrological,Flood,,27.0,17300.0,2008-07-02,2008-07-03,Guatemala
+Meteorological,Storm,"Hurricane ""Gustav""",12.0,4000.0,2008-08-28,2008-08-29,Jamaica
+Meteorological,Storm,Hurricane Dolly,17.0,,2008-07-21,2008-07-21,Guatemala
+Meteorological,Storm,"Tropical Storm ""Fay""",4.0,,2008-08-18,2008-08-18,Dominican Rep.
+Meteorological,Storm,"Hurricane ""Gustav""",4.0,,2008-08-26,2008-08-26,Turks and Caicos Is.
+Meteorological,Storm,Hurricane 'Hanna',529.0,48000.0,2008-09-02,2008-09-03,Haiti
+Meteorological,Storm,Hurricane Ike,7.0,,2008-09-08,2008-09-09,Cuba
+Meteorological,Storm,Hurricane Ike,,750.0,2008-09-06,2008-09-06,Turks and Caicos Is.
+Hydrological,Flood,Tropical Depression Sixteen,1.0,38000.0,2008-10-19,2008-11-12,Belize
+Meteorological,Storm,,,47655.0,2008-08-07,2008-08-07,Paraguay
+Hydrological,Flood,,1.0,53000.0,2008-11-22,2008-11-25,Costa Rica
+Hydrological,Mass Movement,,20.0,1300.0,2009-04-12,2009-04-16,Peru
+Hydrological,Flood,,3.0,11807.0,2009-01-19,2009-03-02,Ecuador
+Hydrological,Flood,,56.0,1150900.0,2009-04-22,2009-05-14,Brazil
+Hydrological,Flood,,11.0,9910.0,2009-05-15,2009-05-21,Haiti
+Geophysical,Earthquake,,7.0,50136.0,2009-05-28,2009-05-28,Honduras
+Hydrological,Flood,,4.0,2500.0,2009-05-28,2009-05-28,Brazil
+Meteorological,Extreme Temperature,,274.0,24262.0,2009-05-01,2009-08-01,Peru
+Hydrological,Flood,,10.0,2500.0,2009-10-20,2009-10-20,Haiti
+Hydrological,Flood,,3.0,200.0,2009-11-12,2009-11-13,Brazil
+Hydrological,Flood,,11.0,10000.0,2009-11-21,2009-11-30,Brazil
+Climatological,Drought,,,2500000.0,2009-03-01,2009-12-01,Guatemala
+Climatological,Drought,,,45000.0,2009-11-01,2011-02-01,Honduras
+Geophysical,Earthquake,,222570.0,3700000.0,2010-01-12,2010-01-12,Haiti
+Hydrological,Flood,,41.0,20000.0,2010-01-26,2010-02-13,Mexico
+Hydrological,Flood,,20.0,80000.0,2010-02-10,2010-02-17,Peru
+Meteorological,Storm,,6.0,73122.0,2010-09-24,2010-09-24,Haiti
+Hydrological,Flood,,256.0,74938.0,2010-04-04,2010-04-12,Brazil
+Hydrological,Flood,,418.0,2791999.0,2010-04-06,2011-03-07,Colombia
+Hydrological,Flood,,,1035.0,2010-06-15,2010-07-01,Panama
+Hydrological,Flood,,2.0,6440.0,2010-04-06,2010-04-06,Ecuador
+Hydrological,Flood,,,4860.0,2010-05-26,2010-06-03,Nicaragua
+Meteorological,Extreme Temperature,,42.0,,2010-07-01,2010-07-01,Argentina
+Meteorological,Extreme Temperature,,,150.0,2010-07-01,2010-07-01,Chile
+Climatological,Wildfire,,,300.0,2010-08-01,2010-08-01,Bolivia
+Hydrological,Flood,,,3270.0,2010-08-27,2010-08-28,Guatemala
+Hydrological,Mass Movement,,53.0,50696.0,2010-09-04,2010-09-04,Guatemala
+Hydrological,Flood,,35.0,13000.0,2010-11-01,2011-01-01,Brazil
+Hydrological,Flood,,25.0,1000000.0,2010-09-20,2010-09-20,Mexico
+Hydrological,Flood,,66.0,71000.0,2010-08-17,2010-09-16,Nicaragua
+Meteorological,Storm,Tropical storm 'Nicole',15.0,2506.0,2010-09-29,2010-09-30,Jamaica
+Meteorological,Storm,Tropical storm Matthew,,,2010-09-25,2010-09-25,Guatemala
+Meteorological,Storm,Tropical storm Matthew,3.0,1075.0,2010-09-25,2010-09-25,Mexico
+Geophysical,Volcanic Activity,Villarrica,,3600.0,2015-03-01,2015-03-01,Chile
+Hydrological,Flood,,41.0,94800.0,2010-11-25,2010-12-06,Venezuela
+Meteorological,Extreme Temperature,,3.0,120000.0,2011-02-01,2011-02-08,Mexico
+Hydrological,Flood,,52.0,88825.0,2011-02-14,2011-04-11,Bolivia
+Hydrological,Flood,,,3600.0,2011-02-01,2011-02-01,Ecuador
+Hydrological,Flood,,4.0,11200.0,2011-06-01,2011-06-01,Dominican Rep.
+Meteorological,Extreme Temperature,,20.0,13440.0,2011-05-01,2011-06-01,Peru
+Meteorological,Storm,"Tropical storm ""Emily""",,,2011-08-04,2011-08-04,Puerto Rico
+Meteorological,Storm,Hurricane Irene,4.0,37000.0,2011-08-24,2011-08-24,Dominican Rep.
+Meteorological,Storm,Hurricane Irene,2.0,1544.0,2011-08-24,2011-08-24,Haiti
+Meteorological,Storm,Hurricane Irene,1.0,2271.0,2011-08-22,2011-08-22,Puerto Rico
+Hydrological,Flood,,2.0,2080.0,2011-10-06,2011-10-13,Haiti
+Hydrological,Flood,,17.0,143018.0,2011-10-12,2011-10-17,Nicaragua
+Hydrological,Flood,,,2000.0,2011-10-20,2011-10-20,Panama
+Geophysical,Earthquake,,1.0,2681.0,2011-10-28,2011-10-28,Peru
+Geophysical,Earthquake,,2.0,152.0,2011-12-11,2011-12-11,Mexico
+Hydrological,Flood,,9.0,11000.0,2012-04-08,2012-04-26,Haiti
+Meteorological,Extreme Temperature,,,2643.0,2011-12-01,2011-12-01,Guatemala
+Hydrological,Flood,,65.0,809945.0,2011-12-01,2012-05-01,Peru
+Climatological,Drought,,,2500000.0,2011-09-01,2011-12-01,Mexico
+Geophysical,Earthquake,,,4435.0,2012-01-30,2012-01-30,Peru
+Hydrological,Flood,Heavy rains,,4300.0,2012-03-01,2012-03-15,Chile
+Geophysical,Earthquake,,2.0,49011.0,2012-03-20,2012-03-20,Mexico
+Hydrological,Flood,,48.0,8000.0,2012-03-15,2012-05-14,Colombia
+Hydrological,Flood,,2.0,3000.0,2012-05-24,2012-05-27,Cuba
+Meteorological,Storm,,2.0,10025.0,2015-04-04,2015-04-04,Paraguay
+Hydrological,Flood,,6.0,9523.0,2012-07-29,2012-07-29,Costa Rica
+Meteorological,Storm,Hurricane Isaac,,,2012-08-25,2012-08-25,Puerto Rico
+Hydrological,Mass Movement,,22.0,,2012-10-17,2012-10-17,Peru
+Hydrological,Flood,,9.0,29500.0,2012-05-15,2012-05-31,Nicaragua
+Geophysical,Earthquake,,44.0,1321742.0,2012-11-07,2012-11-07,Guatemala
+Meteorological,Storm,Hurricane Sandy,1.0,,2012-10-24,2012-10-24,Bahamas
+Meteorological,Storm,Hurricane Sandy,11.0,162605.0,2012-10-22,2012-10-22,Cuba
+Meteorological,Storm,,5.0,25100.0,2012-09-18,2012-09-19,Paraguay
+Hydrological,Flood,,5.0,5118.0,2012-11-24,2012-11-25,Panama
+Climatological,Wildfire,,7.0,1082.0,2012-01-01,2012-01-06,Chile
+Hydrological,Flood,,67.0,180766.0,2013-01-01,2013-02-20,Peru
+Hydrological,Flood,,52.0,350000.0,2013-04-01,2013-04-07,Argentina
+Hydrological,Mass Movement,,14.0,,2013-04-23,2013-04-23,Ecuador
+Geophysical,Volcanic Activity,Mount Ubinas,,1040.0,2013-09-12,2014-05-23,Peru
+Hydrological,Flood,,27.0,14149.0,2013-05-26,2013-07-25,Nicaragua
+Hydrological,Flood,,3.0,5370.0,2015-10-08,2015-10-20,Brazil
+Geophysical,Earthquake,,1.0,572.0,2013-09-07,2013-09-07,Guatemala
+Meteorological,Storm,Hurricane Ingrid,23.0,50000.0,2013-09-12,2013-09-17,Mexico
+Geophysical,Earthquake,,,7084.0,2013-09-25,2013-09-25,Peru
+Hydrological,Flood,,2.0,227.0,2013-12-01,2013-12-08,Cuba
+Hydrological,Flood,,7.0,51781.0,2013-09-15,2013-12-01,Colombia
+Climatological,Wildfire,,1.0,32.0,2015-03-13,2015-03-21,Chile
+Climatological,Drought,,,,2013-01-01,2013-05-01,Panama
+Climatological,Drought,,,340355.0,2013-01-01,2013-09-01,Bolivia
+Climatological,Drought,,,75000.0,2013-09-01,2014-08-01,Paraguay
+Hydrological,Flood,,,9000.0,2014-01-24,2014-01-27,Peru
+Meteorological,Storm,,1.0,7510.0,2012-10-29,2012-10-31,Argentina
+Hydrological,Flood,,,67500.0,2014-02-15,2014-03-01,Brazil
+Geophysical,Earthquake,,2.0,12281.0,2014-04-11,2014-04-11,Nicaragua
+Hydrological,Flood,,11.0,500052.0,2014-06-07,2014-06-30,Brazil
+Geophysical,Earthquake,,1.0,94783.0,2014-07-07,2014-07-07,Guatemala
+Geophysical,Earthquake,,8.0,604.0,2014-09-27,2014-09-27,Peru
+Hydrological,Flood,,,60345.0,2014-10-15,2014-10-17,Nicaragua
+Hydrological,Flood,,1.0,,2014-11-03,2014-11-05,Puerto Rico
+Climatological,Drought,,,1300000.0,2014-08-01,2016-01-01,Guatemala
+Geophysical,Volcanic Activity,Calbuco,,,2015-04-24,2015-04-24,Argentina
+Climatological,Drought,,,,2015-08-01,2015-08-01,Costa Rica
+Meteorological,Storm,,8.0,4500.0,2015-02-15,2015-02-24,Argentina
+Hydrological,Flood,,2.0,20950.0,2015-02-20,2015-02-24,Dominican Rep.
+Hydrological,Flood,,6.0,45000.0,2015-04-04,2015-04-06,Haiti
+Meteorological,Storm,,12.0,20000.0,2015-05-02,2015-05-04,El Salvador
+Hydrological,Flood,,5.0,1000.0,2015-04-01,2015-05-02,Brazil
+Hydrological,Flood,,3.0,283140.0,2015-07-10,2015-07-21,Brazil
+Hydrological,Flood,,,3700.0,2015-07-25,2015-08-05,Paraguay
+Meteorological,Storm,,6.0,938.0,2015-08-08,2015-08-09,Chile
+Hydrological,Flood,,,4000.0,2015-02-20,2015-02-24,Bolivia
+Geophysical,Volcanic Activity,Tungurahua,,130042.0,2015-11-17,2016-03-01,Ecuador
+Hydrological,Flood,,12.0,136450.0,2015-11-01,2016-01-27,Paraguay
+Hydrological,Flood,,8.0,10605.0,2016-04-12,2016-05-11,Uruguay
+Hydrological,Flood,,1.0,18373.0,2016-05-26,2016-05-31,Haiti
+Hydrological,Flood,,,120.0,2016-02-28,2016-03-03,Bolivia
+Hydrological,Flood,,158.0,236308.0,2009-12-01,2010-03-01,Peru
+Meteorological,Storm,Tropical storm 'Earl',,10355.0,2016-08-04,2016-08-04,Belize
+Hydrological,Flood,,12.0,30000.0,2014-11-03,2014-11-05,Haiti
+Climatological,Drought,,,200000.0,2009-01-01,2009-11-01,Paraguay
+Climatological,Drought,,,,2009-01-01,2009-12-01,El Salvador
+Hydrological,Flood,,,1000.0,2010-01-11,2010-01-13,Panama
+Hydrological,Flood,,12.0,500.0,2010-01-01,2010-02-01,Ecuador
+Hydrological,Mass Movement,,68.0,1054.0,2010-04-01,2010-04-06,Peru
+Geophysical,Earthquake,,2.0,25232.0,2010-04-04,2010-04-04,Mexico
+Meteorological,Storm,"Tropical storm ""Alex""",22.0,170000.0,2010-06-30,2010-07-07,Mexico
+Meteorological,Storm,Hurricane 'Agatha',174.0,397962.0,2010-05-28,2010-06-01,Guatemala
+Meteorological,Storm,Hurricane 'Agatha',18.0,24675.0,2010-05-29,2010-05-29,Honduras
+Meteorological,Extreme Temperature,,12.0,,2010-07-01,2010-07-01,Paraguay
+Meteorological,Extreme Temperature,,4.0,,2010-07-01,2010-07-01,Uruguay
+Meteorological,Storm,Hurricane 'Karl',12.0,230000.0,2010-09-15,2010-09-17,Mexico
+Meteorological,Storm,Tropical storm Matthew,,,2010-09-25,2010-09-25,Belize
+Hydrological,Flood,,,548.0,2005-08-26,2005-08-29,Chile
+Meteorological,Storm,Hurricane Tomas,14.0,181000.0,2010-10-30,2010-10-30,St. Lucia
+Meteorological,Storm,Hurricane Tomas,,6100.0,2010-10-29,2010-10-29,St. Vin. and Gren.
+Hydrological,Flood,,24.0,3000.0,2010-11-01,2010-11-05,Costa Rica
+Hydrological,Flood,,2.0,6296.0,2010-11-04,2010-11-08,Panama
+Climatological,Drought,,,,2010-01-01,2010-06-01,Guyana
+Climatological,Drought,,,,2010-01-01,2010-06-01,Trinidad and Tobago
+Hydrological,Flood,,6.0,10000.0,2011-01-01,2011-02-01,Peru
+Hydrological,Flood,,138.0,988599.0,2011-04-01,2011-07-01,Colombia
+Hydrological,Flood,,12.0,31600.0,2011-04-21,2011-04-24,Brazil
+Meteorological,Storm,"Tropical storm ""Emily""",1.0,,2011-08-03,2011-08-03,Martinique
+Hydrological,Flood,,9.0,,2011-04-15,2011-04-25,Venezuela
+Meteorological,Storm,Hurricane Jova,5.0,50000.0,2011-10-10,2011-11-01,Mexico
+Hydrological,Flood,,135.0,498924.0,2011-09-01,2011-12-29,Colombia
+Hydrological,Flood,,4.0,46695.0,2011-10-17,2011-10-19,Costa Rica
+Hydrological,Mass Movement,,2.0,145.0,2019-06-22,2019-06-22,Ecuador
+Hydrological,Flood,,,2000.0,2011-11-10,2011-11-10,Panama
+Meteorological,Extreme Temperature,,,25475.0,2011-07-13,2011-07-19,Chile
+Hydrological,Flood,,1.0,4330.0,2012-07-01,2012-07-01,Panama
+Hydrological,Flood,,3.0,89000.0,2012-02-20,2012-03-26,Brazil
+Hydrological,Flood,,,210000.0,2012-05-01,2012-05-20,Brazil
+Hydrological,Flood,,16.0,7600.0,2012-05-01,2012-05-01,Haiti
+Hydrological,Flood,,,11000.0,2012-05-08,2012-05-11,Venezuela
+Meteorological,Storm,Hurricane Isaac,5.0,20515.0,2012-08-25,2012-08-25,Dominican Rep.
+Meteorological,Storm,Hurricane Isaac,13.0,8007.0,2012-08-25,2012-08-29,Haiti
+Geophysical,Volcanic Activity,,,10000.0,2012-09-13,2012-09-13,Guatemala
+Meteorological,Storm,Hurricane Sandy,3.0,22000.0,2012-10-24,2012-10-24,Dominican Rep.
+Meteorological,Storm,Hurricane Sandy,75.0,201850.0,2012-10-24,2012-10-26,Haiti
+Hydrological,Flood,,6.0,10000.0,2012-11-20,2012-12-04,Argentina
+Hydrological,Flood,,17.0,7865.0,2012-11-10,2012-11-11,Haiti
+Climatological,Wildfire,,5.0,1945.0,2012-05-01,2012-09-25,Ecuador
+Climatological,Drought,,,266485.0,2012-06-01,2012-01-01,Guatemala
+Hydrological,Flood,,25.0,145000.0,2013-01-28,2013-02-27,Bolivia
+Hydrological,Flood,,30.0,1510.0,2013-03-17,2013-03-18,Brazil
+Hydrological,Mass Movement,,74.0,11400.0,2014-01-01,2014-02-28,Bolivia
+Hydrological,Flood,,9.0,116.0,2014-08-18,2014-09-04,Panama
+Meteorological,Storm,Boris,5.0,100000.0,2014-05-30,2014-06-06,Guatemala
+Hydrological,Flood,,,,2014-06-07,2014-06-30,Argentina
+Hydrological,Flood,,,231360.0,2014-03-01,2014-07-01,Paraguay
+Meteorological,Storm,Hurricane Marie,3.0,30000.0,2014-08-22,2014-09-02,Mexico
+Meteorological,Storm,Hurricane Odile,6.0,75135.0,2014-09-10,2014-09-17,Mexico
+Meteorological,Storm,,11.0,18.0,2014-10-06,2014-10-06,Colombia
+Meteorological,Extreme Temperature,,,8141.0,2014-11-01,2015-01-01,Guatemala
+Hydrological,Flood,,25.0,92890.0,2015-01-15,2015-01-31,Bolivia
+Hydrological,Flood,,20.0,83878.0,2014-10-01,2015-01-31,Peru
+Climatological,Drought,,,27000000.0,2014-01-01,2016-12-01,Brazil
+Climatological,Drought,,,2023000.0,2014-04-01,2015-07-01,Honduras
+Climatological,Drought,,,91545.0,2014-01-01,2014-11-01,Jamaica
+Meteorological,Storm,,14.0,1471.0,2015-03-26,2015-03-28,Mexico
+Meteorological,Storm,,2.0,11037.0,2015-04-20,2015-04-20,Brazil
+Hydrological,Flood,,,9666.0,2015-06-27,2015-07-09,Costa Rica
+Hydrological,Flood,,11.0,150.0,2020-08-09,2020-08-09,Panama
+Hydrological,Flood,,,45297.0,2015-06-29,2015-07-07,Venezuela
+Meteorological,Extreme Temperature,,21.0,200620.0,2015-05-01,2015-09-01,Peru
+Hydrological,Flood,,6.0,8291.0,2015-08-10,2015-08-10,Guatemala
+Meteorological,Storm,Hurricane Erika,,2133.0,2015-08-28,2015-08-28,Dominican Rep.
+Hydrological,Flood,,2.0,10000.0,2016-02-20,2016-02-25,Peru
+Hydrological,Flood,,2.0,3750.0,2015-09-22,2015-09-29,Nicaragua
+Meteorological,Storm,Hurricane 'Joaquin',33.0,6710.0,2015-10-01,2015-10-04,Bahamas
+Hydrological,Flood,,6.0,76133.0,2015-12-20,2016-01-11,Argentina
+Climatological,Drought,,,,2015-10-01,2016-02-01,Colombia
+Hydrological,Flood,,30.0,,2016-03-10,2016-03-11,Brazil
+Geophysical,Earthquake,,1.0,147.0,2016-05-18,2016-05-18,Ecuador
+Hydrological,Flood,,5.0,3000.0,2016-05-07,2016-05-08,Haiti
+Meteorological,Storm,Hurricane 'Matthew',,190000.0,2016-09-28,2016-10-07,Cuba
+Meteorological,Storm,Hurricane 'Matthew',,125000.0,2016-09-27,2016-10-03,Jamaica
+Hydrological,Flood,,15.0,2792000.0,2016-11-07,2016-11-10,Dominican Rep.
+Meteorological,Storm,Tropical storm Otto,7.0,12000.0,2016-11-21,2016-11-22,Panama
+Biological,Epidemic,Yellow fever,26.0,54.0,2016-01-01,2017-01-04,Peru
+Hydrological,Flood,,,13650.0,2016-12-25,2016-12-26,Argentina
+Hydrological,Flood,,15.0,376000.0,2017-01-14,2017-02-01,Peru
+Hydrological,Flood,,1.0,12000.0,2017-02-01,2017-02-07,Peru
+Hydrological,Flood,,3.0,1200.0,2017-02-24,2017-03-03,Chile
+Climatological,Drought,,,386610.0,2018-06-01,2019-03-01,El Salvador
+Meteorological,Storm,,,10287.0,2017-04-20,2017-04-23,Dominican Rep.
+Meteorological,Storm,,,5000.0,2017-04-20,2017-04-23,Jamaica
+Hydrological,Flood,,,3000.0,2017-05-29,2017-06-14,Argentina
+Hydrological,Flood,,,6639.0,2017-05-29,2017-06-14,Uruguay
+Hydrological,Flood,,3.0,645.0,2017-06-10,2017-06-11,Honduras
+Hydrological,Flood,,2.0,3000.0,2017-05-11,2017-05-15,Chile
+Hydrological,Flood,,,25661.0,2017-01-05,2017-02-07,Colombia
+Hydrological,Flood,,7.0,400.0,2017-01-07,2017-01-21,Honduras
+Meteorological,Storm,Hurricane 'Maria',64.0,750000.0,2017-09-19,2017-09-21,Puerto Rico
+Meteorological,Storm,Hurricane 'Franklin',,300.0,2017-08-07,2017-08-07,Mexico
+Meteorological,Storm,Hurricane 'Maria',3.0,,2017-09-20,2017-09-20,U.S. Virgin Is.
+Meteorological,Storm,Hurricane 'Irma',,500.0,2017-09-06,2017-09-06,St. Kitts and Nevis
+Geophysical,Earthquake,,98.0,1200250.0,2017-09-08,2017-09-08,Mexico
+Meteorological,Storm,Hurricane 'Maria',,2.0,2017-09-18,2017-09-18,Martinique
+Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',13.0,11500.0,2017-09-04,2017-10-06,Costa Rica
+Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',15.0,39200.0,2017-10-05,2017-10-06,Nicaragua
+Hydrological,Flood,,7.0,13715.0,2017-10-27,2017-10-27,Nicaragua
+Hydrological,Flood,,,31319.0,2017-09-01,2017-10-28,Guatemala
+Hydrological,Flood,,5.0,50000.0,2017-11-14,2017-11-18,Haiti
+Hydrological,Flood,,2.0,800.0,2017-09-26,2017-10-07,Mexico
+Hydrological,Flood,,,45000.0,2018-01-20,2018-01-20,Argentina
+Hydrological,Flood,,2.0,76845.0,2018-05-18,2018-05-22,Guatemala
+Hydrological,Flood,,,9700.0,2018-08-01,2018-08-10,Venezuela
+Hydrological,Flood,,20.0,120.0,2018-09-20,2018-09-23,Mexico
+Hydrological,Flood,,,100.0,2018-10-01,2018-10-18,Guatemala
+Meteorological,Storm,Hurricane Willa,6.0,10000.0,2018-10-23,2018-10-23,Mexico
+Climatological,Drought,,,,2018-01-01,2018-03-01,Argentina
+Climatological,Drought,,,75000.0,2018-01-01,2023-01-01,Uruguay
+Climatological,Drought,,,,2019-03-01,2019-03-01,Costa Rica
+Geophysical,Earthquake,,2.0,780.0,2019-01-19,2019-01-19,Chile
+Hydrological,Mass Movement,,15.0,28.0,2019-01-25,2019-01-26,Peru
+Hydrological,Flood,,,2100.0,2019-05-10,2019-05-20,Argentina
+Geophysical,Earthquake,,2.0,4272.0,2019-05-26,2019-05-26,Peru
+Hydrological,Flood,,7.0,30000.0,2019-06-13,2019-06-13,Brazil
+Geophysical,Volcanic Activity,Ubinas,,30000.0,2019-07-19,2019-07-22,Peru
+Meteorological,Storm,,2.0,63453.0,2019-08-17,2019-08-23,Guatemala
+Meteorological,Storm,Tropical cyclone 'Lorena',1.0,200.0,2019-09-20,2019-09-20,Mexico
+Climatological,Wildfire,,,4000.0,2019-01-01,2019-09-01,Paraguay
+Hydrological,Flood,,3.0,500.0,2019-11-27,2019-12-04,Mexico
+Hydrological,Flood,,,6000.0,2019-12-06,2019-12-11,Colombia
+Hydrological,Flood,,6.0,2000.0,2019-10-05,2019-10-15,Venezuela
+Hydrological,Flood,,,4000.0,2021-01-16,2021-01-20,Paraguay
+Meteorological,Storm,,,250.0,2020-01-15,2020-01-16,Argentina
+Hydrological,Flood,,,550.0,2020-03-28,2020-04-02,Peru
+Meteorological,Storm,Tropical storm 'Amanda',5.0,1200.0,2020-05-30,2020-05-31,Honduras
+Hydrological,Flood,,,4070.0,2020-06-17,2020-06-17,Guatemala
+Geophysical,Earthquake,,10.0,24393.0,2020-06-23,2020-06-23,Mexico
+Hydrological,Flood,,,360.0,2020-06-22,2020-06-24,Uruguay
+Meteorological,Storm,Hurricane 'Isaias',1.0,,2020-08-02,2020-08-02,Puerto Rico
+Hydrological,Flood,,11.0,30000.0,2020-07-01,2020-07-15,Colombia
+Meteorological,Storm,Hurricane 'Laura',39.0,44175.0,2020-08-23,2020-08-23,Haiti
+Climatological,Wildfire,,5.0,126000.0,2020-01-01,2020-10-01,Bolivia
+Meteorological,Storm,Hurricane 'Eta',,60000.0,2020-11-04,2020-11-04,Belize
+Meteorological,Storm,Hurricane 'Eta',31.0,,2020-11-02,2020-11-04,Mexico
+Meteorological,Storm,Hurricane 'Iota',2.0,131298.0,2020-11-17,2020-11-17,Guatemala
+Hydrological,Flood,,1.0,13000.0,2021-01-16,2021-01-20,Bolivia
+Hydrological,Flood,,8.0,77965.0,2021-01-17,2021-01-27,Bolivia
+Hydrological,Flood,,6.0,18003.0,2021-02-01,2021-03-14,Ecuador
+Hydrological,Flood,,1.0,9000.0,2021-03-20,2021-03-31,Peru
+Hydrological,Flood,,,90.0,2021-03-01,2021-03-01,Argentina
+Hydrological,Flood,,,105.0,2021-04-20,2021-04-21,Peru
+Meteorological,Storm,Hurricane 'Elsa',,3300.0,2021-07-03,2021-07-03,Barbados
+Meteorological,Storm,Hurricane 'Elsa',2.0,153.0,2021-07-03,2021-07-03,Dominican Rep.
+Hydrological,Flood,,,610.0,2021-06-01,2021-06-02,Chile
+Hydrological,Flood,,60.0,375000.0,2022-02-20,2022-02-22,Bolivia
+Meteorological,Storm,,4.0,2364.0,2009-09-09,2009-09-09,Brazil
+Geophysical,Earthquake,,3.0,21951.0,2021-09-08,2021-09-08,Mexico
+Hydrological,Flood,,51.0,1036166.0,2021-11-15,2022-01-16,Brazil
+Meteorological,Storm,Isidore,2.0,300.0,2002-09-22,2002-09-22,Nicaragua
+Climatological,Drought,,,,2021-01-01,2021-12-01,Brazil
+Hydrological,Flood,,8.0,800.0,2022-03-20,2022-03-22,Brazil
+Geophysical,Earthquake,,1.0,7804.0,2022-03-26,2022-03-26,Ecuador
+Hydrological,Flood,,4.0,108.0,2022-03-27,2022-03-28,Ecuador
+Hydrological,Flood,,20.0,25.0,2022-04-07,2022-04-08,Colombia
+Hydrological,Flood,,40.0,26749.0,2022-03-01,2022-04-01,Ecuador
+Hydrological,Flood,,116.0,24304.0,2022-05-24,2022-05-30,Brazil
+Geophysical,Earthquake,,,302.0,2022-07-12,2022-07-12,Peru
+Meteorological,Storm,Hurricane 'Fiona',2.0,1434802.0,2022-09-19,2022-09-20,Dominican Rep.
+Hydrological,Flood,,20.0,,2022-09-22,2022-09-30,Venezuela
+Geophysical,Earthquake,,3.0,18005.0,2022-09-22,2022-09-22,Mexico
+Geophysical,Earthquake,,2.0,17886.0,2022-09-19,2022-09-19,Mexico
+Hydrological,Mass Movement,,106.0,64951.0,2022-10-09,2022-10-09,Venezuela
+Hydrological,Flood,,9.0,76657.0,2022-07-02,2022-09-28,Honduras
+Hydrological,Flood,,32.0,17500.0,2022-11-29,2022-12-04,Brazil
+Climatological,Drought,,,409115.0,2022-10-01,2023-04-01,Uruguay
+Hydrological,Flood,,5.0,188610.0,2023-01-01,2023-03-16,Bolivia
+Hydrological,Flood,,1.0,289083.0,2023-06-02,2023-06-09,Dominican Rep.
+Hydrological,Flood,,,750.0,2023-03-05,2023-03-06,Brazil
+Geophysical,Earthquake,,14.0,127416.0,2023-03-18,2023-03-18,Ecuador
+Hydrological,Flood,,,15000.0,2023-03-24,2023-03-27,Brazil
+Hydrological,Flood,,6.0,3719.0,2023-03-29,2023-03-29,Brazil
+Hydrological,Flood,,5.0,1152.0,2023-03-20,2023-03-21,Brazil
+Hydrological,Flood,,,38000.0,2023-05-29,2023-07-05,Argentina
+Hydrological,Flood,,14.0,20000.0,2023-07-10,2023-07-14,Brazil
+Climatological,Drought,,,1143043.0,2024-01-01,2024-06-01,Colombia
+Meteorological,Storm,Hurricane Jimena,4.0,72000.0,2009-09-02,2009-09-03,Mexico
+Hydrological,Flood,,,12035.0,2009-09-22,2009-10-23,Paraguay
+Hydrological,Flood,,,6821.0,2009-07-31,2009-07-31,Nicaragua
+Hydrological,Flood,,6.0,5000.0,2000-10-12,2000-10-15,Brazil
+Hydrological,Mass Movement,,33.0,,2009-03-02,2009-03-02,Peru
+Hydrological,Flood,,5.0,10000.0,2009-02-02,2009-02-12,Dominican Rep.
+Hydrological,Flood,,23.0,31250.0,2009-02-15,2009-02-17,Colombia
+Hydrological,Flood,,16.0,1048.0,2009-01-20,2009-01-27,Brazil
+Geophysical,Earthquake,,31.0,128618.0,2009-01-08,2009-01-08,Costa Rica
+Geophysical,Earthquake,,11.0,1754.0,2008-05-24,2008-05-24,Colombia
+Hydrological,Flood,,12.0,23292.0,2008-11-22,2008-11-25,Panama
+Hydrological,Flood,,,20000.0,2008-11-17,2008-11-20,Cuba
+Meteorological,Storm,Hurricane Paloma,,,2008-11-08,2008-11-08,Cayman Is.
+Hydrological,Flood,Tropical Depression Sixteen,67.0,313357.0,2008-10-19,2008-11-12,Honduras
+Hydrological,Flood,,3.0,3000.0,2005-09-26,2005-09-29,Mexico
+Hydrological,Flood,,16.0,545.0,2008-09-03,2008-09-03,Panama
+Hydrological,Flood,,4.0,104755.0,2008-08-29,2008-09-04,Chile
+Meteorological,Storm,Olga,3.0,2352.0,2007-12-11,2007-12-17,Haiti
+Meteorological,Storm,"Hurricane ""Gustav""",85.0,73006.0,2008-08-26,2008-08-26,Haiti
+Meteorological,Storm,"Tropical Storm ""Fay""",1.0,,2008-08-18,2008-08-24,Jamaica
+Meteorological,Storm,"Tropical Storm ""Fay""",10.0,220.0,2008-08-18,2008-08-18,Haiti
+Meteorological,Storm,Hurricane Dolly,2.0,500000.0,2008-07-20,2008-07-21,Mexico
+Hydrological,Flood,,2.0,6548.0,2008-06-01,2008-06-25,Suriname
+Hydrological,Mass Movement,,27.0,,2008-06-20,2008-06-20,Guatemala
+Meteorological,Storm,Tropical cyclone 'Arthur',7.0,10000.0,2008-05-31,2008-06-05,Belize
+Geophysical,Volcanic Activity,Chaiten,,8000.0,2008-05-02,2008-05-06,Chile
+Geophysical,Volcanic Activity,Chaiten,,,2008-05-07,2008-05-07,Argentina
+Hydrological,Flood,,8.0,800.0,2005-06-24,2005-06-27,Honduras
+Hydrological,Flood,,,85000.0,2008-01-28,2008-03-30,Argentina
+Hydrological,Flood,,9.0,12870.0,2008-02-02,2008-02-06,Brazil
+Hydrological,Flood,,4.0,49506.0,2008-01-12,2008-01-16,Brazil
+Geophysical,Earthquake,,1.0,286.0,2007-12-09,2007-12-09,Brazil
+Hydrological,Flood,,1.0,500.0,2007-11-04,2007-11-06,Honduras
+Meteorological,Storm,Noel,129.0,79728.0,2007-10-28,2007-11-02,Dominican Rep.
+Meteorological,Storm,Noel,1.0,192488.0,2007-10-28,2007-11-02,Cuba
+Hydrological,Flood,,2.0,500.0,2007-10-12,2007-10-26,El Salvador
+Hydrological,Flood,,2.0,129.0,2007-10-12,2007-10-26,Panama
+Hydrological,Flood,,11.0,656.0,2007-09-22,2007-09-24,Guatemala
+Meteorological,Storm,Felix,,2800.0,2007-09-04,2007-09-04,El Salvador
+Hydrological,Flood,,,55000.0,2007-09-04,2007-09-12,Mexico
+Geophysical,Earthquake,,593.0,658331.0,2007-08-15,2007-08-15,Peru
+Meteorological,Storm,Dean,4.0,33188.0,2007-08-20,2007-08-20,Jamaica
+Meteorological,Storm,Dean,,,2007-08-29,2007-08-29,Guadeloupe
+Meteorological,Storm,Dean,1.0,1600.0,2007-08-21,2007-08-24,Dominican Rep.
+Meteorological,Storm,Dean,,,2007-08-20,2007-08-20,Cuba
+Meteorological,Extreme Temperature,,,,2007-07-01,2007-07-01,Uruguay
+Hydrological,Flood,,2.0,12500.0,2007-05-30,2007-06-03,Haiti
+Hydrological,Flood,,146.0,1504317.0,2007-03-06,2007-09-30,Colombia
+Hydrological,Flood,,17.0,47714.0,2007-01-21,2007-02-10,Peru
+Climatological,Drought,,,,2006-01-01,2006-01-01,Peru
+Meteorological,Storm,Stan,1.0,1074.0,2005-10-01,2005-10-16,Costa Rica
+Hydrological,Flood,,18.0,95862.0,2006-07-11,2006-07-17,Chile
+Climatological,Wildfire,,,3000.0,2005-09-01,2005-09-01,Bolivia
+Hydrological,Flood,,2.0,1500.0,2006-06-08,2006-06-08,Cuba
+Meteorological,Storm,Alberto,,268.0,2006-06-11,2006-06-11,Cuba
+Hydrological,Flood,,3.0,25000.0,2006-05-07,2006-05-29,Suriname
+Geophysical,Volcanic Activity,Ubinas,,3000.0,2006-03-27,2006-04-23,Peru
+Climatological,Drought,,,,2005-10-01,2005-10-01,Brazil
+Climatological,Wildfire,,,,2005-03-11,2005-03-11,Dominican Rep.
+Hydrological,Flood,,15.0,,2005-10-03,2005-10-03,El Salvador
+Hydrological,Flood,,11.0,11500.0,2005-10-01,2005-10-01,Haiti
+Meteorological,Storm,"Hurricane ""Wilma""",4.0,100000.0,2005-10-19,2005-10-24,Cuba
+Meteorological,Storm,"Hurricane ""Wilma""",1.0,1500.0,2005-10-19,2005-10-25,Bahamas
+Hydrological,Mass Movement,,7.0,1000.0,2005-07-12,2005-07-13,Guatemala
+Geophysical,Earthquake,,11.0,27645.0,2005-06-13,2005-06-13,Chile
+Hydrological,Flood,,5.0,1650.0,2005-06-08,2005-06-08,Venezuela
+Hydrological,Flood,,3.0,1450.0,2005-05-14,2005-05-14,Dominican Rep.
+Meteorological,Storm,,11.0,252.0,2005-01-30,2005-01-30,Argentina
+Hydrological,Flood,,3.0,7000.0,2005-01-11,2005-01-18,Panama
+Climatological,Drought,,,,2004-01-01,2004-01-01,Peru
+Meteorological,Extreme Temperature,,14.0,,2004-11-01,2004-11-01,Mexico
+Geophysical,Earthquake,,,100.0,2004-11-21,2004-11-21,Dominica
+Hydrological,Flood,,,3400.0,2004-10-23,2004-10-23,Panama
+Meteorological,Storm,Jeanne,2754.0,315594.0,2004-09-17,2004-09-18,Haiti
+Geophysical,Volcanic Activity,Tungurahua,,21500.0,2002-10-02,2002-10-02,Ecuador
+Meteorological,Storm,Ivan,3.0,6500.0,2004-09-13,2004-09-13,Haiti
+Meteorological,Storm,Ivan,39.0,113700.0,2004-09-08,2004-09-08,Grenada
+Meteorological,Storm,Ivan,1.0,880.0,2004-09-08,2004-09-08,Barbados
+Meteorological,Storm,Frances,2.0,8000.0,2004-09-02,2004-09-03,Bahamas
+Meteorological,Extreme Temperature,,,,2004-07-01,2004-07-01,Brazil
+Hydrological,Flood,,79.0,186096.0,2004-01-01,2004-06-28,Colombia
+Hydrological,Flood,,688.0,10002.0,2004-05-23,2004-06-01,Dominican Rep.
+Hydrological,Flood,,,1000.0,2003-05-01,2003-05-01,Panama
+Hydrological,Flood,,,600.0,2003-04-01,2003-04-01,Cuba
+Hydrological,Flood,,,200.0,2003-08-26,2003-08-28,Venezuela
+Hydrological,Flood,,29.0,16000.0,2003-01-11,2003-02-04,Brazil
+Hydrological,Flood,,161.0,175470.0,2003-12-01,2004-02-19,Brazil
+Hydrological,Flood,,69.0,45004.0,2003-12-22,2004-01-22,Bolivia
+Hydrological,Flood,,42.0,35752.0,2003-08-01,2003-12-01,Colombia
+Hydrological,Flood,,4.0,2000.0,2003-10-27,2003-10-31,Brazil
+Climatological,Wildfire,,,,2003-10-25,2003-11-04,Mexico
+Hydrological,Flood,,,12500.0,2002-07-05,2002-08-08,Colombia
+Meteorological,Storm,Marty,2.0,6000.0,2003-09-22,2003-09-22,Mexico
+Hydrological,Mass Movement,,74.0,1500.0,2002-12-09,2002-12-12,Brazil
+Hydrological,Flood,,1.0,6500.0,2003-01-03,2003-01-08,Bolivia
+Hydrological,Flood,,4.0,6025.0,2003-01-21,2003-01-22,Bolivia
+Hydrological,Flood,,3.0,800.0,2002-10-12,2002-11-02,Chile
+Meteorological,Storm,,3.0,5000.0,2002-10-22,2002-10-22,Argentina
+Meteorological,Storm,Tropical storm 'Lili',4.0,1000.0,2002-09-24,2002-09-24,St. Vin. and Gren.
+Hydrological,Flood,,27.0,7000.0,2002-08-15,2002-08-17,Mexico
+Geophysical,Mass Movement,,60.0,,2002-07-16,2002-07-16,Ecuador
+Hydrological,Flood,,,35000.0,2002-06-12,2002-06-22,Cuba
+Hydrological,Flood,,10.0,969.0,2002-05-23,2002-06-05,Honduras
+Hydrological,Flood,,14.0,221842.0,2002-05-24,2002-06-05,Chile
+Hydrological,Flood,,31.0,38339.0,2002-05-23,2002-06-05,Haiti
+Meteorological,Storm,,16.0,2000.0,2001-04-05,2001-04-05,Argentina
+Hydrological,Flood,,37.0,38000.0,2002-04-24,2002-04-29,Colombia
+Hydrological,Flood,,,2765.0,2002-05-06,2002-05-28,Paraguay
+Hydrological,Flood,,31.0,54113.0,2002-03-06,2002-04-29,Ecuador
+Hydrological,Flood,,,98740.0,2002-02-04,2002-02-04,Guatemala
+Hydrological,Flood,,,,2000-11-09,2000-11-16,Argentina
+Hydrological,Flood,,50.0,1946.0,2001-12-24,2001-12-25,Brazil
+Meteorological,Storm,Hurricane Michelle,5.0,5900012.0,2001-11-04,2001-11-04,Cuba
+Meteorological,Storm,Michelle,,,2001-10-30,2001-11-05,Haiti
+Hydrological,Mass Movement,,14.0,,2001-06-05,2001-06-05,Colombia
+Hydrological,Flood,,,10000.0,2001-05-26,2001-05-26,Chile
+Geophysical,Earthquake,,145.0,349978.0,2001-06-23,2001-06-23,Peru
+Hydrological,Flood,,,775.0,2001-05-02,2001-05-02,Panama
+Hydrological,Flood,,9.0,310.0,2001-04-25,2001-04-26,Peru
+Hydrological,Flood,,11.0,1200.0,2001-03-08,2001-03-10,Ecuador
+Geophysical,Earthquake,,315.0,256021.0,2001-02-13,2001-02-13,El Salvador
+Meteorological,Storm,,4.0,650.0,2001-01-10,2001-01-10,Argentina
+Climatological,Drought,,,,2000-07-01,2000-01-01,Nicaragua
+Meteorological,Storm,,1.0,430.0,2000-12-27,2000-12-27,Argentina
+Hydrological,Flood,,13.0,2000.0,2000-12-17,2000-12-26,Brazil
+Hydrological,Flood,,13.0,20004.0,2000-10-01,2000-10-01,Venezuela
+Meteorological,Storm,Keith,1.0,100.0,2000-10-01,2000-10-01,El Salvador
+Hydrological,Flood,,1.0,1000.0,2000-09-01,2000-09-01,Panama
+Meteorological,Extreme Temperature,,8.0,,2000-07-01,2000-07-01,Paraguay
+Hydrological,Mass Movement,,60.0,143000.0,2000-07-30,2000-08-17,Brazil
+Hydrological,Flood,,4.0,30040.0,2000-05-15,2000-05-15,Argentina

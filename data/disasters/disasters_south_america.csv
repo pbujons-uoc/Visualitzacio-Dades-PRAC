@@ -1,0 +1,200 @@
+Country,disaster,disaster_count,color_intensity
+Brazil,Hydrological,117,117
+Mexico,Meteorological,82,82
+Colombia,Hydrological,77,77
+Peru,Hydrological,53,53
+Mexico,Hydrological,50,50
+Haiti,Hydrological,49,49
+Bolivia,Hydrological,45,45
+Argentina,Hydrological,43,43
+Haiti,Meteorological,34,34
+Cuba,Meteorological,34,34
+Dominican Rep.,Meteorological,32,32
+Venezuela,Hydrological,31,31
+Guatemala,Hydrological,30,30
+Ecuador,Hydrological,29,29
+Panama,Hydrological,29,29
+Dominican Rep.,Hydrological,26,26
+Chile,Hydrological,26,26
+Colombia,Hydrological,25,25
+Honduras,Hydrological,23,23
+Peru,Geophysical,21,21
+Costa Rica,Hydrological,21,21
+Guatemala,Meteorological,21,21
+Nicaragua,Meteorological,20,20
+Honduras,Meteorological,20,20
+Uruguay,Hydrological,20,20
+Brazil,Meteorological,20,20
+Jamaica,Meteorological,19,19
+Argentina,Meteorological,19,19
+El Salvador,Meteorological,19,19
+Paraguay,Hydrological,17,17
+Chile,Climatological,17,17
+Bahamas,Meteorological,16,16
+Nicaragua,Hydrological,16,16
+Peru,Hydrological,14,14
+Puerto Rico,Meteorological,13,13
+Brazil,Climatological,13,13
+Mexico,Geophysical,13,13
+El Salvador,Hydrological,12,12
+Guatemala,Hydrological,11,11
+Ecuador,Geophysical,11,11
+Belize,Meteorological,11,11
+Cuba,Hydrological,11,11
+Colombia,Meteorological,11,11
+Peru,Meteorological,10,10
+Honduras,Climatological,9,9
+Guatemala,Geophysical,9,9
+Bolivia,Climatological,8,8
+St. Vin. and Gren.,Meteorological,8,8
+Brazil,Hydrological,8,8
+Chile,Geophysical,8,8
+Paraguay,Biological,8,8
+Haiti,Biological,8,8
+Colombia,Geophysical,8,8
+Mexico,Hydrological,8,8
+Ecuador,Hydrological,8,8
+Ecuador,Geophysical,8,8
+Costa Rica,Meteorological,8,8
+Paraguay,Meteorological,8,8
+Colombia,Geophysical,8,8
+Cayman Is.,Meteorological,7,7
+Guyana,Hydrological,7,7
+Barbados,Meteorological,7,7
+Chile,Meteorological,7,7
+Mexico,Meteorological,7,7
+Bolivia,Climatological,7,7
+Uruguay,Meteorological,6,6
+Panama,Meteorological,6,6
+Puerto Rico,Hydrological,6,6
+Paraguay,Climatological,6,6
+El Salvador,Geophysical,6,6
+El Salvador,Biological,6,6
+Argentina,Meteorological,6,6
+Argentina,Climatological,6,6
+Chile,Meteorological,6,6
+Brazil,Biological,6,6
+Ecuador,Biological,5,5
+Bolivia,Hydrological,5,5
+Bolivia,Biological,5,5
+St. Lucia,Meteorological,5,5
+Turks and Caicos Is.,Meteorological,5,5
+Guatemala,Climatological,5,5
+Venezuela,Meteorological,5,5
+Guatemala,Geophysical,5,5
+Honduras,Biological,5,5
+Peru,Biological,5,5
+Dominican Rep.,Biological,5,5
+Argentina,Climatological,4,4
+Dominica,Meteorological,4,4
+Nicaragua,Climatological,4,4
+El Salvador,Climatological,4,4
+Haiti,Geophysical,4,4
+Bolivia,Meteorological,4,4
+Suriname,Hydrological,4,4
+Nicaragua,Biological,4,4
+Peru,Geophysical,4,4
+Uruguay,Meteorological,4,4
+Peru,Meteorological,4,4
+Grenada,Meteorological,4,4
+Colombia,Biological,4,4
+Guatemala,Meteorological,4,4
+Chile,Geophysical,4,4
+Costa Rica,Geophysical,4,4
+Guatemala,Biological,4,4
+Costa Rica,Biological,3,3
+Colombia,Climatological,3,3
+Paraguay,Meteorological,3,3
+Cuba,Climatological,3,3
+Panama,Climatological,3,3
+Peru,Climatological,3,3
+Martinique,Meteorological,3,3
+Venezuela,Hydrological,3,3
+St. Vin. and Gren.,Hydrological,3,3
+Antigua and Barb.,Meteorological,3,3
+Guadeloupe,Meteorological,3,3
+Uruguay,Climatological,3,3
+U.S. Virgin Is.,Meteorological,3,3
+Argentina,Geophysical,3,3
+Bolivia,Meteorological,3,3
+Argentina,Hydrological,3,3
+Haiti,Climatological,3,3
+St. Lucia,Hydrological,3,3
+Guatemala,Climatological,3,3
+Peru,Climatological,2,2
+Argentina,Geophysical,2,2
+Costa Rica,Climatological,2,2
+Panama,Biological,2,2
+British Virgin Is.,Meteorological,2,2
+El Salvador,Geophysical,2,2
+Colombia,Climatological,2,2
+Belize,Hydrological,2,2
+Brazil,Meteorological,2,2
+Puerto Rico,Geophysical,2,2
+Trinidad and Tobago,Meteorological,2,2
+Trinidad and Tobago,Hydrological,2,2
+Paraguay,Climatological,2,2
+Panama,Geophysical,2,2
+Ecuador,Climatological,2,2
+Grenada,Climatological,2,2
+Jamaica,Hydrological,2,2
+Jamaica,Climatological,2,2
+Ecuador,Meteorological,2,2
+St. Kitts and Nevis,Meteorological,2,2
+Mexico,Climatological,2,2
+Mexico,Climatological,2,2
+Mexico,Geophysical,2,2
+Honduras,Climatological,2,2
+Honduras,Geophysical,2,2
+Nicaragua,Geophysical,2,2
+Guyana,Climatological,1,1
+Trinidad and Tobago,Climatological,1,1
+Bahamas,Hydrological,1,1
+Sint Maarten,Meteorological,1,1
+Anguilla,Meteorological,1,1
+St. Lucia,Biological,1,1
+St. Lucia,Geophysical,1,1
+Haiti,Hydrological,1,1
+St. Lucia,Climatological,1,1
+Argentina,Biological,1,1
+Trinidad and Tobago,Hydrological,1,1
+Jamaica,Biological,1,1
+St. Vin. and Gren.,Climatological,1,1
+St. Vin. and Gren.,Biological,1,1
+St. Vin. and Gren.,Geophysical,1,1
+Venezuela,Climatological,1,1
+Venezuela,Geophysical,1,1
+Guatemala,Geophysical,1,1
+Venezuela,Biological,1,1
+French Guiana,Hydrological,1,1
+French Guiana,Hydrological,1,1
+Guadeloupe,Geophysical,1,1
+Guadeloupe,Biological,1,1
+Montserrat,Geophysical,1,1
+Martinique,Geophysical,1,1
+Martinique,Biological,1,1
+Colombia,Geophysical,1,1
+Ecuador,Geophysical,1,1
+Ecuador,Climatological,1,1
+Peru,Biological,1,1
+Dominica,Geophysical,1,1
+Nicaragua,Hydrological,1,1
+Nicaragua,Climatological,1,1
+Cuba,Geophysical,1,1
+Costa Rica,Geophysical,1,1
+Dominican Rep.,Climatological,1,1
+Panama,Climatological,1,1
+Dominican Rep.,Geophysical,1,1
+Costa Rica,Hydrological,1,1
+El Salvador,Meteorological,1,1
+Bolivia,Geophysical,1,1
+El Salvador,Hydrological,1,1
+Brazil,Geophysical,1,1
+Brazil,Climatological,1,1
+Barbados,Climatological,1,1
+Barbados,Geophysical,1,1
+Belize,Climatological,1,1
+St-Martin,Meteorological,1,1
+St-Barthélemy,Meteorological,1,1
+Chile,Hydrological,1,1
+Mexico,Biological,1,1

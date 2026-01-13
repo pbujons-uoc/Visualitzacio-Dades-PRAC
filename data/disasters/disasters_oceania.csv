@@ -1,0 +1,77 @@
+Country,disaster,disaster_count,color_intensity
+Australia,Hydrological,49,49
+Australia,Meteorological,48,48
+Australia,Climatological,25,25
+Fiji,Meteorological,20,20
+New Zealand,Hydrological,17,17
+Papua New Guinea,Hydrological,15,15
+Papua New Guinea,Hydrological,13,13
+New Zealand,Meteorological,12,12
+Papua New Guinea,Geophysical,12,12
+Vanuatu,Meteorological,12,12
+Solomon Is.,Meteorological,10,10
+Tonga,Meteorological,9,9
+Vanuatu,Geophysical,9,9
+Papua New Guinea,Geophysical,8,8
+Fiji,Hydrological,7,7
+Papua New Guinea,Biological,6,6
+Micronesia,Meteorological,6,6
+Solomon Is.,Hydrological,5,5
+Guam,Meteorological,5,5
+New Zealand,Geophysical,5,5
+Samoa,Meteorological,4,4
+Solomon Is.,Geophysical,4,4
+Marshall Is.,Climatological,4,4
+Papua New Guinea,Meteorological,4,4
+N. Mariana Is.,Meteorological,4,4
+Cook Is.,Meteorological,3,3
+Palau,Meteorological,3,3
+Australia,Climatological,3,3
+Australia,Meteorological,3,3
+Vanuatu,Geophysical,3,3
+American Samoa,Meteorological,2,2
+Vanuatu,Hydrological,2,2
+Australia,Biological,2,2
+Solomon Is.,Biological,2,2
+Tuvalu,Meteorological,2,2
+Tuvalu,Climatological,2,2
+Tonga,Biological,2,2
+Kiribati,Hydrological,2,2
+Marshall Is.,Meteorological,2,2
+Marshall Is.,Hydrological,2,2
+Micronesia,Climatological,2,2
+New Caledonia,Meteorological,2,2
+Tokelau,Meteorological,1,1
+Tonga,Climatological,1,1
+Tonga,Geophysical,1,1
+Tonga,Geophysical,1,1
+Samoa,Hydrological,1,1
+Australia,Biological,1,1
+American Samoa,Hydrological,1,1
+American Samoa,Geophysical,1,1
+Samoa,Biological,1,1
+Kiribati,Meteorological,1,1
+Samoa,Geophysical,1,1
+Samoa,Climatological,1,1
+Wallis and Futuna,Meteorological,1,1
+Vanuatu,Biological,1,1
+Palau,Climatological,1,1
+Papua New Guinea,Geophysical,1,1
+Papua New Guinea,Climatological,1,1
+Palau,Biological,1,1
+Cook Is.,Biological,1,1
+N. Mariana Is.,Geophysical,1,1
+New Zealand,Climatological,1,1
+New Zealand,Geophysical,1,1
+New Zealand,Meteorological,1,1
+New Zealand,Climatological,1,1
+Niue,Meteorological,1,1
+New Caledonia,Biological,1,1
+Solomon Is.,Climatological,1,1
+Fiji,Biological,1,1
+Micronesia,Biological,1,1
+Micronesia,Hydrological,1,1
+Fr. Polynesia,Meteorological,1,1
+Fr. Polynesia,Hydrological,1,1
+Fiji,Climatological,1,1
+Marshall Is.,Biological,1,1

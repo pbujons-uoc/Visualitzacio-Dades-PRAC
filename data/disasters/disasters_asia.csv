@@ -1,0 +1,268 @@
+Country,disaster,disaster_count,color_intensity
+China,Hydrological,224,224
+China,Meteorological,218,218
+Indonesia,Hydrological,215,215
+Philippines,Meteorological,208,208
+India,Hydrological,205,205
+China,Geophysical,114,114
+Philippines,Hydrological,109,109
+India,Meteorological,107,107
+Vietnam,Meteorological,102,102
+Japan,Meteorological,94,94
+Afghanistan,Hydrological,91,91
+Pakistan,Hydrological,90,90
+Vietnam,Hydrological,85,85
+Indonesia,Geophysical,82,82
+Thailand,Hydrological,76,76
+Bangladesh,Meteorological,72,72
+Malaysia,Hydrological,68,68
+China,Hydrological,62,62
+Indonesia,Hydrological,60,60
+Taiwan,Meteorological,58,58
+Iran,Geophysical,55,55
+Sri Lanka,Hydrological,53,53
+Iran,Hydrological,46,46
+Bangladesh,Hydrological,46,46
+Nepal,Hydrological,38,38
+Yemen,Hydrological,37,37
+Thailand,Meteorological,37,37
+India,Meteorological,35,35
+Turkey,Geophysical,33,33
+Indonesia,Geophysical,33,33
+India,Hydrological,33,33
+South Korea,Meteorological,32,32
+Japan,Geophysical,31,31
+Turkey,Hydrological,31,31
+Myanmar,Hydrological,30,30
+Japan,Hydrological,28,28
+Tajikistan,Hydrological,28,28
+China,Climatological,27,27
+Philippines,Geophysical,27,27
+India,Biological,25,25
+Afghanistan,Hydrological,23,23
+North Korea,Hydrological,22,22
+Afghanistan,Geophysical,22,22
+Saudi Arabia,Hydrological,22,22
+Cambodia,Hydrological,21,21
+South Korea,Hydrological,21,21
+Pakistan,Meteorological,20,20
+Lao PDR,Hydrological,19,19
+Philippines,Geophysical,18,18
+Japan,Meteorological,18,18
+Pakistan,Geophysical,18,18
+Afghanistan,Biological,17,17
+Philippines,Hydrological,17,17
+Georgia,Hydrological,17,17
+Sri Lanka,Meteorological,17,17
+Nepal,Hydrological,17,17
+Iraq,Hydrological,16,16
+Hong Kong,Meteorological,16,16
+Pakistan,Hydrological,15,15
+Bangladesh,Meteorological,15,15
+Tajikistan,Geophysical,14,14
+Kazakhstan,Hydrological,14,14
+Pakistan,Meteorological,13,13
+Myanmar,Meteorological,13,13
+Iran,Meteorological,12,12
+India,Geophysical,11,11
+Myanmar,Hydrological,11,11
+Mongolia,Hydrological,11,11
+Pakistan,Biological,11,11
+Philippines,Biological,11,11
+Mongolia,Meteorological,10,10
+Taiwan,Geophysical,10,10
+Tajikistan,Hydrological,10,10
+Bangladesh,Biological,10,10
+Nepal,Biological,10,10
+Turkey,Meteorological,10,10
+Lao PDR,Meteorological,9,9
+Yemen,Biological,9,9
+China,Meteorological,9,9
+Indonesia,Meteorological,9,9
+Oman,Meteorological,9,9
+Kyrgyzstan,Hydrological,8,8
+Thailand,Climatological,8,8
+Cambodia,Meteorological,8,8
+North Korea,Meteorological,8,8
+Indonesia,Biological,8,8
+Afghanistan,Meteorological,8,8
+Afghanistan,Meteorological,7,7
+Nepal,Meteorological,7,7
+Nepal,Geophysical,7,7
+Lebanon,Meteorological,7,7
+Mongolia,Meteorological,7,7
+South Korea,Climatological,7,7
+Yemen,Meteorological,7,7
+Indonesia,Climatological,6,6
+Turkey,Hydrological,6,6
+Turkey,Meteorological,6,6
+Oman,Hydrological,6,6
+Sri Lanka,Biological,6,6
+Kyrgyzstan,Hydrological,6,6
+Kyrgyzstan,Geophysical,6,6
+Syria,Meteorological,6,6
+Afghanistan,Climatological,6,6
+Bangladesh,Hydrological,6,6
+Bangladesh,Geophysical,6,6
+Armenia,Meteorological,6,6
+Timor-Leste,Hydrological,5,5
+Taiwan,Hydrological,5,5
+China,Climatological,5,5
+Turkey,Climatological,5,5
+Myanmar,Geophysical,5,5
+Sri Lanka,Climatological,5,5
+Syria,Hydrological,5,5
+Malaysia,Meteorological,5,5
+Cyprus,Meteorological,5,5
+Vietnam,Hydrological,5,5
+Nepal,Meteorological,5,5
+Vietnam,Climatological,5,5
+India,Climatological,5,5
+Syria,Climatological,4,4
+Palestine,Meteorological,4,4
+Thailand,Biological,4,4
+Georgia,Meteorological,4,4
+Thailand,Geophysical,4,4
+Syria,Climatological,4,4
+Sri Lanka,Hydrological,4,4
+Israel,Climatological,4,4
+Vietnam,Biological,4,4
+Philippines,Climatological,4,4
+Israel,Meteorological,4,4
+Cambodia,Climatological,4,4
+Malaysia,Biological,4,4
+Iraq,Biological,4,4
+Japan,Hydrological,4,4
+South Korea,Meteorological,4,4
+Bhutan,Geophysical,3,3
+Malaysia,Hydrological,3,3
+Bhutan,Hydrological,3,3
+Nepal,Climatological,3,3
+China,Biological,3,3
+China,Geophysical,3,3
+North Korea,Climatological,3,3
+Cyprus,Climatological,3,3
+Saudi Arabia,Biological,3,3
+Palestine,Hydrological,3,3
+Thailand,Meteorological,3,3
+Lao PDR,Biological,3,3
+Tajikistan,Biological,3,3
+Tajikistan,Meteorological,3,3
+Israel,Hydrological,3,3
+Timor-Leste,Biological,3,3
+Uzbekistan,Hydrological,3,3
+Kyrgyzstan,Meteorological,3,3
+Kyrgyzstan,Biological,3,3
+Azerbaijan,Hydrological,3,3
+Japan,Geophysical,3,3
+Azerbaijan,Geophysical,3,3
+Japan,Climatological,3,3
+Iraq,Meteorological,3,3
+Macao,Meteorological,3,3
+United Arab Emirates,Hydrological,3,3
+India,Climatological,3,3
+Yemen,Hydrological,3,3
+Indonesia,Climatological,3,3
+Syria,Geophysical,3,3
+Nepal,Climatological,2,2
+Cyprus,Meteorological,2,2
+Armenia,Hydrological,2,2
+Singapore,Biological,2,2
+Thailand,Hydrological,2,2
+Timor-Leste,Meteorological,2,2
+Palestine,Meteorological,2,2
+Timor-Leste,Climatological,2,2
+Tajikistan,Climatological,2,2
+North Korea,Biological,2,2
+Cambodia,Biological,2,2
+Myanmar,Biological,2,2
+Myanmar,Meteorological,2,2
+Kyrgyzstan,Meteorological,2,2
+Kazakhstan,Meteorological,2,2
+Kazakhstan,Geophysical,2,2
+Jordan,Hydrological,2,2
+Jordan,Meteorological,2,2
+Lebanon,Climatological,2,2
+Georgia,Geophysical,2,2
+Lebanon,Meteorological,2,2
+Maldives,Biological,2,2
+Maldives,Hydrological,2,2
+South Korea,Biological,2,2
+South Korea,Geophysical,2,2
+Hong Kong,Hydrological,2,2
+India,Climatological,2,2
+Iran,Hydrological,2,2
+Malaysia,Geophysical,2,2
+Tajikistan,Meteorological,1,1
+Kuwait,Hydrological,1,1
+Lao PDR,Meteorological,1,1
+Lao PDR,Climatological,1,1
+Lao PDR,Geophysical,1,1
+Thailand,Climatological,1,1
+Lebanon,Biological,1,1
+India,Geophysical,1,1
+Turkmenistan,Geophysical,1,1
+Timor-Leste,Geophysical,1,1
+South Korea,Hydrological,1,1
+Yemen,Geophysical,1,1
+Iran,Climatological,1,1
+Georgia,Hydrological,1,1
+Lebanon,Hydrological,1,1
+Sri Lanka,Geophysical,1,1
+Syria,Biological,1,1
+Syria,Hydrological,1,1
+Georgia,Climatological,1,1
+South Korea,Climatological,1,1
+Israel,Meteorological,1,1
+Kazakhstan,Climatological,1,1
+Iraq,Climatological,1,1
+Iraq,Geophysical,1,1
+Vietnam,Meteorological,1,1
+Jordan,Meteorological,1,1
+Israel,Biological,1,1
+Jordan,Climatological,1,1
+Kazakhstan,Biological,1,1
+Armenia,Hydrological,1,1
+Uzbekistan,Climatological,1,1
+Uzbekistan,Geophysical,1,1
+Uzbekistan,Hydrological,1,1
+Armenia,Meteorological,1,1
+Iran,Climatological,1,1
+Armenia,Climatological,1,1
+Bangladesh,Climatological,1,1
+Turkey,Biological,1,1
+Cambodia,Meteorological,1,1
+Iran,Biological,1,1
+Iran,Biological,1,1
+Vietnam,Climatological,1,1
+Taiwan,Meteorological,1,1
+Kyrgyzstan,Climatological,1,1
+Azerbaijan,Hydrological,1,1
+Kazakhstan,Climatological,1,1
+Azerbaijan,Meteorological,1,1
+Kazakhstan,Hydrological,1,1
+Azerbaijan,Climatological,1,1
+Malaysia,Climatological,1,1
+Philippines,Geophysical,1,1
+Philippines,Meteorological,1,1
+Malaysia,Climatological,1,1
+China,Biological,1,1
+Mongolia,Hydrological,1,1
+North Korea,Meteorological,1,1
+Nepal,Climatological,1,1
+Cyprus,Climatological,1,1
+Cyprus,Hydrological,1,1
+Pakistan,Climatological,1,1
+Pakistan,Climatological,1,1
+Pakistan,Geophysical,1,1
+Pakistan,Biological,1,1
+China,Climatological,1,1
+Mongolia,Biological,1,1
+Maldives,Geophysical,1,1
+Mongolia,Climatological,1,1
+Maldives,Meteorological,1,1
+Qatar,Hydrological,1,1
+Myanmar,Geophysical,1,1
+Bhutan,Meteorological,1,1
+Saudi Arabia,Meteorological,1,1
+Saudi Arabia,Meteorological,1,1

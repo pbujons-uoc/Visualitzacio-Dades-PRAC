@@ -1,0 +1,264 @@
+Country,disaster,disaster_count,color_intensity
+Dem. Rep. Congo,Biological,65,65
+Nigeria,Hydrological,55,55
+Kenya,Hydrological,55,55
+Madagascar,Meteorological,52,52
+Nigeria,Biological,48,48
+Dem. Rep. Congo,Hydrological,45,45
+Angola,Hydrological,44,44
+South Africa,Hydrological,41,41
+Somalia,Hydrological,41,41
+Tanzania,Hydrological,39,39
+Ethiopia,Hydrological,38,38
+Uganda,Hydrological,36,36
+Malawi,Hydrological,35,35
+Algeria,Hydrological,33,33
+Mozambique,Hydrological,33,33
+Burundi,Hydrological,32,32
+Niger,Biological,30,30
+Niger,Hydrological,29,29
+Sudan,Hydrological,28,28
+Sudan,Biological,27,27
+Rwanda,Hydrological,27,27
+Uganda,Biological,27,27
+Kenya,Biological,27,27
+Mozambique,Meteorological,26,26
+South Africa,Meteorological,25,25
+Ghana,Hydrological,25,25
+Mali,Hydrological,23,23
+Ethiopia,Biological,23,23
+Somalia,Biological,22,22
+Zambia,Hydrological,22,22
+Mozambique,Biological,21,21
+Zimbabwe,Biological,21,21
+Tanzania,Biological,20,20
+Morocco,Hydrological,20,20
+Chad,Hydrological,19,19
+Benin,Biological,18,18
+Burkina Faso,Hydrological,18,18
+Chad,Biological,18,18
+Namibia,Hydrological,18,18
+Congo,Biological,17,17
+S. Sudan,Hydrological,17,17
+Senegal,Hydrological,16,16
+Cameroon,Hydrological,16,16
+Guinea,Hydrological,16,16
+Mauritania,Hydrological,16,16
+Central African Rep.,Hydrological,15,15
+Guinea,Biological,14,14
+Zambia,Biological,14,14
+Côte d'Ivoire,Hydrological,14,14
+Burkina Faso,Biological,14,14
+Malawi,Biological,13,13
+Angola,Biological,13,13
+Cameroon,Biological,13,13
+Congo,Hydrological,13,13
+Sierra Leone,Hydrological,12,12
+Uganda,Hydrological,12,12
+Dem. Rep. Congo,Hydrological,12,12
+Benin,Hydrological,12,12
+Zimbabwe,Hydrological,12,12
+Madagascar,Hydrological,11,11
+Mozambique,Climatological,11,11
+Ghana,Biological,11,11
+Somalia,Climatological,11,11
+Côte d'Ivoire,Biological,11,11
+Kenya,Climatological,10,10
+Gambia,Hydrological,10,10
+Togo,Hydrological,10,10
+Central African Rep.,Biological,10,10
+Burundi,Biological,10,10
+Central African Rep.,Meteorological,10,10
+Ethiopia,Climatological,9,9
+Réunion,Meteorological,9,9
+Botswana,Hydrological,9,9
+Mali,Biological,9,9
+Zimbabwe,Meteorological,9,9
+Malawi,Meteorological,9,9
+S. Sudan,Biological,9,9
+Tunisia,Hydrological,8,8
+Liberia,Biological,8,8
+Togo,Biological,8,8
+Tanzania,Meteorological,8,8
+Ethiopia,Hydrological,8,8
+South Africa,Climatological,8,8
+Madagascar,Climatological,8,8
+Niger,Climatological,8,8
+Malawi,Climatological,7,7
+Algeria,Geophysical,7,7
+Zimbabwe,Climatological,7,7
+Lesotho,Climatological,7,7
+Egypt,Hydrological,7,7
+Sierra Leone,Biological,7,7
+Morocco,Meteorological,7,7
+Mali,Climatological,7,7
+Burundi,Meteorological,7,7
+Tanzania,Geophysical,6,6
+South Africa,Biological,6,6
+Nigeria,Meteorological,6,6
+Namibia,Biological,6,6
+Namibia,Climatological,6,6
+Mauritius,Meteorological,6,6
+Mauritania,Climatological,6,6
+Madagascar,Biological,6,6
+Lesotho,Meteorological,6,6
+Liberia,Hydrological,6,6
+Somalia,Meteorological,6,6
+Kenya,Hydrological,6,6
+Senegal,Biological,6,6
+Djibouti,Climatological,6,6
+Cameroon,Hydrological,6,6
+Gambia,Meteorological,6,6
+Dem. Rep. Congo,Meteorological,6,6
+Angola,Climatological,6,6
+Uganda,Climatological,5,5
+Uganda,Meteorological,5,5
+Tanzania,Climatological,5,5
+Burkina Faso,Climatological,5,5
+Comoros,Meteorological,5,5
+Gabon,Biological,5,5
+Rwanda,Hydrological,5,5
+Rwanda,Biological,5,5
+Chad,Climatological,5,5
+Burundi,Climatological,5,5
+South Africa,Climatological,5,5
+Swaziland,Meteorological,4,4
+Sudan,Climatological,4,4
+Senegal,Climatological,4,4
+Zambia,Climatological,4,4
+Swaziland,Climatological,4,4
+Gabon,Meteorological,4,4
+Egypt,Meteorological,4,4
+Guinea-Bissau,Hydrological,4,4
+Comoros,Biological,4,4
+Algeria,Climatological,4,4
+Djibouti,Hydrological,3,3
+Botswana,Climatological,3,3
+Sudan,Meteorological,3,3
+Comoros,Geophysical,3,3
+Cape Verde,Climatological,3,3
+Cameroon,Climatological,3,3
+Dem. Rep. Congo,Geophysical,3,3
+Cape Verde,Hydrological,3,3
+Dem. Rep. Congo,Climatological,3,3
+Algeria,Meteorological,3,3
+Libya,Hydrological,3,3
+Gambia,Climatological,3,3
+Burundi,Hydrological,3,3
+Guinea-Bissau,Biological,3,3
+Tanzania,Hydrological,3,3
+Swaziland,Hydrological,3,3
+Morocco,Meteorological,3,3
+S. Sudan,Climatological,3,3
+Comoros,Hydrological,2,2
+South Africa,Meteorological,2,2
+South Africa,Geophysical,2,2
+Cape Verde,Biological,2,2
+Central African Rep.,Climatological,2,2
+Rwanda,Geophysical,2,2
+Botswana,Meteorological,2,2
+Seychelles,Meteorological,2,2
+Rwanda,Meteorological,2,2
+Seychelles,Biological,2,2
+Botswana,Biological,2,2
+São Tomé and Principe,Biological,2,2
+Sudan,Biological,2,2
+Sierra Leone,Hydrological,2,2
+Sierra Leone,Climatological,2,2
+Tunisia,Climatological,2,2
+Tanzania,Biological,2,2
+Dem. Rep. Congo,Geophysical,2,2
+Côte d'Ivoire,Hydrological,2,2
+Benin,Meteorological,2,2
+Guinea-Bissau,Climatological,2,2
+Ethiopia,Geophysical,2,2
+Gambia,Biological,2,2
+Eritrea,Hydrological,2,2
+Guinea-Bissau,Meteorological,2,2
+Egypt,Meteorological,2,2
+Eq. Guinea,Biological,2,2
+Lesotho,Hydrological,2,2
+Djibouti,Biological,2,2
+Morocco,Geophysical,2,2
+Ethiopia,Geophysical,2,2
+Malawi,Geophysical,2,2
+Gabon,Hydrological,2,2
+Algeria,Meteorological,2,2
+Nigeria,Hydrological,2,2
+Ghana,Meteorological,1,1
+Guinea,Hydrological,1,1
+Guinea,Meteorological,1,1
+Guinea,Climatological,1,1
+Seychelles,Geophysical,1,1
+Seychelles,Hydrological,1,1
+Angola,Hydrological,1,1
+Zambia,Hydrological,1,1
+Libya,Meteorological,1,1
+Liberia,Meteorological,1,1
+Liberia,Biological,1,1
+Chad,Biological,1,1
+Chad,Hydrological,1,1
+Chad,Meteorological,1,1
+Eq. Guinea,Hydrological,1,1
+Uganda,Biological,1,1
+Burkina Faso,Biological,1,1
+Benin,Climatological,1,1
+Burundi,Geophysical,1,1
+Gambia,Biological,1,1
+Kenya,Biological,1,1
+Swaziland,Climatological,1,1
+Kenya,Geophysical,1,1
+Uganda,Geophysical,1,1
+Mauritius,Biological,1,1
+Mauritius,Hydrological,1,1
+Comoros,Geophysical,1,1
+Malawi,Hydrological,1,1
+Mauritania,Meteorological,1,1
+Congo,Meteorological,1,1
+Eritrea,Climatological,1,1
+Mozambique,Geophysical,1,1
+Egypt,Geophysical,1,1
+Mozambique,Hydrological,1,1
+Egypt,Biological,1,1
+Dem. Rep. Congo,Climatological,1,1
+Mozambique,Climatological,1,1
+Egypt,Geophysical,1,1
+Mauritania,Biological,1,1
+Mauritania,Biological,1,1
+Mayotte,Meteorological,1,1
+Eritrea,Biological,1,1
+Nigeria,Biological,1,1
+Algeria,Biological,1,1
+Djibouti,Meteorological,1,1
+Djibouti,Biological,1,1
+Nigeria,Meteorological,1,1
+Cape Verde,Biological,1,1
+Cape Verde,Meteorological,1,1
+Niger,Biological,1,1
+Cape Verde,Geophysical,1,1
+Niger,Biological,1,1
+Niger,Meteorological,1,1
+Nigeria,Climatological,1,1
+Swaziland,Biological,1,1
+Somalia,Biological,1,1
+Morocco,Biological,1,1
+Somalia,Geophysical,1,1
+Morocco,Hydrological,1,1
+Madagascar,Biological,1,1
+Madagascar,Geophysical,1,1
+Sierra Leone,Meteorological,1,1
+Lesotho,Biological,1,1
+São Tomé and Principe,Hydrological,1,1
+S. Sudan,Climatological,1,1
+St. Helena,Meteorological,1,1
+Mali,Biological,1,1
+Réunion,Biological,1,1
+Ethiopia,Biological,1,1
+Central African Rep.,Climatological,1,1
+Rwanda,Climatological,1,1
+Senegal,Meteorological,1,1
+Senegal,Biological,1,1
+Ethiopia,Climatological,1,1
+Sudan,Meteorological,1,1
+Rwanda,Geophysical,1,1
+Ethiopia,Meteorological,1,1

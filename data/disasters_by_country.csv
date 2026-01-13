@@ -1,0 +1,1001 @@
+ISO,Country Name,Region,Disaster Type,Disaster Subgroup,Disaster_Count
+USA,United States,North America,Storm,Meteorological,380
+CHN,China,Asia,Flood,Hydrological,224
+CHN,China,Asia,Storm,Meteorological,218
+IDN,Indonesia,Asia,Flood,Hydrological,215
+PHL,Philippines,Asia,Storm,Meteorological,208
+IND,India,Asia,Flood,Hydrological,205
+USA,United States,North America,Flood,Hydrological,123
+BRA,Brazil,South America,Flood,Hydrological,117
+CHN,China,Asia,Earthquake,Geophysical,114
+PHL,Philippines,Asia,Flood,Hydrological,109
+IND,India,Asia,Storm,Meteorological,107
+VNM,Vietnam,Asia,Storm,Meteorological,102
+JPN,Japan,Asia,Storm,Meteorological,94
+AFG,Afghanistan,Asia,Flood,Hydrological,91
+PAK,Pakistan,Asia,Flood,Hydrological,90
+VNM,Vietnam,Asia,Flood,Hydrological,85
+USA,United States,North America,Wildfire,Climatological,84
+IDN,Indonesia,Asia,Earthquake,Geophysical,82
+MEX,Mexico,South America,Storm,Meteorological,82
+COL,Colombia,South America,Flood,Hydrological,77
+THA,Thailand,Asia,Flood,Hydrological,76
+BGD,Bangladesh,Asia,Storm,Meteorological,72
+MYS,Malaysia,Asia,Flood,Hydrological,68
+COD,Dem. Rep. Congo,Africa,Epidemic,Biological,65
+CHN,China,Asia,Mass Movement,Hydrological,62
+IDN,Indonesia,Asia,Mass Movement,Hydrological,60
+TWN,Taiwan,Asia,Storm,Meteorological,58
+IRN,Iran,Asia,Earthquake,Geophysical,55
+RUS,Russia,Europe,Flood,Hydrological,55
+NGA,Nigeria,Africa,Flood,Hydrological,55
+KEN,Kenya,Africa,Flood,Hydrological,55
+PER,Peru,South America,Flood,Hydrological,53
+LKA,Sri Lanka,Asia,Flood,Hydrological,53
+MDG,Madagascar,Africa,Storm,Meteorological,52
+FRA,France,Europe,Storm,Meteorological,51
+MEX,Mexico,South America,Flood,Hydrological,50
+AUS,Australia,Oceania,Flood,Hydrological,49
+HTI,Haiti,South America,Flood,Hydrological,49
+AUS,Australia,Oceania,Storm,Meteorological,48
+NGA,Nigeria,Africa,Epidemic,Biological,48
+IRN,Iran,Asia,Flood,Hydrological,46
+BGD,Bangladesh,Asia,Flood,Hydrological,46
+COD,Dem. Rep. Congo,Africa,Flood,Hydrological,45
+BOL,Bolivia,South America,Flood,Hydrological,45
+AGO,Angola,Africa,Flood,Hydrological,44
+ROU,Romania,Europe,Flood,Hydrological,44
+ARG,Argentina,South America,Flood,Hydrological,43
+FRA,France,Europe,Flood,Hydrological,43
+ZAF,South Africa,Africa,Flood,Hydrological,41
+SOM,Somalia,Africa,Flood,Hydrological,41
+TZA,Tanzania,Africa,Flood,Hydrological,39
+NPL,Nepal,Asia,Flood,Hydrological,38
+ETH,Ethiopia,Africa,Flood,Hydrological,38
+YEM,Yemen,Asia,Flood,Hydrological,37
+THA,Thailand,Asia,Storm,Meteorological,37
+ITA,Italy,Europe,Flood,Hydrological,36
+UGA,Uganda,Africa,Flood,Hydrological,36
+MWI,Malawi,Africa,Flood,Hydrological,35
+IND,India,Asia,Extreme Temperature,Meteorological,35
+HTI,Haiti,South America,Storm,Meteorological,34
+CUB,Cuba,South America,Storm,Meteorological,34
+DEU,Germany,Europe,Storm,Meteorological,34
+TUR,Turkey,Asia,Earthquake,Geophysical,33
+DZA,Algeria,Africa,Flood,Hydrological,33
+IDN,Indonesia,Asia,Volcanic Activity,Geophysical,33
+IND,India,Asia,Mass Movement,Hydrological,33
+MOZ,Mozambique,Africa,Flood,Hydrological,33
+CAN,Canada,North America,Flood,Hydrological,33
+BDI,Burundi,Africa,Flood,Hydrological,32
+KOR,South Korea,Asia,Storm,Meteorological,32
+DOM,Dominican Rep.,South America,Storm,Meteorological,32
+JPN,Japan,Asia,Earthquake,Geophysical,31
+TUR,Turkey,Asia,Flood,Hydrological,31
+VEN,Venezuela,South America,Flood,Hydrological,31
+MMR,Myanmar,Asia,Flood,Hydrological,30
+GTM,Guatemala,South America,Flood,Hydrological,30
+NER,Niger,Africa,Epidemic,Biological,30
+NER,Niger,Africa,Flood,Hydrological,29
+ECU,Ecuador,South America,Flood,Hydrological,29
+PAN,Panama,South America,Flood,Hydrological,29
+CAN,Canada,North America,Storm,Meteorological,28
+JPN,Japan,Asia,Flood,Hydrological,28
+SDN,Sudan,Africa,Flood,Hydrological,28
+GBR,United Kingdom,Europe,Flood,Hydrological,28
+TJK,Tajikistan,Asia,Flood,Hydrological,28
+SDN,Sudan,Africa,Epidemic,Biological,27
+CHN,China,Asia,Drought,Climatological,27
+GBR,United Kingdom,Europe,Storm,Meteorological,27
+RWA,Rwanda,Africa,Flood,Hydrological,27
+UGA,Uganda,Africa,Epidemic,Biological,27
+KEN,Kenya,Africa,Epidemic,Biological,27
+PHL,Philippines,Asia,Earthquake,Geophysical,27
+MOZ,Mozambique,Africa,Storm,Meteorological,26
+DOM,Dominican Rep.,South America,Flood,Hydrological,26
+CHL,Chile,South America,Flood,Hydrological,26
+IND,India,Asia,Epidemic,Biological,25
+AUS,Australia,Oceania,Wildfire,Climatological,25
+ZAF,South Africa,Africa,Storm,Meteorological,25
+GHA,Ghana,Africa,Flood,Hydrological,25
+COL,Colombia,South America,Mass Movement,Hydrological,25
+ESP,Spain,Europe,Flood,Hydrological,24
+ITA,Italy,Europe,Storm,Meteorological,24
+BGR,Bulgaria,Europe,Flood,Hydrological,24
+MLI,Mali,Africa,Flood,Hydrological,23
+HND,Honduras,South America,Flood,Hydrological,23
+ETH,Ethiopia,Africa,Epidemic,Biological,23
+AFG,Afghanistan,Asia,Mass Movement,Hydrological,23
+POL,Poland,Europe,Storm,Meteorological,22
+PRK,North Korea,Asia,Flood,Hydrological,22
+SOM,Somalia,Africa,Epidemic,Biological,22
+AFG,Afghanistan,Asia,Earthquake,Geophysical,22
+SAU,Saudi Arabia,Asia,Flood,Hydrological,22
+GRC,Greece,Europe,Flood,Hydrological,22
+ZMB,Zambia,Africa,Flood,Hydrological,22
+MOZ,Mozambique,Africa,Epidemic,Biological,21
+PER,Peru,South America,Earthquake,Geophysical,21
+ZWE,Zimbabwe,Africa,Epidemic,Biological,21
+CRI,Costa Rica,South America,Flood,Hydrological,21
+GTM,Guatemala,South America,Storm,Meteorological,21
+BIH,Bosnia and Herz.,Europe,Flood,Hydrological,21
+KHM,Cambodia,Asia,Flood,Hydrological,21
+KOR,South Korea,Asia,Flood,Hydrological,21
+NIC,Nicaragua,South America,Storm,Meteorological,20
+HND,Honduras,South America,Storm,Meteorological,20
+TZA,Tanzania,Africa,Epidemic,Biological,20
+SRB,Serbia,Europe,Flood,Hydrological,20
+MAR,Morocco,Africa,Flood,Hydrological,20
+FJI,Fiji,Oceania,Storm,Meteorological,20
+URY,Uruguay,South America,Flood,Hydrological,20
+PAK,Pakistan,Asia,Storm,Meteorological,20
+BRA,Brazil,South America,Storm,Meteorological,20
+JAM,Jamaica,South America,Storm,Meteorological,19
+POL,Poland,Europe,Extreme Temperature,Meteorological,19
+FRA,France,Europe,Extreme Temperature,Meteorological,19
+LAO,Lao PDR,Asia,Flood,Hydrological,19
+ARG,Argentina,South America,Storm,Meteorological,19
+CHE,Switzerland,Europe,Storm,Meteorological,19
+ESP,Spain,Europe,Storm,Meteorological,19
+RUS,Russia,Europe,Wildfire,Climatological,19
+SLV,El Salvador,South America,Storm,Meteorological,19
+TCD,Chad,Africa,Flood,Hydrological,19
+ROU,Romania,Europe,Extreme Temperature,Meteorological,18
+BEN,Benin,Africa,Epidemic,Biological,18
+PHL,Philippines,Asia,Volcanic Activity,Geophysical,18
+BFA,Burkina Faso,Africa,Flood,Hydrological,18
+RUS,Russia,Europe,Storm,Meteorological,18
+JPN,Japan,Asia,Extreme Temperature,Meteorological,18
+TCD,Chad,Africa,Epidemic,Biological,18
+NAM,Namibia,Africa,Flood,Hydrological,18
+PAK,Pakistan,Asia,Earthquake,Geophysical,18
+AFG,Afghanistan,Asia,Epidemic,Biological,17
+COG,Congo,Africa,Epidemic,Biological,17
+PHL,Philippines,Asia,Mass Movement,Hydrological,17
+USA,United States,North America,Extreme Temperature,Meteorological,17
+GEO,Georgia,Asia,Flood,Hydrological,17
+NZL,New Zealand,Oceania,Flood,Hydrological,17
+PRY,Paraguay,South America,Flood,Hydrological,17
+LKA,Sri Lanka,Asia,Storm,Meteorological,17
+NPL,Nepal,Asia,Mass Movement,Hydrological,17
+SSD,S. Sudan,Africa,Flood,Hydrological,17
+CHL,Chile,South America,Wildfire,Climatological,17
+SEN,Senegal,Africa,Flood,Hydrological,16
+IRQ,Iraq,Asia,Flood,Hydrological,16
+USA,United States,North America,Drought,Climatological,16
+CMR,Cameroon,Africa,Flood,Hydrological,16
+BEL,Belgium,Europe,Storm,Meteorological,16
+BHS,Bahamas,South America,Storm,Meteorological,16
+HKG,Hong Kong,Asia,Storm,Meteorological,16
+GIN,Guinea,Africa,Flood,Hydrological,16
+MRT,Mauritania,Africa,Flood,Hydrological,16
+NIC,Nicaragua,South America,Flood,Hydrological,16
+BEL,Belgium,Europe,Extreme Temperature,Meteorological,15
+PAK,Pakistan,Asia,Mass Movement,Hydrological,15
+PNG,Papua New Guinea,Oceania,Flood,Hydrological,15
+CAN,Canada,North America,Wildfire,Climatological,15
+BGD,Bangladesh,Asia,Extreme Temperature,Meteorological,15
+DEU,Germany,Europe,Extreme Temperature,Meteorological,15
+CAF,Central African Rep.,Africa,Flood,Hydrological,15
+TJK,Tajikistan,Asia,Earthquake,Geophysical,14
+CZE,Czech Rep.,Europe,Flood,Hydrological,14
+GIN,Guinea,Africa,Epidemic,Biological,14
+HRV,Croatia,Europe,Flood,Hydrological,14
+KAZ,Kazakhstan,Asia,Flood,Hydrological,14
+PER,Peru,South America,Mass Movement,Hydrological,14
+ZMB,Zambia,Africa,Epidemic,Biological,14
+NLD,Netherlands,Europe,Storm,Meteorological,14
+CIV,Côte d'Ivoire,Africa,Flood,Hydrological,14
+BFA,Burkina Faso,Africa,Epidemic,Biological,14
+MWI,Malawi,Africa,Epidemic,Biological,13
+PRI,Puerto Rico,South America,Storm,Meteorological,13
+PAK,Pakistan,Asia,Extreme Temperature,Meteorological,13
+PNG,Papua New Guinea,Oceania,Mass Movement,Hydrological,13
+GBR,United Kingdom,Europe,Extreme Temperature,Meteorological,13
+BRA,Brazil,South America,Drought,Climatological,13
+MMR,Myanmar,Asia,Storm,Meteorological,13
+ITA,Italy,Europe,Extreme Temperature,Meteorological,13
+AGO,Angola,Africa,Epidemic,Biological,13
+MEX,Mexico,South America,Earthquake,Geophysical,13
+PRT,Portugal,Europe,Wildfire,Climatological,13
+CMR,Cameroon,Africa,Epidemic,Biological,13
+COG,Congo,Africa,Flood,Hydrological,13
+NZL,New Zealand,Oceania,Storm,Meteorological,12
+CZE,Czech Rep.,Europe,Storm,Meteorological,12
+DEU,Germany,Europe,Flood,Hydrological,12
+UKR,Ukraine,Europe,Flood,Hydrological,12
+SLE,Sierra Leone,Africa,Flood,Hydrological,12
+ITA,Italy,Europe,Earthquake,Geophysical,12
+UGA,Uganda,Africa,Mass Movement,Hydrological,12
+AUT,Austria,Europe,Storm,Meteorological,12
+PNG,Papua New Guinea,Oceania,Earthquake,Geophysical,12
+COD,Dem. Rep. Congo,Africa,Mass Movement,Hydrological,12
+ESP,Spain,Europe,Wildfire,Climatological,12
+ALB,Albania,Europe,Flood,Hydrological,12
+IRN,Iran,Asia,Storm,Meteorological,12
+RUS,Russia,Europe,Extreme Temperature,Meteorological,12
+BEN,Benin,Africa,Flood,Hydrological,12
+ZWE,Zimbabwe,Africa,Flood,Hydrological,12
+VUT,Vanuatu,Oceania,Storm,Meteorological,12
+SLV,El Salvador,South America,Flood,Hydrological,12
+IRL,Ireland,Europe,Storm,Meteorological,11
+GTM,Guatemala,South America,Mass Movement,Hydrological,11
+ECU,Ecuador,South America,Volcanic Activity,Geophysical,11
+GRC,Greece,Europe,Wildfire,Climatological,11
+GRC,Greece,Europe,Earthquake,Geophysical,11
+IND,India,Asia,Earthquake,Geophysical,11
+MDG,Madagascar,Africa,Flood,Hydrological,11
+MMR,Myanmar,Asia,Mass Movement,Hydrological,11
+MNG,Mongolia,Asia,Flood,Hydrological,11
+MOZ,Mozambique,Africa,Drought,Climatological,11
+GHA,Ghana,Africa,Epidemic,Biological,11
+HUN,Hungary,Europe,Flood,Hydrological,11
+BLZ,Belize,South America,Storm,Meteorological,11
+SOM,Somalia,Africa,Drought,Climatological,11
+SRB,Serbia,Europe,Extreme Temperature,Meteorological,11
+USA,United States,North America,Earthquake,Geophysical,11
+BGR,Bulgaria,Europe,Extreme Temperature,Meteorological,11
+PAK,Pakistan,Asia,Epidemic,Biological,11
+CUB,Cuba,South America,Flood,Hydrological,11
+SVK,Slovakia,Europe,Flood,Hydrological,11
+NLD,Netherlands,Europe,Extreme Temperature,Meteorological,11
+PHL,Philippines,Asia,Epidemic,Biological,11
+CIV,Côte d'Ivoire,Africa,Epidemic,Biological,11
+COL,Colombia,South America,Storm,Meteorological,11
+SLB,Solomon Is.,Oceania,Storm,Meteorological,10
+PER,Peru,South America,Extreme Temperature,Meteorological,10
+MKD,Macedonia,Europe,Flood,Hydrological,10
+KEN,Kenya,Africa,Drought,Climatological,10
+MNG,Mongolia,Asia,Storm,Meteorological,10
+GMB,Gambia,Africa,Flood,Hydrological,10
+AUT,Austria,Europe,Flood,Hydrological,10
+TGO,Togo,Africa,Flood,Hydrological,10
+TWN,Taiwan,Asia,Earthquake,Geophysical,10
+TJK,Tajikistan,Asia,Mass Movement,Hydrological,10
+ROU,Romania,Europe,Storm,Meteorological,10
+BGD,Bangladesh,Asia,Epidemic,Biological,10
+CAF,Central African Rep.,Africa,Epidemic,Biological,10
+NPL,Nepal,Asia,Epidemic,Biological,10
+BDI,Burundi,Africa,Epidemic,Biological,10
+TUR,Turkey,Asia,Storm,Meteorological,10
+CAF,Central African Rep.,Africa,Storm,Meteorological,10
+POL,Poland,Europe,Flood,Hydrological,10
+HND,Honduras,South America,Drought,Climatological,9
+ETH,Ethiopia,Africa,Drought,Climatological,9
+LAO,Lao PDR,Asia,Storm,Meteorological,9
+YEM,Yemen,Asia,Epidemic,Biological,9
+CHN,China,Asia,Extreme Temperature,Meteorological,9
+PRT,Portugal,Europe,Extreme Temperature,Meteorological,9
+REU,Réunion,Africa,Storm,Meteorological,9
+BWA,Botswana,Africa,Flood,Hydrological,9
+MLI,Mali,Africa,Epidemic,Biological,9
+ZWE,Zimbabwe,Africa,Storm,Meteorological,9
+AUT,Austria,Europe,Extreme Temperature,Meteorological,9
+IDN,Indonesia,Asia,Storm,Meteorological,9
+BEL,Belgium,Europe,Flood,Hydrological,9
+CZE,Czech Rep.,Europe,Extreme Temperature,Meteorological,9
+TON,Tonga,Oceania,Storm,Meteorological,9
+GTM,Guatemala,South America,Earthquake,Geophysical,9
+MWI,Malawi,Africa,Storm,Meteorological,9
+OMN,Oman,Asia,Storm,Meteorological,9
+VUT,Vanuatu,Oceania,Volcanic Activity,Geophysical,9
+ESP,Spain,Europe,Extreme Temperature,Meteorological,9
+SSD,S. Sudan,Africa,Epidemic,Biological,9
+HUN,Hungary,Europe,Extreme Temperature,Meteorological,9
+UKR,Ukraine,Europe,Extreme Temperature,Meteorological,8
+BOL,Bolivia,South America,Drought,Climatological,8
+VCT,St. Vin. and Gren.,South America,Storm,Meteorological,8
+CHE,Switzerland,Europe,Extreme Temperature,Meteorological,8
+TUN,Tunisia,Africa,Flood,Hydrological,8
+KGZ,Kyrgyzstan,Asia,Mass Movement,Hydrological,8
+THA,Thailand,Asia,Drought,Climatological,8
+SVK,Slovakia,Europe,Extreme Temperature,Meteorological,8
+LBR,Liberia,Africa,Epidemic,Biological,8
+GRC,Greece,Europe,Storm,Meteorological,8
+TGO,Togo,Africa,Epidemic,Biological,8
+KHM,Cambodia,Asia,Storm,Meteorological,8
+TZA,Tanzania,Africa,Storm,Meteorological,8
+UKR,Ukraine,Europe,Storm,Meteorological,8
+BRA,Brazil,South America,Mass Movement,Hydrological,8
+CHL,Chile,South America,Earthquake,Geophysical,8
+PNG,Papua New Guinea,Oceania,Volcanic Activity,Geophysical,8
+PRY,Paraguay,South America,Epidemic,Biological,8
+HTI,Haiti,South America,Epidemic,Biological,8
+COL,Colombia,South America,Earthquake,Geophysical,8
+LTU,Lithuania,Europe,Extreme Temperature,Meteorological,8
+PRK,North Korea,Asia,Storm,Meteorological,8
+ETH,Ethiopia,Africa,Mass Movement,Hydrological,8
+PRT,Portugal,Europe,Storm,Meteorological,8
+MEX,Mexico,South America,Mass Movement,Hydrological,8
+HRV,Croatia,Europe,Extreme Temperature,Meteorological,8
+ECU,Ecuador,South America,Mass Movement,Hydrological,8
+ZAF,South Africa,Africa,Wildfire,Climatological,8
+ECU,Ecuador,South America,Earthquake,Geophysical,8
+CRI,Costa Rica,South America,Storm,Meteorological,8
+IDN,Indonesia,Asia,Epidemic,Biological,8
+AFG,Afghanistan,Asia,Storm,Meteorological,8
+PRY,Paraguay,South America,Storm,Meteorological,8
+MDG,Madagascar,Africa,Drought,Climatological,8
+NER,Niger,Africa,Drought,Climatological,8
+COL,Colombia,South America,Volcanic Activity,Geophysical,8
+CYM,Cayman Is.,South America,Storm,Meteorological,7
+MWI,Malawi,Africa,Drought,Climatological,7
+AFG,Afghanistan,Asia,Extreme Temperature,Meteorological,7
+DZA,Algeria,Africa,Earthquake,Geophysical,7
+NPL,Nepal,Asia,Extreme Temperature,Meteorological,7
+GRC,Greece,Europe,Extreme Temperature,Meteorological,7
+ZWE,Zimbabwe,Africa,Drought,Climatological,7
+GUY,Guyana,South America,Flood,Hydrological,7
+NPL,Nepal,Asia,Earthquake,Geophysical,7
+DNK,Denmark,Europe,Storm,Meteorological,7
+LSO,Lesotho,Africa,Drought,Climatological,7
+EGY,Egypt,Africa,Flood,Hydrological,7
+SLE,Sierra Leone,Africa,Epidemic,Biological,7
+LVA,Latvia,Europe,Extreme Temperature,Meteorological,7
+MAR,Morocco,Africa,Extreme Temperature,Meteorological,7
+RUS,Russia,Europe,Earthquake,Geophysical,7
+BRB,Barbados,South America,Storm,Meteorological,7
+CHL,Chile,South America,Extreme Temperature,Meteorological,7
+LBN,Lebanon,Asia,Storm,Meteorological,7
+MNG,Mongolia,Asia,Extreme Temperature,Meteorological,7
+FJI,Fiji,Oceania,Flood,Hydrological,7
+MEX,Mexico,South America,Extreme Temperature,Meteorological,7
+BOL,Bolivia,South America,Wildfire,Climatological,7
+KOR,South Korea,Asia,Wildfire,Climatological,7
+YEM,Yemen,Asia,Storm,Meteorological,7
+MLI,Mali,Africa,Drought,Climatological,7
+BDI,Burundi,Africa,Storm,Meteorological,7
+URY,Uruguay,South America,Storm,Meteorological,6
+IDN,Indonesia,Asia,Wildfire,Climatological,6
+TZA,Tanzania,Africa,Earthquake,Geophysical,6
+ZAF,South Africa,Africa,Epidemic,Biological,6
+NGA,Nigeria,Africa,Storm,Meteorological,6
+TUR,Turkey,Asia,Mass Movement,Hydrological,6
+TUR,Turkey,Asia,Extreme Temperature,Meteorological,6
+NAM,Namibia,Africa,Epidemic,Biological,6
+NAM,Namibia,Africa,Drought,Climatological,6
+OMN,Oman,Asia,Flood,Hydrological,6
+MUS,Mauritius,Africa,Storm,Meteorological,6
+PAN,Panama,South America,Storm,Meteorological,6
+MRT,Mauritania,Africa,Drought,Climatological,6
+PNG,Papua New Guinea,Oceania,Epidemic,Biological,6
+PRI,Puerto Rico,South America,Flood,Hydrological,6
+PRT,Portugal,Europe,Flood,Hydrological,6
+MKD,Macedonia,Europe,Extreme Temperature,Meteorological,6
+PRY,Paraguay,South America,Drought,Climatological,6
+MDG,Madagascar,Africa,Epidemic,Biological,6
+LSO,Lesotho,Africa,Storm,Meteorological,6
+LKA,Sri Lanka,Asia,Epidemic,Biological,6
+LBR,Liberia,Africa,Flood,Hydrological,6
+SLV,El Salvador,South America,Earthquake,Geophysical,6
+SLV,El Salvador,South America,Epidemic,Biological,6
+SOM,Somalia,Africa,Storm,Meteorological,6
+KGZ,Kyrgyzstan,Asia,Flood,Hydrological,6
+KGZ,Kyrgyzstan,Asia,Earthquake,Geophysical,6
+KEN,Kenya,Africa,Mass Movement,Hydrological,6
+SVN,Slovenia,Europe,Flood,Hydrological,6
+SYR,Syria,Asia,Storm,Meteorological,6
+SEN,Senegal,Africa,Epidemic,Biological,6
+AFG,Afghanistan,Asia,Drought,Climatological,6
+DJI,Djibouti,Africa,Drought,Climatological,6
+ALB,Albania,Europe,Extreme Temperature,Meteorological,6
+ARG,Argentina,South America,Extreme Temperature,Meteorological,6
+BGD,Bangladesh,Asia,Mass Movement,Hydrological,6
+BGD,Bangladesh,Asia,Earthquake,Geophysical,6
+EST,Estonia,Europe,Extreme Temperature,Meteorological,6
+ARG,Argentina,South America,Wildfire,Climatological,6
+CMR,Cameroon,Africa,Mass Movement,Hydrological,6
+FRA,France,Europe,Wildfire,Climatological,6
+GMB,Gambia,Africa,Storm,Meteorological,6
+FSM,Micronesia,Oceania,Storm,Meteorological,6
+CHL,Chile,South America,Storm,Meteorological,6
+COD,Dem. Rep. Congo,Africa,Storm,Meteorological,6
+BLR,Belarus,Europe,Extreme Temperature,Meteorological,6
+ARM,Armenia,Asia,Storm,Meteorological,6
+AGO,Angola,Africa,Drought,Climatological,6
+BRA,Brazil,South America,Epidemic,Biological,6
+UGA,Uganda,Africa,Drought,Climatological,5
+TLS,Timor-Leste,Asia,Flood,Hydrological,5
+UGA,Uganda,Africa,Storm,Meteorological,5
+TZA,Tanzania,Africa,Drought,Climatological,5
+TWN,Taiwan,Asia,Flood,Hydrological,5
+CHN,China,Asia,Wildfire,Climatological,5
+TUR,Turkey,Asia,Wildfire,Climatological,5
+BFA,Burkina Faso,Africa,Drought,Climatological,5
+COM,Comoros,Africa,Storm,Meteorological,5
+ECU,Ecuador,South America,Epidemic,Biological,5
+SWE,Sweden,Europe,Storm,Meteorological,5
+CAN,Canada,North America,Extreme Temperature,Meteorological,5
+MMR,Myanmar,Asia,Earthquake,Geophysical,5
+BGR,Bulgaria,Europe,Wildfire,Climatological,5
+SLB,Solomon Is.,Oceania,Flood,Hydrological,5
+BOL,Bolivia,South America,Mass Movement,Hydrological,5
+BOL,Bolivia,South America,Epidemic,Biological,5
+SVK,Slovakia,Europe,Storm,Meteorological,5
+SVN,Slovenia,Europe,Extreme Temperature,Meteorological,5
+SVN,Slovenia,Europe,Storm,Meteorological,5
+GAB,Gabon,Africa,Epidemic,Biological,5
+RWA,Rwanda,Africa,Mass Movement,Hydrological,5
+LKA,Sri Lanka,Asia,Drought,Climatological,5
+LCA,St. Lucia,South America,Storm,Meteorological,5
+RWA,Rwanda,Africa,Epidemic,Biological,5
+RUS,Russia,Europe,Mass Movement,Hydrological,5
+SYR,Syria,Asia,Flood,Hydrological,5
+TCA,Turks and Caicos Is.,South America,Storm,Meteorological,5
+TCD,Chad,Africa,Drought,Climatological,5
+GTM,Guatemala,South America,Drought,Climatological,5
+RUS,Russia,Europe,Epidemic,Biological,5
+MYS,Malaysia,Asia,Storm,Meteorological,5
+BDI,Burundi,Africa,Drought,Climatological,5
+HUN,Hungary,Europe,Storm,Meteorological,5
+CYP,Cyprus,Asia,Extreme Temperature,Meteorological,5
+ITA,Italy,Europe,Drought,Climatological,5
+GUM,Guam,Oceania,Storm,Meteorological,5
+VEN,Venezuela,South America,Storm,Meteorological,5
+ZAF,South Africa,Africa,Drought,Climatological,5
+HRV,Croatia,Europe,Wildfire,Climatological,5
+GTM,Guatemala,South America,Volcanic Activity,Geophysical,5
+HND,Honduras,South America,Epidemic,Biological,5
+NZL,New Zealand,Oceania,Earthquake,Geophysical,5
+IRL,Ireland,Europe,Flood,Hydrological,5
+VNM,Vietnam,Asia,Mass Movement,Hydrological,5
+PER,Peru,South America,Epidemic,Biological,5
+DOM,Dominican Rep.,South America,Epidemic,Biological,5
+NPL,Nepal,Asia,Storm,Meteorological,5
+VNM,Vietnam,Asia,Drought,Climatological,5
+IND,India,Asia,Drought,Climatological,5
+SYR,Syria,Asia,Wildfire,Climatological,4
+ARG,Argentina,South America,Drought,Climatological,4
+PSE,Palestine,Asia,Storm,Meteorological,4
+BIH,Bosnia and Herz.,Europe,Extreme Temperature,Meteorological,4
+THA,Thailand,Asia,Epidemic,Biological,4
+WSM,Samoa,Oceania,Storm,Meteorological,4
+GEO,Georgia,Asia,Storm,Meteorological,4
+DMA,Dominica,South America,Storm,Meteorological,4
+BGR,Bulgaria,Europe,Storm,Meteorological,4
+CHE,Switzerland,Europe,Flood,Hydrological,4
+CHE,Switzerland,Europe,Mass Movement,Hydrological,4
+THA,Thailand,Asia,Earthquake,Geophysical,4
+SWZ,Swaziland,Africa,Storm,Meteorological,4
+NIC,Nicaragua,South America,Drought,Climatological,4
+SDN,Sudan,Africa,Drought,Climatological,4
+NOR,Norway,Europe,Flood,Hydrological,4
+SLV,El Salvador,South America,Drought,Climatological,4
+ALB,Albania,Europe,Earthquake,Geophysical,4
+SLB,Solomon Is.,Oceania,Earthquake,Geophysical,4
+HTI,Haiti,South America,Earthquake,Geophysical,4
+BOL,Bolivia,South America,Extreme Temperature,Meteorological,4
+NOR,Norway,Europe,Storm,Meteorological,4
+SEN,Senegal,Africa,Drought,Climatological,4
+SUR,Suriname,South America,Flood,Hydrological,4
+LUX,Luxembourg,Europe,Extreme Temperature,Meteorological,4
+SYR,Syria,Asia,Drought,Climatological,4
+ZMB,Zambia,Africa,Drought,Climatological,4
+ALB,Albania,Europe,Storm,Meteorological,4
+SWE,Sweden,Europe,Extreme Temperature,Meteorological,4
+SWZ,Swaziland,Africa,Drought,Climatological,4
+MHL,Marshall Is.,Oceania,Drought,Climatological,4
+GAB,Gabon,Africa,Storm,Meteorological,4
+LKA,Sri Lanka,Asia,Mass Movement,Hydrological,4
+MNE,Montenegro,Europe,Extreme Temperature,Meteorological,4
+NIC,Nicaragua,South America,Epidemic,Biological,4
+ITA,Italy,Europe,Mass Movement,Hydrological,4
+MDA,Moldova,Europe,Flood,Hydrological,4
+ISR,Israel,Asia,Wildfire,Climatological,4
+PNG,Papua New Guinea,Oceania,Storm,Meteorological,4
+PER,Peru,South America,Volcanic Activity,Geophysical,4
+URY,Uruguay,South America,Extreme Temperature,Meteorological,4
+VNM,Vietnam,Asia,Epidemic,Biological,4
+PHL,Philippines,Asia,Drought,Climatological,4
+PER,Peru,South America,Storm,Meteorological,4
+ISR,Israel,Asia,Storm,Meteorological,4
+EGY,Egypt,Africa,Storm,Meteorological,4
+MNP,N. Mariana Is.,Oceania,Storm,Meteorological,4
+GNB,Guinea-Bissau,Africa,Flood,Hydrological,4
+KHM,Cambodia,Asia,Drought,Climatological,4
+MYS,Malaysia,Asia,Epidemic,Biological,4
+GRD,Grenada,South America,Storm,Meteorological,4
+IRQ,Iraq,Asia,Epidemic,Biological,4
+COL,Colombia,South America,Epidemic,Biological,4
+JPN,Japan,Asia,Mass Movement,Hydrological,4
+GTM,Guatemala,South America,Extreme Temperature,Meteorological,4
+CHL,Chile,South America,Volcanic Activity,Geophysical,4
+COM,Comoros,Africa,Epidemic,Biological,4
+CRI,Costa Rica,South America,Earthquake,Geophysical,4
+GTM,Guatemala,South America,Epidemic,Biological,4
+KOR,South Korea,Asia,Extreme Temperature,Meteorological,4
+MNE,Montenegro,Europe,Flood,Hydrological,4
+DZA,Algeria,Africa,Wildfire,Climatological,4
+DJI,Djibouti,Africa,Flood,Hydrological,3
+CRI,Costa Rica,South America,Epidemic,Biological,3
+BWA,Botswana,Africa,Drought,Climatological,3
+FIN,Finland,Europe,Extreme Temperature,Meteorological,3
+SDN,Sudan,Africa,Storm,Meteorological,3
+COL,Colombia,South America,Wildfire,Climatological,3
+BTN,Bhutan,Asia,Earthquake,Geophysical,3
+COM,Comoros,Africa,Volcanic Activity,Geophysical,3
+MYS,Malaysia,Asia,Mass Movement,Hydrological,3
+CPV,Cape Verde,Africa,Drought,Climatological,3
+BTN,Bhutan,Asia,Flood,Hydrological,3
+COK,Cook Is.,Oceania,Storm,Meteorological,3
+PLW,Palau,Oceania,Storm,Meteorological,3
+NPL,Nepal,Asia,Drought,Climatological,3
+RUS,Russia,Europe,Drought,Climatological,3
+DNK,Denmark,Europe,Extreme Temperature,Meteorological,3
+PRY,Paraguay,South America,Extreme Temperature,Meteorological,3
+CUB,Cuba,South America,Drought,Climatological,3
+CHN,China,Asia,Epidemic,Biological,3
+CHN,China,Asia,Mass Movement,Geophysical,3
+PAN,Panama,South America,Drought,Climatological,3
+EST,Estonia,Europe,Storm,Meteorological,3
+CMR,Cameroon,Africa,Drought,Climatological,3
+PRK,North Korea,Asia,Drought,Climatological,3
+MKD,Macedonia,Europe,Wildfire,Climatological,3
+COD,Dem. Rep. Congo,Africa,Earthquake,Geophysical,3
+PER,Peru,South America,Drought,Climatological,3
+CPV,Cape Verde,Africa,Flood,Hydrological,3
+COD,Dem. Rep. Congo,Africa,Wildfire,Climatological,3
+CYP,Cyprus,Asia,Wildfire,Climatological,3
+SAU,Saudi Arabia,Asia,Epidemic,Biological,3
+PSE,Palestine,Asia,Flood,Hydrological,3
+MTQ,Martinique,South America,Storm,Meteorological,3
+DZA,Algeria,Africa,Extreme Temperature,Meteorological,3
+LBY,Libya,Africa,Flood,Hydrological,3
+NOR,Norway,Europe,Extreme Temperature,Meteorological,3
+AUS,Australia,Oceania,Drought,Climatological,3
+THA,Thailand,Asia,Extreme Temperature,Meteorological,3
+LAO,Lao PDR,Asia,Epidemic,Biological,3
+TJK,Tajikistan,Asia,Epidemic,Biological,3
+TJK,Tajikistan,Asia,Extreme Temperature,Meteorological,3
+ISR,Israel,Asia,Flood,Hydrological,3
+VEN,Venezuela,South America,Mass Movement,Hydrological,3
+VCT,St. Vin. and Gren.,South America,Flood,Hydrological,3
+TLS,Timor-Leste,Asia,Epidemic,Biological,3
+UZB,Uzbekistan,Asia,Flood,Hydrological,3
+ITA,Italy,Europe,Wildfire,Climatological,3
+USA,United States,North America,Mass Movement,Hydrological,3
+ATG,Antigua and Barb.,South America,Storm,Meteorological,3
+GLP,Guadeloupe,South America,Storm,Meteorological,3
+ISL,Iceland,Europe,Earthquake,Geophysical,3
+URY,Uruguay,South America,Drought,Climatological,3
+GMB,Gambia,Africa,Drought,Climatological,3
+KGZ,Kyrgyzstan,Asia,Extreme Temperature,Meteorological,3
+MDA,Moldova,Europe,Extreme Temperature,Meteorological,3
+KGZ,Kyrgyzstan,Asia,Epidemic,Biological,3
+BDI,Burundi,Africa,Mass Movement,Hydrological,3
+AZE,Azerbaijan,Asia,Flood,Hydrological,3
+AUS,Australia,Oceania,Extreme Temperature,Meteorological,3
+GNB,Guinea-Bissau,Africa,Epidemic,Biological,3
+TZA,Tanzania,Africa,Mass Movement,Hydrological,3
+JPN,Japan,Asia,Volcanic Activity,Geophysical,3
+AZE,Azerbaijan,Asia,Earthquake,Geophysical,3
+VIR,U.S. Virgin Is.,South America,Storm,Meteorological,3
+JPN,Japan,Asia,Wildfire,Climatological,3
+IRQ,Iraq,Asia,Storm,Meteorological,3
+MAC,Macao,Asia,Storm,Meteorological,3
+ARE,United Arab Emirates,Asia,Flood,Hydrological,3
+IND,India,Asia,Glacial Flood,Climatological,3
+ARG,Argentina,South America,Volcanic Activity,Geophysical,3
+BOL,Bolivia,South America,Storm,Meteorological,3
+YEM,Yemen,Asia,Mass Movement,Hydrological,3
+HRV,Croatia,Europe,Storm,Meteorological,3
+IRL,Ireland,Europe,Extreme Temperature,Meteorological,3
+SWZ,Swaziland,Africa,Flood,Hydrological,3
+MAR,Morocco,Africa,Storm,Meteorological,3
+ARG,Argentina,South America,Mass Movement,Hydrological,3
+HTI,Haiti,South America,Drought,Climatological,3
+VUT,Vanuatu,Oceania,Earthquake,Geophysical,3
+LCA,St. Lucia,South America,Flood,Hydrological,3
+GTM,Guatemala,South America,Wildfire,Climatological,3
+MDA,Moldova,Europe,Drought,Climatological,3
+IDN,Indonesia,Asia,Drought,Climatological,3
+SYR,Syria,Asia,Earthquake,Geophysical,3
+SSD,S. Sudan,Africa,Drought,Climatological,3
+COM,Comoros,Africa,Flood,Hydrological,2
+UKR,Ukraine,Europe,Wildfire,Climatological,2
+NOR,Norway,Europe,Mass Movement,Hydrological,2
+ZAF,South Africa,Africa,Extreme Temperature,Meteorological,2
+NPL,Nepal,Asia,Glacial Flood,Climatological,2
+CYP,Cyprus,Asia,Storm,Meteorological,2
+PER,Peru,South America,Wildfire,Climatological,2
+ZAF,South Africa,Africa,Earthquake,Geophysical,2
+ASM,American Samoa,Oceania,Storm,Meteorological,2
+USA,United States,North America,Epidemic,Biological,2
+ARM,Armenia,Asia,Flood,Hydrological,2
+CPV,Cape Verde,Africa,Epidemic,Biological,2
+ARG,Argentina,South America,Earthquake,Geophysical,2
+VUT,Vanuatu,Oceania,Flood,Hydrological,2
+CRI,Costa Rica,South America,Drought,Climatological,2
+AUS,Australia,Oceania,Infestation,Biological,2
+PAN,Panama,South America,Epidemic,Biological,2
+VGB,British Virgin Is.,South America,Storm,Meteorological,2
+SLV,El Salvador,South America,Volcanic Activity,Geophysical,2
+AUT,Austria,Europe,Mass Movement,Hydrological,2
+COL,Colombia,South America,Drought,Climatological,2
+BIH,Bosnia and Herz.,Europe,Storm,Meteorological,2
+CAF,Central African Rep.,Africa,Wildfire,Climatological,2
+RWA,Rwanda,Africa,Earthquake,Geophysical,2
+BWA,Botswana,Africa,Storm,Meteorological,2
+SYC,Seychelles,Africa,Storm,Meteorological,2
+RWA,Rwanda,Africa,Storm,Meteorological,2
+SYC,Seychelles,Africa,Epidemic,Biological,2
+BWA,Botswana,Africa,Epidemic,Biological,2
+BLR,Belarus,Europe,Flood,Hydrological,2
+STP,São Tomé and Principe,Africa,Epidemic,Biological,2
+SDN,Sudan,Africa,Infestation,Biological,2
+BLZ,Belize,South America,Flood,Hydrological,2
+SRB,Serbia,Europe,Storm,Meteorological,2
+BMU,Bermuda,North America,Storm,Meteorological,2
+SGP,Singapore,Asia,Epidemic,Biological,2
+SLB,Solomon Is.,Oceania,Epidemic,Biological,2
+SLE,Sierra Leone,Africa,Mass Movement,Hydrological,2
+SLE,Sierra Leone,Africa,Wildfire,Climatological,2
+BRA,Brazil,South America,Extreme Temperature,Meteorological,2
+CAN,Canada,North America,Epidemic,Biological,2
+BIH,Bosnia and Herz.,Europe,Epidemic,Biological,2
+BIH,Bosnia and Herz.,Europe,Drought,Climatological,2
+TUN,Tunisia,Africa,Wildfire,Climatological,2
+TZA,Tanzania,Africa,Infestation,Biological,2
+COD,Dem. Rep. Congo,Africa,Volcanic Activity,Geophysical,2
+PRI,Puerto Rico,South America,Earthquake,Geophysical,2
+PRT,Portugal,Europe,Drought,Climatological,2
+CIV,Côte d'Ivoire,Africa,Mass Movement,Hydrological,2
+TUV,Tuvalu,Oceania,Storm,Meteorological,2
+TUV,Tuvalu,Oceania,Drought,Climatological,2
+BEN,Benin,Africa,Storm,Meteorological,2
+TTO,Trinidad and Tobago,South America,Storm,Meteorological,2
+THA,Thailand,Asia,Mass Movement,Hydrological,2
+TTO,Trinidad and Tobago,South America,Flood,Hydrological,2
+TON,Tonga,Oceania,Epidemic,Biological,2
+PRY,Paraguay,South America,Wildfire,Climatological,2
+TLS,Timor-Leste,Asia,Storm,Meteorological,2
+PSE,Palestine,Asia,Extreme Temperature,Meteorological,2
+TLS,Timor-Leste,Asia,Drought,Climatological,2
+BGR,Bulgaria,Europe,Earthquake,Geophysical,2
+TJK,Tajikistan,Asia,Drought,Climatological,2
+PRK,North Korea,Asia,Epidemic,Biological,2
+PAN,Panama,South America,Earthquake,Geophysical,2
+GNB,Guinea-Bissau,Africa,Drought,Climatological,2
+ECU,Ecuador,South America,Drought,Climatological,2
+KIR,Kiribati,Oceania,Flood,Hydrological,2
+ETH,Ethiopia,Africa,Earthquake,Geophysical,2
+KHM,Cambodia,Asia,Epidemic,Biological,2
+MLT,Malta,Europe,Extreme Temperature,Meteorological,2
+MMR,Myanmar,Asia,Epidemic,Biological,2
+MMR,Myanmar,Asia,Extreme Temperature,Meteorological,2
+KGZ,Kyrgyzstan,Asia,Storm,Meteorological,2
+GMB,Gambia,Africa,Epidemic,Biological,2
+KAZ,Kazakhstan,Asia,Extreme Temperature,Meteorological,2
+ERI,Eritrea,Africa,Flood,Hydrological,2
+KAZ,Kazakhstan,Asia,Earthquake,Geophysical,2
+GNB,Guinea-Bissau,Africa,Storm,Meteorological,2
+EGY,Egypt,Africa,Extreme Temperature,Meteorological,2
+GNQ,Eq. Guinea,Africa,Epidemic,Biological,2
+GRD,Grenada,South America,Drought,Climatological,2
+JOR,Jordan,Asia,Flood,Hydrological,2
+JOR,Jordan,Asia,Extreme Temperature,Meteorological,2
+JAM,Jamaica,South America,Flood,Hydrological,2
+JAM,Jamaica,South America,Drought,Climatological,2
+ITA,Italy,Europe,Volcanic Activity,Geophysical,2
+ECU,Ecuador,South America,Storm,Meteorological,2
+MHL,Marshall Is.,Oceania,Storm,Meteorological,2
+MHL,Marshall Is.,Oceania,Flood,Hydrological,2
+KNA,St. Kitts and Nevis,South America,Storm,Meteorological,2
+LBN,Lebanon,Asia,Wildfire,Climatological,2
+LSO,Lesotho,Africa,Flood,Hydrological,2
+LTU,Lithuania,Europe,Drought,Climatological,2
+LTU,Lithuania,Europe,Flood,Hydrological,2
+LUX,Luxembourg,Europe,Storm,Meteorological,2
+DJI,Djibouti,Africa,Epidemic,Biological,2
+LVA,Latvia,Europe,Storm,Meteorological,2
+MAR,Morocco,Africa,Earthquake,Geophysical,2
+FSM,Micronesia,Oceania,Drought,Climatological,2
+GEO,Georgia,Asia,Earthquake,Geophysical,2
+MDA,Moldova,Europe,Storm,Meteorological,2
+MEX,Mexico,South America,Wildfire,Climatological,2
+LBN,Lebanon,Asia,Extreme Temperature,Meteorological,2
+FRA,France,Europe,Earthquake,Geophysical,2
+MDV,Maldives,Asia,Epidemic,Biological,2
+MDV,Maldives,Asia,Flood,Hydrological,2
+MEX,Mexico,South America,Drought,Climatological,2
+KOR,South Korea,Asia,Epidemic,Biological,2
+KOR,South Korea,Asia,Earthquake,Geophysical,2
+ETH,Ethiopia,Africa,Volcanic Activity,Geophysical,2
+MEX,Mexico,South America,Volcanic Activity,Geophysical,2
+MWI,Malawi,Africa,Earthquake,Geophysical,2
+GAB,Gabon,Africa,Flood,Hydrological,2
+HKG,Hong Kong,Asia,Flood,Hydrological,2
+DZA,Algeria,Africa,Storm,Meteorological,2
+HND,Honduras,South America,Wildfire,Climatological,2
+NCL,New Caledonia,Oceania,Storm,Meteorological,2
+NGA,Nigeria,Africa,Mass Movement,Hydrological,2
+HND,Honduras,South America,Earthquake,Geophysical,2
+IND,India,Asia,Wildfire,Climatological,2
+HRV,Croatia,Europe,Earthquake,Geophysical,2
+IRN,Iran,Asia,Mass Movement,Hydrological,2
+NIC,Nicaragua,South America,Earthquake,Geophysical,2
+MYS,Malaysia,Asia,Earthquake,Geophysical,2
+TJK,Tajikistan,Asia,Storm,Meteorological,1
+BGR,Bulgaria,Europe,Drought,Climatological,1
+KWT,Kuwait,Asia,Flood,Hydrological,1
+LAO,Lao PDR,Asia,Extreme Temperature,Meteorological,1
+LAO,Lao PDR,Asia,Drought,Climatological,1
+LAO,Lao PDR,Asia,Earthquake,Geophysical,1
+GHA,Ghana,Africa,Storm,Meteorological,1
+THA,Thailand,Asia,Wildfire,Climatological,1
+LBN,Lebanon,Asia,Epidemic,Biological,1
+TKL,Tokelau,Oceania,Storm,Meteorological,1
+ITA,Italy,Europe,Epidemic,Biological,1
+IND,India,Asia,Mass Movement,Geophysical,1
+TKM,Turkmenistan,Asia,Earthquake,Geophysical,1
+GIN,Guinea,Africa,Mass Movement,Hydrological,1
+TLS,Timor-Leste,Asia,Earthquake,Geophysical,1
+GIN,Guinea,Africa,Storm,Meteorological,1
+KOR,South Korea,Asia,Mass Movement,Hydrological,1
+GUY,Guyana,South America,Drought,Climatological,1
+GIN,Guinea,Africa,Wildfire,Climatological,1
+TON,Tonga,Oceania,Drought,Climatological,1
+TON,Tonga,Oceania,Earthquake,Geophysical,1
+YEM,Yemen,Asia,Volcanic Activity,Geophysical,1
+TON,Tonga,Oceania,Volcanic Activity,Geophysical,1
+IRL,Ireland,Europe,Epidemic,Biological,1
+IRN,Iran,Asia,Drought,Climatological,1
+TTO,Trinidad and Tobago,South America,Drought,Climatological,1
+ALB,Albania,Europe,Wildfire,Climatological,1
+GEO,Georgia,Asia,Mass Movement,Hydrological,1
+BHS,Bahamas,South America,Flood,Hydrological,1
+LBN,Lebanon,Asia,Flood,Hydrological,1
+SXM,Sint Maarten,South America,Storm,Meteorological,1
+SYC,Seychelles,Africa,Earthquake,Geophysical,1
+GBR,United Kingdom,Europe,Earthquake,Geophysical,1
+HUN,Hungary,Europe,Drought,Climatological,1
+SYC,Seychelles,Africa,Flood,Hydrological,1
+AGO,Angola,Africa,Mass Movement,Hydrological,1
+LKA,Sri Lanka,Asia,Earthquake,Geophysical,1
+AIA,Anguilla,South America,Storm,Meteorological,1
+LIE,Liechtenstein,Europe,Extreme Temperature,Meteorological,1
+LCA,St. Lucia,South America,Epidemic,Biological,1
+SYR,Syria,Asia,Epidemic,Biological,1
+LCA,St. Lucia,South America,Earthquake,Geophysical,1
+SYR,Syria,Asia,Mass Movement,Hydrological,1
+ZMB,Zambia,Africa,Mass Movement,Hydrological,1
+HTI,Haiti,South America,Mass Movement,Hydrological,1
+LCA,St. Lucia,South America,Drought,Climatological,1
+LBY,Libya,Africa,Storm,Meteorological,1
+GBR,United Kingdom,Europe,Epidemic,Biological,1
+LBR,Liberia,Africa,Storm,Meteorological,1
+BIH,Bosnia and Herz.,Europe,Mass Movement,Hydrological,1
+ALB,Albania,Europe,Epidemic,Biological,1
+LBR,Liberia,Africa,Infestation,Biological,1
+TCD,Chad,Africa,Infestation,Biological,1
+TCD,Chad,Africa,Mass Movement,Hydrological,1
+TCD,Chad,Africa,Storm,Meteorological,1
+GEO,Georgia,Asia,Drought,Climatological,1
+BIH,Bosnia and Herz.,Europe,Earthquake,Geophysical,1
+HRV,Croatia,Europe,Drought,Climatological,1
+KOR,South Korea,Asia,Drought,Climatological,1
+ARG,Argentina,South America,Epidemic,Biological,1
+WSM,Samoa,Oceania,Flood,Hydrological,1
+TTO,Trinidad and Tobago,South America,Mass Movement,Hydrological,1
+ISR,Israel,Asia,Extreme Temperature,Meteorological,1
+UKR,Ukraine,Europe,Drought,Climatological,1
+KAZ,Kazakhstan,Asia,Drought,Climatological,1
+IRQ,Iraq,Asia,Drought,Climatological,1
+AUS,Australia,Oceania,Epidemic,Biological,1
+IRQ,Iraq,Asia,Earthquake,Geophysical,1
+VNM,Vietnam,Asia,Extreme Temperature,Meteorological,1
+GNQ,Eq. Guinea,Africa,Flood,Hydrological,1
+ISL,Iceland,Europe,Extreme Temperature,Meteorological,1
+JOR,Jordan,Asia,Storm,Meteorological,1
+ISL,Iceland,Europe,Volcanic Activity,Geophysical,1
+ISR,Israel,Asia,Epidemic,Biological,1
+ASM,American Samoa,Oceania,Flood,Hydrological,1
+JOR,Jordan,Asia,Drought,Climatological,1
+ASM,American Samoa,Oceania,Earthquake,Geophysical,1
+JAM,Jamaica,South America,Epidemic,Biological,1
+KAZ,Kazakhstan,Asia,Epidemic,Biological,1
+ARM,Armenia,Asia,Mass Movement,Hydrological,1
+USA,United States,North America,Volcanic Activity,Geophysical,1
+UZB,Uzbekistan,Asia,Drought,Climatological,1
+UZB,Uzbekistan,Asia,Earthquake,Geophysical,1
+UZB,Uzbekistan,Asia,Mass Movement,Hydrological,1
+VCT,St. Vin. and Gren.,South America,Drought,Climatological,1
+VCT,St. Vin. and Gren.,South America,Epidemic,Biological,1
+ITA,Italy,Europe,Glacial Flood,Climatological,1
+ARM,Armenia,Asia,Extreme Temperature,Meteorological,1
+VCT,St. Vin. and Gren.,South America,Volcanic Activity,Geophysical,1
+VEN,Venezuela,South America,Drought,Climatological,1
+VEN,Venezuela,South America,Earthquake,Geophysical,1
+GTM,Guatemala,South America,Mass Movement,Geophysical,1
+VEN,Venezuela,South America,Epidemic,Biological,1
+IRN,Iran,Asia,Wildfire,Climatological,1
+UGA,Uganda,Africa,Infestation,Biological,1
+GUF,French Guiana,South America,Mass Movement,Hydrological,1
+GUF,French Guiana,South America,Flood,Hydrological,1
+ARM,Armenia,Asia,Drought,Climatological,1
+WSM,Samoa,Oceania,Epidemic,Biological,1
+KIR,Kiribati,Oceania,Storm,Meteorological,1
+WSM,Samoa,Oceania,Earthquake,Geophysical,1
+BGD,Bangladesh,Asia,Drought,Climatological,1
+TUR,Turkey,Asia,Epidemic,Biological,1
+BFA,Burkina Faso,Africa,Infestation,Biological,1
+GLP,Guadeloupe,South America,Earthquake,Geophysical,1
+BEN,Benin,Africa,Wildfire,Climatological,1
+GLP,Guadeloupe,South America,Epidemic,Biological,1
+KHM,Cambodia,Asia,Extreme Temperature,Meteorological,1
+WSM,Samoa,Oceania,Drought,Climatological,1
+WLF,Wallis and Futuna,Oceania,Storm,Meteorological,1
+IRN,Iran,Asia,Epidemic,Biological,1
+IRN,Iran,Asia,Infestation,Biological,1
+VNM,Vietnam,Asia,Wildfire,Climatological,1
+VUT,Vanuatu,Oceania,Epidemic,Biological,1
+TWN,Taiwan,Asia,Extreme Temperature,Meteorological,1
+KGZ,Kyrgyzstan,Asia,Drought,Climatological,1
+BDI,Burundi,Africa,Earthquake,Geophysical,1
+GMB,Gambia,Africa,Infestation,Biological,1
+KEN,Kenya,Africa,Infestation,Biological,1
+AZE,Azerbaijan,Asia,Mass Movement,Hydrological,1
+SWZ,Swaziland,Africa,Wildfire,Climatological,1
+KEN,Kenya,Africa,Earthquake,Geophysical,1
+KAZ,Kazakhstan,Asia,Wildfire,Climatological,1
+AZE,Azerbaijan,Asia,Extreme Temperature,Meteorological,1
+KAZ,Kazakhstan,Asia,Mass Movement,Hydrological,1
+UGA,Uganda,Africa,Earthquake,Geophysical,1
+AZE,Azerbaijan,Asia,Drought,Climatological,1
+NLD,Netherlands,Europe,Flood,Hydrological,1
+LVA,Latvia,Europe,Epidemic,Biological,1
+GBR,United Kingdom,Europe,Drought,Climatological,1
+PLW,Palau,Oceania,Drought,Climatological,1
+PNG,Papua New Guinea,Oceania,Mass Movement,Geophysical,1
+MSR,Montserrat,South America,Volcanic Activity,Geophysical,1
+MTQ,Martinique,South America,Earthquake,Geophysical,1
+MTQ,Martinique,South America,Epidemic,Biological,1
+PNG,Papua New Guinea,Oceania,Drought,Climatological,1
+MUS,Mauritius,Africa,Epidemic,Biological,1
+PLW,Palau,Oceania,Epidemic,Biological,1
+COL,Colombia,South America,Mass Movement,Geophysical,1
+MYS,Malaysia,Asia,Wildfire,Climatological,1
+MUS,Mauritius,Africa,Flood,Hydrological,1
+COM,Comoros,Africa,Earthquake,Geophysical,1
+PHL,Philippines,Asia,Mass Movement,Geophysical,1
+PHL,Philippines,Asia,Extreme Temperature,Meteorological,1
+ECU,Ecuador,South America,Mass Movement,Geophysical,1
+MWI,Malawi,Africa,Mass Movement,Hydrological,1
+MYS,Malaysia,Asia,Drought,Climatological,1
+COK,Cook Is.,Oceania,Epidemic,Biological,1
+MRT,Mauritania,Africa,Storm,Meteorological,1
+COG,Congo,Africa,Storm,Meteorological,1
+POL,Poland,Europe,Drought,Climatological,1
+CHN,China,Asia,Infestation,Biological,1
+MNG,Mongolia,Asia,Mass Movement,Hydrological,1
+ERI,Eritrea,Africa,Drought,Climatological,1
+MNP,N. Mariana Is.,Oceania,Volcanic Activity,Geophysical,1
+MOZ,Mozambique,Africa,Earthquake,Geophysical,1
+EGY,Egypt,Africa,Mass Movement,Geophysical,1
+PRK,North Korea,Asia,Extreme Temperature,Meteorological,1
+MOZ,Mozambique,Africa,Mass Movement,Hydrological,1
+EGY,Egypt,Africa,Epidemic,Biological,1
+COD,Dem. Rep. Congo,Africa,Drought,Climatological,1
+MOZ,Mozambique,Africa,Wildfire,Climatological,1
+EGY,Egypt,Africa,Earthquake,Geophysical,1
+MRT,Mauritania,Africa,Epidemic,Biological,1
+ECU,Ecuador,South America,Wildfire,Climatological,1
+MRT,Mauritania,Africa,Infestation,Biological,1
+PER,Peru,South America,Infestation,Biological,1
+MYT,Mayotte,Africa,Storm,Meteorological,1
+ERI,Eritrea,Africa,Infestation,Biological,1
+NPL,Nepal,Asia,Wildfire,Climatological,1
+NZL,New Zealand,Oceania,Wildfire,Climatological,1
+NZL,New Zealand,Oceania,Volcanic Activity,Geophysical,1
+CYP,Cyprus,Asia,Drought,Climatological,1
+DMA,Dominica,South America,Earthquake,Geophysical,1
+NZL,New Zealand,Oceania,Extreme Temperature,Meteorological,1
+NGA,Nigeria,Africa,Infestation,Biological,1
+NZL,New Zealand,Oceania,Drought,Climatological,1
+CYP,Cyprus,Asia,Flood,Hydrological,1
+DZA,Algeria,Africa,Epidemic,Biological,1
+DJI,Djibouti,Africa,Storm,Meteorological,1
+DJI,Djibouti,Africa,Infestation,Biological,1
+DEU,Germany,Europe,Earthquake,Geophysical,1
+DEU,Germany,Europe,Epidemic,Biological,1
+NIC,Nicaragua,South America,Mass Movement,Hydrological,1
+NIC,Nicaragua,South America,Wildfire,Climatological,1
+NIU,Niue,Oceania,Storm,Meteorological,1
+CUB,Cuba,South America,Earthquake,Geophysical,1
+NGA,Nigeria,Africa,Extreme Temperature,Meteorological,1
+PAK,Pakistan,Asia,Drought,Climatological,1
+CRI,Costa Rica,South America,Volcanic Activity,Geophysical,1
+DOM,Dominican Rep.,South America,Wildfire,Climatological,1
+NCL,New Caledonia,Oceania,Epidemic,Biological,1
+PAN,Panama,South America,Wildfire,Climatological,1
+CPV,Cape Verde,Africa,Infestation,Biological,1
+CPV,Cape Verde,Africa,Storm,Meteorological,1
+NER,Niger,Africa,Animal Incident,Biological,1
+DOM,Dominican Rep.,South America,Earthquake,Geophysical,1
+PAK,Pakistan,Asia,Wildfire,Climatological,1
+CPV,Cape Verde,Africa,Volcanic Activity,Geophysical,1
+NER,Niger,Africa,Infestation,Biological,1
+PAK,Pakistan,Asia,Mass Movement,Geophysical,1
+PAK,Pakistan,Asia,Infestation,Biological,1
+NER,Niger,Africa,Storm,Meteorological,1
+NGA,Nigeria,Africa,Drought,Climatological,1
+CRI,Costa Rica,South America,Mass Movement,Hydrological,1
+CHN,China,Asia,Glacial Flood,Climatological,1
+MNG,Mongolia,Asia,Epidemic,Biological,1
+SWZ,Swaziland,Africa,Epidemic,Biological,1
+SLV,El Salvador,South America,Extreme Temperature,Meteorological,1
+SOM,Somalia,Africa,Infestation,Biological,1
+MAR,Morocco,Africa,Infestation,Biological,1
+SOM,Somalia,Africa,Earthquake,Geophysical,1
+MAR,Morocco,Africa,Mass Movement,Hydrological,1
+BOL,Bolivia,South America,Volcanic Activity,Geophysical,1
+SLV,El Salvador,South America,Mass Movement,Hydrological,1
+BRA,Brazil,South America,Earthquake,Geophysical,1
+FRA,France,Europe,Drought,Climatological,1
+SLB,Solomon Is.,Oceania,Drought,Climatological,1
+MDG,Madagascar,Africa,Infestation,Biological,1
+MDG,Madagascar,Africa,Mass Movement,Geophysical,1
+SLE,Sierra Leone,Africa,Storm,Meteorological,1
+FJI,Fiji,Oceania,Epidemic,Biological,1
+BRA,Brazil,South America,Wildfire,Climatological,1
+BRB,Barbados,South America,Drought,Climatological,1
+BRB,Barbados,South America,Earthquake,Geophysical,1
+FSM,Micronesia,Oceania,Epidemic,Biological,1
+SRB,Serbia,Europe,Earthquake,Geophysical,1
+BLZ,Belize,South America,Wildfire,Climatological,1
+MAF,St-Martin,South America,Storm,Meteorological,1
+LSO,Lesotho,Africa,Epidemic,Biological,1
+SWE,Sweden,Europe,Wildfire,Climatological,1
+SWE,Sweden,Europe,Flood,Hydrological,1
+SWE,Sweden,Europe,Epidemic,Biological,1
+BLM,St-Barthélemy,South America,Storm,Meteorological,1
+LTU,Lithuania,Europe,Storm,Meteorological,1
+SVN,Slovenia,Europe,Earthquake,Geophysical,1
+SVK,Slovakia,Europe,Wildfire,Climatological,1
+LUX,Luxembourg,Europe,Flood,Hydrological,1
+FSM,Micronesia,Oceania,Flood,Hydrological,1
+STP,São Tomé and Principe,Africa,Flood,Hydrological,1
+LVA,Latvia,Europe,Flood,Hydrological,1
+SSD,S. Sudan,Africa,Wildfire,Climatological,1
+BLR,Belarus,Europe,Storm,Meteorological,1
+LVA,Latvia,Europe,Wildfire,Climatological,1
+MDV,Maldives,Asia,Earthquake,Geophysical,1
+SHN,St. Helena,Africa,Storm,Meteorological,1
+MNG,Mongolia,Asia,Drought,Climatological,1
+CHL,Chile,South America,Mass Movement,Hydrological,1
+RUS,Russia,Europe,Infestation,Biological,1
+RUS,Russia,Europe,Impact,Extra-terrestrial,1
+MLI,Mali,Africa,Infestation,Biological,1
+CHE,Switzerland,Europe,Glacial Flood,Climatological,1
+CHE,Switzerland,Europe,Mass Movement,Geophysical,1
+ESP,Spain,Europe,Epidemic,Biological,1
+ROU,Romania,Europe,Drought,Climatological,1
+REU,Réunion,Africa,Epidemic,Biological,1
+MDV,Maldives,Asia,Storm,Meteorological,1
+QAT,Qatar,Asia,Flood,Hydrological,1
+PYF,Fr. Polynesia,Oceania,Storm,Meteorological,1
+PYF,Fr. Polynesia,Oceania,Flood,Hydrological,1
+MMR,Myanmar,Asia,Mass Movement,Geophysical,1
+ESP,Spain,Europe,Earthquake,Geophysical,1
+ESP,Spain,Europe,Drought,Climatological,1
+MNE,Montenegro,Europe,Wildfire,Climatological,1
+MKD,Macedonia,Europe,Storm,Meteorological,1
+ETH,Ethiopia,Africa,Infestation,Biological,1
+CAF,Central African Rep.,Africa,Drought,Climatological,1
+RWA,Rwanda,Africa,Drought,Climatological,1
+SEN,Senegal,Africa,Storm,Meteorological,1
+SEN,Senegal,Africa,Infestation,Biological,1
+FJI,Fiji,Oceania,Drought,Climatological,1
+MEX,Mexico,South America,Epidemic,Biological,1
+FIN,Finland,Europe,Flood,Hydrological,1
+ETH,Ethiopia,Africa,Wildfire,Climatological,1
+BTN,Bhutan,Asia,Storm,Meteorological,1
+SDN,Sudan,Africa,Extreme Temperature,Meteorological,1
+SAU,Saudi Arabia,Asia,Storm,Meteorological,1
+SAU,Saudi Arabia,Asia,Extreme Temperature,Meteorological,1
+MHL,Marshall Is.,Oceania,Epidemic,Biological,1
+RWA,Rwanda,Africa,Volcanic Activity,Geophysical,1
+MKD,Macedonia,Europe,Earthquake,Geophysical,1
+MKD,Macedonia,Europe,Epidemic,Biological,1
+ETH,Ethiopia,Africa,Storm,Meteorological,1
+HUN,Hungary,Europe,Earthquake,Geophysical,1

@@ -1,0 +1,16 @@
+Country,disaster,disaster_count,color_intensity
+United States,Meteorological,380,380
+United States,Hydrological,123,123
+United States,Climatological,84,84
+Canada,Hydrological,33,33
+Canada,Meteorological,28,28
+United States,Meteorological,17,17
+United States,Climatological,16,16
+Canada,Climatological,15,15
+United States,Geophysical,11,11
+Canada,Meteorological,5,5
+United States,Hydrological,3,3
+United States,Biological,2,2
+Bermuda,Meteorological,2,2
+Canada,Biological,2,2
+United States,Geophysical,1,1

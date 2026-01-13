@@ -1,0 +1,1001 @@
+Country,disaster,disaster_count,color_intensity
+United States,Meteorological,380,380
+China,Hydrological,224,224
+China,Meteorological,218,218
+Indonesia,Hydrological,215,215
+Philippines,Meteorological,208,208
+India,Hydrological,205,205
+United States,Hydrological,123,123
+Brazil,Hydrological,117,117
+China,Geophysical,114,114
+Philippines,Hydrological,109,109
+India,Meteorological,107,107
+Vietnam,Meteorological,102,102
+Japan,Meteorological,94,94
+Afghanistan,Hydrological,91,91
+Pakistan,Hydrological,90,90
+Vietnam,Hydrological,85,85
+United States,Climatological,84,84
+Indonesia,Geophysical,82,82
+Mexico,Meteorological,82,82
+Colombia,Hydrological,77,77
+Thailand,Hydrological,76,76
+Bangladesh,Meteorological,72,72
+Malaysia,Hydrological,68,68
+Dem. Rep. Congo,Biological,65,65
+China,Hydrological,62,62
+Indonesia,Hydrological,60,60
+Taiwan,Meteorological,58,58
+Iran,Geophysical,55,55
+Russia,Hydrological,55,55
+Nigeria,Hydrological,55,55
+Kenya,Hydrological,55,55
+Peru,Hydrological,53,53
+Sri Lanka,Hydrological,53,53
+Madagascar,Meteorological,52,52
+France,Meteorological,51,51
+Mexico,Hydrological,50,50
+Australia,Hydrological,49,49
+Haiti,Hydrological,49,49
+Australia,Meteorological,48,48
+Nigeria,Biological,48,48
+Iran,Hydrological,46,46
+Bangladesh,Hydrological,46,46
+Dem. Rep. Congo,Hydrological,45,45
+Bolivia,Hydrological,45,45
+Angola,Hydrological,44,44
+Romania,Hydrological,44,44
+Argentina,Hydrological,43,43
+France,Hydrological,43,43
+South Africa,Hydrological,41,41
+Somalia,Hydrological,41,41
+Tanzania,Hydrological,39,39
+Nepal,Hydrological,38,38
+Ethiopia,Hydrological,38,38
+Yemen,Hydrological,37,37
+Thailand,Meteorological,37,37
+Italy,Hydrological,36,36
+Uganda,Hydrological,36,36
+Malawi,Hydrological,35,35
+India,Meteorological,35,35
+Haiti,Meteorological,34,34
+Cuba,Meteorological,34,34
+Germany,Meteorological,34,34
+Turkey,Geophysical,33,33
+Algeria,Hydrological,33,33
+Indonesia,Geophysical,33,33
+India,Hydrological,33,33
+Mozambique,Hydrological,33,33
+Canada,Hydrological,33,33
+Burundi,Hydrological,32,32
+South Korea,Meteorological,32,32
+Dominican Rep.,Meteorological,32,32
+Japan,Geophysical,31,31
+Turkey,Hydrological,31,31
+Venezuela,Hydrological,31,31
+Myanmar,Hydrological,30,30
+Guatemala,Hydrological,30,30
+Niger,Biological,30,30
+Niger,Hydrological,29,29
+Ecuador,Hydrological,29,29
+Panama,Hydrological,29,29
+Canada,Meteorological,28,28
+Japan,Hydrological,28,28
+Sudan,Hydrological,28,28
+United Kingdom,Hydrological,28,28
+Tajikistan,Hydrological,28,28
+Sudan,Biological,27,27
+China,Climatological,27,27
+United Kingdom,Meteorological,27,27
+Rwanda,Hydrological,27,27
+Uganda,Biological,27,27
+Kenya,Biological,27,27
+Philippines,Geophysical,27,27
+Mozambique,Meteorological,26,26
+Dominican Rep.,Hydrological,26,26
+Chile,Hydrological,26,26
+India,Biological,25,25
+Australia,Climatological,25,25
+South Africa,Meteorological,25,25
+Ghana,Hydrological,25,25
+Colombia,Hydrological,25,25
+Spain,Hydrological,24,24
+Italy,Meteorological,24,24
+Bulgaria,Hydrological,24,24
+Mali,Hydrological,23,23
+Honduras,Hydrological,23,23
+Ethiopia,Biological,23,23
+Afghanistan,Hydrological,23,23
+Poland,Meteorological,22,22
+North Korea,Hydrological,22,22
+Somalia,Biological,22,22
+Afghanistan,Geophysical,22,22
+Saudi Arabia,Hydrological,22,22
+Greece,Hydrological,22,22
+Zambia,Hydrological,22,22
+Mozambique,Biological,21,21
+Peru,Geophysical,21,21
+Zimbabwe,Biological,21,21
+Costa Rica,Hydrological,21,21
+Guatemala,Meteorological,21,21
+Bosnia and Herz.,Hydrological,21,21
+Cambodia,Hydrological,21,21
+South Korea,Hydrological,21,21
+Nicaragua,Meteorological,20,20
+Honduras,Meteorological,20,20
+Tanzania,Biological,20,20
+Serbia,Hydrological,20,20
+Morocco,Hydrological,20,20
+Fiji,Meteorological,20,20
+Uruguay,Hydrological,20,20
+Pakistan,Meteorological,20,20
+Brazil,Meteorological,20,20
+Jamaica,Meteorological,19,19
+Poland,Meteorological,19,19
+France,Meteorological,19,19
+Lao PDR,Hydrological,19,19
+Argentina,Meteorological,19,19
+Switzerland,Meteorological,19,19
+Spain,Meteorological,19,19
+Russia,Climatological,19,19
+El Salvador,Meteorological,19,19
+Chad,Hydrological,19,19
+Romania,Meteorological,18,18
+Benin,Biological,18,18
+Philippines,Geophysical,18,18
+Burkina Faso,Hydrological,18,18
+Russia,Meteorological,18,18
+Japan,Meteorological,18,18
+Chad,Biological,18,18
+Namibia,Hydrological,18,18
+Pakistan,Geophysical,18,18
+Afghanistan,Biological,17,17
+Congo,Biological,17,17
+Philippines,Hydrological,17,17
+United States,Meteorological,17,17
+Georgia,Hydrological,17,17
+New Zealand,Hydrological,17,17
+Paraguay,Hydrological,17,17
+Sri Lanka,Meteorological,17,17
+Nepal,Hydrological,17,17
+S. Sudan,Hydrological,17,17
+Chile,Climatological,17,17
+Senegal,Hydrological,16,16
+Iraq,Hydrological,16,16
+United States,Climatological,16,16
+Cameroon,Hydrological,16,16
+Belgium,Meteorological,16,16
+Bahamas,Meteorological,16,16
+Hong Kong,Meteorological,16,16
+Guinea,Hydrological,16,16
+Mauritania,Hydrological,16,16
+Nicaragua,Hydrological,16,16
+Belgium,Meteorological,15,15
+Pakistan,Hydrological,15,15
+Papua New Guinea,Hydrological,15,15
+Canada,Climatological,15,15
+Bangladesh,Meteorological,15,15
+Germany,Meteorological,15,15
+Central African Rep.,Hydrological,15,15
+Tajikistan,Geophysical,14,14
+Czech Rep.,Hydrological,14,14
+Guinea,Biological,14,14
+Croatia,Hydrological,14,14
+Kazakhstan,Hydrological,14,14
+Peru,Hydrological,14,14
+Zambia,Biological,14,14
+Netherlands,Meteorological,14,14
+Côte d'Ivoire,Hydrological,14,14
+Burkina Faso,Biological,14,14
+Malawi,Biological,13,13
+Puerto Rico,Meteorological,13,13
+Pakistan,Meteorological,13,13
+Papua New Guinea,Hydrological,13,13
+United Kingdom,Meteorological,13,13
+Brazil,Climatological,13,13
+Myanmar,Meteorological,13,13
+Italy,Meteorological,13,13
+Angola,Biological,13,13
+Mexico,Geophysical,13,13
+Portugal,Climatological,13,13
+Cameroon,Biological,13,13
+Congo,Hydrological,13,13
+New Zealand,Meteorological,12,12
+Czech Rep.,Meteorological,12,12
+Germany,Hydrological,12,12
+Ukraine,Hydrological,12,12
+Sierra Leone,Hydrological,12,12
+Italy,Geophysical,12,12
+Uganda,Hydrological,12,12
+Austria,Meteorological,12,12
+Papua New Guinea,Geophysical,12,12
+Dem. Rep. Congo,Hydrological,12,12
+Spain,Climatological,12,12
+Albania,Hydrological,12,12
+Iran,Meteorological,12,12
+Russia,Meteorological,12,12
+Benin,Hydrological,12,12
+Zimbabwe,Hydrological,12,12
+Vanuatu,Meteorological,12,12
+El Salvador,Hydrological,12,12
+Ireland,Meteorological,11,11
+Guatemala,Hydrological,11,11
+Ecuador,Geophysical,11,11
+Greece,Climatological,11,11
+Greece,Geophysical,11,11
+India,Geophysical,11,11
+Madagascar,Hydrological,11,11
+Myanmar,Hydrological,11,11
+Mongolia,Hydrological,11,11
+Mozambique,Climatological,11,11
+Ghana,Biological,11,11
+Hungary,Hydrological,11,11
+Belize,Meteorological,11,11
+Somalia,Climatological,11,11
+Serbia,Meteorological,11,11
+United States,Geophysical,11,11
+Bulgaria,Meteorological,11,11
+Pakistan,Biological,11,11
+Cuba,Hydrological,11,11
+Slovakia,Hydrological,11,11
+Netherlands,Meteorological,11,11
+Philippines,Biological,11,11
+Côte d'Ivoire,Biological,11,11
+Colombia,Meteorological,11,11
+Solomon Is.,Meteorological,10,10
+Peru,Meteorological,10,10
+Macedonia,Hydrological,10,10
+Kenya,Climatological,10,10
+Mongolia,Meteorological,10,10
+Gambia,Hydrological,10,10
+Austria,Hydrological,10,10
+Togo,Hydrological,10,10
+Taiwan,Geophysical,10,10
+Tajikistan,Hydrological,10,10
+Romania,Meteorological,10,10
+Bangladesh,Biological,10,10
+Central African Rep.,Biological,10,10
+Nepal,Biological,10,10
+Burundi,Biological,10,10
+Turkey,Meteorological,10,10
+Central African Rep.,Meteorological,10,10
+Poland,Hydrological,10,10
+Honduras,Climatological,9,9
+Ethiopia,Climatological,9,9
+Lao PDR,Meteorological,9,9
+Yemen,Biological,9,9
+China,Meteorological,9,9
+Portugal,Meteorological,9,9
+Réunion,Meteorological,9,9
+Botswana,Hydrological,9,9
+Mali,Biological,9,9
+Zimbabwe,Meteorological,9,9
+Austria,Meteorological,9,9
+Indonesia,Meteorological,9,9
+Belgium,Hydrological,9,9
+Czech Rep.,Meteorological,9,9
+Tonga,Meteorological,9,9
+Guatemala,Geophysical,9,9
+Malawi,Meteorological,9,9
+Oman,Meteorological,9,9
+Vanuatu,Geophysical,9,9
+Spain,Meteorological,9,9
+S. Sudan,Biological,9,9
+Hungary,Meteorological,9,9
+Ukraine,Meteorological,8,8
+Bolivia,Climatological,8,8
+St. Vin. and Gren.,Meteorological,8,8
+Switzerland,Meteorological,8,8
+Tunisia,Hydrological,8,8
+Kyrgyzstan,Hydrological,8,8
+Thailand,Climatological,8,8
+Slovakia,Meteorological,8,8
+Liberia,Biological,8,8
+Greece,Meteorological,8,8
+Togo,Biological,8,8
+Cambodia,Meteorological,8,8
+Tanzania,Meteorological,8,8
+Ukraine,Meteorological,8,8
+Brazil,Hydrological,8,8
+Chile,Geophysical,8,8
+Papua New Guinea,Geophysical,8,8
+Paraguay,Biological,8,8
+Haiti,Biological,8,8
+Colombia,Geophysical,8,8
+Lithuania,Meteorological,8,8
+North Korea,Meteorological,8,8
+Ethiopia,Hydrological,8,8
+Portugal,Meteorological,8,8
+Mexico,Hydrological,8,8
+Croatia,Meteorological,8,8
+Ecuador,Hydrological,8,8
+South Africa,Climatological,8,8
+Ecuador,Geophysical,8,8
+Costa Rica,Meteorological,8,8
+Indonesia,Biological,8,8
+Afghanistan,Meteorological,8,8
+Paraguay,Meteorological,8,8
+Madagascar,Climatological,8,8
+Niger,Climatological,8,8
+Colombia,Geophysical,8,8
+Cayman Is.,Meteorological,7,7
+Malawi,Climatological,7,7
+Afghanistan,Meteorological,7,7
+Algeria,Geophysical,7,7
+Nepal,Meteorological,7,7
+Greece,Meteorological,7,7
+Zimbabwe,Climatological,7,7
+Guyana,Hydrological,7,7
+Nepal,Geophysical,7,7
+Denmark,Meteorological,7,7
+Lesotho,Climatological,7,7
+Egypt,Hydrological,7,7
+Sierra Leone,Biological,7,7
+Latvia,Meteorological,7,7
+Morocco,Meteorological,7,7
+Russia,Geophysical,7,7
+Barbados,Meteorological,7,7
+Chile,Meteorological,7,7
+Lebanon,Meteorological,7,7
+Mongolia,Meteorological,7,7
+Fiji,Hydrological,7,7
+Mexico,Meteorological,7,7
+Bolivia,Climatological,7,7
+South Korea,Climatological,7,7
+Yemen,Meteorological,7,7
+Mali,Climatological,7,7
+Burundi,Meteorological,7,7
+Uruguay,Meteorological,6,6
+Indonesia,Climatological,6,6
+Tanzania,Geophysical,6,6
+South Africa,Biological,6,6
+Nigeria,Meteorological,6,6
+Turkey,Hydrological,6,6
+Turkey,Meteorological,6,6
+Namibia,Biological,6,6
+Namibia,Climatological,6,6
+Oman,Hydrological,6,6
+Mauritius,Meteorological,6,6
+Panama,Meteorological,6,6
+Mauritania,Climatological,6,6
+Papua New Guinea,Biological,6,6
+Puerto Rico,Hydrological,6,6
+Portugal,Hydrological,6,6
+Macedonia,Meteorological,6,6
+Paraguay,Climatological,6,6
+Madagascar,Biological,6,6
+Lesotho,Meteorological,6,6
+Sri Lanka,Biological,6,6
+Liberia,Hydrological,6,6
+El Salvador,Geophysical,6,6
+El Salvador,Biological,6,6
+Somalia,Meteorological,6,6
+Kyrgyzstan,Hydrological,6,6
+Kyrgyzstan,Geophysical,6,6
+Kenya,Hydrological,6,6
+Slovenia,Hydrological,6,6
+Syria,Meteorological,6,6
+Senegal,Biological,6,6
+Afghanistan,Climatological,6,6
+Djibouti,Climatological,6,6
+Albania,Meteorological,6,6
+Argentina,Meteorological,6,6
+Bangladesh,Hydrological,6,6
+Bangladesh,Geophysical,6,6
+Estonia,Meteorological,6,6
+Argentina,Climatological,6,6
+Cameroon,Hydrological,6,6
+France,Climatological,6,6
+Gambia,Meteorological,6,6
+Micronesia,Meteorological,6,6
+Chile,Meteorological,6,6
+Dem. Rep. Congo,Meteorological,6,6
+Belarus,Meteorological,6,6
+Armenia,Meteorological,6,6
+Angola,Climatological,6,6
+Brazil,Biological,6,6
+Uganda,Climatological,5,5
+Timor-Leste,Hydrological,5,5
+Uganda,Meteorological,5,5
+Tanzania,Climatological,5,5
+Taiwan,Hydrological,5,5
+China,Climatological,5,5
+Turkey,Climatological,5,5
+Burkina Faso,Climatological,5,5
+Comoros,Meteorological,5,5
+Ecuador,Biological,5,5
+Sweden,Meteorological,5,5
+Canada,Meteorological,5,5
+Myanmar,Geophysical,5,5
+Bulgaria,Climatological,5,5
+Solomon Is.,Hydrological,5,5
+Bolivia,Hydrological,5,5
+Bolivia,Biological,5,5
+Slovakia,Meteorological,5,5
+Slovenia,Meteorological,5,5
+Slovenia,Meteorological,5,5
+Gabon,Biological,5,5
+Rwanda,Hydrological,5,5
+Sri Lanka,Climatological,5,5
+St. Lucia,Meteorological,5,5
+Rwanda,Biological,5,5
+Russia,Hydrological,5,5
+Syria,Hydrological,5,5
+Turks and Caicos Is.,Meteorological,5,5
+Chad,Climatological,5,5
+Guatemala,Climatological,5,5
+Russia,Biological,5,5
+Malaysia,Meteorological,5,5
+Burundi,Climatological,5,5
+Hungary,Meteorological,5,5
+Cyprus,Meteorological,5,5
+Italy,Climatological,5,5
+Guam,Meteorological,5,5
+Venezuela,Meteorological,5,5
+South Africa,Climatological,5,5
+Croatia,Climatological,5,5
+Guatemala,Geophysical,5,5
+Honduras,Biological,5,5
+New Zealand,Geophysical,5,5
+Ireland,Hydrological,5,5
+Vietnam,Hydrological,5,5
+Peru,Biological,5,5
+Dominican Rep.,Biological,5,5
+Nepal,Meteorological,5,5
+Vietnam,Climatological,5,5
+India,Climatological,5,5
+Syria,Climatological,4,4
+Argentina,Climatological,4,4
+Palestine,Meteorological,4,4
+Bosnia and Herz.,Meteorological,4,4
+Thailand,Biological,4,4
+Samoa,Meteorological,4,4
+Georgia,Meteorological,4,4
+Dominica,Meteorological,4,4
+Bulgaria,Meteorological,4,4
+Switzerland,Hydrological,4,4
+Switzerland,Hydrological,4,4
+Thailand,Geophysical,4,4
+Swaziland,Meteorological,4,4
+Nicaragua,Climatological,4,4
+Sudan,Climatological,4,4
+Norway,Hydrological,4,4
+El Salvador,Climatological,4,4
+Albania,Geophysical,4,4
+Solomon Is.,Geophysical,4,4
+Haiti,Geophysical,4,4
+Bolivia,Meteorological,4,4
+Norway,Meteorological,4,4
+Senegal,Climatological,4,4
+Suriname,Hydrological,4,4
+Luxembourg,Meteorological,4,4
+Syria,Climatological,4,4
+Zambia,Climatological,4,4
+Albania,Meteorological,4,4
+Sweden,Meteorological,4,4
+Swaziland,Climatological,4,4
+Marshall Is.,Climatological,4,4
+Gabon,Meteorological,4,4
+Sri Lanka,Hydrological,4,4
+Montenegro,Meteorological,4,4
+Nicaragua,Biological,4,4
+Italy,Hydrological,4,4
+Moldova,Hydrological,4,4
+Israel,Climatological,4,4
+Papua New Guinea,Meteorological,4,4
+Peru,Geophysical,4,4
+Uruguay,Meteorological,4,4
+Vietnam,Biological,4,4
+Philippines,Climatological,4,4
+Peru,Meteorological,4,4
+Israel,Meteorological,4,4
+Egypt,Meteorological,4,4
+N. Mariana Is.,Meteorological,4,4
+Guinea-Bissau,Hydrological,4,4
+Cambodia,Climatological,4,4
+Malaysia,Biological,4,4
+Grenada,Meteorological,4,4
+Iraq,Biological,4,4
+Colombia,Biological,4,4
+Japan,Hydrological,4,4
+Guatemala,Meteorological,4,4
+Chile,Geophysical,4,4
+Comoros,Biological,4,4
+Costa Rica,Geophysical,4,4
+Guatemala,Biological,4,4
+South Korea,Meteorological,4,4
+Montenegro,Hydrological,4,4
+Algeria,Climatological,4,4
+Djibouti,Hydrological,3,3
+Costa Rica,Biological,3,3
+Botswana,Climatological,3,3
+Finland,Meteorological,3,3
+Sudan,Meteorological,3,3
+Colombia,Climatological,3,3
+Bhutan,Geophysical,3,3
+Comoros,Geophysical,3,3
+Malaysia,Hydrological,3,3
+Cape Verde,Climatological,3,3
+Bhutan,Hydrological,3,3
+Cook Is.,Meteorological,3,3
+Palau,Meteorological,3,3
+Nepal,Climatological,3,3
+Russia,Climatological,3,3
+Denmark,Meteorological,3,3
+Paraguay,Meteorological,3,3
+Cuba,Climatological,3,3
+China,Biological,3,3
+China,Geophysical,3,3
+Panama,Climatological,3,3
+Estonia,Meteorological,3,3
+Cameroon,Climatological,3,3
+North Korea,Climatological,3,3
+Macedonia,Climatological,3,3
+Dem. Rep. Congo,Geophysical,3,3
+Peru,Climatological,3,3
+Cape Verde,Hydrological,3,3
+Dem. Rep. Congo,Climatological,3,3
+Cyprus,Climatological,3,3
+Saudi Arabia,Biological,3,3
+Palestine,Hydrological,3,3
+Martinique,Meteorological,3,3
+Algeria,Meteorological,3,3
+Libya,Hydrological,3,3
+Norway,Meteorological,3,3
+Australia,Climatological,3,3
+Thailand,Meteorological,3,3
+Lao PDR,Biological,3,3
+Tajikistan,Biological,3,3
+Tajikistan,Meteorological,3,3
+Israel,Hydrological,3,3
+Venezuela,Hydrological,3,3
+St. Vin. and Gren.,Hydrological,3,3
+Timor-Leste,Biological,3,3
+Uzbekistan,Hydrological,3,3
+Italy,Climatological,3,3
+United States,Hydrological,3,3
+Antigua and Barb.,Meteorological,3,3
+Guadeloupe,Meteorological,3,3
+Iceland,Geophysical,3,3
+Uruguay,Climatological,3,3
+Gambia,Climatological,3,3
+Kyrgyzstan,Meteorological,3,3
+Moldova,Meteorological,3,3
+Kyrgyzstan,Biological,3,3
+Burundi,Hydrological,3,3
+Azerbaijan,Hydrological,3,3
+Australia,Meteorological,3,3
+Guinea-Bissau,Biological,3,3
+Tanzania,Hydrological,3,3
+Japan,Geophysical,3,3
+Azerbaijan,Geophysical,3,3
+U.S. Virgin Is.,Meteorological,3,3
+Japan,Climatological,3,3
+Iraq,Meteorological,3,3
+Macao,Meteorological,3,3
+United Arab Emirates,Hydrological,3,3
+India,Climatological,3,3
+Argentina,Geophysical,3,3
+Bolivia,Meteorological,3,3
+Yemen,Hydrological,3,3
+Croatia,Meteorological,3,3
+Ireland,Meteorological,3,3
+Swaziland,Hydrological,3,3
+Morocco,Meteorological,3,3
+Argentina,Hydrological,3,3
+Haiti,Climatological,3,3
+Vanuatu,Geophysical,3,3
+St. Lucia,Hydrological,3,3
+Guatemala,Climatological,3,3
+Moldova,Climatological,3,3
+Indonesia,Climatological,3,3
+Syria,Geophysical,3,3
+S. Sudan,Climatological,3,3
+Comoros,Hydrological,2,2
+Ukraine,Climatological,2,2
+Norway,Hydrological,2,2
+South Africa,Meteorological,2,2
+Nepal,Climatological,2,2
+Cyprus,Meteorological,2,2
+Peru,Climatological,2,2
+South Africa,Geophysical,2,2
+American Samoa,Meteorological,2,2
+United States,Biological,2,2
+Armenia,Hydrological,2,2
+Cape Verde,Biological,2,2
+Argentina,Geophysical,2,2
+Vanuatu,Hydrological,2,2
+Costa Rica,Climatological,2,2
+Australia,Biological,2,2
+Panama,Biological,2,2
+British Virgin Is.,Meteorological,2,2
+El Salvador,Geophysical,2,2
+Austria,Hydrological,2,2
+Colombia,Climatological,2,2
+Bosnia and Herz.,Meteorological,2,2
+Central African Rep.,Climatological,2,2
+Rwanda,Geophysical,2,2
+Botswana,Meteorological,2,2
+Seychelles,Meteorological,2,2
+Rwanda,Meteorological,2,2
+Seychelles,Biological,2,2
+Botswana,Biological,2,2
+Belarus,Hydrological,2,2
+São Tomé and Principe,Biological,2,2
+Sudan,Biological,2,2
+Belize,Hydrological,2,2
+Serbia,Meteorological,2,2
+Bermuda,Meteorological,2,2
+Singapore,Biological,2,2
+Solomon Is.,Biological,2,2
+Sierra Leone,Hydrological,2,2
+Sierra Leone,Climatological,2,2
+Brazil,Meteorological,2,2
+Canada,Biological,2,2
+Bosnia and Herz.,Biological,2,2
+Bosnia and Herz.,Climatological,2,2
+Tunisia,Climatological,2,2
+Tanzania,Biological,2,2
+Dem. Rep. Congo,Geophysical,2,2
+Puerto Rico,Geophysical,2,2
+Portugal,Climatological,2,2
+Côte d'Ivoire,Hydrological,2,2
+Tuvalu,Meteorological,2,2
+Tuvalu,Climatological,2,2
+Benin,Meteorological,2,2
+Trinidad and Tobago,Meteorological,2,2
+Thailand,Hydrological,2,2
+Trinidad and Tobago,Hydrological,2,2
+Tonga,Biological,2,2
+Paraguay,Climatological,2,2
+Timor-Leste,Meteorological,2,2
+Palestine,Meteorological,2,2
+Timor-Leste,Climatological,2,2
+Bulgaria,Geophysical,2,2
+Tajikistan,Climatological,2,2
+North Korea,Biological,2,2
+Panama,Geophysical,2,2
+Guinea-Bissau,Climatological,2,2
+Ecuador,Climatological,2,2
+Kiribati,Hydrological,2,2
+Ethiopia,Geophysical,2,2
+Cambodia,Biological,2,2
+Malta,Meteorological,2,2
+Myanmar,Biological,2,2
+Myanmar,Meteorological,2,2
+Kyrgyzstan,Meteorological,2,2
+Gambia,Biological,2,2
+Kazakhstan,Meteorological,2,2
+Eritrea,Hydrological,2,2
+Kazakhstan,Geophysical,2,2
+Guinea-Bissau,Meteorological,2,2
+Egypt,Meteorological,2,2
+Eq. Guinea,Biological,2,2
+Grenada,Climatological,2,2
+Jordan,Hydrological,2,2
+Jordan,Meteorological,2,2
+Jamaica,Hydrological,2,2
+Jamaica,Climatological,2,2
+Italy,Geophysical,2,2
+Ecuador,Meteorological,2,2
+Marshall Is.,Meteorological,2,2
+Marshall Is.,Hydrological,2,2
+St. Kitts and Nevis,Meteorological,2,2
+Lebanon,Climatological,2,2
+Lesotho,Hydrological,2,2
+Lithuania,Climatological,2,2
+Lithuania,Hydrological,2,2
+Luxembourg,Meteorological,2,2
+Djibouti,Biological,2,2
+Latvia,Meteorological,2,2
+Morocco,Geophysical,2,2
+Micronesia,Climatological,2,2
+Georgia,Geophysical,2,2
+Moldova,Meteorological,2,2
+Mexico,Climatological,2,2
+Lebanon,Meteorological,2,2
+France,Geophysical,2,2
+Maldives,Biological,2,2
+Maldives,Hydrological,2,2
+Mexico,Climatological,2,2
+South Korea,Biological,2,2
+South Korea,Geophysical,2,2
+Ethiopia,Geophysical,2,2
+Mexico,Geophysical,2,2
+Malawi,Geophysical,2,2
+Gabon,Hydrological,2,2
+Hong Kong,Hydrological,2,2
+Algeria,Meteorological,2,2
+Honduras,Climatological,2,2
+New Caledonia,Meteorological,2,2
+Nigeria,Hydrological,2,2
+Honduras,Geophysical,2,2
+India,Climatological,2,2
+Croatia,Geophysical,2,2
+Iran,Hydrological,2,2
+Nicaragua,Geophysical,2,2
+Malaysia,Geophysical,2,2
+Tajikistan,Meteorological,1,1
+Bulgaria,Climatological,1,1
+Kuwait,Hydrological,1,1
+Lao PDR,Meteorological,1,1
+Lao PDR,Climatological,1,1
+Lao PDR,Geophysical,1,1
+Ghana,Meteorological,1,1
+Thailand,Climatological,1,1
+Lebanon,Biological,1,1
+Tokelau,Meteorological,1,1
+Italy,Biological,1,1
+India,Geophysical,1,1
+Turkmenistan,Geophysical,1,1
+Guinea,Hydrological,1,1
+Timor-Leste,Geophysical,1,1
+Guinea,Meteorological,1,1
+South Korea,Hydrological,1,1
+Guyana,Climatological,1,1
+Guinea,Climatological,1,1
+Tonga,Climatological,1,1
+Tonga,Geophysical,1,1
+Yemen,Geophysical,1,1
+Tonga,Geophysical,1,1
+Ireland,Biological,1,1
+Iran,Climatological,1,1
+Trinidad and Tobago,Climatological,1,1
+Albania,Climatological,1,1
+Georgia,Hydrological,1,1
+Bahamas,Hydrological,1,1
+Lebanon,Hydrological,1,1
+Sint Maarten,Meteorological,1,1
+Seychelles,Geophysical,1,1
+United Kingdom,Geophysical,1,1
+Hungary,Climatological,1,1
+Seychelles,Hydrological,1,1
+Angola,Hydrological,1,1
+Sri Lanka,Geophysical,1,1
+Anguilla,Meteorological,1,1
+Liechtenstein,Meteorological,1,1
+St. Lucia,Biological,1,1
+Syria,Biological,1,1
+St. Lucia,Geophysical,1,1
+Syria,Hydrological,1,1
+Zambia,Hydrological,1,1
+Haiti,Hydrological,1,1
+St. Lucia,Climatological,1,1
+Libya,Meteorological,1,1
+United Kingdom,Biological,1,1
+Liberia,Meteorological,1,1
+Bosnia and Herz.,Hydrological,1,1
+Albania,Biological,1,1
+Liberia,Biological,1,1
+Chad,Biological,1,1
+Chad,Hydrological,1,1
+Chad,Meteorological,1,1
+Georgia,Climatological,1,1
+Bosnia and Herz.,Geophysical,1,1
+Croatia,Climatological,1,1
+South Korea,Climatological,1,1
+Argentina,Biological,1,1
+Samoa,Hydrological,1,1
+Trinidad and Tobago,Hydrological,1,1
+Israel,Meteorological,1,1
+Ukraine,Climatological,1,1
+Kazakhstan,Climatological,1,1
+Iraq,Climatological,1,1
+Australia,Biological,1,1
+Iraq,Geophysical,1,1
+Vietnam,Meteorological,1,1
+Eq. Guinea,Hydrological,1,1
+Iceland,Meteorological,1,1
+Jordan,Meteorological,1,1
+Iceland,Geophysical,1,1
+Israel,Biological,1,1
+American Samoa,Hydrological,1,1
+Jordan,Climatological,1,1
+American Samoa,Geophysical,1,1
+Jamaica,Biological,1,1
+Kazakhstan,Biological,1,1
+Armenia,Hydrological,1,1
+United States,Geophysical,1,1
+Uzbekistan,Climatological,1,1
+Uzbekistan,Geophysical,1,1
+Uzbekistan,Hydrological,1,1
+St. Vin. and Gren.,Climatological,1,1
+St. Vin. and Gren.,Biological,1,1
+Italy,Climatological,1,1
+Armenia,Meteorological,1,1
+St. Vin. and Gren.,Geophysical,1,1
+Venezuela,Climatological,1,1
+Venezuela,Geophysical,1,1
+Guatemala,Geophysical,1,1
+Venezuela,Biological,1,1
+Iran,Climatological,1,1
+Uganda,Biological,1,1
+French Guiana,Hydrological,1,1
+French Guiana,Hydrological,1,1
+Armenia,Climatological,1,1
+Samoa,Biological,1,1
+Kiribati,Meteorological,1,1
+Samoa,Geophysical,1,1
+Bangladesh,Climatological,1,1
+Turkey,Biological,1,1
+Burkina Faso,Biological,1,1
+Guadeloupe,Geophysical,1,1
+Benin,Climatological,1,1
+Guadeloupe,Biological,1,1
+Cambodia,Meteorological,1,1
+Samoa,Climatological,1,1
+Wallis and Futuna,Meteorological,1,1
+Iran,Biological,1,1
+Iran,Biological,1,1
+Vietnam,Climatological,1,1
+Vanuatu,Biological,1,1
+Taiwan,Meteorological,1,1
+Kyrgyzstan,Climatological,1,1
+Burundi,Geophysical,1,1
+Gambia,Biological,1,1
+Kenya,Biological,1,1
+Azerbaijan,Hydrological,1,1
+Swaziland,Climatological,1,1
+Kenya,Geophysical,1,1
+Kazakhstan,Climatological,1,1
+Azerbaijan,Meteorological,1,1
+Kazakhstan,Hydrological,1,1
+Uganda,Geophysical,1,1
+Azerbaijan,Climatological,1,1
+Netherlands,Hydrological,1,1
+Latvia,Biological,1,1
+United Kingdom,Climatological,1,1
+Palau,Climatological,1,1
+Papua New Guinea,Geophysical,1,1
+Montserrat,Geophysical,1,1
+Martinique,Geophysical,1,1
+Martinique,Biological,1,1
+Papua New Guinea,Climatological,1,1
+Mauritius,Biological,1,1
+Palau,Biological,1,1
+Colombia,Geophysical,1,1
+Malaysia,Climatological,1,1
+Mauritius,Hydrological,1,1
+Comoros,Geophysical,1,1
+Philippines,Geophysical,1,1
+Philippines,Meteorological,1,1
+Ecuador,Geophysical,1,1
+Malawi,Hydrological,1,1
+Malaysia,Climatological,1,1
+Cook Is.,Biological,1,1
+Mauritania,Meteorological,1,1
+Congo,Meteorological,1,1
+Poland,Climatological,1,1
+China,Biological,1,1
+Mongolia,Hydrological,1,1
+Eritrea,Climatological,1,1
+N. Mariana Is.,Geophysical,1,1
+Mozambique,Geophysical,1,1
+Egypt,Geophysical,1,1
+North Korea,Meteorological,1,1
+Mozambique,Hydrological,1,1
+Egypt,Biological,1,1
+Dem. Rep. Congo,Climatological,1,1
+Mozambique,Climatological,1,1
+Egypt,Geophysical,1,1
+Mauritania,Biological,1,1
+Ecuador,Climatological,1,1
+Mauritania,Biological,1,1
+Peru,Biological,1,1
+Mayotte,Meteorological,1,1
+Eritrea,Biological,1,1
+Nepal,Climatological,1,1
+New Zealand,Climatological,1,1
+New Zealand,Geophysical,1,1
+Cyprus,Climatological,1,1
+Dominica,Geophysical,1,1
+New Zealand,Meteorological,1,1
+Nigeria,Biological,1,1
+New Zealand,Climatological,1,1
+Cyprus,Hydrological,1,1
+Algeria,Biological,1,1
+Djibouti,Meteorological,1,1
+Djibouti,Biological,1,1
+Germany,Geophysical,1,1
+Germany,Biological,1,1
+Nicaragua,Hydrological,1,1
+Nicaragua,Climatological,1,1
+Niue,Meteorological,1,1
+Cuba,Geophysical,1,1
+Nigeria,Meteorological,1,1
+Pakistan,Climatological,1,1
+Costa Rica,Geophysical,1,1
+Dominican Rep.,Climatological,1,1
+New Caledonia,Biological,1,1
+Panama,Climatological,1,1
+Cape Verde,Biological,1,1
+Cape Verde,Meteorological,1,1
+Niger,Biological,1,1
+Dominican Rep.,Geophysical,1,1
+Pakistan,Climatological,1,1
+Cape Verde,Geophysical,1,1
+Niger,Biological,1,1
+Pakistan,Geophysical,1,1
+Pakistan,Biological,1,1
+Niger,Meteorological,1,1
+Nigeria,Climatological,1,1
+Costa Rica,Hydrological,1,1
+China,Climatological,1,1
+Mongolia,Biological,1,1
+Swaziland,Biological,1,1
+El Salvador,Meteorological,1,1
+Somalia,Biological,1,1
+Morocco,Biological,1,1
+Somalia,Geophysical,1,1
+Morocco,Hydrological,1,1
+Bolivia,Geophysical,1,1
+El Salvador,Hydrological,1,1
+Brazil,Geophysical,1,1
+France,Climatological,1,1
+Solomon Is.,Climatological,1,1
+Madagascar,Biological,1,1
+Madagascar,Geophysical,1,1
+Sierra Leone,Meteorological,1,1
+Fiji,Biological,1,1
+Brazil,Climatological,1,1
+Barbados,Climatological,1,1
+Barbados,Geophysical,1,1
+Micronesia,Biological,1,1
+Serbia,Geophysical,1,1
+Belize,Climatological,1,1
+St-Martin,Meteorological,1,1
+Lesotho,Biological,1,1
+Sweden,Climatological,1,1
+Sweden,Hydrological,1,1
+Sweden,Biological,1,1
+St-Barthélemy,Meteorological,1,1
+Lithuania,Meteorological,1,1
+Slovenia,Geophysical,1,1
+Slovakia,Climatological,1,1
+Luxembourg,Hydrological,1,1
+Micronesia,Hydrological,1,1
+São Tomé and Principe,Hydrological,1,1
+Latvia,Hydrological,1,1
+S. Sudan,Climatological,1,1
+Belarus,Meteorological,1,1
+Latvia,Climatological,1,1
+Maldives,Geophysical,1,1
+St. Helena,Meteorological,1,1
+Mongolia,Climatological,1,1
+Chile,Hydrological,1,1
+Russia,Biological,1,1
+Russia,Extra-terrestrial,1,1
+Mali,Biological,1,1
+Switzerland,Climatological,1,1
+Switzerland,Geophysical,1,1
+Spain,Biological,1,1
+Romania,Climatological,1,1
+Réunion,Biological,1,1
+Maldives,Meteorological,1,1
+Qatar,Hydrological,1,1
+Fr. Polynesia,Meteorological,1,1
+Fr. Polynesia,Hydrological,1,1
+Myanmar,Geophysical,1,1
+Spain,Geophysical,1,1
+Spain,Climatological,1,1
+Montenegro,Climatological,1,1
+Macedonia,Meteorological,1,1
+Ethiopia,Biological,1,1
+Central African Rep.,Climatological,1,1
+Rwanda,Climatological,1,1
+Senegal,Meteorological,1,1
+Senegal,Biological,1,1
+Fiji,Climatological,1,1
+Mexico,Biological,1,1
+Finland,Hydrological,1,1
+Ethiopia,Climatological,1,1
+Bhutan,Meteorological,1,1
+Sudan,Meteorological,1,1
+Saudi Arabia,Meteorological,1,1
+Saudi Arabia,Meteorological,1,1
+Marshall Is.,Biological,1,1
+Rwanda,Geophysical,1,1
+Macedonia,Geophysical,1,1
+Macedonia,Biological,1,1
+Ethiopia,Meteorological,1,1
+Hungary,Geophysical,1,1

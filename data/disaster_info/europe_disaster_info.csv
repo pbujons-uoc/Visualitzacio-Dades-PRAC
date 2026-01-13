@@ -1,0 +1,1391 @@
+disaster,disaster_type,event_name,deaths,affected,start,end,Country
+Hydrological,Flood,,1.0,150.0,2009-06-19,2009-06-30,Poland
+Biological,Epidemic,Haemorrhagic fever,,564.0,2000-01-01,2000-01-01,Russia
+Hydrological,Mass Movement,,20.0,,2000-01-19,2000-01-19,Russia
+Meteorological,Extreme Temperature,,13.0,252.0,2000-02-01,2000-02-01,Russia
+Meteorological,Storm,Storm 'Ulla',1.0,,2014-02-12,2014-02-14,Ireland
+Hydrological,Mass Movement,,12.0,235.0,2022-11-26,2022-11-26,Italy
+Meteorological,Extreme Temperature,,,,2000-05-01,2000-05-01,Belarus
+Meteorological,Storm,Storm 'Kyrill',,,2007-01-19,2007-01-19,Belarus
+Climatological,Wildfire,,,55000.0,2022-07-03,2022-07-23,Greece
+Biological,Epidemic,Haemorrhagic fever with renal syndrome,,124.0,2000-01-01,2000-01-01,Russia
+Geophysical,Earthquake,,,600.0,2000-05-26,2000-05-26,Greece
+Biological,Epidemic,Acute diarrhoeal syndrome,,100.0,2000-06-01,2000-06-01,Russia
+Hydrological,Flood,,,,2000-06-01,2000-06-01,Russia
+Hydrological,Flood,,1.0,750.0,2022-07-22,2022-07-25,Russia
+Hydrological,Mass Movement,,7.0,508.0,2000-07-19,2000-07-19,Russia
+Biological,Epidemic,,2.0,1374.0,2000-01-01,2000-07-29,Ireland
+Biological,Epidemic,Diphteria,,102.0,2000-08-21,2000-08-21,Latvia
+Biological,Epidemic,Acute hepatitis A,,400.0,2000-08-29,2000-08-29,Bosnia and Herz.
+Hydrological,Flood,,,600.0,2000-10-31,2000-10-31,Greece
+Biological,Epidemic,Acute jaundice syndrome,,2000.0,2000-09-01,2000-09-01,Russia
+Biological,Epidemic,Acute Jaundice Syndrome,,154.0,2000-12-01,2000-12-01,Russia
+Biological,Epidemic,Legionellosis,2.0,751.0,2001-07-01,2001-07-18,Spain
+Biological,Infestation,,,,2001-06-01,2001-06-01,Russia
+Hydrological,Flood,,,600.0,2001-11-29,2001-11-29,Greece
+Geophysical,Earthquake,,,300.0,2001-07-26,2001-07-26,Greece
+Biological,Epidemic,"Meningococcal disease, serogroup W135",11.0,30.0,2001-01-01,2001-06-01,United Kingdom
+Hydrological,Flood,,,9000.0,2001-06-20,2001-06-21,Bosnia and Herz.
+Hydrological,Flood,,,6150.0,2001-06-18,2001-06-21,
+Climatological,Wildfire,,,,2001-10-01,2001-10-01,Russia
+Biological,Epidemic,,,600.0,2002-02-01,2002-02-01,Germany
+Biological,Epidemic,Acute diarrhoeal syndrome,,350.0,2002-04-22,2002-04-22,Sweden
+Biological,Epidemic,,3.0,9997.0,2002-06-01,2002-06-01,Italy
+Biological,Epidemic,Unknown,,226.0,2002-07-01,2002-07-01,Albania
+Hydrological,Mass Movement,,122.0,,2002-09-20,2002-09-20,Russia
+Meteorological,Extreme Temperature,,242.0,25062.0,2002-10-01,2002-10-01,Russia
+Hydrological,Flood,,,3685.0,2005-04-15,2005-04-15,Russia
+Meteorological,Storm,Storm 'Jeanett',1.0,,2002-10-27,2002-10-27,Denmark
+Geophysical,Earthquake,,,167.0,2002-12-02,2002-12-02,Greece
+Hydrological,Flood,,,,2002-12-06,2002-12-10,Greece
+Biological,Epidemic,Unknown,,200.0,2002-11-30,2002-11-30,Macedonia
+Hydrological,Flood,,,180.0,2002-12-13,2002-12-13,Greece
+Hydrological,Flood,,,1650.0,2002-12-04,2002-12-10,Macedonia
+Hydrological,Flood,,2.0,3672.0,2018-03-25,2018-04-16,Russia
+Hydrological,Flood,,2.0,4000.0,2003-01-08,2003-01-10,Macedonia
+Hydrological,Flood,,3.0,450.0,2003-01-25,2003-01-26,Greece
+Hydrological,Flood,,,750.0,2003-11-30,2003-12-01,Macedonia
+Hydrological,Flood,,2.0,250.0,2003-08-27,2003-08-27,Romania
+Meteorological,Storm,Hygos,6.0,,2002-10-02,2002-10-03,Russia
+Hydrological,Flood,,,3000.0,2004-03-23,2004-04-03,Bosnia and Herz.
+Hydrological,Flood,,,100000.0,2004-06-04,2004-06-07,Macedonia
+Meteorological,Extreme Temperature,,3.0,,2004-07-01,2004-07-01,Albania
+Meteorological,Storm,,6.0,62.0,2004-07-22,2004-07-22,Russia
+Hydrological,Flood,,,2500.0,2004-12-04,2004-12-08,Albania
+Meteorological,Storm,Storm 'Erwin' (Gudrun),,2.0,2005-01-07,2005-01-08,Russia
+Hydrological,Flood,,,2000.0,2005-08-04,2005-08-04,Macedonia
+Hydrological,Flood,,,6500.0,2005-08-18,2005-08-19,Moldova
+Hydrological,Flood,,2.0,800.0,2005-10-12,2005-10-14,United Kingdom
+Meteorological,Extreme Temperature,,13.0,,2006-01-20,2006-01-24,Moldova
+Meteorological,Storm,Storm 'Ulla',,,2014-02-14,2014-02-14,France
+Meteorological,Storm,,2.0,,2002-01-29,2002-01-29,Russia
+Hydrological,Flood,,1.0,200.0,2006-01-30,2006-02-04,Norway
+Climatological,Wildfire,,12.0,,2007-08-30,2007-08-30,Croatia
+Meteorological,Storm,,5.0,300.0,2006-08-20,2006-08-20,Hungary
+Hydrological,Flood,,,1500.0,2006-08-17,2006-08-17,Macedonia
+Hydrological,Flood,,1.0,3000.0,2006-10-08,2006-10-12,Greece
+Meteorological,Storm,Storm 'Kyrill',7.0,,2007-01-17,2007-01-19,Ireland
+Meteorological,Extreme Temperature,,,202.0,2007-07-01,2007-07-01,Macedonia
+Hydrological,Flood,,,480.0,2007-09-05,2007-09-07,Austria
+Hydrological,Flood,,,300.0,2007-09-06,2007-09-10,Czech Rep.
+Climatological,Drought,,,210394.0,2007-01-01,2007-01-01,Moldova
+Hydrological,Flood,,3.0,4000.0,2008-07-26,2008-07-27,Moldova
+Geophysical,Earthquake,,,150.0,2009-09-07,2009-09-07,Albania
+Meteorological,Storm,,,1793.0,2009-11-13,2009-11-16,Spain
+Hydrological,Flood,,,6600.0,2009-12-20,2010-01-08,Albania
+Meteorological,Storm,Storm 'Xynthia',,1000.0,2010-03-01,2010-02-01,Poland
+Hydrological,Flood,,,7500.0,2010-02-19,2010-02-24,Spain
+Hydrological,Flood,,1.0,12000.0,2010-07-05,2010-07-07,Moldova
+Hydrological,Flood,,3.0,2000.0,2010-09-17,2010-09-20,Slovenia
+Hydrological,Flood,,,400.0,2010-11-16,2010-11-17,United Kingdom
+Meteorological,Extreme Temperature,,,,2010-11-30,2010-12-01,Switzerland
+Meteorological,Extreme Temperature,,11.0,11.0,2010-12-03,2010-12-03,Russia
+Hydrological,Flood,,,90.0,2010-12-04,2010-12-05,Bulgaria
+Meteorological,Storm,Storm 'Ciara' (Sabine),,,2020-02-09,2020-02-16,Ireland
+Hydrological,Flood,,,5000.0,2011-05-22,2011-05-29,Serbia
+Hydrological,Flood,,1.0,230.0,2004-07-27,2004-08-02,Slovakia
+Meteorological,Storm,Storm 'Berit',,6500.0,2011-11-25,2011-11-27,Estonia
+Meteorological,Storm,Storm 'Berit',1.0,,2011-11-25,2011-11-25,United Kingdom
+Meteorological,Extreme Temperature,,,130.0,2012-01-01,2012-02-01,Belarus
+Meteorological,Extreme Temperature,,10.0,7374.0,2012-01-30,2012-02-05,Moldova
+Hydrological,Flood,,1.0,120.0,2012-11-13,2012-11-18,Spain
+Meteorological,Storm,"Storms 'Adrian' , 'Vaia'",12.0,2200.0,2018-10-29,2018-11-04,Italy
+Climatological,Drought,,,5800.0,2012-11-01,2012-01-01,Moldova
+Meteorological,Extreme Temperature,,4.0,11325.0,2013-01-01,2013-02-01,Belarus
+Hydrological,Flood,,,48565.0,2013-06-03,2013-06-09,Hungary
+Hydrological,Flood,,,500.0,2013-05-22,2013-05-28,Norway
+Hydrological,Flood,,,2800.0,2013-03-14,2013-04-04,Albania
+Hydrological,Flood,,1.0,1200.0,2013-03-05,2013-03-07,France
+Meteorological,Storm,Storm 'Christian' (St.Jude),,240000.0,2013-10-27,2013-10-28,Estonia
+Meteorological,Storm,Storm 'Christian' (St.Jude),,400000.0,2013-10-29,2013-10-29,Latvia
+Meteorological,Storm,Storm 'Christian' (St.Jude),,66000.0,2013-10-27,2013-10-28,Sweden
+Hydrological,Flood,,,,2006-04-10,2006-04-13,Bulgaria
+Meteorological,Storm,,9.0,1000.0,2017-09-09,2017-09-10,Italy
+Hydrological,Flood,,,,2014-04-19,2014-04-24,Bosnia and Herz.
+Hydrological,Flood,,,800.0,2018-03-07,2018-03-14,Albania
+Hydrological,Flood,,1.0,600.0,2014-08-06,2014-08-06,Bosnia and Herz.
+Meteorological,Storm,,10.0,76.0,2023-07-30,2023-07-30,Russia
+Hydrological,Flood,,,100000.0,2015-01-31,2015-02-03,Macedonia
+Hydrological,Flood,,,1600.0,2015-02-26,2015-03-03,Spain
+Hydrological,Flood,,,50000.0,2018-03-19,2018-04-19,Belarus
+Hydrological,Flood,,7.0,5030.0,2015-08-03,2015-08-05,Macedonia
+Meteorological,Storm,Storm 'Marita' (Gertrude),,7200.0,2016-01-29,2016-01-30,United Kingdom
+Meteorological,Storm,Storm 'Eunice' (Zeynep),,28.0,2022-02-18,2022-02-18,France
+Climatological,Wildfire,,,120.0,2002-05-11,2002-05-11,Russia
+Hydrological,Flood,,4.0,200.0,2016-09-06,2016-09-07,Greece
+Hydrological,Flood,,82.0,49500.0,2002-08-08,2002-08-18,Russia
+Geophysical,Earthquake,,2.0,120.0,2017-07-21,2017-07-21,Greece
+Climatological,Wildfire,,,200.0,2017-07-16,2017-07-18,Montenegro
+Hydrological,Flood,,,200.0,2017-07-18,2017-07-18,United Kingdom
+Meteorological,Storm,,4.0,,2017-08-05,2017-08-06,Italy
+Hydrological,Flood,,,200.0,2017-08-22,2017-08-26,Ireland
+Hydrological,Flood,,4.0,,2017-10-24,2017-10-26,Bulgaria
+Hydrological,Flood,,1.0,21002.0,2017-11-30,2017-12-04,Albania
+Meteorological,Storm,'Friederike' (David),,,2018-01-18,2018-01-18,Poland
+Meteorological,Extreme Temperature,,3.0,,2018-02-23,2018-02-28,Czech Rep.
+Meteorological,Extreme Temperature,,7.0,,2018-02-01,2018-02-28,Estonia
+Meteorological,Extreme Temperature,,3.0,,2018-02-23,2018-02-28,France
+Meteorological,Extreme Temperature,,1.0,,2018-02-23,2018-02-28,Italy
+Meteorological,Extreme Temperature,,5.0,,2018-02-23,2018-02-28,Lithuania
+Meteorological,Extreme Temperature,,9.0,,2018-02-23,2018-02-28,Poland
+Meteorological,Extreme Temperature,,2.0,,2018-02-23,2018-02-28,Romania
+Meteorological,Extreme Temperature,,,,2018-07-01,2018-07-01,Belgium
+Meteorological,Extreme Temperature,,,,2018-07-01,2018-07-01,Germany
+Meteorological,Extreme Temperature,,9.0,,2018-08-01,2018-08-01,Spain
+Meteorological,Extreme Temperature,,,,2018-07-01,2018-07-01,France
+Meteorological,Extreme Temperature,,820.0,,2018-06-30,2018-07-10,United Kingdom
+Meteorological,Extreme Temperature,,,,2018-08-01,2018-08-01,Italy
+Meteorological,Extreme Temperature,,100.0,,2018-07-01,2018-07-01,Netherlands
+Meteorological,Extreme Temperature,,,,2018-08-01,2018-08-01,Portugal
+Hydrological,Flood,,3.0,367.0,2006-10-22,2006-10-24,Portugal
+Meteorological,Storm,Storm 'Callum',2.0,780.0,2018-10-12,2018-10-14,United Kingdom
+Hydrological,Flood,,,4000.0,2001-03-04,2001-03-17,Romania
+Meteorological,Storm,"Storms 'Adrian' , 'Vaia'",,,2018-10-29,2018-10-30,Switzerland
+Meteorological,Extreme Temperature,,179.0,,2018-12-01,2019-02-01,Hungary
+Climatological,Drought,,,,2018-05-01,2018-06-01,Lithuania
+Climatological,Drought,,,,2018-06-01,2018-07-01,Poland
+Meteorological,Extreme Temperature,,,5460.0,2019-01-11,2019-01-30,Moldova
+Meteorological,Storm,,1.0,,2019-06-15,2019-06-16,Switzerland
+Meteorological,Storm,,1.0,70.0,2019-06-15,2019-06-15,France
+Hydrological,Flood,,,159.0,2019-06-01,2019-06-25,Bosnia and Herz.
+Meteorological,Storm,,7.0,123.0,2019-07-07,2019-07-10,Greece
+Meteorological,Extreme Temperature,,1.0,,2019-07-24,2019-07-26,Austria
+Meteorological,Extreme Temperature,,400.0,,2019-07-19,2019-07-27,Belgium
+Meteorological,Extreme Temperature,,,,2019-07-24,2019-07-25,Germany
+Meteorological,Extreme Temperature,,400.0,,2019-07-22,2019-07-27,Netherlands
+Meteorological,Storm,,1.0,130.0,2019-10-20,2019-10-22,Italy
+Hydrological,Flood,,3.0,1550.0,2020-06-10,2020-06-26,Romania
+Meteorological,Extreme Temperature,,188.0,,2019-08-23,2019-08-29,Belgium
+Meteorological,Extreme Temperature,,161.0,,2019-07-21,2019-08-28,United Kingdom
+Meteorological,Storm,Storm 'Ciara' (Sabine),,,2020-02-10,2020-02-10,Austria
+Meteorological,Storm,Storm 'Ciara' (Sabine),1.0,,2020-02-10,2020-02-11,Switzerland
+Meteorological,Storm,Dennis (Victoria),,,2020-02-15,2020-02-16,France
+Meteorological,Storm,Dennis (Victoria),2.0,6400.0,2020-02-15,2020-02-18,United Kingdom
+Meteorological,Storm,Dennis (Victoria),,,2020-02-14,2020-02-16,Ireland
+Hydrological,Flood,,2.0,24.0,2020-06-07,2020-06-26,Czech Rep.
+Hydrological,Flood,,,15000.0,2020-06-22,2020-06-23,Bosnia and Herz.
+Hydrological,Flood,,8.0,2400.0,2020-08-08,2020-08-09,Greece
+Meteorological,Storm,Storm ''Lanos',4.0,480.0,2020-09-16,2020-09-20,Greece
+Geophysical,Earthquake,,2.0,919.0,2020-10-30,2020-10-30,Greece
+Hydrological,Mass Movement,,13.0,,2000-03-28,2000-03-28,Austria
+Meteorological,Storm,Storm 'Aurore' (Hendrick),,,2021-10-21,2021-10-22,Belgium
+Meteorological,Storm,Storm 'Aurore' (Hendrick),1.0,,2021-10-21,2021-10-21,United Kingdom
+Meteorological,Storm,Storm 'Malik' (Nadia),1.0,,2022-01-28,2022-01-31,Czech Rep.
+Meteorological,Storm,Storm 'Malik' (Nadia),1.0,2.0,2022-01-28,2022-01-31,Germany
+Meteorological,Storm,Storm 'Malik' (Nadia),1.0,3.0,2022-01-28,2022-01-31,Denmark
+Meteorological,Storm,Storm 'Malik' (Nadia),1.0,12.0,2022-01-28,2022-01-31,Poland
+Meteorological,Storm,Storm 'Dudley' (Ylenia),,3.0,2022-02-16,2022-02-17,Czech Rep.
+Meteorological,Storm,Storm 'Eunice' (Zeynep),2.0,,2022-02-18,2022-02-18,Belgium
+Meteorological,Storm,Storm 'Eunice' (Zeynep),3.0,,2022-02-18,2022-02-18,Germany
+Meteorological,Storm,Storm 'Eunice' (Zeynep),3.0,,2022-02-18,2022-02-18,United Kingdom
+Meteorological,Storm,Storm 'Eunice' (Zeynep),1.0,,2022-02-18,2022-02-18,Ireland
+Meteorological,Storm,Storm 'Eunice' (Zeynep),4.0,,2022-02-18,2022-02-18,Netherlands
+Meteorological,Storm,Storm 'Eunice' (Zeynep),4.0,,2022-02-18,2022-02-18,Poland
+Geophysical,Earthquake,,1.0,1052.0,2022-04-23,2022-04-23,Bosnia and Herz.
+Climatological,Wildfire,,,3500.0,2022-06-18,2022-07-18,Spain
+Climatological,Glacial Flood,,11.0,,2022-07-03,2022-07-03,Italy
+Meteorological,Extreme Temperature,,352.0,,2022-05-30,2022-09-04,Albania
+Meteorological,Extreme Temperature,,419.0,,2022-05-30,2022-09-04,Austria
+Meteorological,Extreme Temperature,,434.0,,2022-05-30,2022-09-04,Belgium
+Meteorological,Extreme Temperature,,1277.0,,2022-05-30,2022-09-04,Bulgaria
+Meteorological,Extreme Temperature,,302.0,,2022-05-30,2022-09-04,Switzerland
+Meteorological,Extreme Temperature,,279.0,,2022-05-30,2022-09-04,Czech Rep.
+Meteorological,Extreme Temperature,,8173.0,,2022-05-30,2022-09-04,Germany
+Meteorological,Extreme Temperature,,252.0,,2022-05-30,2022-09-04,Denmark
+Meteorological,Extreme Temperature,,11324.0,,2022-05-30,2022-09-04,Spain
+Meteorological,Extreme Temperature,,167.0,,2022-05-30,2022-09-04,Estonia
+Meteorological,Extreme Temperature,,225.0,,2022-05-30,2022-09-04,Finland
+Meteorological,Extreme Temperature,,4807.0,,2022-05-30,2022-09-04,France
+Meteorological,Extreme Temperature,,3469.0,,2022-05-30,2022-09-04,United Kingdom
+Meteorological,Extreme Temperature,,3092.0,,2022-05-30,2022-09-04,Greece
+Meteorological,Extreme Temperature,,513.0,,2022-05-30,2022-09-04,Hungary
+Meteorological,Extreme Temperature,,26.0,,2022-05-30,2022-09-04,Ireland
+Meteorological,Extreme Temperature,,18010.0,,2022-05-30,2022-09-04,Italy
+Meteorological,Extreme Temperature,,381.0,,2022-05-30,2022-09-04,Lithuania
+Meteorological,Extreme Temperature,,44.0,,2022-05-30,2022-09-04,Luxembourg
+Meteorological,Extreme Temperature,,105.0,,2022-05-30,2022-09-04,Latvia
+Meteorological,Extreme Temperature,,76.0,,2022-05-30,2022-09-04,Malta
+Meteorological,Extreme Temperature,,50.0,,2022-05-30,2022-09-04,Montenegro
+Meteorological,Extreme Temperature,,469.0,,2022-05-30,2022-09-04,Netherlands
+Meteorological,Extreme Temperature,,30.0,,2022-05-30,2022-09-30,Norway
+Meteorological,Extreme Temperature,,763.0,,2022-05-30,2022-09-04,Poland
+Meteorological,Extreme Temperature,,2212.0,,2022-05-30,2022-09-04,Portugal
+Meteorological,Extreme Temperature,,2455.0,,2022-05-30,2022-09-04,Romania
+Meteorological,Extreme Temperature,,574.0,,2022-05-30,2022-09-04,Serbia
+Meteorological,Extreme Temperature,,365.0,,2022-05-30,2022-09-04,Slovakia
+Meteorological,Extreme Temperature,,154.0,,2022-05-30,2022-09-04,Slovenia
+Meteorological,Extreme Temperature,,40.0,,2022-05-30,2022-09-30,Sweden
+Meteorological,Storm,,5.0,13.0,2022-08-17,2022-08-18,Austria
+Hydrological,Flood,,12.0,33.0,2022-09-15,2022-09-16,Italy
+Hydrological,Flood,,1.0,3000.0,2022-12-11,2022-12-22,Bosnia and Herz.
+Hydrological,Flood,,,,2022-12-11,2022-12-11,Croatia
+Climatological,Drought,,,,2022-07-01,2022-08-01,France
+Climatological,Drought,,,,2022-04-01,2022-08-01,United Kingdom
+Climatological,Drought,,,,2022-06-01,2022-12-01,Italy
+Climatological,Drought,,,,2022-07-01,2023-06-01,Portugal
+Hydrological,Flood,,2.0,210.0,2023-01-18,2023-01-20,Serbia
+Hydrological,Flood,,,1000.0,2000-09-20,2000-09-20,Italy
+Hydrological,Mass Movement,,8.0,,2023-02-04,2023-02-05,Austria
+Hydrological,Mass Movement,,2.0,,2023-02-04,2023-02-05,Switzerland
+Hydrological,Mass Movement,,1.0,,2023-02-04,2023-02-05,Italy
+Hydrological,Flood,,,200.0,2023-03-30,2023-04-02,Latvia
+Hydrological,Flood,,,2850.0,2023-04-15,2023-04-15,Ukraine
+Hydrological,Flood,,,,2023-05-13,2023-05-13,Czech Rep.
+Hydrological,Flood,,,177.0,2023-05-12,2023-05-17,Croatia
+Hydrological,Flood,,,10000.0,2023-05-14,2023-05-19,Bosnia and Herz.
+Geophysical,Earthquake,,,752.0,2023-06-16,2023-06-16,France
+Hydrological,Flood,,,15432.0,2023-06-04,2023-06-16,Serbia
+Meteorological,Extreme Temperature,,363.0,,2023-07-01,2023-08-01,Albania
+Meteorological,Extreme Temperature,,486.0,,2023-07-01,2023-08-01,Austria
+Meteorological,Extreme Temperature,,324.0,,2023-07-01,2023-08-01,Belgium
+Meteorological,Extreme Temperature,,1670.0,,2023-07-01,2023-08-01,Bulgaria
+Meteorological,Extreme Temperature,,294.0,,2023-07-01,2023-08-01,Switzerland
+Meteorological,Extreme Temperature,,361.0,,2023-07-01,2023-08-01,Czech Rep.
+Meteorological,Extreme Temperature,,6376.0,,2023-07-01,2023-08-01,Germany
+Meteorological,Extreme Temperature,,189.0,,2023-07-01,2023-08-01,Denmark
+Meteorological,Extreme Temperature,,8352.0,,2023-07-01,2023-08-01,Spain
+Meteorological,Extreme Temperature,,103.0,,2023-07-01,2023-08-01,Estonia
+Meteorological,Extreme Temperature,,138.0,,2023-07-01,2023-08-01,Finland
+Meteorological,Extreme Temperature,,2734.0,,2023-07-01,2023-09-01,France
+Meteorological,Extreme Temperature,,1851.0,,2023-07-01,2023-08-01,United Kingdom
+Meteorological,Extreme Temperature,,4339.0,,2023-07-01,2023-07-01,Greece
+Meteorological,Extreme Temperature,,561.0,,2023-07-01,2023-08-01,Croatia
+Meteorological,Extreme Temperature,,294.0,,2023-07-01,2023-08-01,Hungary
+Meteorological,Extreme Temperature,,60.0,,2023-07-01,2023-08-01,Ireland
+Meteorological,Extreme Temperature,,,,2023-07-01,2023-08-01,Iceland
+Meteorological,Extreme Temperature,,12743.0,,2023-07-12,2023-08-01,Italy
+Meteorological,Extreme Temperature,,1.0,,2023-07-01,2023-08-01,Liechtenstein
+Meteorological,Extreme Temperature,,247.0,,2023-07-01,2023-08-01,Lithuania
+Meteorological,Extreme Temperature,,33.0,,2023-07-01,2023-08-01,Luxembourg
+Meteorological,Extreme Temperature,,58.0,,2023-07-01,2023-08-01,Latvia
+Meteorological,Extreme Temperature,,70.0,,2023-07-01,2023-08-01,Malta
+Meteorological,Extreme Temperature,,41.0,,2023-07-01,2023-08-01,Montenegro
+Meteorological,Extreme Temperature,,368.0,,2023-07-01,2023-08-01,Netherlands
+Meteorological,Extreme Temperature,,29.0,,2023-07-01,2023-08-01,Norway
+Meteorological,Extreme Temperature,,616.0,,2023-07-01,2023-08-01,Poland
+Meteorological,Extreme Temperature,,1432.0,,2023-07-01,2023-08-01,Portugal
+Meteorological,Extreme Temperature,,2585.0,,2023-07-01,2023-08-01,Romania
+Meteorological,Extreme Temperature,,464.0,,2023-07-01,2023-08-01,Serbia
+Meteorological,Extreme Temperature,,247.0,,2023-07-01,2023-08-01,Slovakia
+Meteorological,Extreme Temperature,,95.0,,2023-07-01,2023-08-01,Slovenia
+Meteorological,Extreme Temperature,,13.0,,2023-07-01,2023-08-01,Sweden
+Climatological,Wildfire,Kallithea and Dervenochoria wildfires,3.0,19011.0,2023-07-17,2023-07-26,Greece
+Meteorological,Storm,,1.0,20.0,2023-07-18,2023-07-19,Bosnia and Herz.
+Meteorological,Storm,,1.0,6100.0,2023-07-18,2023-07-20,Croatia
+Meteorological,Storm,,,20.0,2023-07-18,2023-07-19,Serbia
+Meteorological,Storm,,,,2023-07-18,2023-07-19,Slovakia
+Meteorological,Storm,,1.0,3003.0,2023-07-18,2023-07-19,Slovenia
+Meteorological,Storm,,2.0,15040.0,2023-07-24,2023-07-25,Switzerland
+Meteorological,Storm,,1.0,,2023-07-21,2023-07-25,Germany
+Meteorological,Storm,,2.0,,2023-07-21,2023-07-25,Italy
+Meteorological,Storm,,2.0,,2023-07-25,2023-07-25,Romania
+Meteorological,Storm,,1.0,,2023-07-21,2023-07-25,Serbia
+Meteorological,Storm,Tropical cyclone 'Khanoun',3.0,13200.0,2023-08-11,2023-08-16,Russia
+Hydrological,Flood,,6.0,1500120.0,2023-08-03,2023-08-04,Slovenia
+Climatological,Wildfire,,,1435.0,2023-08-05,2023-08-09,Portugal
+Climatological,Wildfire,,20.0,,2023-08-19,2023-08-27,Greece
+Hydrological,Flood,,3.0,6000.0,2023-09-02,2023-09-04,Spain
+Hydrological,Flood,,4.0,4000.0,2023-09-07,2023-09-08,Bulgaria
+Hydrological,Flood,,17.0,5260.0,2023-09-04,2023-09-07,Greece
+Meteorological,Storm,Storm 'Elias',,250.0,2023-09-27,2023-09-28,Greece
+Meteorological,Storm,Storm 'Ciaran',2.0,,2023-11-02,2023-11-03,Belgium
+Meteorological,Storm,Storm 'Ciaran',1.0,,2023-11-01,2023-11-02,Germany
+Meteorological,Storm,Storm 'Ciaran',1.0,,2023-11-02,2023-11-03,Spain
+Meteorological,Storm,Storm 'Ciaran',2.0,16.0,2023-11-02,2023-11-03,France
+Meteorological,Storm,Storm 'Ciaran',,,2023-11-02,2023-11-03,United Kingdom
+Meteorological,Storm,Storm 'Ciaran',8.0,1200.0,2023-11-02,2023-11-03,Italy
+Meteorological,Storm,Storm 'Ciaran',1.0,,2023-11-06,2023-11-06,Netherlands
+Meteorological,Storm,Storm 'Domingos',,,2023-11-04,2023-11-07,Spain
+Meteorological,Storm,Storm 'Domingos',,517050.0,2023-11-04,2023-11-07,France
+Climatological,Wildfire,,,800.0,2023-11-02,2023-11-03,Spain
+Hydrological,Flood,,,3000.0,2023-11-06,2023-11-10,Belgium
+Hydrological,Flood,,,3500.0,2023-11-06,2023-11-07,France
+Geophysical,Earthquake,,,3665.0,2023-10-25,2023-12-18,Iceland
+Meteorological,Storm,Storm 'Frederico,2.0,,2023-11-18,2023-11-19,Bulgaria
+Meteorological,Storm,Storm 'Frederico,,,2023-11-15,2023-11-16,France
+Meteorological,Storm,Storm 'Bettina',2.0,36.0,2023-11-25,2023-11-27,Bulgaria
+Meteorological,Storm,Storm 'Bettina',2.0,,2023-11-27,2023-11-28,Germany
+Meteorological,Storm,Storm 'Bettina',4.0,10.0,2023-11-26,2023-11-28,Moldova
+Meteorological,Storm,Storm 'Bettina',,,2023-11-25,2023-11-27,Romania
+Meteorological,Storm,Storm 'Bettina',2.0,,2023-11-26,2023-11-27,Russia
+Meteorological,Storm,Storm 'Bettina',12.0,23.0,2023-11-26,2023-11-27,Ukraine
+Hydrological,Flood,,1.0,6050.0,2023-12-30,2024-01-03,France
+Climatological,Drought,,,,2023-01-01,2024-01-01,Italy
+Hydrological,Flood,,,,2024-02-13,2024-02-13,Greece
+Meteorological,Storm,Storm 'Monica' (Elfi),6.0,,2024-03-09,2024-03-10,Switzerland
+Meteorological,Storm,Storm 'Monica' (Elfi),1.0,,2024-03-09,2024-03-10,Spain
+Meteorological,Storm,Storm 'Monica' (Elfi),8.0,1.0,2024-03-09,2024-03-10,France
+Meteorological,Storm,Storm 'Monica' (Elfi),1.0,3.0,2024-03-09,2024-03-10,Italy
+Hydrological,Flood,,1.0,750.0,2024-03-30,2024-04-04,France
+Hydrological,Flood,,3.0,38400.0,2024-04-03,2024-04-12,Russia
+Biological,Epidemic,Measles,,1749.0,2024-01-01,2024-04-01,Bosnia and Herz.
+Hydrological,Flood,,12.0,3407.0,2024-05-31,2024-06-04,Germany
+Meteorological,Extreme Temperature,,1055.0,,2024-06-01,2024-09-30,Austria
+Meteorological,Extreme Temperature,,249.0,,2024-06-01,2024-09-30,Belgium
+Meteorological,Extreme Temperature,,3414.0,,2024-06-01,2024-09-30,Bulgaria
+Meteorological,Extreme Temperature,,909.0,,2024-06-01,2024-09-30,Bosnia and Herz.
+Meteorological,Extreme Temperature,,363.0,,2024-06-01,2024-09-30,Switzerland
+Meteorological,Extreme Temperature,,544.0,,2024-06-01,2024-09-30,Czech Rep.
+Meteorological,Extreme Temperature,,6282.0,,2024-06-01,2024-09-30,Germany
+Meteorological,Extreme Temperature,,174.0,,2024-06-01,2024-09-30,Denmark
+Meteorological,Extreme Temperature,,6743.0,,2024-06-01,2024-09-30,Spain
+Meteorological,Extreme Temperature,,85.0,,2024-06-01,2024-09-30,Estonia
+Meteorological,Extreme Temperature,,152.0,,2024-06-01,2024-09-30,Finland
+Meteorological,Extreme Temperature,,2451.0,,2024-06-01,2024-09-30,France
+Meteorological,Extreme Temperature,,573.0,,2024-06-01,2024-09-30,United Kingdom
+Meteorological,Extreme Temperature,,5980.0,,2024-06-01,2024-09-30,Greece
+Meteorological,Extreme Temperature,,1255.0,,2024-06-01,2024-09-30,Croatia
+Meteorological,Extreme Temperature,,1443.0,,2024-06-01,2024-09-30,Hungary
+Meteorological,Extreme Temperature,,37.0,,2024-06-01,2024-09-30,Ireland
+Meteorological,Extreme Temperature,,19038.0,,2024-06-01,2024-09-30,Italy
+Meteorological,Extreme Temperature,,329.0,,2024-06-01,2024-09-30,Lithuania
+Meteorological,Extreme Temperature,,15.0,,2024-06-01,2024-09-30,Luxembourg
+Meteorological,Extreme Temperature,,71.0,,2024-06-01,2024-09-30,Latvia
+Meteorological,Extreme Temperature,,135.0,,2024-06-01,2024-09-30,Montenegro
+Meteorological,Extreme Temperature,,234.0,,2024-06-01,2024-09-30,Netherlands
+Meteorological,Extreme Temperature,,18.0,,2024-06-01,2024-09-30,Norway
+Meteorological,Extreme Temperature,,1780.0,,2024-06-01,2024-09-30,Poland
+Meteorological,Extreme Temperature,,938.0,,2024-06-01,2024-09-30,Portugal
+Meteorological,Extreme Temperature,,4943.0,,2024-06-01,2024-09-30,Romania
+Meteorological,Extreme Temperature,,2515.0,,2024-06-01,2024-09-30,Serbia
+Meteorological,Extreme Temperature,,522.0,,2024-06-01,2024-09-30,Slovakia
+Meteorological,Extreme Temperature,,280.0,,2024-06-01,2024-09-30,Slovenia
+Meteorological,Extreme Temperature,,30.0,,2024-06-01,2024-09-30,Sweden
+Climatological,Wildfire,,1.0,900.0,2024-08-10,2024-08-14,Greece
+Meteorological,Storm,Storm 'Boris',5.0,2220.0,2024-09-15,2024-09-18,Austria
+Meteorological,Storm,Storm 'Boris',13.0,250000.0,2024-09-13,2024-09-14,Czech Rep.
+Meteorological,Storm,Storm 'Boris',3.0,1000.0,2024-09-15,2024-09-19,Italy
+Meteorological,Storm,Storm 'Boris',9.0,57000.0,2024-09-13,2024-09-18,Poland
+Meteorological,Storm,Storm 'Boris',7.0,15000.0,2024-09-14,2024-09-15,Romania
+Meteorological,Storm,Storm 'Boris',1.0,,2024-09-15,2024-09-16,Slovakia
+Climatological,Wildfire,,9.0,41499.0,2024-09-15,2024-09-20,Portugal
+Hydrological,Flood,,27.0,5000.0,2024-10-03,2024-10-04,Bosnia and Herz.
+Hydrological,Flood,,,2485.0,2024-10-17,2024-10-18,France
+Hydrological,Flood,,232.0,36115.0,2024-10-27,2024-11-04,Spain
+Hydrological,Flood,,,500.0,2024-11-13,2024-11-14,Spain
+Meteorological,Storm,Storm 'Bert' & 'Conall (Sigrid & Telse),,26.0,2024-11-25,2024-11-26,France
+Meteorological,Storm,Storm 'Bert' & 'Conall (Sigrid & Telse),5.0,750.0,2024-11-23,2024-11-27,United Kingdom
+Meteorological,Storm,Storm 'Bert' & 'Conall (Sigrid & Telse),,,2024-11-23,2024-11-27,Ireland
+Meteorological,Storm,Storm 'Bert' & 'Conall (Sigrid & Telse),1.0,,2024-11-26,2024-11-27,Netherlands
+Meteorological,Storm,Storm 'Herminia',1.0,,2025-01-27,2025-01-28,Spain
+Meteorological,Storm,Storm 'Herminia',,1902.0,2025-01-28,2025-01-30,France
+Meteorological,Storm,Storm 'Herminia',,,2025-01-27,2025-01-28,Italy
+Hydrological,Flood,,,250.0,2025-03-14,2025-03-16,Italy
+Hydrological,Flood,,,3000.0,2025-03-26,2025-03-31,Bosnia and Herz.
+Hydrological,Flood,,,,2025-03-26,2025-03-31,Croatia
+Climatological,Glacial Flood,Glacier du Birch,1.0,,2025-05-28,2025-06-28,Switzerland
+Climatological,Wildfire,,,240.0,2025-07-08,2025-07-09,France
+Geophysical,Earthquake,,,169.0,2025-07-29,2025-07-29,Russia
+Hydrological,Flood,,3.0,2500.0,2025-07-28,2025-07-28,Romania
+Climatological,Wildfire,,3.0,246.0,2025-08-09,2025-08-25,Portugal
+Meteorological,Storm,Storm 'Gabrielle',,600.0,2025-09-25,2025-09-27,
+Meteorological,Storm,Storm 'Gabrielle',,,2025-09-25,2025-09-27,Spain
+Hydrological,Flood,,9.0,2010.0,2025-09-30,2025-09-30,Ukraine
+Hydrological,Flood,,4.0,100.0,2025-10-03,2025-10-03,Bulgaria
+Meteorological,Storm,,,1018.0,2025-10-10,2025-10-13,Spain
+Meteorological,Storm,,,2055.0,2025-11-13,2025-11-17,United Kingdom
+Meteorological,Storm,,1.0,420.0,2025-11-18,2025-11-22,Albania
+Meteorological,Storm,Storms 'Claudia' (Aemet) and 'Sascha',1.0,420.0,2025-11-18,2025-11-22,Albania
+Meteorological,Storm,Storms 'Claudia' (Aemet) and 'Sascha',,,2025-11-18,2025-11-22,Greece
+Meteorological,Storm,Storms 'Claudia' (Aemet) and 'Sascha',2.0,300.0,2025-11-16,2025-11-18,Italy
+Meteorological,Storm,Storms 'Claudia' (Aemet) and 'Sascha',,,2025-11-16,2025-11-18,Slovenia
+Hydrological,Flood,,,231.0,2018-06-25,2018-06-30,Serbia
+Climatological,Wildfire,,,,2018-08-06,2018-08-09,Spain
+Climatological,Wildfire,,,329.0,2018-08-03,2018-08-08,Portugal
+Hydrological,Flood,,10.0,23.0,2018-08-21,2018-08-21,Italy
+Meteorological,Storm,Storm 'Zeetje',1.0,,2019-01-05,2019-01-17,Germany
+Meteorological,Extreme Temperature,,4.0,,2019-06-24,2019-06-30,Germany
+Meteorological,Storm,,,150000.0,2019-06-27,2019-06-27,Hungary
+Meteorological,Storm,Storm 'Ciara' (Sabine),3.0,6.0,2020-02-08,2020-02-10,Poland
+Meteorological,Storm,,4.0,157.0,2019-08-22,2019-08-22,Poland
+Meteorological,Storm,Storm 'Ciara' (Sabine),1.0,,2020-02-07,2020-02-09,Sweden
+Hydrological,Flood,,,10000.0,2019-08-28,2019-08-31,Russia
+Meteorological,Storm,,4.0,3000.0,2000-07-25,2000-07-25,Ukraine
+Meteorological,Storm,Storm 'Amelie',1.0,,2019-10-28,2019-11-03,Spain
+Geophysical,Earthquake,,,754.0,2019-11-11,2019-11-11,France
+Meteorological,Storm,,5.0,625.0,2019-11-23,2019-11-24,France
+Meteorological,Storm,Storm 'Ciara' (Sabine),1.0,5.0,2020-02-09,2020-02-09,Czech Rep.
+Hydrological,Flood,,,5200.0,2020-06-27,2020-06-29,Poland
+Hydrological,Flood,,,7371.0,2001-04-07,2001-05-02,France
+Climatological,Wildfire,,5.0,300.0,2020-07-06,2020-07-06,Ukraine
+Meteorological,Storm,,3.0,920.0,2020-08-29,2020-08-30,Italy
+Hydrological,Mass Movement,,3.0,182.0,2020-08-12,2020-08-12,Italy
+Hydrological,Mass Movement,,17.0,,2021-01-13,2021-01-31,Switzerland
+Hydrological,Flood,,1.0,,2021-05-16,2021-05-17,Slovakia
+Hydrological,Flood,,1.0,600.0,2021-06-21,2021-06-21,France
+Meteorological,Storm,,,600.0,2021-06-28,2021-06-29,Germany
+Hydrological,Flood,,,,2021-07-15,2021-07-16,Switzerland
+Hydrological,Flood,,1.0,,2021-07-13,2021-07-13,Italy
+Meteorological,Storm,,,,2021-07-24,2021-07-25,Belgium
+Climatological,Wildfire,,,500.0,2021-08-02,2021-08-04,Bulgaria
+Climatological,Wildfire,,1.0,80000.0,2021-07-30,2021-09-01,Macedonia
+Hydrological,Mass Movement,,6.0,3003.0,2021-08-22,2021-08-23,Russia
+Hydrological,Flood,,,600.0,2021-09-14,2021-09-14,France
+Meteorological,Storm,Storm 'Aurore' (Hendrick),,2.0,2021-10-21,2021-10-22,Czech Rep.
+Hydrological,Flood,,1.0,100.0,2021-11-22,2021-12-01,Spain
+Meteorological,Storm,Storm 'Aurore' (Hendrick),,,2021-10-21,2021-10-22,France
+Hydrological,Flood,,1.0,302.0,2021-11-27,2021-11-29,France
+Hydrological,Flood,,,100.0,2021-12-09,2021-12-10,France
+Meteorological,Storm,Storm 'Malik' (Nadia),,,2022-01-28,2022-01-31,Norway
+Meteorological,Storm,Storm 'Dudley' (Ylenia),3.0,,2022-02-16,2022-02-17,Germany
+Climatological,Wildfire,,16.0,2202.0,2022-05-06,2022-05-10,Russia
+Meteorological,Storm,,2.0,65.0,2022-08-14,2022-08-18,Italy
+Hydrological,Flood,,,420.0,2023-03-30,2023-04-02,Belarus
+Climatological,Wildfire,,21.0,15000.0,2023-05-07,2023-05-08,Russia
+Hydrological,Flood,,7.0,10803.0,2001-06-19,2001-06-22,Romania
+Climatological,Wildfire,,,,2000-05-01,2000-05-01,Russia
+Meteorological,Storm,Storm 'Aurore' (Hendrick),,4.0,2021-10-21,2021-10-22,Netherlands
+Climatological,Wildfire,,2.0,,2007-08-25,2007-08-26,Bulgaria
+Meteorological,Extreme Temperature,,,,2000-01-01,2000-01-01,Bulgaria
+Hydrological,Flood,,11.0,300000.0,2001-07-07,2001-07-13,Russia
+Hydrological,Flood,,,3000.0,2000-03-09,2000-03-11,Romania
+Hydrological,Flood,,,19800.0,2000-03-01,2000-03-01,Russia
+Hydrological,Flood,,,4000.0,2000-04-05,2000-04-25,
+Hydrological,Flood,,1.0,23000.0,2000-04-14,2000-04-14,Russia
+Meteorological,Extreme Temperature,,40.0,200.0,2000-06-01,2000-06-01,Croatia
+Meteorological,Extreme Temperature,,,,2000-05-01,2000-05-11,Ukraine
+Hydrological,Flood,,,600.0,2000-12-11,2000-12-16,France
+Climatological,Wildfire,,,,2001-09-01,2001-09-01,Portugal
+Climatological,Wildfire,,7.0,167.0,2000-07-01,2000-07-01,Bulgaria
+Climatological,Wildfire,,,,2000-08-01,2000-08-01,Macedonia
+Hydrological,Flood,,,600.0,2000-12-02,2000-12-02,France
+Meteorological,Storm,,4.0,600.0,2000-12-01,2000-12-01,United Kingdom
+Hydrological,Flood,,,390.0,2001-01-01,2001-01-07,France
+Hydrological,Flood,,9.0,300000.0,2001-03-04,2001-03-17,Ukraine
+Meteorological,Storm,,8.0,,2001-03-03,2001-03-03,Russia
+Hydrological,Flood,,16.0,25000.0,2001-08-06,2001-08-12,Russia
+Meteorological,Extreme Temperature,,15.0,,2001-12-01,2001-12-01,Macedonia
+Meteorological,Extreme Temperature,,21.0,,2001-10-01,2001-10-01,Latvia
+Hydrological,Flood,,,1200.0,2001-09-06,2001-09-06,Croatia
+Meteorological,Storm,Storm 'Jennifer',4.0,6.0,2002-01-26,2002-01-29,Germany
+Hydrological,Flood,,,1200.0,2002-02-11,2002-02-13,Belgium
+Geophysical,Earthquake,,1.0,100.0,2002-04-24,2002-04-24,
+Meteorological,Storm,,7.0,13.0,2002-07-10,2002-07-10,Germany
+Hydrological,Flood,,,250.0,2002-08-10,2002-08-12,United Kingdom
+Hydrological,Flood,,9.0,60000.0,2002-08-12,2002-08-20,Austria
+Climatological,Wildfire,,,,2002-07-01,2002-07-01,Russia
+Meteorological,Storm,Storm 'Jeanett',4.0,3.0,2002-10-27,2002-10-27,France
+Meteorological,Storm,Storm 'Jeanett',4.0,,2002-10-26,2002-10-28,Netherlands
+Geophysical,Earthquake,,,1009.0,2002-10-29,2002-10-29,Italy
+Hydrological,Mass Movement,,1.0,231.0,2002-11-14,2002-11-14,Switzerland
+Climatological,Drought,,,,2002-05-01,2002-01-01,Italy
+Hydrological,Flood,,1.0,,2003-01-01,2003-01-08,France
+Hydrological,Flood,,,,2003-01-01,2003-01-08,Romania
+Hydrological,Flood,,,3500.0,2011-08-26,2011-08-27,Russia
+Hydrological,Flood,,3.0,600.0,2003-01-02,2003-01-02,Romania
+Meteorological,Storm,Etau,,,2003-08-08,2003-08-11,Russia
+Meteorological,Extreme Temperature,,418.0,,2003-07-19,2003-07-22,Czech Rep.
+Meteorological,Extreme Temperature,,15090.0,,2003-08-01,2003-08-11,Spain
+Meteorological,Extreme Temperature,,19490.0,,2003-08-01,2003-08-20,France
+Meteorological,Extreme Temperature,,788.0,,2003-07-01,2003-07-01,Croatia
+Meteorological,Extreme Temperature,,,,2003-07-01,2003-08-01,Slovakia
+Meteorological,Storm,,5.0,70.0,2003-07-15,2003-07-15,France
+Hydrological,Flood,,2.0,350.0,2003-08-29,2003-08-31,Italy
+Geophysical,Earthquake,,,138.0,2004-05-31,2004-05-31,Russia
+Meteorological,Storm,,1.0,600.0,2004-06-13,2004-06-15,Romania
+Meteorological,Storm,,4.0,,2005-02-01,2005-02-01,Bosnia and Herz.
+Meteorological,Storm,,4.0,,2005-01-01,2005-02-01,Hungary
+Meteorological,Storm,,2.0,200.0,2004-11-13,2004-11-14,Italy
+Meteorological,Storm,,,200.0,2004-10-27,2004-10-31,Ireland
+Climatological,Drought,,,,2004-09-01,2005-01-01,Portugal
+Meteorological,Storm,Storm 'Erwin' (Gudrun),,1500000.0,2005-01-09,2005-01-10,Latvia
+Meteorological,Storm,Storm 'Erwin' (Gudrun),,1.0,2005-01-08,2005-01-08,Netherlands
+Meteorological,Storm,Storm 'Erwin' (Gudrun),1.0,,2005-01-07,2005-01-08,Poland
+Meteorological,Storm,,2.0,400000.0,2005-01-23,2005-02-28,Albania
+Meteorological,Storm,,,,2005-01-01,2005-02-01,Bulgaria
+Hydrological,Flood,,1.0,,2005-03-17,2005-03-30,Czech Rep.
+Hydrological,Flood,,,,2005-03-17,2005-03-25,Hungary
+Hydrological,Flood,,3.0,222.0,2005-04-01,2005-04-01,Russia
+Climatological,Wildfire,,15.0,136.0,2005-05-15,2005-07-14,Portugal
+Hydrological,Flood,,,900.0,2005-07-10,2005-07-13,Austria
+Hydrological,Flood,,24.0,14669.0,2005-07-12,2005-07-28,Romania
+Hydrological,Flood,,,,2005-08-19,2005-08-24,Slovenia
+Hydrological,Flood,,1.0,3000.0,2005-09-07,2005-09-09,France
+Hydrological,Flood,,2.0,1040.0,2005-09-14,2005-10-04,Bulgaria
+Meteorological,Extreme Temperature,,1.0,165.0,2005-11-25,2005-11-27,Germany
+Meteorological,Extreme Temperature,,,,2005-11-25,2005-11-27,United Kingdom
+Hydrological,Flood,,,420.0,2006-04-21,2006-05-11,Russia
+Meteorological,Extreme Temperature,,,,2005-12-27,2006-01-01,Austria
+Meteorological,Extreme Temperature,,2.0,,2005-12-27,2005-12-30,France
+Meteorological,Extreme Temperature,,191.0,,2005-10-01,2006-02-06,Poland
+Meteorological,Extreme Temperature,,801.0,59600.0,2006-01-16,2006-02-06,Ukraine
+Hydrological,Flood,,,250.0,2005-08-22,2005-08-27,Croatia
+Meteorological,Extreme Temperature,,13.0,500.0,2005-07-27,2005-08-01,Romania
+Meteorological,Storm,,1.0,,2006-03-01,2006-03-01,Switzerland
+Meteorological,Storm,,4.0,,2006-03-01,2006-03-01,France
+Hydrological,Flood,,,600.0,2006-03-13,2006-03-23,Romania
+Hydrological,Flood,,,516.0,2006-03-28,2006-04-17,Austria
+Hydrological,Flood,,3.0,1000.0,2006-03-28,2006-04-17,Germany
+Hydrological,Flood,,,32000.0,2006-03-28,2006-05-09,Hungary
+Geophysical,Earthquake,,,12040.0,2006-04-20,2006-04-20,Russia
+Hydrological,Flood,,,35000.0,2006-04-10,2006-05-07,
+Hydrological,Flood,,1.0,,2006-03-28,2006-05-09,Slovakia
+Hydrological,Flood,,,,2006-04-07,2006-05-24,Bulgaria
+Hydrological,Flood,,,,2006-04-07,2006-05-24,Ukraine
+Hydrological,Flood,,1.0,600.0,2006-06-19,2006-06-19,Romania
+Hydrological,Flood,,,6000.0,2006-07-12,2006-07-14,Russia
+Meteorological,Extreme Temperature,,2.0,,2006-07-15,2006-07-23,Germany
+Meteorological,Extreme Temperature,,21.0,,2006-07-15,2006-08-04,Spain
+Meteorological,Storm,Storm 'Kyrill',,,2007-01-18,2007-01-18,Austria
+Meteorological,Storm,Storm 'Kyrill',,,2007-01-17,2007-01-18,Switzerland
+Meteorological,Storm,Storm 'Kyrill',,,2007-01-17,2007-01-19,Denmark
+Meteorological,Storm,Storm 'Kyrill',12.0,,2007-01-17,2007-01-19,United Kingdom
+Meteorological,Extreme Temperature,,6.0,,2007-06-01,2007-06-01,Italy
+Meteorological,Storm,,1.0,,2007-01-23,2007-01-26,Spain
+Hydrological,Flood,,1.0,5000.0,2007-04-03,2007-04-09,Spain
+Meteorological,Extreme Temperature,,5.0,,2007-07-01,2007-07-01,Austria
+Meteorological,Extreme Temperature,,,,2007-07-16,2007-07-24,Serbia
+Hydrological,Flood,,9.0,4116.0,2007-09-05,2007-09-11,Romania
+Meteorological,Storm,,13.0,,2007-08-21,2007-08-21,Poland
+Hydrological,Flood,,2.0,1400.0,2007-08-25,2007-08-26,Romania
+Hydrological,Flood,,,1086.0,2007-11-26,2007-11-29,Montenegro
+Meteorological,Extreme Temperature,,10.0,,2008-01-01,2008-01-01,Bulgaria
+Meteorological,Storm,Storm 'Emma',,,2008-02-29,2008-03-01,Belgium
+Meteorological,Storm,Storm 'Emma',2.0,,2008-02-29,2008-02-29,Czech Rep.
+Geophysical,Earthquake,,2.0,3708.0,2008-06-08,2008-06-08,Greece
+Meteorological,Storm,,,606.0,2008-06-10,2008-06-10,France
+Hydrological,Flood,,8.0,3000.0,2008-09-06,2008-09-08,United Kingdom
+Meteorological,Extreme Temperature,,2.0,,2009-01-06,2009-01-08,France
+Meteorological,Extreme Temperature,,43.0,20.0,2009-01-01,2009-01-15,Romania
+Meteorological,Storm,Hilal,3.0,,2008-06-01,2008-06-02,Germany
+Meteorological,Extreme Temperature,,1.0,10000.0,2009-01-01,2009-01-01,Bosnia and Herz.
+Hydrological,Flood,,,2630.0,2009-02-01,2009-02-16,Bosnia and Herz.
+Hydrological,Flood,,,4.0,2009-06-25,2009-06-25,Romania
+Meteorological,Storm,,,,2009-07-23,2009-07-24,Austria
+Meteorological,Storm,,1.0,,2009-07-23,2009-07-24,Germany
+Meteorological,Storm,,2.0,180.0,2009-11-13,2009-12-04,United Kingdom
+Meteorological,Extreme Temperature,,3.0,,2010-01-01,2010-01-01,Bulgaria
+Hydrological,Flood,,43.0,618.0,2010-02-20,2010-02-21,Portugal
+Meteorological,Storm,Storm 'Xynthia',,,2010-02-28,2010-02-28,Switzerland
+Meteorological,Storm,Storm 'Xynthia',,,2010-02-28,2010-02-28,Netherlands
+Meteorological,Storm,Storm 'Xynthia',3.0,,2010-02-27,2010-02-27,Portugal
+Hydrological,Flood,,,3150.0,2010-03-01,2010-03-02,Serbia
+Geophysical,Volcanic Activity,Eyjafjallajokull,,,2010-03-01,2010-04-01,Iceland
+Hydrological,Flood,,1.0,1200.0,2010-05-15,2010-06-03,Czech Rep.
+Hydrological,Flood,,16.0,100000.0,2010-05-17,2010-06-03,Poland
+Meteorological,Storm,,,,2004-01-22,2004-01-25,Greece
+Hydrological,Flood,,3.0,700.0,2010-08-07,2010-08-08,Poland
+Climatological,Wildfire,,8.0,1200.0,2010-09-02,2010-09-03,Russia
+Meteorological,Extreme Temperature,,,,2010-11-28,2010-12-01,United Kingdom
+Meteorological,Extreme Temperature,,5.0,,2010-11-27,2010-12-01,Lithuania
+Hydrological,Flood,,3.0,20000.0,2010-12-01,2010-12-03,Bosnia and Herz.
+Hydrological,Flood,,,1750.0,2010-12-01,2010-12-03,Serbia
+Meteorological,Storm,,,,2010-12-23,2010-12-24,Belgium
+Meteorological,Storm,,,,2010-12-23,2010-12-24,Germany
+Meteorological,Storm,,,,2010-12-23,2010-12-28,Denmark
+Climatological,Drought,,,,2010-04-01,2010-08-20,Russia
+Meteorological,Storm,,5.0,71.0,2011-08-18,2011-08-18,Belgium
+Meteorological,Storm,,1.0,14.0,2011-07-31,2011-07-31,Russia
+Meteorological,Extreme Temperature,,10.0,,2011-08-17,2011-08-24,Italy
+Meteorological,Extreme Temperature,,26.0,,2011-11-01,2011-12-01,Poland
+Meteorological,Extreme Temperature,,5.0,230000.0,2012-01-01,2012-02-01,Albania
+Meteorological,Extreme Temperature,,3.0,,2012-02-01,2012-02-01,Belgium
+Meteorological,Extreme Temperature,,12.0,,2012-02-01,2012-02-01,France
+Meteorological,Extreme Temperature,,112.0,87500.0,2012-01-27,2012-02-01,Ukraine
+Geophysical,Earthquake,,7.0,11050.0,2012-05-20,2012-05-20,Italy
+Geophysical,Earthquake,,,210.0,2012-05-22,2012-05-22,Bulgaria
+Geophysical,Earthquake,,17.0,14350.0,2012-05-29,2012-05-29,Italy
+Meteorological,Storm,,1.0,310.0,2012-07-14,2012-07-15,Poland
+Meteorological,Extreme Temperature,,14.0,,2012-10-28,2012-12-01,Poland
+Meteorological,Extreme Temperature,,4.0,,2012-12-07,2012-12-31,Croatia
+Meteorological,Extreme Temperature,,6.0,,2012-12-07,2012-12-31,Lithuania
+Meteorological,Extreme Temperature,,170.0,1594.0,2012-12-14,2012-12-25,Russia
+Meteorological,Extreme Temperature,,6.0,,2012-12-07,2012-12-31,Serbia
+Hydrological,Flood,,,1500.0,2012-11-05,2012-11-09,Croatia
+Climatological,Drought,,,,2012-06-01,2012-08-31,Russia
+Meteorological,Storm,,1.0,3967.0,2013-01-18,2013-01-19,Portugal
+Climatological,Wildfire,,3.0,1100.0,2004-07-28,2004-08-04,Spain
+Hydrological,Flood,,4.0,6350.0,2013-05-28,2013-06-20,Germany
+Hydrological,Flood,,2.0,2000.0,2013-06-17,2013-06-19,France
+Meteorological,Storm,,,84.0,2013-06-20,2013-06-21,Switzerland
+Hydrological,Flood,,,34135.0,2013-08-01,2013-08-07,Russia
+Hydrological,Flood,,,2670.0,2013-03-14,2013-03-16,Serbia
+Meteorological,Storm,,,14000.0,2013-03-15,2013-03-15,Hungary
+Meteorological,Extreme Temperature,,2.0,31500.0,2014-01-18,2014-01-29,Belarus
+Meteorological,Storm,Storm 'Xaver',2.0,4200.0,2013-12-05,2013-12-05,United Kingdom
+Meteorological,Storm,Storm 'Xaver',,,2013-12-04,2013-12-07,Netherlands
+Meteorological,Storm,Storm 'Dirk',,,2013-12-24,2013-12-25,Spain
+Meteorological,Storm,Storm 'Dirk',,,2013-12-24,2013-12-24,Netherlands
+Hydrological,Flood,,2.0,600.0,2013-12-23,2014-02-28,United Kingdom
+Meteorological,Storm,,5.0,,2014-11-09,2014-11-16,Italy
+Meteorological,Storm,,3.0,,2014-01-07,2014-01-07,Spain
+Meteorological,Storm,,2.0,,2014-01-07,2014-01-07,France
+Meteorological,Storm,,,54.0,2014-01-04,2014-01-07,Portugal
+Hydrological,Flood,,2.0,1601.0,2014-01-18,2014-01-20,Italy
+Hydrological,Flood,,4.0,80.0,2014-01-31,2014-02-01,Italy
+Hydrological,Flood,,,3000.0,2014-04-19,2014-04-24,Serbia
+Hydrological,Flood,,51.0,49600.0,2014-05-12,2014-05-28,Serbia
+Hydrological,Flood,,6.0,24545.0,2014-05-29,2014-06-10,Russia
+Meteorological,Storm,,,,2014-06-08,2014-06-10,Belgium
+Meteorological,Storm,,,,2014-06-08,2014-06-10,France
+Hydrological,Flood,,3.0,8010.0,2014-05-02,2014-05-04,Italy
+Meteorological,Storm,,1.0,40.0,2014-07-08,2014-07-08,Bulgaria
+Meteorological,Extreme Temperature,,,8800.0,2014-12-28,2015-01-03,Macedonia
+Meteorological,Storm,,3.0,,2015-03-02,2015-03-09,Italy
+Meteorological,Extreme Temperature,,410.0,,2015-06-30,2015-07-05,Belgium
+Meteorological,Extreme Temperature,,3275.0,,2015-06-29,2015-08-09,France
+Hydrological,Flood,,,1200.0,2015-10-14,2015-10-16,Croatia
+Hydrological,Flood,,4.0,50.0,2015-10-14,2015-10-16,Italy
+Meteorological,Extreme Temperature,,37.0,,2016-01-01,2016-01-12,Ukraine
+Hydrological,Flood,,1.0,400.0,2016-11-21,2016-11-25,Italy
+Geophysical,Earthquake,,296.0,4854.0,2016-08-24,2016-08-24,Italy
+Hydrological,Flood,,,,2016-06-01,2016-06-01,Austria
+Hydrological,Flood,,2.0,3.0,2016-05-28,2016-05-28,Poland
+Hydrological,Flood,,2.0,,2016-06-02,2016-06-03,Romania
+Meteorological,Storm,,1.0,,2016-06-23,2016-06-24,Belgium
+Hydrological,Flood,,3.0,4500.0,2016-11-07,2016-11-10,Albania
+Meteorological,Extreme Temperature,,,,2017-01-20,2017-01-20,Greece
+Meteorological,Extreme Temperature,,6.0,,2017-01-20,2017-01-20,Serbia
+Meteorological,Extreme Temperature,,400.0,,2020-08-05,2020-08-16,Netherlands
+Meteorological,Storm,Storm 'Eleanor',2.0,,2018-01-03,2018-01-04,Spain
+Hydrological,Flood,,,100.0,2017-11-22,2017-11-26,United Kingdom
+Hydrological,Flood,,,400.0,2017-11-22,2017-11-23,Ireland
+Climatological,Drought,,,,2017-07-01,2017-07-01,Italy
+Meteorological,Storm,Storm 'Eleanor',2.0,,2018-01-02,2018-01-03,Ireland
+Meteorological,Extreme Temperature,,3.0,,2019-06-26,2019-06-30,Italy
+Meteorological,Storm,,,90.0,2019-08-09,2019-08-09,France
+Meteorological,Storm,,,1519.0,2019-08-09,2019-08-09,Luxembourg
+Meteorological,Storm,,1.0,,2019-08-22,2019-08-22,Slovakia
+Hydrological,Flood,,7.0,3500.0,2019-09-11,2019-09-14,Spain
+Hydrological,Flood,,28.0,14.0,2019-10-19,2019-10-19,Russia
+Hydrological,Flood,,3.0,1000.0,2019-10-22,2019-10-23,France
+Meteorological,Storm,Storm 'Amelie',,12.0,2019-11-03,2019-11-03,Italy
+Meteorological,Storm,,2.0,200.0,2019-11-12,2019-11-18,Italy
+Meteorological,Storm,"Storms 'Elsa' (Yadid), 'Fabien'",3.0,51.0,2019-12-19,2019-12-22,Portugal
+Meteorological,Storm,Storm 'Ciara' (Sabine),9.0,33.0,2020-02-09,2020-02-10,Germany
+Meteorological,Storm,Storm 'Ciara' (Sabine),,31.0,2020-02-10,2020-02-10,France
+Hydrological,Flood,,,3600.0,2020-06-16,2020-06-25,Serbia
+Climatological,Wildfire,,11.0,1668.0,2020-09-30,2020-10-08,Ukraine
+Climatological,Wildfire,,6.0,,2000-10-01,2000-10-01,Slovakia
+Meteorological,Storm,Storm 'Alex',,13.0,2020-10-02,2020-10-03,Switzerland
+Hydrological,Flood,,,200.0,2020-11-20,2020-11-23,Italy
+Meteorological,Extreme Temperature,,1924.0,,2020-07-30,2020-08-16,France
+Meteorological,Extreme Temperature,,2556.0,,2020-06-01,2020-08-01,United Kingdom
+Hydrological,Mass Movement,,10.0,1010.0,2020-12-30,2020-12-30,Norway
+Geophysical,Earthquake,,8.0,149407.0,2020-12-29,2020-12-29,Croatia
+Hydrological,Flood,,,25.0,2021-01-11,2021-01-12,Bulgaria
+Hydrological,Flood,,,22.0,2021-01-11,2021-01-12,Serbia
+Meteorological,Storm,,6.0,207.0,2000-09-19,2000-09-20,France
+Meteorological,Storm,,1.0,1700.0,2021-06-17,2021-06-18,Ukraine
+Climatological,Wildfire,,,,2000-07-01,2000-07-01,Russia
+Hydrological,Flood,,1.0,600.0,2000-07-06,2000-07-09,France
+Hydrological,Flood,,,2000.0,2000-04-26,2000-04-27,United Kingdom
+Hydrological,Flood,,,1200.0,2000-05-13,2000-05-13,Russia
+Climatological,Wildfire,,,,2000-07-01,2000-07-01,Russia
+Meteorological,Storm,,2.0,39010.0,2000-07-05,2000-07-05,Ukraine
+Hydrological,Flood,,,1320.0,2000-09-18,2000-09-18,Russia
+Climatological,Wildfire,,,,2000-06-01,2000-06-01,Russia
+Climatological,Wildfire,,7.0,7.0,2000-08-24,2000-08-24,Greece
+Hydrological,Flood,,3.0,40000.0,2000-10-09,2000-11-12,United Kingdom
+Hydrological,Mass Movement,,16.0,1500.0,2000-10-13,2000-10-16,Switzerland
+Meteorological,Storm,,1.0,2800.0,2000-11-05,2000-11-06,Ireland
+Meteorological,Storm,,5.0,183.0,2000-12-05,2000-12-08,Portugal
+Meteorological,Extreme Temperature,,145.0,6120.0,2001-01-01,2001-02-01,Russia
+Climatological,Drought,,,,2000-06-01,2000-01-01,Romania
+Hydrological,Flood,,11.0,450.0,2001-01-14,2001-01-14,Greece
+Hydrological,Flood,,3.0,8100.0,2001-03-21,2001-03-28,France
+Meteorological,Storm,,12.0,85.0,2001-07-06,2001-07-06,France
+Geophysical,Volcanic Activity,Mt. Etna,,,2001-07-18,2001-07-18,Italy
+Hydrological,Flood,,,1000.0,2001-10-21,2001-10-23,United Kingdom
+Meteorological,Extreme Temperature,,270.0,,2001-10-10,2002-01-20,Poland
+Meteorological,Extreme Temperature,,10.0,,2001-12-01,2001-12-01,Romania
+Meteorological,Extreme Temperature,,20.0,,2001-12-01,2001-12-01,Lithuania
+Hydrological,Flood,,,1500.0,2001-12-01,2001-12-01,Norway
+Hydrological,Flood,,,1500.0,2002-07-20,2002-07-26,Russia
+Meteorological,Storm,,2.0,12.0,2002-01-04,2002-01-04,Greece
+Hydrological,Flood,,2.0,3900.0,2002-06-10,2002-06-11,
+Hydrological,Flood,,1.0,500.0,2002-06-01,2002-06-01,Moldova
+Meteorological,Storm,,1.0,300.0,2002-11-14,2002-11-14,Austria
+Hydrological,Flood,,8.0,15000.0,2002-07-19,2002-08-03,Romania
+Hydrological,Flood,,4.0,3900.0,2002-08-01,2002-08-01,Romania
+Hydrological,Flood,,27.0,330108.0,2002-08-11,2002-08-20,Germany
+Hydrological,Flood,,,20.0,2002-08-04,2002-08-14,Italy
+Hydrological,Flood,,18.0,200000.0,2002-08-07,2002-08-31,Czech Rep.
+Hydrological,Flood,,,600.0,2002-08-26,2002-08-27,Belgium
+Hydrological,Flood,,1.0,,2002-08-10,2002-08-11,Bulgaria
+Hydrological,Flood,,1.0,66884.0,2002-09-17,2002-10-08,Albania
+Meteorological,Storm,Storm 'Jeanett',5.0,,2002-10-26,2002-10-28,Belgium
+Meteorological,Storm,Storm 'Jeanett',2.0,,2002-10-26,2002-10-26,Czech Rep.
+Meteorological,Storm,Storm 'Jeanett',3.0,,2002-10-27,2002-10-27,Poland
+Meteorological,Storm,Storm 'Jeanett',1.0,,2002-10-27,2002-10-27,Sweden
+Meteorological,Storm,Storm 'Calvann',1.0,7.0,2003-01-02,2003-01-03,Switzerland
+Climatological,Wildfire,,5.0,3004.0,2003-07-28,2003-07-30,France
+Hydrological,Flood,,,620.0,2002-11-14,2002-11-25,United Kingdom
+Geophysical,Earthquake,,2.0,,2002-09-06,2002-09-06,Italy
+Hydrological,Flood,,,36.0,2003-01-01,2003-01-08,Portugal
+Meteorological,Storm,Storm 'Calvann',1.0,,2003-01-02,2003-01-03,France
+Geophysical,Earthquake,,3.0,1805.0,2003-09-27,2003-09-27,Russia
+Climatological,Wildfire,,,,2003-07-18,2003-07-23,Croatia
+Meteorological,Extreme Temperature,,1039.0,,2003-07-01,2003-07-01,Switzerland
+Meteorological,Extreme Temperature,,301.0,,2003-07-01,2003-07-01,United Kingdom
+Meteorological,Extreme Temperature,,20089.0,,2003-07-16,2003-08-15,Italy
+Meteorological,Extreme Temperature,,2696.0,,2003-07-30,2003-08-15,Portugal
+Meteorological,Storm,,10.0,,2003-06-07,2003-06-08,Germany
+Climatological,Drought,,,1000000.0,2003-01-01,2003-01-01,Russia
+Geophysical,Earthquake,,1.0,605.0,2004-07-12,2004-07-12,Slovenia
+Climatological,Drought,,,,2003-02-01,2003-05-21,Croatia
+Climatological,Drought,,,,2003-07-01,2003-08-01,Hungary
+Hydrological,Flood,,,600.0,2004-03-27,2004-03-28,Spain
+Hydrological,Flood,,,1220.0,2004-03-30,2004-04-09,Russia
+Climatological,Wildfire,,9.0,1000.0,2004-05-14,2004-05-16,Russia
+Meteorological,Extreme Temperature,,15.0,,2004-07-01,2004-07-01,Macedonia
+Hydrological,Flood,,1.0,600.0,2004-07-27,2004-08-10,Poland
+Hydrological,Flood,,6.0,14000.0,2004-08-27,2004-08-29,Romania
+Meteorological,Storm,,,,2004-02-13,2004-02-16,Greece
+Meteorological,Storm,Storm 'Erwin' (Gudrun),3.0,80000.0,2005-01-07,2005-01-08,United Kingdom
+Meteorological,Storm,Storm 'Erwin' (Gudrun),,,2005-01-07,2005-01-08,Ireland
+Meteorological,Storm,Storm 'Erwin' (Gudrun),,,2005-01-13,2005-01-13,Norway
+Meteorological,Storm,,,3.0,2005-02-01,2005-02-01,Czech Rep.
+Meteorological,Storm,,3.0,,2005-01-01,2005-02-01,Romania
+Hydrological,Flood,,2.0,600.0,2005-03-17,2005-03-25,Romania
+Hydrological,Flood,,1.0,,2005-03-17,2005-03-25,Slovakia
+Hydrological,Flood,,6.0,,2005-05-26,2005-06-13,Bulgaria
+Hydrological,Flood,,17.0,200.0,2005-07-02,2005-07-06,Bulgaria
+Hydrological,Flood,,1.0,450.0,2005-07-07,2005-07-13,Germany
+Climatological,Wildfire,,2.0,,2005-06-20,2005-08-26,France
+Hydrological,Flood,,6.0,2500.0,2005-08-19,2005-08-26,Switzerland
+Hydrological,Flood,,19.0,,2005-08-04,2005-08-04,Russia
+Hydrological,Flood,,,,2005-08-14,2005-08-26,Hungary
+Meteorological,Extreme Temperature,,2.0,,2005-11-25,2005-11-26,Belgium
+Meteorological,Extreme Temperature,,,,2005-11-25,2005-11-27,Netherlands
+Hydrological,Flood,,,3100.0,2005-12-06,2005-12-09,Bosnia and Herz.
+Meteorological,Extreme Temperature,,,,2005-12-27,2005-12-30,Belgium
+Meteorological,Extreme Temperature,,18.0,20.0,2006-01-22,2006-01-25,Bulgaria
+Meteorological,Extreme Temperature,,5.0,1820.0,2006-01-01,2006-01-01,Belarus
+Meteorological,Extreme Temperature,,15.0,,2005-12-27,2006-01-01,Czech Rep.
+Meteorological,Extreme Temperature,,10.0,,2006-01-22,2006-01-28,Germany
+Meteorological,Extreme Temperature,,,,2005-12-27,2005-12-30,Netherlands
+Meteorological,Extreme Temperature,,3.0,,2006-01-01,2006-01-01,
+Meteorological,Extreme Temperature,,,,2005-12-27,2005-12-30,Slovakia
+Geophysical,Earthquake,,,527.0,2006-02-20,2006-02-20,Bulgaria
+Hydrological,Flood,,6.0,17071.0,2006-03-13,2006-04-07,Romania
+Hydrological,Flood,,2.0,5000.0,2006-07-02,2006-07-03,Ukraine
+Hydrological,Flood,,,115.0,2006-06-30,2006-06-30,Czech Rep.
+Meteorological,Storm,,1.0,100.0,2006-06-28,2006-06-29,Germany
+Meteorological,Extreme Temperature,,41.0,,2006-07-11,2006-07-17,Portugal
+Hydrological,Flood,,,90.0,2006-10-21,2006-10-22,Greece
+Climatological,Drought,,,,2006-08-01,2006-01-01,Lithuania
+Meteorological,Storm,Storm 'Kyrill',3.0,,2007-01-18,2007-01-18,France
+Meteorological,Storm,,7.0,,2007-01-23,2007-01-25,Germany
+Meteorological,Storm,,,,2007-01-19,2007-01-26,Russia
+Hydrological,Flood,,,14000.0,2007-05-13,2007-06-11,Russia
+Meteorological,Extreme Temperature,,,150.0,2007-07-15,2007-07-22,Albania
+Meteorological,Extreme Temperature,,16.0,,2007-06-01,2007-07-01,Greece
+Meteorological,Extreme Temperature,,1.0,89.0,2007-07-15,2007-07-22,Slovakia
+Hydrological,Flood,,6.0,30000.0,2007-06-25,2007-07-03,United Kingdom
+Meteorological,Storm,,,7552.0,2007-07-22,2007-07-24,Ukraine
+Hydrological,Flood,,7.0,340000.0,2007-07-20,2007-07-24,United Kingdom
+Geophysical,Earthquake,,2.0,25012.0,2007-08-02,2007-08-02,Russia
+Climatological,Wildfire,,1.0,9.0,2007-07-01,2007-07-01,Bulgaria
+Meteorological,Storm,,6.0,1050.0,2007-09-18,2007-09-20,Slovenia
+Geophysical,Earthquake,,,4501.0,2007-04-28,2007-04-28,United Kingdom
+Hydrological,Flood,,2.0,600.0,2007-11-16,2007-12-02,Greece
+Hydrological,Flood,,35.0,5140.0,2009-10-01,2009-10-06,Italy
+Hydrological,Flood,,,2000.0,2008-01-15,2008-01-26,United Kingdom
+Meteorological,Storm,Storm 'Emma',4.0,,2008-03-01,2008-03-02,Austria
+Meteorological,Storm,Storm 'Emma',5.0,,2008-02-29,2008-03-01,Germany
+Meteorological,Storm,Storm 'Emma',,,2008-02-29,2008-03-02,Netherlands
+Hydrological,Flood,,4.0,,2008-05-29,2008-05-30,Italy
+Hydrological,Flood,,3.0,,2010-06-01,2010-06-01,Czech Rep.
+Hydrological,Flood,,5.0,11000.0,2008-07-26,2008-08-01,Romania
+Meteorological,Storm,,,100.0,2008-08-03,2008-08-03,Norway
+Geophysical,Earthquake,,13.0,5235.0,2008-10-11,2008-10-11,Russia
+Hydrological,Flood,,3.0,,2008-12-11,2008-12-15,Italy
+Climatological,Wildfire,,,141.0,2023-08-14,2023-08-17,France
+Meteorological,Extreme Temperature,,1.0,,2009-01-01,2009-01-01,Belgium
+Meteorological,Extreme Temperature,,82.0,,2008-11-01,2009-01-08,Poland
+Meteorological,Extreme Temperature,,,,2009-01-01,2009-01-01,Portugal
+Meteorological,Storm,Storm 'Klaus',14.0,,2009-01-23,2009-01-24,Spain
+Meteorological,Storm,Storm 'Klaus',11.0,,2009-01-24,2009-01-24,France
+Meteorological,Extreme Temperature,,,500.0,2009-01-15,2009-01-15,Serbia
+Hydrological,Flood,,,,2009-06-22,2009-06-26,Germany
+Climatological,Wildfire,,,,2009-07-01,2009-07-01,Greece
+Meteorological,Storm,,2.0,12.0,2009-07-23,2009-07-24,Czech Rep.
+Hydrological,Flood,,,6800.0,2009-11-18,2009-11-20,Ireland
+Hydrological,Flood,,,3210.0,2009-11-06,2009-11-07,Serbia
+Meteorological,Extreme Temperature,,27.0,,2009-12-21,2009-12-21,Ukraine
+Hydrological,Flood,,,1100.0,2009-12-25,2010-01-10,Montenegro
+Meteorological,Extreme Temperature,,52.0,,2010-01-22,2010-01-26,Romania
+Meteorological,Extreme Temperature,,3.0,,2010-01-28,2010-01-28,Serbia
+Meteorological,Storm,Storm 'Xynthia',4.0,,2010-02-28,2010-02-28,Germany
+Meteorological,Storm,Storm 'Xynthia',1.0,,2010-02-27,2010-02-28,United Kingdom
+Hydrological,Flood,,,300.0,2010-05-30,2010-06-20,Croatia
+Hydrological,Flood,,1.0,5000.0,2010-05-15,2010-06-07,Hungary
+Hydrological,Flood,,1.0,200.0,2010-05-15,2010-06-05,Slovakia
+Hydrological,Flood,,3.0,1400.0,2010-08-06,2010-08-08,Germany
+Hydrological,Flood,,4.0,,2010-08-08,2010-08-08,Lithuania
+Hydrological,Flood,,3.0,690.0,2010-11-11,2010-11-15,Belgium
+Hydrological,Flood,,,300.0,2010-11-08,2010-11-11,Italy
+Hydrological,Flood,,,1350.0,2010-11-12,2010-11-16,Montenegro
+Meteorological,Extreme Temperature,,200.0,,2010-11-01,2011-02-01,Poland
+Hydrological,Flood,,,14000.0,2010-11-22,2010-12-05,Albania
+Hydrological,Flood,,1.0,150.0,2010-12-04,2010-12-05,Greece
+Hydrological,Flood,,,810.0,2010-12-01,2010-12-05,Croatia
+Hydrological,Flood,,2.0,6500.0,2010-12-06,2010-12-10,Spain
+Meteorological,Storm,,3.0,30805.0,2010-10-31,2010-11-02,Italy
+Geophysical,Earthquake,,10.0,15300.0,2011-05-11,2011-05-11,Spain
+Hydrological,Flood,,,10669.0,2011-05-25,2011-05-30,Russia
+Hydrological,Flood,,1.0,2400.0,2011-11-07,2011-11-07,Spain
+Meteorological,Extreme Temperature,,9.0,18234.0,2012-01-06,2012-02-01,Serbia
+Meteorological,Extreme Temperature,,4.0,10347.0,2012-02-02,2012-02-07,Bosnia and Herz.
+Meteorological,Extreme Temperature,,,,2012-02-07,2012-02-07,Switzerland
+Meteorological,Extreme Temperature,,5.0,,2012-02-01,2012-02-01,Greece
+Meteorological,Extreme Temperature,,1.0,4500.0,2012-02-01,2012-02-01,Montenegro
+Meteorological,Extreme Temperature,,86.0,7539.0,2012-01-23,2012-02-16,Romania
+Meteorological,Extreme Temperature,,10.0,70000.0,2012-01-28,2012-02-01,Serbia
+Hydrological,Flood,,,2406.0,2012-04-10,2012-04-10,Russia
+Hydrological,Flood,,6.0,20000.0,2012-11-11,2012-11-18,Italy
+Meteorological,Extreme Temperature,,3.0,,2012-12-01,2012-12-15,Bulgaria
+Meteorological,Extreme Temperature,,11.0,,2012-12-07,2012-12-31,Switzerland
+Hydrological,Flood,,,585.0,2012-12-23,2012-12-23,United Kingdom
+Hydrological,Flood,,,12000.0,2012-11-05,2012-11-06,Slovenia
+Hydrological,Flood,,4.0,1700.0,2012-11-21,2012-12-18,United Kingdom
+Hydrological,Flood,,,330.0,2013-02-24,2013-02-26,Serbia
+Hydrological,Flood,,15.0,1300000.0,2013-05-28,2013-06-21,Czech Rep.
+Hydrological,Flood,,1.0,,2013-06-03,2013-06-05,Slovakia
+Climatological,Wildfire,,9.0,,2013-01-01,2013-08-01,Portugal
+Hydrological,Flood,,9.0,6901.0,2013-09-12,2013-09-16,Romania
+Meteorological,Storm,Storm 'Christian' (St.Jude),4.0,,2013-10-27,2013-10-28,United Kingdom
+Meteorological,Storm,Storm 'Xaver',,,2013-12-04,2013-12-07,Germany
+Meteorological,Storm,Storm 'Dirk',,,2013-12-26,2013-12-26,Belgium
+Meteorological,Storm,Storm 'Dirk',1.0,,2013-12-23,2013-12-25,France
+Meteorological,Storm,Storm 'Dirk',5.0,,2013-12-23,2013-12-24,United Kingdom
+Meteorological,Storm,,,,2013-07-27,2013-07-28,Germany
+Meteorological,Extreme Temperature,,760.0,,2013-07-01,2013-07-01,United Kingdom
+Meteorological,Extreme Temperature,,78.0,,2014-01-23,2014-01-27,Poland
+Meteorological,Storm,Storm 'Ulla',1.0,,2014-02-15,2014-02-16,Portugal
+Hydrological,Flood,,,,2014-04-17,2014-05-01,Bulgaria
+Hydrological,Flood,,25.0,1000000.0,2014-05-12,2014-05-22,Bosnia and Herz.
+Hydrological,Flood,,,,2014-09-14,2014-09-15,Bosnia and Herz.
+Meteorological,Storm,,6.0,,2014-09-16,2014-09-20,France
+Hydrological,Flood,,,2320.0,2014-10-24,2014-10-25,Greece
+Hydrological,Flood,,1.0,,2014-10-08,2014-10-11,Italy
+Hydrological,Flood,,5.0,,2014-11-15,2014-11-16,France
+Hydrological,Flood,,5.0,,2015-02-01,2015-02-04,Bulgaria
+Hydrological,Flood,,1.0,2000.0,2015-05-25,2015-06-02,Romania
+Hydrological,Flood,,20.0,,2015-10-03,2015-10-04,France
+Hydrological,Flood,,,500.0,2015-08-11,2015-08-12,Italy
+Geophysical,Earthquake,,,100.0,2016-09-11,2016-09-11,Macedonia
+Hydrological,Flood,,,8196.0,2016-06-04,2016-06-10,Russia
+Geophysical,Earthquake,,1.0,3027.0,2016-10-26,2016-10-26,Italy
+Geophysical,Earthquake,,,22292.0,2016-10-30,2016-10-30,Italy
+Hydrological,Flood,,1.0,300.0,2016-10-11,2016-10-16,Romania
+Hydrological,Flood,,1.0,1655.0,2016-11-07,2016-11-07,Serbia
+Meteorological,Extreme Temperature,,43.0,50539.0,2017-01-05,2017-01-20,Belarus
+Meteorological,Extreme Temperature,,3.0,2220.0,2017-01-05,2017-01-20,Macedonia
+Geophysical,Earthquake,,29.0,11.0,2017-01-18,2017-01-19,Italy
+Meteorological,Storm,,2.0,120.0,2017-08-19,2017-08-19,Austria
+Geophysical,Earthquake,,1.0,731.0,2017-06-12,2017-06-12,Greece
+Meteorological,Storm,,,1298.0,2017-06-21,2017-06-21,Hungary
+Meteorological,Storm,,,600.0,2017-08-10,2017-08-11,Czech Rep.
+Meteorological,Storm,,3.0,210.0,2017-08-04,2017-08-09,Austria
+Meteorological,Storm,,,,2017-08-10,2017-08-11,Slovakia
+Geophysical,Earthquake,,2.0,2642.0,2017-08-23,2017-08-23,Italy
+Hydrological,Flood,,,471.0,2018-03-10,2018-03-18,Croatia
+Meteorological,Storm,,,8000.0,2017-09-10,2017-09-11,Croatia
+Climatological,Wildfire,,4.0,,2017-10-17,2017-10-17,Spain
+Climatological,Wildfire,,45.0,2771.0,2017-10-15,2017-10-16,Portugal
+Hydrological,Flood,,23.0,6024.0,2017-11-14,2017-11-15,Greece
+Meteorological,Storm,Storm 'Eleanor',6.0,30.0,2018-01-03,2018-01-04,France
+Meteorological,Storm,Storm 'Eleanor',,4.0,2018-01-02,2018-01-03,United Kingdom
+Meteorological,Storm,"Storms 'Adrian' , 'Vaia'",,,2018-10-29,2018-10-30,France
+Meteorological,Storm,'Friederike' (David),5.0,12.0,2018-01-17,2018-01-18,Germany
+Hydrological,Flood,,,2750.0,2018-01-21,2018-02-01,France
+Climatological,Wildfire,,,,2018-07-08,2018-07-25,Sweden
+Climatological,Wildfire,,100.0,4718.0,2018-07-23,2018-07-24,Greece
+Climatological,Wildfire,,,,2018-07-18,2018-07-22,Latvia
+Hydrological,Flood,,,1600.0,2018-06-28,2018-06-29,Romania
+Meteorological,Storm,,,600.0,2018-06-28,2018-06-30,Ukraine
+Hydrological,Flood,,15.0,1476.0,2018-10-14,2018-10-15,France
+Hydrological,Flood,,1.0,65.0,2019-05-12,2019-05-15,Croatia
+Hydrological,Flood,,,1200.0,2019-05-11,2019-05-13,Italy
+Geophysical,Earthquake,,,304.0,2019-06-01,2019-06-01,Albania
+Meteorological,Extreme Temperature,,2.0,,2019-06-26,2019-06-30,Spain
+Hydrological,Flood,,,10937.0,2022-09-02,2022-09-02,Bulgaria
+Meteorological,Extreme Temperature,,731.0,,2022-05-30,2022-09-04,Croatia
+Climatological,Wildfire,,3.0,187.0,2022-07-09,2022-07-12,Portugal
+Meteorological,Storm,,6.0,300.0,2022-06-24,2022-06-27,Russia
+Meteorological,Storm,Storm 'Malik' (Nadia),2.0,,2022-01-28,2022-01-31,United Kingdom
+Meteorological,Extreme Temperature,,,,2021-04-05,2021-04-08,France
+Hydrological,Flood,,,1500.0,2021-09-29,2021-09-30,Slovenia
+Hydrological,Flood,,2.0,500.0,2023-04-30,2023-05-03,Italy
+Climatological,Wildfire,,2.0,7500.0,2021-07-29,2021-08-12,Greece
+Hydrological,Flood,,,,2021-07-12,2021-07-18,Poland
+Hydrological,Flood,,,,2021-07-13,2021-07-17,Czech Rep.
+Hydrological,Flood,,,138.0,2005-05-11,2005-05-11,Russia
+Hydrological,Flood,,39.0,101950.0,2021-07-14,2021-07-15,Belgium
+Geophysical,Mass Movement,,8.0,200.0,2017-08-23,2017-08-23,Switzerland
+Meteorological,Storm,,6.0,3813.0,2021-06-24,2021-06-25,Czech Rep.
+Meteorological,Extreme Temperature,,6.0,,2017-01-20,2017-01-20,Albania
+Meteorological,Extreme Temperature,,37.0,,2017-01-01,2017-01-13,Ukraine
+Meteorological,Storm,,16.0,201.0,2017-05-29,2017-05-29,Russia
+Climatological,Wildfire,,64.0,704.0,2017-06-17,2017-06-21,Portugal
+Meteorological,Storm,,6.0,5844.0,2017-08-10,2017-08-11,Poland
+Hydrological,Flood,,4.0,362.0,2019-05-31,2019-06-07,Romania
+Meteorological,Storm,,3.0,24.0,2017-08-18,2017-08-19,Germany
+Meteorological,Storm,,2.0,,2017-06-22,2017-06-23,Germany
+Meteorological,Storm,'Friederike' (David),,,2018-01-17,2018-01-18,France
+Meteorological,Storm,'Friederike' (David),3.0,,2018-01-17,2018-01-18,Netherlands
+Hydrological,Flood,,,600.0,2018-06-27,2018-07-02,Bulgaria
+Meteorological,Storm,Storm 'Leslie',2.0,88.0,2018-10-13,2018-10-13,Portugal
+Geophysical,Volcanic Activity,Mount Etna,,328.0,2018-12-24,2018-12-26,Italy
+Meteorological,Storm,Storm 'Zeetje',11.0,,2019-01-05,2019-01-16,Austria
+Meteorological,Extreme Temperature,,5.0,,2019-06-26,2019-06-30,United Kingdom
+Hydrological,Flood,,1.0,600.0,2019-05-12,2019-05-13,Bosnia and Herz.
+Hydrological,Flood,,,11650.0,2019-06-02,2019-06-07,Serbia
+Meteorological,Extreme Temperature,,128.0,,2019-06-21,2019-07-01,Belgium
+Hydrological,Mass Movement,,1.0,150.0,2019-07-30,2019-07-30,Norway
+Geophysical,Earthquake,,,4608.0,2019-09-21,2019-09-21,Albania
+Hydrological,Flood,,,7000.0,2019-07-25,2019-07-31,Russia
+Hydrological,Flood,,7.0,73.0,2019-10-22,2019-10-23,Spain
+Hydrological,Flood,,1.0,4800.0,2019-11-07,2019-11-09,United Kingdom
+Geophysical,Earthquake,,51.0,202913.0,2019-11-26,2019-11-26,Albania
+Meteorological,Storm,"Storms 'Elsa' (Yadid), 'Fabien'",,4.0,2019-12-19,2019-12-23,France
+Meteorological,Storm,'Gloria',17.0,2000.0,2020-01-19,2020-01-21,Spain
+Meteorological,Storm,Storm 'Ciara' (Sabine),,,2020-02-09,2020-02-09,Belgium
+Meteorological,Storm,Storm 'Ciara' (Sabine),1.0,,2020-02-09,2020-02-09,Slovenia
+Hydrological,Flood,,,480.0,2020-02-28,2020-02-28,United Kingdom
+Geophysical,Earthquake,,1.0,78942.0,2020-03-22,2020-03-22,Croatia
+Hydrological,Flood,,,285.0,2020-05-09,2020-05-11,France
+Hydrological,Flood,,3.0,55000.0,2020-06-22,2020-06-29,Ukraine
+Hydrological,Flood,,1.0,250.0,2020-10-12,2020-10-16,Slovakia
+Hydrological,Flood,,2.0,421.0,2020-09-18,2020-09-19,France
+Hydrological,Flood,,1.0,510.0,2020-12-04,2020-12-08,Italy
+Meteorological,Storm,Storm 'Filomena!,5.0,,2021-01-08,2021-01-12,Spain
+Hydrological,Flood,,,84.0,2021-01-10,2021-01-11,Albania
+Geophysical,Earthquake,,,2711.0,2021-03-03,2021-03-03,Greece
+Hydrological,Flood,,8.0,138.0,2021-07-04,2021-07-07,Russia
+Hydrological,Flood,,,240.0,2021-07-15,2021-07-16,France
+Hydrological,Flood,,,,2021-07-15,2021-07-16,Netherlands
+Meteorological,Storm,Storm 'Aurore' (Hendrick),1.0,4.0,2021-10-21,2021-10-22,Germany
+Meteorological,Storm,Storm 'Dudley' (Ylenia),1.0,,2022-02-16,2022-02-17,United Kingdom
+Meteorological,Storm,,5.0,33.0,2022-08-17,2022-08-18,France
+Meteorological,Storm,,,302.0,2022-10-23,2022-10-24,France
+Hydrological,Flood,,15.0,46000.0,2023-05-16,2023-05-20,Italy
+Meteorological,Storm,,14.0,300.0,2000-01-01,2000-01-01,Romania
+Geophysical,Earthquake,,,108.0,2000-06-21,2000-06-21,Iceland
+Hydrological,Flood,,9.0,60431.0,2000-04-05,2000-04-25,Romania
+Hydrological,Flood,,1.0,2000.0,2000-04-05,2000-04-25,Hungary
+Meteorological,Storm,,,,2000-05-27,2000-05-27,Austria
+Hydrological,Flood,,,2000.0,2000-06-04,2000-06-05,United Kingdom
+Geophysical,Earthquake,,,91.0,2000-06-17,2000-06-17,Iceland
+Hydrological,Flood,,1.0,200.0,2000-06-09,2000-06-11,France
+Hydrological,Flood,,16.0,500.0,2000-06-10,2000-06-10,Spain
+Meteorological,Extreme Temperature,,27.0,176.0,2000-07-01,2000-07-01,Greece
+Meteorological,Extreme Temperature,,7.0,,2000-06-01,2000-07-01,Bulgaria
+Climatological,Wildfire,,2.0,102.0,2000-07-01,2000-07-01,Greece
+Hydrological,Flood,,2.0,24000.0,2000-07-30,2000-08-06,Russia
+Geophysical,Earthquake,,,19108.0,2000-08-04,2000-08-04,Russia
+Climatological,Wildfire,,1.0,,2000-08-01,2000-08-01,Croatia
+Climatological,Wildfire,,,,2000-01-01,2000-01-01,Spain
+Hydrological,Flood,,,600.0,2000-10-11,2000-10-11,Norway
+Hydrological,Flood,,10.0,8000.0,2000-10-20,2000-10-23,Spain
+Meteorological,Extreme Temperature,,232.0,94.0,2000-10-10,2000-10-10,Russia
+Hydrological,Flood,,6.0,5600.0,2000-11-06,2000-11-26,Italy
+Meteorological,Storm,,4.0,6100.0,2000-11-27,2000-11-27,Ukraine
+Meteorological,Extreme Temperature,,84.0,,2000-12-01,2000-12-01,Poland
+Climatological,Drought,,2.0,,2000-05-01,2000-06-01,Moldova
+Climatological,Drought,,,,2000-03-01,2001-01-01,Bulgaria
+Hydrological,Flood,,10.0,50305.0,2001-05-12,2001-05-27,Russia
+Climatological,Wildfire,,,,2001-08-01,2001-08-01,Bulgaria
+Biological,Epidemic,Tularemia,,170.0,2001-11-01,2002-02-06,
+Meteorological,Storm,,6.0,125000.0,2002-01-08,2002-01-08,Albania
+Hydrological,Flood,,1.0,3000.0,2002-01-06,2002-01-23,Russia
+Hydrological,Flood,,,600.0,2002-01-27,2002-01-27,Belgium
+Meteorological,Storm,Storm 'Jennifer',7.0,,2002-01-28,2002-01-29,United Kingdom
+Hydrological,Flood,,,,2002-06-06,2002-06-09,Italy
+Hydrological,Flood,,117.0,330613.0,2002-06-19,2002-07-01,Russia
+Climatological,Wildfire,,,,2002-07-01,2002-07-01,Russia
+Hydrological,Flood,,,1430.0,2002-08-07,2002-08-28,Hungary
+Hydrological,Flood,,,,2002-08-16,2002-08-18,Slovakia
+Hydrological,Flood,,,800.0,2002-08-25,2002-08-26,France
+Meteorological,Storm,Strom 'Jeanett',2.0,,2002-10-26,2002-10-28,Austria
+Geophysical,Earthquake,,30.0,8533.0,2002-10-31,2002-10-31,Italy
+Hydrological,Flood,,,600.0,2003-07-29,2003-07-31,Russia
+Hydrological,Flood,,,,2003-01-01,2003-01-08,Belgium
+Meteorological,Storm,Storm 'Calvann',5.0,,2003-01-02,2003-01-08,Germany
+Hydrological,Flood,,,600.0,2003-03-12,2003-03-12,Ukraine
+Meteorological,Extreme Temperature,,170.0,,2003-07-01,2003-07-01,Luxembourg
+Climatological,Wildfire,,5.0,200.0,2003-01-01,2003-08-01,Spain
+Hydrological,Flood,,9.0,27000.0,2003-12-01,2003-12-10,France
+Climatological,Drought,,,62575.0,2003-05-01,2003-01-01,Bosnia and Herz.
+Hydrological,Flood,,,275000.0,2004-04-06,2004-05-02,Bosnia and Herz.
+Hydrological,Flood,,18.0,4800.0,2004-04-14,2004-05-18,Russia
+Meteorological,Storm,,,6000.0,2004-06-09,2004-06-09,Russia
+Meteorological,Extreme Temperature,,27.0,,2004-07-01,2004-07-01,Romania
+Meteorological,Extreme Temperature,,26.0,,2004-07-26,2004-07-30,Spain
+Hydrological,Flood,,,393.0,2004-07-27,2004-08-02,Hungary
+Climatological,Wildfire,,2.0,,2004-07-01,2004-08-01,Portugal
+Hydrological,Flood,,,500.0,2004-08-31,2004-09-01,Russia
+Meteorological,Storm,,2.0,10324.0,2004-11-19,2004-11-19,Slovakia
+Meteorological,Storm,Storm 'Erwin' (Gudrun),2.0,2.0,2005-01-08,2005-01-08,Germany
+Meteorological,Storm,Storm 'Erwin' (Gudrun),1.0,5730.0,2005-01-07,2005-01-08,Estonia
+Meteorological,Storm,Storm 'Erwin' (Gudrun),,1500.0,2005-01-08,2005-01-09,Lithuania
+Meteorological,Storm,,2.0,,2005-02-01,2005-02-01,Croatia
+Meteorological,Storm,,1.0,3.0,2005-01-01,2005-01-01,Macedonia
+Meteorological,Storm,,,,2005-02-01,2005-02-01,Poland
+Meteorological,Storm,,,,2005-02-01,2005-02-01,Russia
+Meteorological,Storm,,,8750.0,2005-01-01,2005-03-01,
+Meteorological,Extreme Temperature,,68.0,,2006-01-20,2006-01-28,Romania
+Hydrological,Flood,,2.0,3600.0,2005-03-17,2005-04-08,Poland
+Hydrological,Flood,,,8340.0,2005-02-28,2005-02-28,Ukraine
+Hydrological,Flood,,2.0,3400.0,2005-04-21,2005-06-04,Romania
+Hydrological,Flood,,,400.0,2005-05-25,2005-05-31,Finland
+Hydrological,Flood,,6.0,39702.0,2005-07-01,2005-07-06,Romania
+Hydrological,Flood,,,,2005-08-08,2005-08-10,Lithuania
+Hydrological,Flood,,4.0,,2005-08-21,2005-08-26,Austria
+Hydrological,Flood,,,210.0,2005-09-10,2005-09-11,Belgium
+Hydrological,Flood,,2.0,1000.0,2005-11-15,2005-11-17,France
+Meteorological,Extreme Temperature,,6.0,,2005-11-23,2005-11-27,France
+Hydrological,Flood,,3.0,500.0,2005-11-30,2005-12-03,Albania
+Meteorological,Extreme Temperature,,3.0,,2006-01-01,2006-01-01,Estonia
+Meteorological,Extreme Temperature,,116.0,14.0,2006-01-01,2006-01-01,Russia
+Meteorological,Extreme Temperature,,,,2005-12-01,2005-12-01,Sweden
+Hydrological,Flood,,7.0,12000.0,2005-08-04,2005-08-11,Bulgaria
+Meteorological,Storm,,1.0,,2006-03-01,2006-03-01,Italy
+Hydrological,Flood,,6.0,4200.0,2006-03-28,2006-04-17,Czech Rep.
+Hydrological,Flood,,,,2006-04-07,2006-05-14,Romania
+Hydrological,Mass Movement,,4.0,159.0,2006-04-30,2006-04-30,Italy
+Hydrological,Flood,,,500.0,2007-02-12,2007-02-14,Romania
+Climatological,Wildfire,,4.0,,2006-08-04,2006-08-15,Spain
+Hydrological,Flood,,,500.0,2006-06-04,2006-06-06,Poland
+Hydrological,Flood,,15.0,6260.0,2006-06-19,2006-06-26,Romania
+Hydrological,Flood,,12.0,10800.0,2006-06-30,2006-07-03,Romania
+Meteorological,Extreme Temperature,,940.0,,2006-06-01,2006-07-01,Belgium
+Meteorological,Extreme Temperature,,1000.0,,2006-07-15,2006-07-23,Netherlands
+Hydrological,Flood,,,3000.0,2006-07-05,2006-07-27,Switzerland
+Meteorological,Storm,Storm 'Kyrill',2.0,2.0,2007-01-18,2007-01-18,Belgium
+Meteorological,Storm,Storm 'Kyrill',4.0,,2007-01-18,2007-01-18,Czech Rep.
+Meteorological,Storm,Storm 'Kyrill',11.0,130.0,2007-01-18,2007-01-19,Germany
+Meteorological,Storm,,1.0,,2007-01-23,2007-01-26,France
+Meteorological,Storm,,1.0,900.0,2007-05-25,2007-05-27,France
+Hydrological,Flood,,1.0,8000.0,2007-05-23,2007-05-26,Spain
+Hydrological,Flood,,1.0,200.0,2007-06-15,2007-06-27,United Kingdom
+Meteorological,Extreme Temperature,,2.0,50.0,2007-06-01,2007-07-01,Bulgaria
+Climatological,Wildfire,,11.0,,2007-07-01,2007-08-01,Italy
+Climatological,Wildfire,,,26.0,2007-08-04,2007-08-05,Croatia
+Hydrological,Flood,,1.0,101.0,2007-08-07,2007-08-22,Switzerland
+Hydrological,Flood,,1.0,,2007-08-09,2007-08-12,Germany
+Climatological,Wildfire,,,75.0,2007-07-01,2007-07-01,Albania
+Climatological,Wildfire,,1.0,1000000.0,2007-07-01,2007-07-01,Macedonia
+Climatological,Wildfire,,65.0,5392.0,2007-08-24,2007-08-30,Greece
+Hydrological,Flood,,2.0,60.0,2007-11-16,2007-11-21,Bulgaria
+Meteorological,Extreme Temperature,,38.0,,2007-12-10,2008-01-01,Romania
+Meteorological,Storm,Storm 'Emma',2.0,1060.0,2008-03-01,2008-03-01,Poland
+Meteorological,Storm,Storm 'Emma',,90.0,2008-02-29,2008-03-02,Romania
+Meteorological,Extreme Temperature,,2.0,,2009-12-18,2009-12-19,Austria
+Meteorological,Storm,,3.0,2100.0,2008-08-03,2008-08-04,France
+Hydrological,Flood,,2.0,300.0,2008-07-12,2008-07-13,Italy
+Meteorological,Extreme Temperature,,3.0,200.0,2009-01-14,2009-01-14,France
+Hydrological,Flood,,3.0,3900.0,2009-11-18,2009-11-23,United Kingdom
+Meteorological,Extreme Temperature,,5.0,,2009-01-01,2009-01-01,Ukraine
+Meteorological,Storm,Storm 'Klaus',3.0,,2009-01-24,2009-01-25,Italy
+Hydrological,Flood,,1.0,,2009-06-22,2009-06-29,Austria
+Climatological,Wildfire,,2.0,,2009-07-20,2009-07-27,Italy
+Meteorological,Extreme Temperature,,3.0,47.0,2009-12-19,2009-12-23,United Kingdom
+Meteorological,Extreme Temperature,,,,2009-12-21,2009-12-21,Italy
+Geophysical,Earthquake,,,1800.0,2013-04-14,2013-04-23,Hungary
+Meteorological,Storm,Storm 'Xynthia',3.0,,2010-02-27,2010-02-28,Spain
+Meteorological,Storm,Storm 'Xynthia',53.0,500079.0,2010-02-28,2010-03-02,France
+Meteorological,Storm,Storm 'Xynthia',,,2010-02-28,2010-02-28,Luxembourg
+Hydrological,Flood,,,3250.0,2010-03-22,2010-03-26,Russia
+Hydrological,Flood,,2.0,400.0,2010-05-15,2010-05-15,Serbia
+Hydrological,Flood,,26.0,1000.0,2010-06-15,2010-06-17,France
+Hydrological,Flood,,6.0,40059.0,2010-06-27,2010-07-02,Ukraine
+Climatological,Wildfire,,53.0,5996.0,2010-07-01,2010-08-06,Russia
+Hydrological,Flood,,7.0,200.0,2010-08-07,2010-08-08,Czech Rep.
+Meteorological,Extreme Temperature,,12.0,,2010-11-01,2010-12-01,Czech Rep.
+Meteorological,Extreme Temperature,,,,2010-12-01,2010-12-01,Portugal
+Meteorological,Storm,,,,2010-12-23,2010-12-24,France
+Meteorological,Storm,Storm 'Dirk',,,2013-12-24,2013-12-25,Portugal
+Hydrological,Flood,,6.0,,2011-11-04,2011-11-06,Italy
+Meteorological,Storm,Storm 'Berit',4.0,500.0,2011-11-26,2011-11-27,Norway
+Meteorological,Extreme Temperature,,1.0,,2012-02-01,2012-02-01,Estonia
+Meteorological,Extreme Temperature,,16.0,,2012-02-01,2012-02-01,Hungary
+Meteorological,Extreme Temperature,,45.0,,2012-02-01,2012-02-01,Italy
+Meteorological,Extreme Temperature,,24.0,,2012-01-01,2012-02-01,Lithuania
+Meteorological,Extreme Temperature,,1.0,5100.0,2012-01-01,2012-02-01,Macedonia
+Meteorological,Extreme Temperature,,1.0,,2012-02-01,2012-02-01,Netherlands
+Meteorological,Extreme Temperature,,82.0,,2012-01-27,2012-02-01,Poland
+Meteorological,Extreme Temperature,,64.0,,2012-01-01,2012-02-01,Russia
+Hydrological,Flood,,5.0,37950.0,2012-02-05,2012-02-09,Bulgaria
+Hydrological,Flood,,2.0,200.0,2012-02-05,2012-02-07,Greece
+Climatological,Wildfire,,2.0,598.0,2012-04-20,2012-04-20,Russia
+Hydrological,Flood,,,11871.0,2012-04-22,2012-04-27,Russia
+Hydrological,Flood,,172.0,31410.0,2012-07-11,2012-07-11,Russia
+Hydrological,Flood,,10.0,635.0,2012-09-28,2012-09-29,Spain
+Meteorological,Extreme Temperature,,7.0,,2012-12-07,2012-12-07,Czech Rep.
+Meteorological,Extreme Temperature,,2.0,,2012-12-07,2012-12-31,Germany
+Meteorological,Extreme Temperature,,177.0,,2012-12-01,2012-12-21,Poland
+Hydrological,Flood,,4.0,1500.0,2013-02-20,2013-03-04,Russia
+Hydrological,Flood,,1.0,,2012-06-10,2012-06-11,United Kingdom
+Hydrological,Flood,,4.0,200.0,2013-06-02,2013-06-03,Austria
+Hydrological,Flood,,,600.0,2013-06-18,2013-06-19,Spain
+Meteorological,Storm,Storm 'Christian' (St.Jude),7.0,2.0,2013-10-27,2013-10-28,Germany
+Meteorological,Storm,Storm 'Christian' (St.Jude),1.0,,2013-10-27,2013-10-29,Denmark
+Meteorological,Storm,Storm 'Christian' (St.Jude),1.0,,2013-10-27,2013-10-29,France
+Hydrological,Flood,,2.0,2260.0,2013-09-14,2013-09-15,Ukraine
+Meteorological,Storm,Storm 'Xaver',4.0,53.0,2013-12-04,2013-12-10,Poland
+Hydrological,Flood,,18.0,2700.0,2013-11-18,2013-11-19,Italy
+Meteorological,Storm,Storm 'Xaver',1.0,,2013-12-06,2013-12-07,Denmark
+Meteorological,Storm,Storm 'Xaver',7.0,,2013-12-07,2013-12-07,Sweden
+Meteorological,Storm,Storm 'Dirk',,,2013-12-24,2013-12-24,Switzerland
+Hydrological,Flood,,4.0,1000.0,2014-01-16,2014-02-19,France
+Meteorological,Extreme Temperature,,13.0,,2014-01-26,2014-01-31,Romania
+Geophysical,Earthquake,,,2023.0,2014-01-26,2014-02-03,Greece
+Hydrological,Flood,,,525.0,2014-04-19,2014-05-07,Romania
+Hydrological,Flood,,3.0,7116.0,2014-05-15,2014-05-20,Croatia
+Hydrological,Flood,,15.0,1260.0,2014-06-19,2014-06-25,Bulgaria
+Hydrological,Flood,,2.0,7247.0,2014-07-29,2014-08-02,Bulgaria
+Hydrological,Flood,,2.0,2000.0,2014-07-29,2014-07-31,Romania
+Hydrological,Flood,,1.0,,2014-08-06,2014-08-06,Serbia
+Hydrological,Flood,,4.0,7000.0,2014-09-15,2014-09-16,Serbia
+Hydrological,Flood,,2.0,4400.0,2014-09-13,2014-09-14,Slovenia
+Hydrological,Flood,,3.0,,2014-09-04,2014-09-06,Bulgaria
+Meteorological,Storm,,2.0,1.0,2014-07-28,2014-07-29,Germany
+Hydrological,Flood,,5.0,3000.0,2014-11-25,2014-12-05,France
+Climatological,Wildfire,,30.0,5977.0,2015-04-12,2015-04-15,Russia
+Meteorological,Extreme Temperature,,25.0,,2013-03-01,2013-03-26,Poland
+Hydrological,Flood,,,42000.0,2015-01-31,2015-02-23,Albania
+Meteorological,Storm,,1.0,1217.0,2015-07-19,2015-07-19,Poland
+Meteorological,Storm,,3.0,750.0,2015-09-16,2015-09-16,France
+Hydrological,Flood,,4.0,150.0,2015-09-07,2015-09-07,Spain
+Hydrological,Flood,,,,2015-10-14,2015-10-16,Bosnia and Herz.
+Meteorological,Storm,Storm Desmond (Ted),3.0,15600.0,2015-12-04,2015-12-06,United Kingdom
+Meteorological,Storm,Storm Desmond (Ted),1.0,,2015-12-04,2015-12-06,Ireland
+Hydrological,Flood,,,48000.0,2015-12-26,2015-12-26,United Kingdom
+Meteorological,Extreme Temperature,,77.0,,2015-01-01,2015-01-01,Poland
+Meteorological,Extreme Temperature,,21.0,,2016-01-02,2016-01-04,Poland
+Hydrological,Flood,,1.0,,2016-06-02,2016-06-08,Belgium
+Hydrological,Flood,,4.0,24.0,2016-05-28,2016-06-21,France
+Climatological,Wildfire,,4.0,1361.0,2016-08-08,2016-08-13,Portugal
+Meteorological,Extreme Temperature,,13.0,,2010-01-01,2010-01-26,Russia
+Meteorological,Storm,Storm 'Xynthia',1.0,,2010-02-28,2010-02-28,Belgium
+Hydrological,Flood,,3.0,650.0,2010-06-01,2010-06-02,Slovakia
+Hydrological,Flood,,26.0,12237.0,2010-06-21,2010-07-12,Romania
+Hydrological,Flood,,,14910.0,2010-06-22,2010-06-30,Bosnia and Herz.
+Meteorological,Extreme Temperature,,55736.0,,2010-06-01,2010-08-01,Russia
+Hydrological,Flood,,23.0,45214.0,2010-10-16,2010-10-16,Russia
+Geophysical,Earthquake,,2.0,27030.0,2010-11-03,2010-11-03,Serbia
+Meteorological,Extreme Temperature,,1.0,,2010-11-28,2010-12-01,Germany
+Meteorological,Extreme Temperature,,3.0,,2010-11-28,2010-12-01,France
+Meteorological,Extreme Temperature,,,,2010-12-01,2010-12-01,Italy
+Meteorological,Extreme Temperature,,5.0,,2012-01-01,2012-01-01,Slovakia
+Meteorological,Extreme Temperature,,122.0,,2010-11-01,2011-02-28,Slovakia
+Hydrological,Flood,,,5000.0,2010-12-01,2010-12-03,Montenegro
+Hydrological,Flood,,10.0,,2011-10-25,2011-10-26,Italy
+Hydrological,Flood,,6.0,2300.0,2011-11-04,2011-11-09,France
+Hydrological,Flood,,2.0,600.0,2011-10-24,2011-10-25,Ireland
+Meteorological,Extreme Temperature,,5.0,,2012-02-01,2012-02-01,Austria
+Meteorological,Extreme Temperature,,30.0,,2012-01-01,2012-02-01,Bulgaria
+Meteorological,Extreme Temperature,,25.0,,2012-01-01,2012-02-01,Czech Rep.
+Meteorological,Extreme Temperature,,4.0,,2012-02-01,2012-02-01,Germany
+Meteorological,Extreme Temperature,,3.0,,2012-02-01,2012-02-01,Croatia
+Meteorological,Extreme Temperature,,10.0,,2012-02-01,2012-02-01,Latvia
+Climatological,Wildfire,,4.0,6.0,2012-07-22,2012-07-27,Spain
+Hydrological,Flood,,7.0,1120.0,2012-10-09,2012-10-15,Russia
+Hydrological,Flood,,3.0,1710.0,2012-09-23,2012-09-27,United Kingdom
+Meteorological,Extreme Temperature,,83.0,526.0,2012-12-07,2012-12-31,Ukraine
+Climatological,Drought,,,,2012-06-01,2012-10-10,Italy
+Climatological,Drought,,,,2012-04-15,2012-07-31,Ukraine
+Extra-terrestrial,Impact,,,301491.0,2013-02-15,2013-02-15,Russia
+Hydrological,Flood,,1.0,4864.0,2013-02-24,2013-03-04,Macedonia
+Meteorological,Storm,Storm 'Christian' (St.Jude),2.0,,2013-10-27,2013-10-28,Netherlands
+Meteorological,Storm,Storm 'Xaver',,,2013-12-04,2013-12-07,Belgium
+Hydrological,Flood,,2.0,1000.0,2014-01-03,2014-02-04,United Kingdom
+Meteorological,Extreme Temperature,,1.0,50000.0,2014-01-31,2014-02-02,Slovenia
+Meteorological,Storm,Storm 'Ulla',5.0,18000.0,2014-02-12,2014-02-15,United Kingdom
+Meteorological,Extreme Temperature,,,3000.0,2014-01-28,2014-02-02,Serbia
+Geophysical,Earthquake,,3.0,75002.0,2014-05-24,2014-05-24,Greece
+Meteorological,Storm,,6.0,,2014-06-08,2014-06-10,Germany
+Hydrological,Flood,,,6500.0,2014-09-14,2014-09-26,Hungary
+Hydrological,Flood,,,2000.0,2014-09-08,2014-09-15,Croatia
+Meteorological,Storm,,2.0,,2014-11-15,2014-11-15,Switzerland
+Hydrological,Flood,,3.0,500.0,2015-01-30,2015-02-09,Greece
+Hydrological,Flood,,1.0,1500.0,2015-06-25,2015-06-25,Russia
+Hydrological,Flood,,1.0,300.0,2015-11-21,2015-11-27,Albania
+Hydrological,Flood,,,7000.0,2016-03-06,2016-03-07,Serbia
+Hydrological,Flood,,,3200.0,2016-04-16,2016-04-22,Russia
+Meteorological,Storm,,9.0,137.0,2017-09-17,2017-09-17,Romania
+Hydrological,Flood,,7.0,,2016-05-27,2016-06-07,Germany
+Meteorological,Storm,,,,2016-06-23,2016-06-24,Netherlands
+Hydrological,Flood,,,4500.0,2021-08-12,2021-08-14,Russia
+Hydrological,Flood,,22.0,33582.0,2016-08-06,2016-08-07,Macedonia
+Hydrological,Flood,,,300.0,2016-08-15,2016-08-15,Russia
+Hydrological,Flood,,,13500.0,2021-08-17,2021-08-18,Sweden
+Hydrological,Flood,,3.0,200.0,2016-10-12,2016-10-16,Ukraine
+Hydrological,Flood,,,2282.0,2016-06-21,2016-06-21,Hungary
+Hydrological,Flood,,5.0,150.0,2016-12-16,2016-12-19,Spain
+Meteorological,Storm,Storm 'Zeus',2.0,11.0,2017-03-06,2017-03-07,France
+Hydrological,Flood,,,15721.0,2017-05-10,2017-05-23,Russia
+Climatological,Wildfire,,,1500.0,2017-06-24,2017-06-28,Spain
+Climatological,Wildfire,,,12012.0,2017-07-24,2017-07-25,France
+Climatological,Wildfire,,,80.0,2017-07-16,2017-07-18,Croatia
+Hydrological,Flood,,1.0,600.0,2017-07-24,2017-07-27,Germany
+Hydrological,Flood,,1.0,160.0,2017-06-13,2017-06-14,France
+Hydrological,Flood,,1.0,1000.0,2017-12-11,2017-12-12,Italy
+Meteorological,Storm,Storm 'Eleanor',,16.0,2018-01-03,2018-01-04,Switzerland
+Meteorological,Storm,'Friederike' (David),1.0,,2018-01-17,2018-01-18,Belgium
+Hydrological,Flood,,,2300.0,2018-03-14,2018-03-16,Romania
+Hydrological,Flood,,13.0,200.0,2018-10-09,2018-10-11,Spain
+Hydrological,Flood,,8.0,11303.0,2018-10-24,2018-10-26,Russia
+Meteorological,Storm,,,320.0,2019-04-18,2019-04-22,Spain
+Meteorological,Storm,Storm 'Zeetje',4.0,,2019-01-13,2019-01-15,Switzerland
+Hydrological,Flood,,31.0,33190.0,2019-06-28,2019-07-03,Russia
+Meteorological,Extreme Temperature,,567.0,,2019-06-24,2019-07-07,France
+Meteorological,Extreme Temperature,,868.0,,2019-07-21,2019-07-27,France
+Climatological,Wildfire,,,,2019-07-01,2019-08-01,Russia
+Meteorological,Storm,Storm 'Amelie',1.0,54.0,2019-10-28,2019-11-03,France
+Meteorological,Storm,,1.0,200.0,2019-11-23,2019-11-24,Italy
+Hydrological,Flood,,5.0,102.0,2019-11-22,2019-12-02,France
+Meteorological,Storm,,2.0,613.0,2019-12-10,2019-12-13,France
+Meteorological,Storm,"Storms 'Elsa' (Yadid), 'Fabien'",7.0,,2019-12-14,2019-12-22,Spain
+Meteorological,Storm,'Gloria',,,2020-01-21,2020-01-23,France
+Meteorological,Storm,Storm 'Ciara' (Sabine),2.0,,2020-02-09,2020-02-14,United Kingdom
+Meteorological,Storm,Storm 'Ciara' (Sabine),1.0,,2020-02-08,2020-02-11,Italy
+Hydrological,Flood,,,200.0,2020-06-10,2020-06-11,France
+Meteorological,Storm,Storm 'Alex',18.0,12980.0,2020-10-02,2020-10-04,France
+Meteorological,Storm,Storm 'Alex',7.0,10002.0,2020-10-02,2020-10-04,Italy
+Meteorological,Extreme Temperature,,1687.0,,2020-08-05,2020-08-08,Belgium
+Hydrological,Flood,,,570.0,2020-11-10,2020-11-11,Greece
+Hydrological,Flood,,3.0,250.0,2020-11-28,2020-11-29,Italy
+Hydrological,Flood,,,305.0,2021-02-01,2021-02-10,France
+Hydrological,Flood,,1.0,100.0,2021-06-16,2021-06-28,Romania
+Meteorological,Storm,,,2002.0,2021-06-22,2021-06-22,Poland
+Meteorological,Storm,,,5.0,2021-06-28,2021-06-29,Switzerland
+Climatological,Wildfire,,,11600.0,2021-07-23,2021-07-25,Italy
+Hydrological,Flood,,1.0,,2021-07-17,2021-07-18,Austria
+Hydrological,Flood,,226.0,1000.0,2021-07-12,2021-07-15,Germany
+Hydrological,Flood,,,,2021-07-14,2021-07-15,Luxembourg
+Meteorological,Storm,,,255.0,2021-07-23,2021-07-24,France
+Hydrological,Flood,,,24000.0,2021-06-24,2021-08-11,Russia
+Climatological,Wildfire,,,120.0,2021-07-01,2021-08-26,Russia
+Hydrological,Flood,,2.0,150.0,2021-08-29,2021-09-02,Spain
+Geophysical,Earthquake,,1.0,2336.0,2021-09-27,2021-09-27,Greece
+Meteorological,Storm,Storm 'Aurore' (Hendrick),4.0,13.0,2021-10-21,2021-10-22,Poland
+Hydrological,Flood,,,250000.0,2021-11-04,2021-11-05,Bosnia and Herz.
+Meteorological,Storm,Storm 'Dudley' (Ylenia),2.0,1500.0,2022-02-16,2022-02-17,Poland
+Meteorological,Storm,,1.0,60015.0,2022-06-04,2022-06-05,France
+Meteorological,Storm,,,110.0,2023-07-19,2023-07-20,Italy
+Climatological,Drought,,,26000.0,2023-01-01,2024-02-01,Spain
+Meteorological,Extreme Temperature,,11.0,,2009-12-20,2009-12-23,Romania
+Meteorological,Extreme Temperature,,298.0,,2009-11-01,2010-01-26,Poland
+Meteorological,Extreme Temperature,,2.0,,2009-12-18,2009-12-19,France
+Meteorological,Extreme Temperature,,14.0,,2009-12-18,2010-01-25,Germany
+Climatological,Wildfire,,,1040.0,2009-08-21,2009-08-25,Greece
+Hydrological,Flood,,,,2009-07-16,2009-07-19,Austria
+Meteorological,Storm,,8.0,82.0,2009-07-23,2009-07-24,Poland
+Meteorological,Storm,,,,2009-07-23,2009-07-24,Switzerland
+Climatological,Wildfire,,,,2009-07-01,2009-07-01,France
+Climatological,Wildfire,,6.0,,2009-07-20,2009-07-24,Spain
+Hydrological,Flood,,,1100.0,2009-07-07,2009-07-15,Bosnia and Herz.
+Hydrological,Flood,,13.0,14450.0,2009-06-21,2009-07-04,Czech Rep.
+Geophysical,Earthquake,,300.0,72000.0,2009-04-06,2009-04-06,Italy
+Hydrological,Flood,,11.0,,2009-01-23,2009-01-26,Romania
+Meteorological,Extreme Temperature,,1.0,,2009-01-05,2009-01-01,Germany
+Hydrological,Flood,,38.0,224725.0,2008-07-26,2008-07-27,Ukraine
+Hydrological,Flood,,2.0,110.0,2008-02-18,2008-02-18,Portugal
+Meteorological,Extreme Temperature,,17.0,500.0,2008-01-01,2008-01-01,Hungary
+Hydrological,Flood,,3.0,3600.0,2007-10-11,2007-10-12,Spain
+Hydrological,Flood,,,12370.0,2007-11-25,2007-11-26,Serbia
+Hydrological,Flood,,3.0,960.0,2007-08-07,2007-08-07,Romania
+Hydrological,Flood,,8.0,10.0,2007-08-05,2007-08-08,Bulgaria
+Meteorological,Extreme Temperature,,30.0,,2007-06-01,2007-07-01,Romania
+Meteorological,Extreme Temperature,,500.0,,2007-07-01,2007-07-01,Hungary
+Meteorological,Extreme Temperature,,,,2007-07-15,2007-07-22,Bosnia and Herz.
+Hydrological,Flood,,2.0,1000.0,2007-05-22,2007-06-06,Bulgaria
+Meteorological,Storm,,,,2007-01-23,2007-01-26,Switzerland
+Meteorological,Storm,Storm 'Kyrill',,,2007-01-17,2007-01-18,Ukraine
+Meteorological,Storm,Storm 'Kyrill',,,2007-01-17,2007-01-18,Slovenia
+Meteorological,Storm,Storm 'Kyrill',6.0,,2007-01-18,2007-01-19,Poland
+Meteorological,Storm,Storm 'Kyrill',7.0,,2007-01-17,2007-01-18,Netherlands
+Hydrological,Flood,,2.0,289.0,2006-10-22,2006-10-24,Spain
+Meteorological,Storm,,1.0,602.0,2006-10-23,2006-10-24,France
+Meteorological,Storm,,3.0,600.0,2006-10-17,2006-10-18,Greece
+Meteorological,Extreme Temperature,,1388.0,,2006-07-15,2006-07-23,France
+Meteorological,Extreme Temperature,,26.0,200.0,2006-06-29,2006-07-01,Romania
+Hydrological,Flood,,,1300.0,2006-06-04,2006-06-12,Russia
+Hydrological,Flood,,,100.0,2006-06-04,2006-06-06,Slovakia
+Hydrological,Flood,,,,2006-04-04,2006-05-11,Croatia
+Meteorological,Storm,,10.0,200.0,2006-03-01,2006-03-01,Germany
+Hydrological,Flood,,,1200.0,2006-02-21,2006-03-02,
+Meteorological,Extreme Temperature,,462.0,,2005-06-01,2005-08-01,Portugal
+Meteorological,Storm,Storm 'Gero',7.0,,2005-01-11,2005-01-12,United Kingdom
+Meteorological,Extreme Temperature,,40.0,,2006-01-01,2006-01-01,Latvia
+Meteorological,Extreme Temperature,,9.0,,2005-12-27,2006-01-01,Italy
+Meteorological,Extreme Temperature,,48.0,,2005-12-27,2006-01-01,Hungary
+Meteorological,Extreme Temperature,,5.0,,2005-12-27,2005-12-30,Croatia
+Meteorological,Extreme Temperature,,1.0,,2005-12-27,2005-12-30,United Kingdom
+Meteorological,Extreme Temperature,,9.0,,2005-12-27,2006-01-01,Spain
+Meteorological,Extreme Temperature,,,,2005-12-27,2005-12-30,Switzerland
+Hydrological,Flood,,10.0,30800.0,2005-09-21,2005-10-09,Romania
+Hydrological,Flood,,33.0,2000.0,2005-08-14,2005-09-02,Romania
+Hydrological,Flood,,7.0,,2005-08-04,2005-08-11,Bulgaria
+Hydrological,Flood,,1.0,,2005-08-21,2005-08-26,Germany
+Climatological,Wildfire,,11.0,1.0,2005-07-18,2005-07-18,Spain
+Hydrological,Flood,,,5000.0,2005-05-09,2005-05-10,Russia
+Hydrological,Flood,,2.0,3790.0,2005-04-18,2005-04-20,
+Hydrological,Mass Movement,,9.0,,2005-01-11,2005-01-11,Russia
+Meteorological,Storm,Storm 'Gerda',2.0,,2004-01-12,2004-01-13,Germany
+Meteorological,Storm,Storm 'Erwin' (Gudrun),9.0,730000.0,2005-01-07,2005-01-09,Sweden
+Meteorological,Storm,Storm 'Erwin' (Gudrun),4.0,150000.0,2005-01-08,2005-01-09,Denmark
+Geophysical,Earthquake,,,150.0,2004-12-05,2004-12-05,Germany
+Meteorological,Storm,Songda (Nina/22W),3.0,,2004-09-10,2004-09-10,Russia
+Meteorological,Storm,,11.0,,2004-08-17,2004-08-18,France
+Hydrological,Flood,,,1008.0,2004-08-16,2004-08-17,United Kingdom
+Hydrological,Flood,,4.0,14128.0,2004-07-28,2004-08-01,Romania
+Meteorological,Storm,,4.0,600.0,2004-07-22,2004-07-22,Romania
+Meteorological,Storm,,7.0,1200.0,2004-07-10,2004-07-14,Romania
+Meteorological,Extreme Temperature,,289.0,,2003-07-01,2003-08-01,Slovenia
+Meteorological,Extreme Temperature,,965.0,,2003-07-31,2003-08-13,Netherlands
+Meteorological,Extreme Temperature,,9355.0,,2003-08-01,2003-08-01,Germany
+Meteorological,Extreme Temperature,,1175.0,,2003-08-01,2003-08-15,Belgium
+Meteorological,Extreme Temperature,,345.0,,2003-07-01,2003-08-01,Austria
+Climatological,Wildfire,,14.0,150000.0,2003-08-01,2003-09-01,Portugal
+Climatological,Wildfire,,,,2003-04-01,2003-07-01,Russia
+Geophysical,Earthquake,,,232.0,2003-04-11,2003-04-11,Italy
+Hydrological,Flood,,,,2003-02-02,2003-02-02,Greece
+Hydrological,Flood,,1.0,1000.0,2003-01-23,2003-01-26,Italy
+Meteorological,Extreme Temperature,,15.0,,2003-01-01,2003-01-01,Latvia
+Hydrological,Flood,,1.0,252.0,2002-12-26,2003-01-03,Portugal
+Hydrological,Flood,,,300.0,2002-11-14,2002-11-25,Ireland
+Meteorological,Extreme Temperature,,10.0,,2002-12-07,2002-12-07,Romania
+Meteorological,Extreme Temperature,,183.0,,2002-10-01,2003-01-01,Poland
+Hydrological,Flood,,2.0,10000.0,2002-11-22,2002-12-03,Italy
+Meteorological,Storm,,1.0,250.0,2002-11-18,2002-11-18,France
+Hydrological,Flood,,,210.0,2002-11-07,2002-11-07,Greece
+Meteorological,Storm,Storm 'Jeanett',1.0,2.0,2002-10-27,2002-10-28,Switzerland
+Meteorological,Storm,Storm 'Jeanett',11.0,,2002-10-26,2002-10-28,Germany
+Meteorological,Storm,Storm 'Jeanett',7.0,,2002-10-26,2002-10-31,United Kingdom
+Hydrological,Flood,,25.0,12000.0,2002-09-08,2002-09-12,France
+Hydrological,Flood,,1.0,301.0,2002-08-06,2002-08-07,Romania
+Hydrological,Flood,,1.0,200.0,2002-07-20,2002-07-20,United Kingdom
+Meteorological,Storm,Storm 'Jennifer',6.0,,2002-01-28,2002-01-28,Poland
+Climatological,Wildfire,,,,2001-05-01,2001-05-01,Russia
+Hydrological,Flood,,,300.0,2001-07-08,2001-07-08,France
+Meteorological,Extreme Temperature,,81.0,,2001-12-01,2001-12-01,Hungary
+Meteorological,Storm,,10.0,,2001-11-10,2001-11-11,Spain
+Meteorological,Storm,,2.0,335.0,2001-10-20,2001-10-21,France
+Meteorological,Extreme Temperature,,332.0,174.0,2001-10-01,2001-10-01,Russia
+Meteorological,Extreme Temperature,,276.0,,2001-07-01,2001-07-01,Russia
+Hydrological,Flood,,1.0,,2001-07-24,2001-07-31,Slovakia
+Hydrological,Flood,,27.0,15000.0,2001-07-09,2001-08-05,Poland
+Hydrological,Flood,,,721.0,2001-07-04,2001-07-07,France
+Meteorological,Storm,,,12428.0,2001-05-15,2001-05-15,Russia
+Hydrological,Flood,,,150.0,2001-02-09,2001-02-09,United Kingdom
+Hydrological,Flood,,,10000.0,2001-03-04,2001-03-17,Hungary
+Hydrological,Flood,,6.0,983.0,2001-01-26,2001-01-29,Portugal
+Climatological,Drought,,,,2000-08-01,2000-01-01,Bosnia and Herz.
+Hydrological,Flood,,1.0,302.0,2000-11-05,2000-11-06,France
+Meteorological,Storm,,,2600000.0,2000-11-26,2000-11-27,Moldova
+Hydrological,Flood,,1.0,6000.0,2000-11-18,2000-11-19,Greece
+Meteorological,Storm,Storm 'Oratia',12.0,19504.0,2000-10-28,2000-10-29,United Kingdom
+Hydrological,Flood,,25.0,43000.0,2000-10-13,2000-10-16,Italy
+Hydrological,Flood,,13.0,722.0,2000-09-08,2000-09-10,Italy
+Meteorological,Storm,Saomai,9.0,,2000-09-13,2000-09-19,Russia
+Hydrological,Flood,,,1181.0,2000-08-28,2000-08-28,Russia
+Meteorological,Extreme Temperature,,3.0,70.0,2000-07-01,2000-07-01,
+Meteorological,Extreme Temperature,,6.0,100.0,2000-07-01,2000-07-01,Romania
+Hydrological,Flood,,,6000.0,2000-08-01,2000-08-01,Russia
+Hydrological,Flood,,3.0,,2000-03-08,2000-03-13,Czech Rep.
+Hydrological,Mass Movement,,6.0,403.0,2000-02-10,2000-02-10,Bosnia and Herz.
