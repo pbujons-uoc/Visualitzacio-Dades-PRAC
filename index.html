@@ -18,7 +18,62 @@
             <p>Study the impact and frequency of different types of natural disasters around the world.</p>
         </div>
     </section>
+    <section id="disaster-definitions-section" style="margin: 40px auto; padding: 40px; max-width: 1400px; background-color: #1a1a1a; border-radius: 12px;">
+        <h2 style="text-align: center; color: white; font-size: 28px; margin-bottom: 30px;">What are the different type of natural disasters?</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 25px;">
+            
+            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #00c40a;">
+                <h3 style="color: #00c40a; font-size: 20px; margin-bottom: 10px;">🦠 Biological</h3>
+                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
+                    A hazard caused by exposure to living organisms and/or their toxic substances (e.g., venom, or mold) or vector-borne diseases that they may carry. Examples are venomous wildlife and insects, poisonous plants, algae blooms, and mosquitoes carrying agents that causes disease such as parasites, bacteria, or viruses (e.g., malaria).
+                </p>
+            </div>
+
+            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #4ECDC4;">
+                <h3 style="color: #4ECDC4; font-size: 20px; margin-bottom: 10px;">🌡️ Climatological</h3>
+                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
+                    A hazard caused by long-lived, meso- to macro-scale atmospheric processes ranging from intra-seasonal to multi-decadal climate variability.
+                </p>
+            </div>
+
+            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #45B7D1;">
+                <h3 style="color: #45B7D1; font-size: 20px; margin-bottom: 10px;">🌍 Geophysical</h3>
+                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
+                    A hazard originating from solid earth. This term is used interchangeably with the term geological hazard.
+                </p>
+            </div>
+
+            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #FFA07A;">
+                <h3 style="color: #FFA07A; font-size: 20px; margin-bottom: 10px;">💧 Hydrological</h3>
+                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
+                    A hazard caused by the occurrence, movement, and distribution of surface and subsurface freshwater and saltwater.
+                </p>
+            </div>
+
+            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #98D8C8;">
+                <h3 style="color: #98D8C8; font-size: 20px; margin-bottom: 10px;">🌪️ Meteorological</h3>
+                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
+                    A hazard caused by short-lived, micro- to meso-scale extreme weather and atmospheric conditions that last from minutes to days.
+                </p>
+            </div>
+
+            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #F7DC6F;">
+                <h3 style="color: #F7DC6F; font-size: 20px; margin-bottom: 10px;">☄️ Extra-terrestrial</h3>
+                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
+                    A hazard caused by asteroids, meteoroids, and comets as they pass near to the Earth, enter the Earth's atmosphere, and/or strike the Earth, and by changes in interplanetary conditions that effect the Earth's magnetosphere, ionosphere, and thermosphere.
+                </p>
+            </div>
+
+        </div>
+    </section>
+    <div id="disaster-charts-container" style="margin: 20px auto; padding: 20px; max-width: 2000px;">
+        <h2 style="text-align: center; color: white; font-size: 32px; margin-bottom: 30px;">Study the Natural Disasters by Continent and Year;</h2>
+        <div id="top-row" style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; justify-content: space-evenly;"></div>
+        <div id="bottom-row" style="margin-top: 20px;"></div>
+    </div>
+    
     <section id="landing-page">
+        <h2 style="text-align: center; color: white; font-size: 32px; margin-bottom: 30px;">Study in Detail the Natural Disasters by Country;</h2>
         <div id="world-map-container">
             <svg id="world-map"></svg>
             <div id="tooltip"></div>
@@ -193,90 +248,14 @@
             </div>
         </div>
     </div>
-    <div id="disaster-charts-container" style="margin: 20px auto; padding: 20px; max-width: 2000px;">
-        <h2 style="text-align: center; color: white; font-size: 32px; margin-bottom: 30px;">Natural Disasters by Continent and Year &#127757;</h2>
-        <div id="top-row" style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; justify-content: space-evenly;"></div>
-        <div id="bottom-row" style="margin-top: 20px;"></div>
-    </div>
-
-    <section id="disaster-definitions-section" style="margin: 40px auto; padding: 40px; max-width: 1400px; background-color: #1a1a1a; border-radius: 12px;">
-        <h2 style="text-align: center; color: white; font-size: 28px; margin-bottom: 30px;">Disaster Subgroup Definitions 📚</h2>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 25px;">
-            
-            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #00c40a;">
-                <h3 style="color: #00c40a; font-size: 20px; margin-bottom: 10px;">🦠 Biological</h3>
-                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
-                    A hazard caused by exposure to living organisms and/or their toxic substances (e.g., venom, or mold) or vector-borne diseases that they may carry. Examples are venomous wildlife and insects, poisonous plants, algae blooms, and mosquitoes carrying agents that causes disease such as parasites, bacteria, or viruses (e.g., malaria).
-                </p>
-            </div>
-
-            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #4ECDC4;">
-                <h3 style="color: #4ECDC4; font-size: 20px; margin-bottom: 10px;">🌡️ Climatological</h3>
-                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
-                    A hazard caused by long-lived, meso- to macro-scale atmospheric processes ranging from intra-seasonal to multi-decadal climate variability.
-                </p>
-            </div>
-
-            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #45B7D1;">
-                <h3 style="color: #45B7D1; font-size: 20px; margin-bottom: 10px;">🌍 Geophysical</h3>
-                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
-                    A hazard originating from solid earth. This term is used interchangeably with the term geological hazard.
-                </p>
-            </div>
-
-            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #FFA07A;">
-                <h3 style="color: #FFA07A; font-size: 20px; margin-bottom: 10px;">💧 Hydrological</h3>
-                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
-                    A hazard caused by the occurrence, movement, and distribution of surface and subsurface freshwater and saltwater.
-                </p>
-            </div>
-
-            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #98D8C8;">
-                <h3 style="color: #98D8C8; font-size: 20px; margin-bottom: 10px;">🌪️ Meteorological</h3>
-                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
-                    A hazard caused by short-lived, micro- to meso-scale extreme weather and atmospheric conditions that last from minutes to days.
-                </p>
-            </div>
-
-            <div style="background-color: #2a2a2a; padding: 20px; border-radius: 8px; border-left: 4px solid #F7DC6F;">
-                <h3 style="color: #F7DC6F; font-size: 20px; margin-bottom: 10px;">☄️ Extra-terrestrial</h3>
-                <p style="color: #e0e0e0; line-height: 1.6; font-size: 15px;">
-                    A hazard caused by asteroids, meteoroids, and comets as they pass near to the Earth, enter the Earth's atmosphere, and/or strike the Earth, and by changes in interplanetary conditions that effect the Earth's magnetosphere, ionosphere, and thermosphere.
-                </p>
-            </div>
-
-        </div>
-    </section>
-    
     <section id="references-section">
         <div class="references-container">
-            <h2>Sources and References</h2>
+            <h2>This Data Was Obtained From: </h2>
     
             <div class="reference-category">
-                <h3>Datasets</h3>
                 <ul>
                     <li><a href="https://www.emdat.be/" target="_blank">
                         EM-DAT Project. (n.d.). Center for Research on the Epidemiology of Disasters (CRED). Université catholique de Louvain.
-                    </a></li>
-                </ul>
-            </div>
-            <div class="reference-category">
-                <h3>Geometrical Data</h3>
-                <ul>
-                    <li><a href="https://cartographyvectors.com/map/523-north-america-outline-with-countries-detailed" target="_blank">
-                        North America Outline with Countries. (2023). Cartography Vectors. Free with attribution
-                    </a></li>
-                    <li><a href="https://cartographyvectors.com/map/223-europe-outline-with-countries" target="_blank">
-                        Europe Outline with Countries. (2023). Cartography Vectors. Free with attribution
-                    </a></li>
-                    <li><a href="https://cartographyvectors.com/map/6-africa-outline-with-countries" target="_blank">
-                        Africa Outline with Countries. (2023). Cartography Vectors. Free with attribution
-                    </a></li>
-                    <li><a href="https://cartographyvectors.com/map/651-south-america-outline-with-countries" target="_blank">
-                        South America Outline with Countries. (2023). Cartography Vectors. Free with attribution
-                    </a></li>
-                    <li><a href="https://cartographyvectors.com/map/531-oceania-outline-with-countries" target="_blank">
-                        Oceania Outline with Countries. (2023). Cartography Vectors. Free with attribution
                     </a></li>
                 </ul>
             </div>

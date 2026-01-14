@@ -544,12 +544,12 @@ d3.csv("data/emdat-data-processed.csv").then(data => {
         // Color scale for disaster subgroups - Fixed color mapping
         // Each disaster subgroup has its own specific color
         const disasterColorMap = {
-            "Biological": "#00c40a",        // Green
+            "Biological": "#38f842",        // Green
             "Climatological": "#4ECDC4",    // Teal
-            "Geophysical": "#45B7D1",       // Blue
-            "Hydrological": "#FFA07A",      // Orange
-            "Meteorological": "#98D8C8",    // Mint
-            "Extra-terrestrial": "#F7DC6F", // Yellow
+            "Geophysical": "#956600",       // Blue
+            "Hydrological": "#0050a6",      // Orange
+            "Meteorological": "#ace0d3",    // Mint
+            "Extra-terrestrial": "#c465ff", // Yellow
         };
         
         // Function to get color for a disaster subgroup

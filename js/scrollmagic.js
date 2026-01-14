@@ -6,8 +6,8 @@ document.querySelectorAll(".continent-section, #country-charts-container").forEa
 
     const sectionAnimation = gsap.fromTo(
         section,
-        { opacity: 0, y: 100, scale: isChartsContainer ? 0.4 : 1 },
-        { opacity: 1, y: 0, scale: 1, duration: isChartsContainer ? 2.3 : 1, ease: "power3.out" }
+        { opacity: 0, y: 50 },
+        { opacity: 1, y: 0, duration: 0.6, ease: "none" }
     );
 
     new ScrollMagic.Scene({
